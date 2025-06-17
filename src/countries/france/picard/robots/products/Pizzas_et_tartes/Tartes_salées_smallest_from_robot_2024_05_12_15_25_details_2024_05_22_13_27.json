@@ -1,0 +1,2224 @@
+[
+    {
+        "ean": "089430",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers épinard - chèvre",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte feuilletée pur beurre dorée 50% en forme de panier, garnie d'une préparation 50% à base d'épinards cuisinés et de fromage de chèvre, à cuire, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8440d973/produits/000000000000089430_P.png?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/4-paniers-epinard-chevre-000000000000089430.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:23",
+                "format": "LA BOÎTE DE 400 G",
+                "format2": "4 parts",
+                "price_per_unit": "11.25",
+                "price": "4.50",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1005 kJ\n241 kcal",
+                    "Matières grasses": "14 g",
+                    "dont acides gras saturés": "8,8 g",
+                    "Glucides": "23 g",
+                    "dont sucres": "2,5 g",
+                    "Fibres alimentaires": "2,3 g",
+                    "Protéines": "5,7 g",
+                    "Sel": "0,92 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "épinard 22",
+                    "9%",
+                    "eau",
+                    "beurre (LAIT) 12",
+                    "4%",
+                    "tranche de fromage de chèvre affiné (contient : LAIT) 7%",
+                    "crème fraîche épaisse (LAIT)",
+                    "caillé de chèvre (contient : LAIT) 2",
+                    "5%",
+                    "ŒUF entier de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "sel",
+                    "poivre",
+                    "muscade."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 2.07
+            }
+        ],
+        "created_at": "2024-05-22T13:23",
+        "updated_at": "2024-05-22T13:23"
+    },
+    {
+        "ean": "089570",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chicago style pizza",
+                "packaging": "LA BOÎTE DE 650 G",
+                "desc": "Tarte composée d’une garniture 72% à base de mozzarella, tomate et pepperoni, et d’une pâte à pizza 28%, cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw0cd3ecd5/produits/000000000000089570_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/chicago-style-pizza-000000000000089570.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:23",
+                "format": "LA BOÎTE DE 650 G",
+                "price_per_unit": "10.61",
+                "price": "6.90",
+                "packaging_measure_value": 650,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "986 kJ\n236 kcal",
+                    "Matières grasses": "14 g",
+                    "dont acides gras saturés": "8,1 g",
+                    "Glucides": "14 g",
+                    "dont sucres": "2,7 g",
+                    "Fibres alimentaires": "2,6 g",
+                    "Protéines": "13 g",
+                    "Sel": "0,82 g"
+                },
+                "ingredients": [
+                    "Mozzarella (contient LAIT) 28",
+                    "7%",
+                    "pulpe de tomate au jus 18",
+                    "1% (tomate",
+                    "jus de tomate)",
+                    "farine de BLÉ (GLUTEN)",
+                    "pepperoni 9% [viande de porc (origine : France*)",
+                    "piments",
+                    "sel",
+                    "dextrose",
+                    "épices",
+                    "antioxydant : ascorbate de sodium",
+                    "ferments]",
+                    "poivron vert 9%",
+                    "eau",
+                    "carotte",
+                    "purée de tomate double concentré 3%",
+                    "huile d'olive vierge extra",
+                    "beurre (LAIT)",
+                    "levure",
+                    "amidon de riz",
+                    "sel",
+                    "origan 0",
+                    "05%",
+                    "plantes aromatiques",
+                    "poivre.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.79
+            }
+        ],
+        "created_at": "2024-05-22T13:23",
+        "updated_at": "2024-05-22T13:23"
+    },
+    {
+        "ean": "089263",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Feuilleté courgette, aubergine, feta AOP, olive",
+                "packaging": "LA BOÎTE DE 500 G",
+                "desc": "Feuilleté composé d'une garniture 56,2% à base de courgette, aubergine, Feta AOP et olive noire, et d'une pâte feuilletée 43,8% pur beurre dorée, surgelé, à cuire.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfb1334ff/produits/000000000000089263_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/feuillete-courgette-feta-000000000000089263.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:23",
+                "format": "LA BOÎTE DE 500 G",
+                "format2": "3 parts",
+                "availability": true,
+                "price_per_unit": "12.80",
+                "price": "6.40",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "938 kJ\n225 kcal",
+                    "Matières grasses": "14 g",
+                    "dont acides gras saturés": "8,1 g",
+                    "Glucides": "19 g",
+                    "dont sucres": "2,8 g",
+                    "Fibres alimentaires": "2,2 g",
+                    "Protéines": "4,5 g",
+                    "Sel": "0,74 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "courgette grillée 15",
+                    "8%",
+                    "aubergine préfrite (aubergine 9",
+                    "7%",
+                    "huile de tournesol)",
+                    "beurre (lait) 10",
+                    "8%",
+                    "eau",
+                    "Feta AOP* 10% [lait de brebis",
+                    "lait de chèvre",
+                    "sel",
+                    "ferments lactiques (lait)",
+                    "coagulant microbien]",
+                    "aubergine grillée 6",
+                    "8%",
+                    "courgette 5",
+                    "8%",
+                    "oignon grillé",
+                    "olive noire salée en rondelle (olive noire 1",
+                    "4%",
+                    "sel)",
+                    "huile d'olive vierge extra",
+                    "sel",
+                    "amidon de maïs",
+                    "thym",
+                    "purée d'ail",
+                    "protéine de blé (gluten)",
+                    "épices",
+                    "enzymes : protéase",
+                    "œuf entier de poule élevée en plein air (liquide",
+                    "pasteurisé).\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "customer_reviews": 3.09
+            }
+        ],
+        "label": [
+            {
+                "vegetarian": true
+            }
+        ],
+        "created_at": "2024-05-22T13:23",
+        "updated_at": "2024-05-22T13:23"
+    },
+    {
+        "ean": "089264",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "PT",
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 chaussons tomate, poivron, mozzarella, pesto rosso",
+                "packaging": "LA BOÎTE DE 280 G",
+                "desc": "2 chaussons composés d'une pâte brisée 52,3% pur beurre et au basilic, d'une garniture 47,7% à base de tomates mi-séchées, poivrons, mozzarella et pesto rouge, cuits, surgelés.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw5686cd05/produits/000000000000089264_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-chaussons-tomate-mozzarella-000000000000089264.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:23",
+                "format": "LA BOÎTE DE 280 G",
+                "format2": "2 parts",
+                "availability": true,
+                "price_per_unit": "15.00",
+                "price": "4.20",
+                "packaging_measure_value": 280,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1288 kJ\n309 kcal",
+                    "Matières grasses": "20 g",
+                    "dont acides gras saturés": "13 g",
+                    "Glucides": "26 g",
+                    "dont sucres": "3,6 g",
+                    "Fibres alimentaires": "1,9 g",
+                    "Protéines": "6,4 g",
+                    "Sel": "0,80 g"
+                },
+                "ingredients": [
+                    "Farine de BLE (GLUTEN)",
+                    "beurre (LAIT) 17",
+                    "2%",
+                    "eau",
+                    "tomate mi-séchée 10",
+                    "6%",
+                    "mozzarella 7",
+                    "4% [LAIT",
+                    "sel",
+                    "ferments lactiques (LAIT)",
+                    "coagulant",
+                    "amidon de pomme de terre]",
+                    "poivron jaune 5",
+                    "8%",
+                    "OEUF entier de poule élevée en plein air 4",
+                    "5% (liquide",
+                    "pasteurisé)",
+                    "poivron rouge 2",
+                    "5%",
+                    "préparation à base de basilic et tomate 2",
+                    "1% [basilic 0",
+                    "4%",
+                    "concentré de tomate 0",
+                    "3%",
+                    "eau",
+                    "fromage italien râpé 0",
+                    "3% (contient LAIT)",
+                    "huile de tournesol",
+                    "huile d'olive",
+                    "sel",
+                    "ail",
+                    "jus de citron concentré",
+                    "fécule de manioc",
+                    "fécule de pomme de terre]",
+                    "crème fraîche liquide (LAIT)",
+                    "sucre",
+                    "sel",
+                    "pignon de pin 0",
+                    "5%",
+                    "basilic 0",
+                    "2%.\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.59
+            }
+        ],
+        "label": [
+            {
+                "vegetarian": true
+            }
+        ],
+        "created_at": "2024-05-22T13:23",
+        "updated_at": "2024-05-22T13:23"
+    },
+    {
+        "ean": "064632",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte fine courgettes fromage de chèvre",
+                "packaging": "LA BOÎTE DE 290 G",
+                "desc": "Une pâte fine (40%) garnie de cubes de courgettes grillées et de fromage de chèvre, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwefccc850/produits/000000000000064632_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/tarte-fine-courgettes-fromage-chevre-crue-000000000000064632.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 290 G",
+                "format2": "3 parts",
+                "price_per_unit": "12.41",
+                "price": "3.60",
+                "packaging_measure_value": 290,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "828 kJ\n198 kcal",
+                    "Matières grasses": "9,6 g",
+                    "dont acides gras saturés": "5,3 g",
+                    "Glucides": "22 g",
+                    "dont sucres": "3,3 g",
+                    "Fibres alimentaires": "1,6 g",
+                    "Protéines": "5,1 g",
+                    "Sel": "0,95 g"
+                },
+                "ingredients": [
+                    "Eau",
+                    "farine de BLE (GLUTEN) 25",
+                    "5%",
+                    "crème fraîche (LAIT) 17",
+                    "8%",
+                    "courgette grillée 12%",
+                    "fromage de chèvre (LAIT) 8",
+                    "2%",
+                    "tomate 3",
+                    "9%",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "amidon de pomme de terre",
+                    "sel",
+                    "LAIT entier en poudre",
+                    "basilic 0",
+                    "7%",
+                    "herbes de Provence (romarin",
+                    "thym",
+                    "sarriette",
+                    "basilic",
+                    "marjolaine).\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.88
+            }
+        ],
+        "label": [
+            {
+                "vegetarian": true
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "007920",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes feuilletées pur beurre",
+                "packaging": "LE SACHET DE 500 G",
+                "desc": "2 pâtes feuilletées Pur Beurre crues, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcea8dde5/produits/00000000000007920_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pates-feuilletees-pur-beurre-000000000000007920.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LE SACHET DE 500 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "9.20",
+                "price": "4.60",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1581 kJ\n379 kcal",
+                    "Matières grasses": "24 g",
+                    "dont acides gras saturés": "16 g",
+                    "Glucides": "35 g",
+                    "dont sucres": "1,6 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "5,6 g",
+                    "Sel": "0,88 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 45",
+                    "7%",
+                    "beurre (LAIT) 33%",
+                    "eau",
+                    "sel."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.5
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "040581",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Flammekueche",
+                "packaging": "LA BOÎTE DE 260 G",
+                "desc": "Pâte fine 40,4% garnie de lardon fumé et d'oignon, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw44e3cf75/produits/000000000000040581_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/flammekueche-000000000000040581.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 260 G",
+                "format2": "3 parts",
+                "price_per_unit": "13.46",
+                "price": "3.50",
+                "packaging_measure_value": 260,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1046 kJ\n251 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "8,2 g",
+                    "Glucides": "22 g",
+                    "dont sucres": "2,1 g",
+                    "Fibres alimentaires": "1 g",
+                    "Protéines": "6,1 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Crème fraîche (LAIT) 34",
+                    "6%",
+                    "farine de BLE (GLUTEN) 26%",
+                    "lardon fumé 15",
+                    "4% [poitrine de porc (origine : France*)",
+                    "sel",
+                    "dextrose",
+                    "antioxydant : erythorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "oignon émincé 9",
+                    "6%",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "sel.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.33
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "089138",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 quiches lorraines",
+                "packaging": "LA BOÎTE DE 360 G",
+                "desc": "Tartes composées d’une pâte 30% pur beurre, garnie d’un appareil à base de crème fraiche 12,3%, emmental 11,6%, jambon cuit supérieur 7,4% et lardon cuit fumé 6,5%, cuites surgelées.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2958da9f/produits/entrees-tartes-salades/edition/000000000000089138_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-quiches-lorraines-000000000000089138.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 360 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "11.08",
+                "price": "3.99",
+                "packaging_measure_value": 360,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1140 kJ\n273 kcal",
+                    "Matières grasses": "18 g",
+                    "dont acides gras saturés": "11 g",
+                    "Glucides": "18 g",
+                    "dont sucres": "2,7 g",
+                    "Fibres alimentaires": "< 1 g",
+                    "Protéines": "11 g",
+                    "Sel": "0,91 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ 21",
+                    "4% (GLUTEN)",
+                    "LAIT écrémé",
+                    "crème fraîche liquide 12",
+                    "3% (LAIT)",
+                    "ŒUF entier issu de poule élevée en plein air 10",
+                    "8% (liquide pasteurisé)",
+                    "emmental français 11",
+                    "6 % (contient LAIT)",
+                    "beurre 8% (LAIT) jambon cuit supérieur 7",
+                    "4% [viande de porc (origine : France*)",
+                    "sel",
+                    "bouillon de légumes (blette",
+                    "carotte)",
+                    "ferments]",
+                    "lardon cuit fumé 6",
+                    "5% [poitrine de porc (origine : France*)",
+                    "eau",
+                    "sel",
+                    "sirop de glucose",
+                    "arômes naturels",
+                    "extrait d'épices",
+                    "antioxydant : extrait de romarin",
+                    "ferments]",
+                    "eau",
+                    "sel",
+                    "poivre blanc",
+                    "muscade.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.22
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "036181",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes feuilletées pur beurre pré-étalées",
+                "packaging": "LA BOÎTE DE 500 G",
+                "desc": "2 pâtes feuilletées pré-étalées, pur beurre, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw0c303d57/produits/patisseries/edition/000000000000036181_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pates-feuilletees-pur-beurre-pre-etalees-000000000000036181.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 500 G",
+                "format2": "2 rouleaux",
+                "availability": true,
+                "price_per_unit": "9.20",
+                "price": "4.60",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1667 kJ\n400 kcal",
+                    "Matières grasses": "25 g",
+                    "dont acides gras saturés": "17 g",
+                    "Glucides": "37 g",
+                    "dont sucres": "1,5 g",
+                    "Fibres alimentaires": "1,9 g",
+                    "Protéines": "5,6 g",
+                    "Sel": "0,84 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "beurre (LAIT) 33%",
+                    "eau",
+                    "sel."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.57
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "040929",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers de noix de Saint-Jacques à la bretonne",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Une pâte feuilletée pur beurre dorée (50,5%) en forme de panier, garnie d'une préparation cuisinée aux noix de Saint Jacques* (*Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé/Royaume-Uni/Irlande) 49,5%, crue, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw44e7b3aa/produits/000000000000040929_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/4-paniers-noix-saint-jacques-bretonne-000000000000040929.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 400 G",
+                "format2": "4 pièces",
+                "availability": true,
+                "price_per_unit": "16.25",
+                "price": "6.50",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1074 kJ\n257 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "9,3 g",
+                    "Glucides": "24 g",
+                    "dont sucres": "2,7 g",
+                    "Fibres alimentaires": "1 g",
+                    "Protéines": "6,6 g",
+                    "Sel": "0,82 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "noix de Saint-Jacques* 16",
+                    "8% (Zygochlamys patagonica",
+                    "Argentine et/ou Chlamys opercularis",
+                    "Iles Féroé/Royaume-Uni/Irlande ; MOLLUSQUES)",
+                    "beurre (LAIT) 16",
+                    "8%",
+                    "eau",
+                    "oignon 10",
+                    "9%",
+                    "échalote 3",
+                    "9%",
+                    "crème fraîche liquide (LAIT) 3",
+                    "6%",
+                    "vin blanc 2",
+                    "4%",
+                    "amidon de maïs",
+                    "OEUF liquide pasteurisé",
+                    "sel",
+                    "lactose (LAIT) et protéines de LAIT",
+                    "farine de BLÉ prégélatinisée (GLUTEN)",
+                    "LAIT écrémé en poudre",
+                    "persil 0",
+                    "1%.\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage",
+                    "près du numéro de lot."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.96
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "071493",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 flammekueche",
+                "packaging": "LA BOÎTE DE 240 G",
+                "desc": "Pâte fine 41,7% garnie de lardon fumé et d'oignon, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw91a5c988/produits/000000000000071493_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-flammekueche-000000000000071493.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 240 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "12.45",
+                "price": "2.99",
+                "packaging_measure_value": 240,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1079 kJ\n258 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "8,6 g",
+                    "Glucides": "23 g",
+                    "dont sucres": "1,9 g",
+                    "Fibres alimentaires": "1,3 g",
+                    "Protéines": "6,6 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Crème fraîche (LAIT) 33",
+                    "3 %",
+                    "farine de BLE (GLUTEN) 26",
+                    "9%",
+                    "lardon fumé 14",
+                    "2% [poitrine de porc (origine : France*)",
+                    "sel",
+                    "dextrose",
+                    "antioxydant : erythorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "oignon émincé 10",
+                    "8 %",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "sel.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.13
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "089146",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Quiche lorraine",
+                "packaging": "LA BOÎTE DE 550 G",
+                "desc": "Tarte composée d’une pâte 25% pur beurre, garnie d’un appareil à base de crème fraiche 13,1%, emmental 12,6%, jambon cuit supérieur 8,1% et lardon cuit fumé 7%, cuite surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw5b792946/produits/000000000000089146_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/quiche-lorraine-000000000000089146.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:24",
+                "format": "LA BOÎTE DE 550 G",
+                "format2": "4 parts",
+                "availability": true,
+                "price_per_unit": "8.18",
+                "price": "4.50",
+                "packaging_measure_value": 550,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1077 kJ\n258 kcal",
+                    "Matières grasses": "16 g",
+                    "dont acides gras saturés": "10 g",
+                    "Glucides": "17 g",
+                    "dont sucres": "2,7 g",
+                    "Fibres alimentaires": "< 1 g",
+                    "Protéines": "10 g",
+                    "Sel": "0,9 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ 19",
+                    "1% (GLUTEN)",
+                    "LAIT écrémé",
+                    "crème fraîche liquide 13",
+                    "1% (LAIT)",
+                    "emmental français 12",
+                    "6 % (contient LAIT)",
+                    "OEUF entier issu de poule élevée en plein air 11",
+                    "4 % (liquide pasteurisé)",
+                    "jambon cuit supérieur 8",
+                    "1% [viande de porc (origine : France*)",
+                    "sel",
+                    "bouillon de légumes (blette",
+                    "carotte)",
+                    "ferments]",
+                    "lardon cuit fumé 7% [poitrine de porc (origine : France*)",
+                    "eau",
+                    "sel",
+                    "sirop de glucose",
+                    "arômes naturels",
+                    "extrait d'épices",
+                    "antioxydant : extrait de romarin",
+                    "ferments]",
+                    "beurre 6",
+                    "6 % (LAIT)",
+                    "eau",
+                    "sel",
+                    "poivre blanc",
+                    "muscade.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.77
+            }
+        ],
+        "created_at": "2024-05-22T13:24",
+        "updated_at": "2024-05-22T13:24"
+    },
+    {
+        "ean": "036561",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes brisées pur beurre pré-étalées",
+                "packaging": "LA BOÎTE DE 500 G",
+                "desc": "2 pâtes brisées pur beurre pré-étalées, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw01dfb53f/produits/edition/36561.png?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pates-brisees-pur-beurre-pre-etalees-000000000000036561.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 500 G",
+                "format2": "2 pâtes",
+                "availability": true,
+                "price_per_unit": "8.60",
+                "price": "4.30",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1546 kJ\n369 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "12 g",
+                    "Glucides": "46 g",
+                    "dont sucres": "4 g",
+                    "Fibres alimentaires": "1,9 g",
+                    "Protéines": "6,2 g",
+                    "Sel": "1,06 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "beurre (LAIT) 22",
+                    "2%",
+                    "eau",
+                    "sucre",
+                    "sel",
+                    "agent de traitement de la farine : L-cystéine."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.61
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "023105",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes aux poireaux",
+                "packaging": "LA BOÎTE DE 360 G",
+                "desc": "Tartes composées d’un appareil 67,8% à base de poireaux et d’une pâte brisée 32,2% pur beurre, cuites, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2332f00a/produits/000000000000023105_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-tartes-poireaux-000000000000023105.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 360 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "9.72",
+                "price": "3.50",
+                "packaging_measure_value": 360,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "901 kJ\n216 kcal",
+                    "Matières grasses": "12 g",
+                    "dont acides gras saturés": "8,4 g",
+                    "Glucides": "19 g",
+                    "dont sucres": "2,6 g",
+                    "Fibres alimentaires": "1,5 g",
+                    "Protéines": "7,2 g",
+                    "Sel": "0,88 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 23",
+                    "4%",
+                    "poireau 18",
+                    "2%",
+                    "LAIT écrémé",
+                    "emmental français 10",
+                    "4% (contient LAIT)",
+                    "eau",
+                    "beurre 6",
+                    "4% (LAIT)",
+                    "crème fraiche liquide 5",
+                    "5% (LAIT)",
+                    "fromage frais (contient LAIT)",
+                    "navet",
+                    "OEUF issu de poule élevée en plein air 4% (liquide pasteurisé)",
+                    "fromage à pâte pressée cuite (contient LAIT)",
+                    "sel",
+                    "muscade",
+                    "poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.99
+            }
+        ],
+        "label": [
+            {
+                "vegetarian": true
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "047914",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "IE"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pastillas à l'agneau",
+                "packaging": "LA BOÎTE DE 200 G",
+                "desc": "Pâte filo (22%) garnie d'agneau et de carottes aux saveurs marocaines, surgelées.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6fa3a209/produits/000000000000047914_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pastillas-agneau-000000000000047914.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 200 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "39.95",
+                "price": "7.99",
+                "packaging_measure_value": 200,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1036 kJ\n248 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "6,2 g",
+                    "Glucides": "16 g",
+                    "dont sucres": "3,1 g",
+                    "Fibres alimentaires": "2,9 g",
+                    "Protéines": "11 g",
+                    "Sel": "0,80 g"
+                },
+                "ingredients": [
+                    "Pâte filo 22% [farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "amidon de maïs",
+                    "sel",
+                    "jus de citron concentré",
+                    "agent de traitement de la farine : L-cystéine]",
+                    "viande d'agneau 20",
+                    "6% (origine : Nouvelle Zélande et/ou Irlande)",
+                    "carotte 20",
+                    "6%",
+                    "jus de viande cuisiné [oignon",
+                    "tomate",
+                    "jus de viande",
+                    "ail",
+                    "huile d'olive vierge extra",
+                    "eau",
+                    "cumin",
+                    "curcuma",
+                    "sel",
+                    "carcasse de volaille",
+                    "épices raz el hanout (contient MOUTARDE)",
+                    "carotte",
+                    "poireau",
+                    "poivre",
+                    "clou de girofle]",
+                    "AMANDE bâtonnet",
+                    "beurre (LAIT)",
+                    "raisin sec (raisin",
+                    "huile de coton)",
+                    "vinaigre balsamique (vinaigre de vin",
+                    "moût de raisin)",
+                    "ail",
+                    "épices 1",
+                    "3% [pâte de curry rouge (piment",
+                    "ail",
+                    "échalote",
+                    "sel",
+                    "citronnelle",
+                    "sucre",
+                    "feuille de combava",
+                    "galanga",
+                    "graine de coriandre",
+                    "cumin",
+                    "cardamome)",
+                    "cumin",
+                    "curcuma]",
+                    "coriandre",
+                    "huile d'olive vierge extra",
+                    "zeste de citron",
+                    "sel."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.36
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "043695",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes sablées pur beurre pré-étalées",
+                "packaging": "LA BOÎTE DE 500 G",
+                "desc": "2 pâtes sablées pur beurre pré-étalées, crues, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw790d1cb8/produits/pains-viennoiseries/000000000000043695_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pates-sablees-pur-beurre-pre-etalees-000000000000043695.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 500 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "9.00",
+                "price": "4.50",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1758 kJ\n419 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "12 g",
+                    "Glucides": "60 g",
+                    "dont sucres": "18 g",
+                    "Fibres alimentaires": "1,4 g",
+                    "Protéines": "5,5 g",
+                    "Sel": "0,02 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "beurre (LAIT) 20",
+                    "5%",
+                    "sirop de glucose",
+                    "sucre",
+                    "amidon de BLÉ (GLUTEN)",
+                    "ŒUF frais liquide pasteurisé",
+                    "eau."
+                ],
+                "customer_reviews": 4.03
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "071188",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte épinards, crème fraîche, pignon de pin, parmesan",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Tarte composée d'un appareil (67,5%) à base d’épinards, crème fraîche, Parmigiano Reggiano, pignons de pin et d'une pâte (32,5%) pur beurre, cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw946e7b24/produits/000000000000071188_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/tarte-epinards-creme-fraiche-pignon-pin-parmesan-000000000000071188.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "12.25",
+                "price": "4.90",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1038 kJ\n249 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "9,7 g",
+                    "Glucides": "18 g",
+                    "dont sucres": "2,5 g",
+                    "Fibres alimentaires": "1,8 g",
+                    "Protéines": "6,6 g",
+                    "Sel": "0,91 g"
+                },
+                "ingredients": [
+                    "Épinard 26",
+                    "2%",
+                    "farine de BLÉ (GLUTEN)",
+                    "crème fraîche liquide 14",
+                    "5% (LAIT)",
+                    "LAIT écrémé",
+                    "beurre 8",
+                    "4% (LAIT)",
+                    "ŒUF de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "eau",
+                    "Parmigiano Reggiano AOP* 4",
+                    "2% (contient LAIT)",
+                    "pignon de pin 4%",
+                    "amidon et farine de riz",
+                    "sel",
+                    "poivre. AUTORISATION CONSORTIUM PARMIGIANO REGGIANO.\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.16
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "047568",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pastillas au poulet et aux légumes",
+                "packaging": "LA BOÎTE DE 200 G",
+                "desc": "Pâte filo (22%) garnie de poulet et légumes, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb7ec338c/produits/000000000000047568_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-pastillas-poulet-legumes-000000000000047568.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 200 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "29.50",
+                "price": "5.90",
+                "packaging_measure_value": 200,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "673 kJ\n160 kcal",
+                    "Matières grasses": "5,5 g",
+                    "dont acides gras saturés": "2,5 g",
+                    "Glucides": "17 g",
+                    "dont sucres": "3,7 g",
+                    "Fibres alimentaires": "2,8 g",
+                    "Protéines": "9,3 g",
+                    "Sel": "0,7 g"
+                },
+                "ingredients": [
+                    "Légumes 29",
+                    "7% [brocoli",
+                    "carotte",
+                    "tomate confite (tomate semi-séchée (tomate",
+                    "sel)",
+                    "huile de tournesol",
+                    "ail",
+                    "origan",
+                    "thym)",
+                    "champignon de Paris cuit (champignon de Paris",
+                    "eau",
+                    "vin blanc",
+                    "jus de citron",
+                    "sel)",
+                    "tomate pelée",
+                    "poivron rouge",
+                    "CÉLERI]",
+                    "viande de poulet saumurée 23",
+                    "5% [filet de poulet (origine : France*)",
+                    "eau",
+                    "sel]",
+                    "pâte filo 22% [farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "amidon de maïs",
+                    "sel",
+                    "jus de citron concentré",
+                    "agent de traitement de la farine : L-cystéine]",
+                    "fond de volaille (eau",
+                    "carcasse de volaille",
+                    "carotte",
+                    "oignon",
+                    "poireau",
+                    "sel",
+                    "poivre",
+                    "clou de girofle)",
+                    "crème fraîche (LAIT)",
+                    "beurre (LAIT)",
+                    "ananas",
+                    "sauce Worcestershire [vin blanc",
+                    "sucre",
+                    "vinaigre de vin blanc",
+                    "sauce SOJA (eau",
+                    "graines de SOJA",
+                    "sel",
+                    "farine de BLÉ (GLUTEN))",
+                    "eau",
+                    "jus de citron",
+                    "filet d'anchois (filets d'anchois salé (POISSONS)",
+                    "huile d'olive)",
+                    "épices (sel",
+                    "oignon en poudre",
+                    "ail en poudre",
+                    "piment de Cayenne",
+                    "clou de girofle)",
+                    "amidon de manioc]",
+                    "échalote",
+                    "huile d’olive vierge extra",
+                    "ail",
+                    "zeste de citron",
+                    "coriandre",
+                    "persil",
+                    "citronnelle",
+                    "amidon de riz",
+                    "sirop d’agave",
+                    "épices curry",
+                    "poivre.\n*Issue d'animaux nés",
+                    "élevés et abattus en France"
+                ],
+                "customer_reviews": 3.97
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "071857",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte fine champignons gorgonzola",
+                "packaging": "LA BOÎTE DE 290 G",
+                "desc": "Pâte fine (40%) garnie de champignons et de gorgonzola, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw756bd245/produits/00000000000000071857_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/tarte-fine-champignons-gorgonzola-000000000000071857.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:25",
+                "format": "LA BOÎTE DE 290 G",
+                "format2": "3 parts",
+                "availability": true,
+                "price_per_unit": "12.41",
+                "price": "3.60",
+                "packaging_measure_value": 290,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "756 kJ\n181 kcal",
+                    "Matières grasses": "8,5 g",
+                    "dont acides gras saturés": "4,5 g",
+                    "Glucides": "21 g",
+                    "dont sucres": "2,6 g",
+                    "Fibres alimentaires": "1,5 g",
+                    "Protéines": "4,5 g",
+                    "Sel": "0,96 g"
+                },
+                "ingredients": [
+                    "Farine de blé (GLUTEN) 25%",
+                    "eau",
+                    "mélange de champignons (champignons de Paris 15",
+                    "5%",
+                    "bolets jaunes 5",
+                    "1%",
+                    "girolles 2",
+                    "1%",
+                    "cèpes 1",
+                    "2%)",
+                    "crème fraîche (LAIT) 14",
+                    "6%",
+                    "Gorgonzola AOP* (contient LAIT) 6",
+                    "6%",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "amidon de pomme de terre",
+                    "sel",
+                    "LAIT entier en poudre",
+                    "persil.\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.16
+            }
+        ],
+        "created_at": "2024-05-22T13:25",
+        "updated_at": "2024-05-22T13:25"
+    },
+    {
+        "ean": "071659",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "AR",
+            "partial": [
+                "FR",
+                "IE",
+                "GB"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tourte noix de Saint-Jacques et colin d'Alaska",
+                "packaging": "LA BOÎTE DE 500 G",
+                "desc": "Tourte de colin d'Alaska et Noix de Saint-Jacques*, à la crème et au vin d'Alsace Riesling *(Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Feroe/Irlande/Royaume Uni), surgelée, à cuire.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwecb07eef/produits/M018453_71659_Edition_2018.12_800.JPG?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/tourte-noix-saint-jacques-colin-alaska-000000000000071659.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 500 G",
+                "format2": "4 parts",
+                "availability": true,
+                "price_per_unit": "16.80",
+                "price": "8.40",
+                "packaging_measure_value": 500,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1159 kJ\n278 kcal",
+                    "Matières grasses": "18 g",
+                    "dont acides gras saturés": "11 g",
+                    "Glucides": "21 g",
+                    "dont sucres": "1,7 g",
+                    "Fibres alimentaires": "1,3 g",
+                    "Protéines": "7,4 g",
+                    "Sel": "0,65 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "beurre (LAIT)",
+                    "eau",
+                    "crème fraîche liquide (LAIT) 12",
+                    "6%",
+                    "colin d'Alaska (POISSONS) qualité sans arête* 11",
+                    "3%",
+                    "noix de SAINT-JACQUES sans corail 10",
+                    "7% (Zygochlamys patagonica",
+                    "Argentine et/ou Chlamys opercularis",
+                    "Iles Féroé/Irlande/Royaume-Uni ; MOLLUSQUES)**",
+                    "champignon de Paris 3",
+                    "7%",
+                    "vin d'Alsace Riesling 2",
+                    "2%",
+                    "échalote",
+                    "amidon de maïs",
+                    "ŒUF issu de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "LAIT entier en poudre",
+                    "fumet de POISSON (POISSONS en poudre",
+                    "extraits de POISSONS",
+                    "eau",
+                    "vin blanc",
+                    "sel",
+                    "vinaigre d'alcool",
+                    "poireau en poudre",
+                    "échalote en poudre",
+                    "extrait de laurier)",
+                    "jaune d’ ŒUF issu de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "sel",
+                    "son de BLÉ (GLUTEN)",
+                    "extrait de coquillages [coque (MOLLUSQUES)",
+                    "jus de cuisson de moule (MOLLUSQUES)] jus de citron",
+                    "persil",
+                    "levure désactivée",
+                    "poivre.\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage",
+                    "près du numéro de lot. Argentine (AR)",
+                    "Iles Féroé (FO)",
+                    "Royaume-Uni (GB)",
+                    "Irlande (IE)"
+                ],
+                "customer_reviews": 4.04
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "089160",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "GR",
+                "MA",
+                "ES",
+                "Turkey"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte poivron, chorizo, feta",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Tarte à base de pâte brisée 33,7% pur beurre, garnie de poivrons rouges et jaunes, de chorizo et de Feta, cuite, surgelée",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw701547a9/produits/000000000000089160_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/tarte-poivron-chorizo-feta-000000000000089160.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 400 G",
+                "format2": "4 parts",
+                "availability": true,
+                "price_per_unit": "12.00",
+                "price": "4.80",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1032 kJ\n248 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "9,4 g",
+                    "Glucides": "20 g",
+                    "dont sucres": "2,5 g",
+                    "Fibres alimentaires": "3,6 g",
+                    "Protéines": "6,3 g",
+                    "Sel": "0,58 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 18",
+                    "8%",
+                    "eau",
+                    "crème fraîche liquide (LAIT) 10",
+                    "5%",
+                    "chorizo 8% [viande et gras de porc (origine : UE)",
+                    "piment",
+                    "sel",
+                    "dextrose",
+                    "ail",
+                    "origan",
+                    "extrait d’épice",
+                    "ferments]",
+                    "beurre (LAIT) 7%",
+                    "Feta A.O.P* 6",
+                    "3% [LAIT de brebis et de chèvre",
+                    "sel",
+                    "présure animale",
+                    "ferments lactiques (LAIT)]",
+                    "poivron rouge grillé 6",
+                    "3%",
+                    "poivron jaune grillé 6",
+                    "3%",
+                    "demi-tomate cerise 6",
+                    "3%",
+                    "ŒUF de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "poivron rouge 4",
+                    "2%",
+                    "farine de SEIGLE 3",
+                    "2% (GLUTEN)",
+                    "amidon de maïs",
+                    "sel",
+                    "ail",
+                    "origan",
+                    "levure désactivée",
+                    "épices (paprika fumé",
+                    "cumin",
+                    "poivre)",
+                    "thym",
+                    "sel."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.32
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "064450",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Feuilleté jambon-emmental, 4 parts",
+                "packaging": "LA BOÎTE DE 600 G",
+                "desc": "Pâte feuilletée (49%),garnie d’une sauce béchamel (34,4%) et de tranches de jambon supérieur (16,4%), surgelé, à cuire",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw27a8f74d/produits/000000000000064450_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/feuillete-jambon-emmental-4-parts-000000000000064450.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 600 G",
+                "format2": "4 parts",
+                "availability": true,
+                "price_per_unit": "11.65",
+                "price": "6.99",
+                "packaging_measure_value": 600,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1076 kJ\n258 kcal",
+                    "Matières grasses": "16 g",
+                    "dont acides gras saturés": "11 g",
+                    "Glucides": "19 g",
+                    "dont sucres": "2,2 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "9,3 g",
+                    "Sel": "1 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "LAITdemi-écrémé",
+                    "jambon supérieur 16",
+                    "4% [jambon de porc (origine: France*)",
+                    "eau",
+                    "sel",
+                    "bouillon naturel de porc",
+                    "sirop de glucose",
+                    "dextrose",
+                    "antioxydant : érythorbate de sodium",
+                    "arômes naturels",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "beurre 13",
+                    "5% (LAIT)",
+                    "emmental râpé 6",
+                    "2% (contient LAIT; origine : UE)",
+                    "ŒUF issu de poule élevée en plein air (liquide",
+                    "pasteurisé)",
+                    "sel",
+                    "LAIT écrémé en poudre",
+                    "amidon de pomme de terre",
+                    "poivre",
+                    "muscade.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.58
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "089184",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "NL",
+                "PL"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 chaussons poulet, champignon, emmental",
+                "packaging": "LA BOÎTE DE 280 G",
+                "desc": "2 chaussons à base d’une garniture au poulet cuit traité en salaison, aux champignons et à l’emmental 56,9% et d’une pâte brisée pur beurre gratinée à l’emmental 43,1%, cuits, surgelés.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe8c30a95/produits/00000000000000089184_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-chaussons-poulet-champignon-000000000000089184.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 280 G",
+                "format2": "2 parts",
+                "availability": true,
+                "price_per_unit": "15.71",
+                "price": "4.40",
+                "packaging_measure_value": 280,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1114 kJ\n267 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "11 g",
+                    "Glucides": "21 g",
+                    "dont sucres": "2,2 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "8,0 g",
+                    "Sel": "0,99 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ [farine de BLÉ (GLUTEN)",
+                    "GLUTEN de BLÉ ]",
+                    "beurre 13",
+                    "8% (LAIT)",
+                    "eau",
+                    "filet de poulet cuit traité en salaison 9",
+                    "2% [filet de poulet 8",
+                    "4% (origine : France*)",
+                    "fécule de manioc",
+                    "sel]",
+                    "champignon de Paris 8",
+                    "7%",
+                    "emmental français râpé 6",
+                    "3% (contient LAIT)",
+                    "crème liquide (LAIT)",
+                    "OEUF entier issu de poule élevée en plein air 5",
+                    "4% (liquide",
+                    "pasteurisé)",
+                    "échalote",
+                    "vin blanc",
+                    "fond de volaille [fond de volaille concentré (eau",
+                    "os de poulet",
+                    "jus de légumes concentré (carotte",
+                    "oignon",
+                    "ail)",
+                    "épices et aromates)",
+                    "sel]",
+                    "huile d’olive vierge extra",
+                    "sucre",
+                    "sel",
+                    "poivre.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.96
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "089084",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "GR",
+                "IT",
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes bio courgette tomate féta AOP",
+                "packaging": "LA BOÎTE DE 300 G",
+                "desc": "2 tartes composées d'un appareil (38%) aux oeufs et crème fraîche, d'une garniture (32%) de légumes, et Feta, et d'une pâte (30%) pur beurre, surgelées.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbdb5ee8f/produits/entrees-tartes-salades/edition/000000000000089084_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-tartes-bio-courgette-tomate-feta-aop-000000000000089084.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 300 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "13.30",
+                "price": "3.99",
+                "packaging_measure_value": 300,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "888 kJ\n213 kcal",
+                    "Matières grasses": "13 g",
+                    "dont acides gras saturés": "9,0 g",
+                    "Glucides": "18 g",
+                    "dont sucres": "1,8 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "5,7 g",
+                    "Sel": "0,91 g"
+                },
+                "ingredients": [
+                    "eau",
+                    "farine de blé* (gluten)",
+                    "œuf entier issu de poule élevée en plein air* (liquide",
+                    "pasteurisé) 13%",
+                    "courgette* 11%",
+                    "tomate* 11%",
+                    "crème fraîche* 9",
+                    "8% (lait)",
+                    "Feta* AOP** 8% [lait de brebis et de chèvre*",
+                    "ferments lactiques (lait)",
+                    "coagulant microbien",
+                    "sel]",
+                    "beurre* 6",
+                    "6% (lait)",
+                    "amidon de maïs cireux",
+                    "échalote*",
+                    "basilic*",
+                    "sel",
+                    "muscade*\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.86
+            }
+        ],
+        "label": [
+            {
+                "bio": true
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "089407",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "Turkey"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 croustillants chèvre, miel, figue",
+                "packaging": "LA BOÎTE DE 164 G",
+                "desc": "2 croustillants composés de feuille de brick 18% garnie d'une tranche de fromage de chèvre 43%, de sauce au miel 24% et de figue noire séchée 15%, à cuire, surgelés.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwd6eee4fc/produits/000000000000089407_E.png?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-croustillants-chevre-miel-figue-000000000000089407.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 164 G",
+                "price_per_unit": "34.75",
+                "price": "5.70",
+                "packaging_measure_value": 164,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1035 kJ\n247 kcal",
+                    "Matières grasses": "12 g",
+                    "dont acides gras saturés": "7,6 g",
+                    "Glucides": "28 g",
+                    "dont sucres": "16 g",
+                    "Fibres alimentaires": "2,7 g",
+                    "Protéines": "6,9 g",
+                    "Sel": "0,81 g"
+                },
+                "ingredients": [
+                    "Fromage de chèvre 42",
+                    "6% (contient LAIT)",
+                    "sauce au miel (miel 10%",
+                    "eau",
+                    "sucre",
+                    "jus de citron",
+                    "gélifiant : pectines)",
+                    "figue noire séchée 14",
+                    "6%",
+                    "eau",
+                    "farine de BLÉ (GLUTEN)",
+                    "NOISETTE hachée grillée 1",
+                    "7%",
+                    "huile de colza",
+                    "sel",
+                    "farine de BLÉ malté toasté 0",
+                    "1% (GLUTEN)",
+                    "romarin.\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.32
+            }
+        ],
+        "label": [
+            {
+                "vegetarian": true
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "040317",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes aux fromages",
+                "packaging": "LA BOÎTE DE 360 G",
+                "desc": "Appareil à base de fromages 70%, pâte brisée au beurre 30%, surgelés",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw26ef58e8/produits/entrees-tartes-salades/edition/000000000000040317_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-tartes-fromages-000000000000040317.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:26",
+                "format": "LA BOÎTE DE 360 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "10.00",
+                "price": "3.60",
+                "packaging_measure_value": 360,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1120 kJ\n269 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "15 g",
+                    "Glucides": "18 g",
+                    "dont sucres": "1,5 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "10 g",
+                    "Sel": "0,65 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 21%",
+                    "emmental 18",
+                    "1% (contient LAIT; origine: UE)",
+                    "eau",
+                    "OEUF entier issu de poule élevée en plein air (liquide",
+                    "pasteurisé) 12",
+                    "9%",
+                    "fromage blanc 10",
+                    "6% (contient LAIT)",
+                    "crème fraîche liquide (LAIT)",
+                    "beurre 6",
+                    "7% (LAIT)",
+                    "Comté (contient LAIT) 1",
+                    "8%",
+                    "sel",
+                    "amidon de maïs",
+                    "poivre",
+                    "muscade."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.15
+            }
+        ],
+        "created_at": "2024-05-22T13:26",
+        "updated_at": "2024-05-22T13:26"
+    },
+    {
+        "ean": "089277",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pissaladières oignons, olives noires, anchois",
+                "packaging": "LA BOÎTE DE 300 G",
+                "desc": "2 Pissaladières composées d'une garniture 68,4% à base d'oignons préfrits et frits, olives noires, anchois et d'une pâte brisée 31,6% pur beurre, cuites, surgelées",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe87e4d76/produits/00000000000000089277_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/new-2-pissaladieres-300g-000000000000089277.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:27",
+                "format": "LA BOÎTE DE 300 G",
+                "format2": "2 parts",
+                "availability": true,
+                "price_per_unit": "15.00",
+                "price": "4.50",
+                "packaging_measure_value": 300,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1160 kJ\n278 kcal",
+                    "Matières grasses": "17 g",
+                    "dont acides gras saturés": "8,0 g",
+                    "Glucides": "25 g",
+                    "dont sucres": "3,5 g",
+                    "Fibres alimentaires": "2,6 g",
+                    "Protéines": "4,4 g",
+                    "Sel": "1,4 g"
+                },
+                "ingredients": [
+                    "Oignon préfrit 57",
+                    "2% (oignon 55",
+                    "1%",
+                    "huile d'olive vierge",
+                    "sel)",
+                    "farine de BLÉ (GLUTEN) 18",
+                    "6%",
+                    "beurre (LAIT) 8",
+                    "4%",
+                    "eau",
+                    "olive noire entière avec noyau 3",
+                    "2% (olive noire 2",
+                    "1% eau",
+                    "sel)",
+                    "oignon frit 3% [oignon déshydraté 2",
+                    "7%",
+                    "huile végétale (contient tournesol et/ou colza)]",
+                    "huile d'olive vierge extra",
+                    "filet d’anchois salé à l’huile de tournesol 2",
+                    "1% [anchois* 1",
+                    "7% (POISSONS)",
+                    "huile de tournesol",
+                    "sel]",
+                    "sel",
+                    "herbes aromatiques 0",
+                    "2% (basilic",
+                    "origan",
+                    "romarin",
+                    "thym)",
+                    "poivre."
+                ],
+                "customer_reviews": 3.22
+            }
+        ],
+        "created_at": "2024-05-22T13:27",
+        "updated_at": "2024-05-22T13:27"
+    }
+]

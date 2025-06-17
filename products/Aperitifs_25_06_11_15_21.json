@@ -1,0 +1,2935 @@
+[
+    {
+        "ean": "000000000000089111",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "20 mini-feuilletés saucisse",
+                "desc": "Mini-feuilletés à base de pâte feuilletée pur beurre 44%, saucisse de Strasbourg 36,2% et crème moutarde 18,8%, surgelés - à cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/20-mini-feuilletes-saucisse-000000000000089111.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:17",
+                "format": "330.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 280.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 9.7
+                    },
+                    "proteins": {
+                        "proteins": 8.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Saucisse de Strasbourg 36,2% [viande de porc (origine : UE), eau, conservateur : lactate de potassium, sel, lactose (lait), fibres de pomme de terre, épices, plantes aromatiques, antioxydant : érythrobate de sodium], farine de blé (gluten), eau, beurre (lait) 10,5%, moutarde 6% [eau, graines de moutarde, vinaigre d'alcool, sel], œufs issus de poules élevées en plein air ( en poudre), crème fraîche (lait) 0,8%, , graines de pavot 0,5%, sel, gluten de blé, lactose (lait), crème en poudre (lait), protéines de lait.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 4.49,
+                "preparation": "Au four\nCuissonCuisson au four pendant\n20 MIN\nPréchauffez votre four à 180°C (th6). Disposez les mini-feuilletés encore surgelés, bien séparés, sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : Four traditionnel Four à chaleur tournante 25 min 20 min Laissez reposer quelques minutes avant de servir.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 4.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,50€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.02% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.06,
+            "total_reviews": 180
+        }
+    },
+    {
+        "ean": "000000000000074961",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Anchois en tempura",
+                "desc": "Filets d'anchois avec peau 50% enrobés de pâte à beignet 50%, préfrits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw94337b07/produits/000000000000019661_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/anchois-tempura-000000000000074961.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:17",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 207.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 9.2,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Filet d’anchois avec peau (POISSONS) 50% [Engraulis encrasicolus sauvage pêché en Atlantique Nord-Est (FAO 27), Atlantique Centre-Est (FAO 34), en Méditerranée (FAO 37)], eau, chapelure 15% [farine de BLE (GLUTEN), eau, sel, levure], farine de BLE (GLUTEN), huile de tournesol, blanc d’OEUF (liquide, pasteurisé), amidon de maïs, sel, jus de citron concentré.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Poisson",
+                    "Traces de Lait",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 - 15 min\nAu four préchauffé à 180°C (th.6) : 12 à 15 min. Faites cuire les anchois sur une plaque recouverte de papier cuisson, à mi-hauteur : - Four traditionnel : 14 à 15 min - Four à chaleur tournante : 12 à 14 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n8 min\nFaites cuire les anchois dans une poêle chaude avec un peu de matière grasse, à feu moyen 8 min environ, en retournant de temps en temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n2 min\n2 min dans une huile à 175°C.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.91,
+            "total_reviews": 102
+        }
+    },
+    {
+        "ean": "000000000000064591",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "9 mini pizzas 3 fromages",
+                "desc": "9 petites pizzas 3 fromages surgelées, composées de pâte précuite (40%) garnie de mozzarella, emmental et edamer dans une crème assaisonnée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/9-petites-pizzas-3-fromages-000000000000064591.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:17",
+                "format": "270.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 248.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 4.3
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 3.0,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Farine de blé (gluten), eau, mozzarella 12,5% (contient lait), emmental 9,3% (contient lait ; UE), edamer 9,3% (contient lait ;UE), crème [crème (lait), stabilisant : carraghénanes], lait, crème fraîche (contient lait), huile de tournesol, amidon de maïs, fromage à pâte dure 0,7% (contient lait), sel, levure, sucre, poivre, muscade, persil.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n10 min\nPréchauffez votre four à 210°C (th.7). Sortez les pizzas de leur étui carton et retirez le film plastique. Déposez les pizzas sur une plaque à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 12 min - Four à chaleur tournante : 10 min.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.96,
+            "total_reviews": 93
+        }
+    },
+    {
+        "ean": "000000000000074490",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes panées, 10 à 12 pièces, élevées Equateur",
+                "desc": "Queues de crevette décortiquées (65%) enrobées d'une panure (35%), pré-frites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-panees-10-12-pieces-000000000000074490.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:17",
+                "format": "10 à 12 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 213.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 8.6,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Queue de crevette crue décortiquée ASC (CRUSTACÉS) 65% [Penaeus vannamei élevée en Équateur], farine de BLÉ (GLUTEN), huiles végétales (colza, tournesol, en proportion variable), eau, fécule de pomme de terre, GLUTEN de BLÉ, farine de riz, amidon de BLÉ (GLUTEN), sel, levure.",
+                "allergens": [
+                    "Gluten",
+                    "Crustacés"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.89,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n10 - 14 min\nAu four préchauffé à 180 °C (th. 6) : Etalez les crevettes sur une plaque recouverte de papier cuisson. Faites cuire à mi-hauteur en retournant à mi-temps. Four traditionnel : 12 à 14 min Four à chaleur tournante : 10 à 12 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 - 12 min\n10 à 12 min dans une poêle chaude à feu moyen avec un peu de matière grasse, en retournant de temps en temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n3 - 5 min\n3 à 5 min dans une huile à 170°C\n\nConseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant de servir, déposez les crevettes sur du papier absorbant pour éliminer l’excès de matière grasse (cuisson à la poêle ou à la friteuse).",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 219
+        }
+    },
+    {
+        "ean": "000000000000039691",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems au poulet avec sauce nuoc-mâm",
+                "desc": "Farce au poulet 45,7%, galettes de riz 37,6% et sauce nuoc-mâm 16,7%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-poulet-avec-sauce-nuoc-mam-000000000000039691.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:17",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 186.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 5.6,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Nems au poulet (200 g) : eau, farine de riz 20,2%, viande de poulet (origine : France*) 13%, carotte 6,5%, vermicelle de pois réhydraté, châtaigne d'eau 6%, chou vert, ciboule, farine de SOJA, coriandre 2,2%, sauce SOJA [eau, SOJA , farine de BLÉ (GLUTEN), sel], champignon noir réhydraté 1,8%, fécule de manioc, oignon déshydraté, sel, citronnelle, purée de gingembre, huile de tournesol. Sauce nuoc-mâm (40 g) : eau, sucre, nuoc-mâm 14% (POISSONS, sel, eau), vinaigre d'alcool, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 3.5,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nFaites frire les nems 8 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Avant de servir, déposez les nems sur du papier absorbant.\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Four traditionnel : 18 min Four à chaleur tournante: 16 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.84,
+            "total_reviews": 291
+        }
+    },
+    {
+        "ean": "000000000000089060",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "30 mini-feuilletés saveurs du soleil",
+                "desc": "Assortiment composé de feuilletés tomate - mozzarella, fromage de chèvre, épinard - ricotta et olive noire, surgelés.A cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwab6b92ab/produits/000000000000089782_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/30-mini-feuilletes-saveurs-soleil-000000000000089060.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "360.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 279.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 16.0,
+                        "saturates": 9.7
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, beurre (LAIT) 14,2%, olive noire 5,8%, purée de tomate mi-réduite 4,9%, épinard 3,8%, ricotta (LAIT) 3,8%, fromage de chèvre (LAIT) 3,8%, préparation pour sauce béchamel en poudre [lactosérum (LAIT), amidon de maïs, farine de BLÉ (GLUTEN), crème en poudre (LAIT), LAIT en poudre écrémé, sel, protéine de LAIT, muscade, poivre], Emmental râpé 1,7% [LAIT (origine: UE), amidon de pomme de terre, sel, ferments, coagulant microbien], mozzarella 1,1% [LAIT, amidon de pomme de terre, sel, ferments (LAIT), coagulant microbien], huile d'olive vierge extra, sel, OEUF de poule élevée en plein air en poudre, amidon de maïs, fromage blanc (LAIT), fromage déshydraté (LAIT), câpre au vinaigre (câpre, eau, vinaigre, sel), fibre de BLÉ, GLUTEN de BLÉ, graine de chia (Salvia hispanica ) 0,2%, basilic, crème fraîche (LAIT), crème en poudre (LAIT), lactose (LAIT), protéine de LAIT, poivre, origan.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Disposez les mini-feuilletés encore surgelés, bien séparés, sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué : Four traditionnel : 20 min - Four à chaleur tournante : 15 min. Laissez reposer quelques minutes avant de servir.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 232
+        }
+    },
+    {
+        "ean": "000000000000083895",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "20 canapés apéritifs",
+                "desc": "Assortiment de 20 canapés surgelés : 4 canapés mini-blini à la tomate, demi-tomate cerise marinée, mozzarella, basilic 24,6% - 4 canapés pain spécial polaire, saumon fumé, avocat, graines de sésame 21,9% - 4 canapés pain de mie aux noix, fromage frais aux noix, emmental et cranberry 19,7% - 4 canapés pain de mie aux noisettes, compotée à la poire et Sauternes, bloc de foie gras de canard 18% - 4 canapés pain de mie aux olives, coppa, mascarpone et vinaigre balsamique 15,5%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/20-canapes-aperitifs-000000000000083895.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "140.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 234.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 5.7
+                    },
+                    "proteins": {
+                        "proteins": 9.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 5.2,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Pain spécial polaire 9,5% [farine de BLÉ (GLUTEN), eau, farine de SEIGLE (GLUTEN), sucre, levure, GLUTEN de BLÉ, huile de colza, sel, levain de SEIGLE dévitalisé déshydraté (GLUTEN)], farine de BLÉ (GLUTEN), fromage frais 8,2% (fromage (contient LAIT), sel), eau, tomate mi- séchée 6%, coppa 5,5% (échine de porc (origine : UE), sel, dextrose, lactose (LAIT), vin blanc, alcool, poivre, arômes naturels, ferments, conservateurs (nitrate de potassium, nitrite de sodium), antioxydant : ascorbate de sodium], fromage blanc 5,4% (contient LAIT), bloc de foie gras de canard 5,1% [foie gras de canard 4,5% (origine : France*), eau, armagnac, sel, sucre, poivre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium], poire 4,9%, saumon fumé 4,6% (saumon Atlantique** (POISSONS), sel), avocat 4,5%, mozzarella 3,8% (LAIT), emmental 3,8% [contient LAIT (origine : UE)], LAIT demi écrémé, farine de SEIGLE (GLUTEN), mascarpone 2% [crème (LAIT), LAIT, correcteur d'acidité : acide citrique], NOIX hachée 1,4%, vin Sauternes AOC***, huile de colza, olive noire en rondelle 0,6% (olive, sel), graine de SESAME noir 0,5%, ŒUF entier en poudre de poule élevée en plein air, NOIX en poudre 0,4%, roquette 0,4%, purée de tomate 0,4%, NOISETTE hachée 0,3%, beurre (LAIT), sucre, amidon de pomme de terre, huile d'olive vierge extra, échalote, GLUTEN de BLÉ, basilic 0,2%, PISTACHE en poudre 0,2%, NOISETTE en poudre 0,2%, levure, huile de tournesol, sel, jus de citron vert 0,2%, concentré de tomate, cranberry 0,2%, coriandre 0,1%, vinaigre balsamique de Modène IGP**** 0,1% (vinaigre de vin, moût de raisin), LAIT écrémé en poudre, amidon de tapioca, levain de SEIGLE déshydraté et dévitalisé (GLUTEN), agent de traitement de la farine : acide ascorbique, dextrose, farine d'ORGE maltée toastée (GLUTEN), miel, poivre, farine de BLÉ malté toasté (GLUTEN), extrait de malt d'ORGE (GLUTEN), cacao dégraissé en poudre, correcteur d'acidité : acide citrique, acidifiants (carbonates de sodium, citrates de sodium), antioxydant : acide ascorbique, jus de citron, ail, origan.\n*A.O.C. : Appellation dOrigine Contrôlée.\n*IGP : Indication Géographique Protégée\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h\nDès la sortie du produit du congélateur, sortez le plateau de son étui carton et retirez le film transparent qui le recouvre. Laissez décongeler les canapés au réfrigérateur 4 heures environ. A consommer de préférence dans les 6 heures qui suivent la décongélation.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.2,
+            "total_reviews": 233
+        }
+    },
+    {
+        "ean": "000000000000089230",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "24 sandwichs club",
+                "desc": "Assortiment de 24 sandwichs surgelés: 6sandwichs garniture 18,5%à base de saumon fumé,concombre,fromage frais et raifort,pain de mie spécial au seigle 11,3%; 6sandwichs garniture 12,7%à base d’avocat,coriandre et piment,pain de mie spécial aux céréales 11%; 6sandwichs garniture 12,1%à base de Jambon de Bayonne IGP,beurre et moutarde à l'ancienne,pain de mie spécial aux graines 11,3%; 6sandwichs garniture 11,7%à base de Beaufort AOP,fruits secs et pomme verte,pain de mie spécial aux noix 11,4%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/24-sandwichs-club-000000000000089230.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "185.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 270.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 16.0,
+                        "saturates": 8.3
+                    },
+                    "proteins": {
+                        "proteins": 9.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de BLE (GLUTEN), eau, beurre (LAIT) 7,6%, avocat 7,4%, saumon fumé 7,2% (saumon* Atlantique (POISSONS), sel), concombre 4,9%, crème fraîche épaisse (LAIT) 4,6%, fromage blanc (contient LAIT) 4,6%, farine de SEIGLE (GLUTEN), jambon de Bayonne IGP** 3,8% [jambon de porc (origine : France***), sel], fromage frais 3,5% [fromage (contient LAIT), sel], Beaufort AOP**** (contient LAIT) 3,4%, NOIX hachée 1,3%, MOUTARDE à l'ancienne 1,2% (eau, graine de MOUTARDE, vinaigre d’alcool, sel), tomate mi-séchée 1,2%, GLUTEN de BLE, graine de tournesol, pomme verte 0,9%, huile de tournesol, aneth 0,5%, AMANDE 0,5%, levure de boulangerie, sel, NOIX en poudre 0,4%, ciboulette 0,4%, sucre, semoule de BLE dur (GLUTEN), jus de citron vert 0,3%, amidon de pomme de terre, jus de citron 0,2%, oignon 0,2%, farine d'ORGE maltée toastée (GLUTEN), coriandre 0,2%, fécule de manioc, LAIT écrémé en poudre, graine de lin brun, graine de lin jaune, graine de millet, concassé de BLE malté toasté (GLUTEN), farine de riz, farine d’ORGE (GLUTEN), farine de sarrasin, farine d'AVOINE (GLUTEN), huile de colza, levain de SEIGLE dévitalisé (GLUTEN), agent de traitement de la farine : acide ascorbique, raifort déshydraté 0,04%, piment doux 0,04%, fibres de sarrasin, ail, origan, fenugrec, vinaigre, piment rouge, antioxydant : acide ascorbique, correcteur d'acidité : acide citrique.\n*A.O.P. : Appellation dOrigine Protégée.\n*Issue d'animaux nés, élevés, abattus et transformés en France.\n*IGP : Indication Géographique Protégée",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 185.0,
+                "price_per_packaging": 9.9,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 heures\nSortez le plateau de son étui carton et, sans ôter son film plastique, déposez directement le plateau dans le réfrigérateur. Laissez décongeler 5 heures environ. Sortez-le 10 minutes avant de servir.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n5 min\nSortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau dans le micro-ondes et laissez décongeler le temps indiqué. Puis, laissez reposer 15 min avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.58,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000086338",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 kolokythokeftedes, bouchées à la courgette",
+                "desc": "Bouchées composées d’une garniture 83% à la courgette, Feta AOP et menthe et d’une panure 17%, préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa776b0f6/produits/000000000000060371_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-kolokythokeftedes-000000000000086338.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 195.0
+                    },
+                    "minerals": {
+                        "salt": 0.98
+                    },
+                    "fats": {
+                        "fats": 7.6,
+                        "saturates": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Courgette 42%, Feta AOP* (contient : LAIT) 17%, panure de BLÉ (GLUTEN) 17% [farine de BLÉ (GLUTEN), amidon de maïs, protéine de SOJA, graisse de SOJA, levure, sel], flocon de pomme de terre, oignon, eau, huile de tournesol, menthe déshydratée 1%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Retirez les kolokythokeftedes de leur emballage et déposez-les sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : Four traditionnel : 16 min - Four à chaleur tournante : 14 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.1,
+            "total_reviews": 51
+        }
+    },
+    {
+        "ean": "000000000000089947",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 paninis apéritifs, pesto, tomate, mozzarella",
+                "desc": "8 mini-sandwiches à base de pain spécial cuit (54,5%), garnis de tomate mi-séchée (18,1%), d’une préparation au basilic (13,6%) et d'une préparation à base de mozzarella (13,6%), surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-panini-aperitifs-000000000000089947.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "176.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 271.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 31.0,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLE (GLUTEN), eau, tomate mi-séchée 18,1%, huile d'olive vierge extra 8,6%, mozzarella 8% [mozzarella (LAIT), sel, ferments (LAIT), coagulant microbien, correcteur d'acidité : acide citrique), amidon de pomme de terre], basilic 3,5%, améliorant de boulangerie [farine de BLE (GLUTEN), farine de fève, acérola en poudre], sucre, AMANDE en poudre, flocon de pomme de terre, levure, huile de tournesol, fromage râpé 0,7% (contient LAIT), sel, purée d'ail 0,4%, fécule de pomme de terre, thym, amidon de maïs, romarin, mélange d'épices (poivre noir, poivre blanc, coriandre, poivre vert, baies roses).\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 176.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au four\nPréparation sans décongélationCuisson au four pendant\n8 min\nPréchauffez votre four à 180°C (th. 6). Sortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau sur une grille à mi-hauteur et laissez réchauffer le temps indiqué : - Four à chaleur tournante : 8 min - Four traditionnel : 10 min\n\nAu micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n1 min 50\nSortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau dans le micro-ondes et laissez réchauffer le temps indiqué : Puissance restituée du four à micro-ondes: 900W : 1 min 50 - 750W : 2 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.31,
+            "total_reviews": 111
+        }
+    },
+    {
+        "ean": "000000000000040797",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Guacamole",
+                "desc": "GUACAMOLE SURGELE",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/guacamole-000000000000040797.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 226.0
+                    },
+                    "minerals": {
+                        "salt": 0.73
+                    },
+                    "fats": {
+                        "fats": 22.0,
+                        "saturates": 4.0
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.6,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 7.2
+                    }
+                },
+                "ingredients": "Avocat 98,7% , sel, oignon déshydraté, ail déshydraté, jus de citron vert.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n13 min\nSans le couvercle et l'opercule, 13 min en position décongélation (150W) en remuant à mi-temps.\n\nAu réfrigérateur\nDÉCONGÉLATION\n12 heures dans son pot.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.82,
+            "total_reviews": 91
+        }
+    },
+    {
+        "ean": "000000000000086513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 tostadas sce salsa,cheddar,haricot rouge,tomate",
+                "desc": "8 Bouchées apéritives composées d'une préparation 79,3% à base de légumes, sauce et cheddar coloré et d'une galette 20,7% au blé et à la tomate, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8416e845/produits/00000000000000089708_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-tostadas-120g-000000000000086513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 162.0
+                    },
+                    "minerals": {
+                        "salt": 0.93
+                    },
+                    "fats": {
+                        "fats": 7.0,
+                        "saturates": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 7.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Cheddar coloré râpé 15,6% [LAIT, sel, antiagglomérant : cellulose, ferments lactiques (LAIT), coagulant microbien, colorants (caroténoïdes, norbixine de rocou)], haricot rouge 14,2%, farine de BLÉ (GLUTEN) 13,6%, tomate 12,9%, poivron rouge grillé 9,7%, eau, maïs 6,4%, purée de tomate (tomate, sel), oignon rouge 4,2%, oignon, huile de colza, coriandre, purée de tomate double concentrée, jus de citron vert, sel, sucre, tomate déshydratée, amidon de maïs, paprika, pulpe d'ail, poudre à lever (diphosphates, carbonates de sodium), dextrose, acidifiant : acide malique, basilic, poivre, oignon déshydraté, ail déshydraté, poivron rouge déshydraté, graine de coriandre, graine de SÉSAME, cumin, piment de Cayenne, origan, piment fort, persil, agent de traitement de la farine : L-cystéine.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n10 à 12 min\nPréchauffez votre four à 160 °C (th.5). Déposez les tostadas sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer entre 10 et 12 minutes.\n\nAu air fryer\nRÉCHAUFFAGECuisson au airfryer pendant\n8 min\nDéposez les tostadas sur du papier cuisson dans le panier de la friteuse à air chaud et faites réchauffer 8 minutes à 160°C.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086469",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 camarones al coco, crevettes panées noix de coco",
+                "desc": "Crevettes marinées, panées à la noix de coco et frites 82,8%, accompagnées d'une sauce 17,2% à la mangue et au piment – surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw842c84eb/produits/000000000000074490_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-camarones-al-coco-000000000000086469.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "145.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 320.0
+                    },
+                    "minerals": {
+                        "salt": 0.4
+                    },
+                    "fats": {
+                        "fats": 21.0,
+                        "saturates": 7.4
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Crevettes panées 6x20g : crevette décortiquée (CRUSTACÉS, Penaeus vannamei) 39,7%, farine de BLÉ (GLUTEN), huile de soja entièrement raffinée, flocon de noix de coco 7,3%, amidon de BLÉ (GLUTEN), amidon de pomme de terre, lait de coco 0,5%, sucre, amidon de maïs, sel, levure, eau, épaississant : gomme guar, agents de traitement de la farine (carbonate de calcium, sulfate de calcium, acide ascorbique). Sauce mangue et piment 25g : purée de mangue 63,8%, jus de fruit de la passion, eau, jus d'ananas, jus de citron vert, sel, coriandre, piment rouge 0,1%.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Crustacés",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 145.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n14 à 16 min\nPréchauffez votre four à 180 °C (th.6). Déposez les camarones al coco sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer entre 14 et 16 minutes. Laissez décongeler la sauce 15 minutes à température ambiante ou passez le sachet de sauce sous un filet d'eau chaude.\n\nAu air fryer\nRÉCHAUFFAGECuisson au airfryer pendant\n10 min\nDéposez les camarones al coco sur du papier cuisson dans le panier de la friteuse à air chaud et faites réchauffer 10 minutes à 180 °C. Laissez décongeler la sauce 15 minutes à température ambiante ou passez le sachet de sauce sous un filet d'eau chaude.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086641",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Choux-fleurs sauce tahini, sce à base sésame",
+                "desc": "Chou-fleur mariné 68%, sauce 31% au sésame, persil 1% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9c6dfda6/produits/000000000000087646_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/choux-fleurs-sce-tahini-000000000000086641.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "225.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 213.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Eau, chou-fleur 23,9%, huile de tournesol, oignon, pâte de SÉSAME 10,2%, huile d'olive vierge extra, sel, ail, curry (curcuma, piment rouge, poivre, gingembre, noix de muscade, fenugrec, fenouil, cumin, coriandre, cannelle, clou de girofle, graine de MOUTARDE, graine de carvi, cardamome, ail), persil 1%, cumin, curcuma, acidifiant : acide citrique, paprika, gingembre, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n12 min\nSortez le bol de son étui et retirez l'opercule plastique. Laissez réchauffer le temps indiqué : 12 minutes en position décongélation (150 Watts) puis 2 minutes à 750 Watts.\n\nAu micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2 min",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.1,
+            "total_reviews": 10
+        }
+    },
+    {
+        "ean": "000000000000089707",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini-focaccias au thym",
+                "desc": "8 mini pains spéciaux focaccias 38,2% au thym avec une garniture 41,1% à base de courgettes grillées et préparation au basilic et une garniture 20,7% à base de ricotta, mascarpone et oignon rouge – surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw333e2188/produits/000000000000089260_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-focaccias-thym-000000000000089707.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "140.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 231.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Courgette grillée 24,2%, farine de BLÉ dur (GLUTEN), eau, ricotta 8,6% (sérum de LAIT, LAIT, correcteur d'acidité : acide citrique), mascarpone 7% [crème (LAIT), correcteur d'acidité : acide citrique], huile de tournesol, huile d'olive vierge extra, oignon rouge 4,4%, basilic 3,2%, fromage à pâte dure râpé (contient LAIT), citron jaune broyé sucré (citron, jus de citron, sucre), fibre de pois, sel, thym 0,8%, levure, jus de citron concentré, AMANDE hachée, amidon de riz, farine de malt d’ORGE (GLUTEN), ail, poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n9 à 11 min\n(Conseillé par Picard) Préchauffez votre four à 180°C (th.6). Déposez les focaccias sur une plaque recouverte de papier cuisson, en prenant soin de les redresser, et enfournez à mi-hauteur. Laissez réchauffer entre 9 et 11 minutes. Adaptez le temps de réchauffage à votre équipement. Ne pas cuire ou griller excessivement les produits.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089508",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 pull apart rolls, cheddar, oignon",
+                "desc": "Brioches 68,4%, au cheddar, et oignons frits 6,9%, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/briochettes-cheddar-oignon-000000000000089508.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:18",
+                "format": "144.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 363.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.0,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), cheddar blanc râpé 20,8% [cheddar blanc (contient LAIT), amidon de pomme de terre], ŒUF entier de poule élevée en plein air (liquide, pasteurisé), beurre (LAIT), eau, oignon 6,8%, levure, sucre, sel, huile de colza, GLUTEN de BLÉ, huile de tournesol, agent de traitement de la farine : acide ascorbique, farine de BLÉ malté (GLUTEN), émulsifiant : mono- et diglycérides d'acides gras d'origine végétale.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 144.0,
+                "price_per_packaging": 3.5,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n10 à 12 min\nPréchauffez votre four à 180 °C (th.6). Déposez le pull apart rolls sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer entre 10 et 12 minutes.\n\nSans titre\n\nDéposez le pull apart rolls sur du papier cuisson dans le panier de la friteuse à air chaud et faites réchauffer 7 minutes à 180 °C.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.92,
+            "total_reviews": 12
+        }
+    },
+    {
+        "ean": "000000000000086492",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ma box à partager",
+                "desc": "Assortiment de bouchées surgelées, à cuire : un sachet de pommes de terre préfrites enrobées d’une sauce 9% au fromage et un sachet de boulettes panées 20% à base de viande de bœuf et de boulettes panées 20% à base de viande de poulet et de porc.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/box-a-partager-750g-000000000000086492.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 256.0
+                    },
+                    "minerals": {
+                        "salt": 0.68
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Sachet de pommes de terre préfrites enrobées de sauce au fromage 60% : pomme de terre préfrite 51% (pomme de terre 50,2%, huile de tournesol), eau, fromage à pâte dure 2,4% (contient LAIT), huile d’olive vierge extra, ail, farine de riz, persil 0,1%, sel. Sachet de boulettes à base de viandes (boeuf, poulet et porc) 40% : boulette 20% à base de viande de bœuf panée cuite [viande bovine (origine : France*) 8,5%, eau, farine de BLÉ (GLUTEN), emmental râpé (contient LAIT ; origine : Allemagne, fécule de pomme de terre), huile de tournesol, oignon rouge, blanc d’ŒUF de poule élevé en plein air (liquide, pasteurisé), graine de SÉSAME, MOUTARDE (eau, graine de MOUTARDE, vinaigre d’alcool, sel, épices), cornichon, oignon, amidon de maïs, épices, blanc d’ŒUF en poudre de poule élevée en plein air, gélatine de bœuf, sel, vinaigre d’alcool, sel fumé, paprika fumé, GLUTEN de BLÉ, levure], boulette 20% à base de viande de poulet et de porc panée cuite [filet de poulet (origine : France*) 6,3%, eau, farine de BLÉ (GLUTEN), bacon cuit fumé 2,4% (viande de porc 2,3% (origine : France*), bouillon (viande et os de porc), arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique), emmental [emmental (contient LAIT ; origine UE), fécule de pomme de terre], blanc d’ŒUF de poule élevée en plein air (liquide, pasteurisé), huile de tournesol, sel, fécule de pomme de terre, fibre végétale de chicorée, protéine de LAIT, GLUTEN de BLÉ, levure déshydratée].\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 10.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n10 min\nPréchauffez votre four à 210°C (th.7). Sortez les sachets plastiques de l'étui carton. Retirez les films plastiques. Disposez les boulettes burger, les boulettes façon cordon de poulet, et les wedges au fromage sur une plaque recouverte de papier cuisson et laissez cuire le temps indiqué. Four chaleur tournante : 10 minutes pour la totalité des sachets. Four traditionnel : 12 minutes pour la totalité des sachets.\n\nSans titre\n\nSortez les sachets plastiques de l'étui carton. Retirez les films plastiques. Disposez les boulettes burger, les boulettes façon cordon de poulet, et les wedges au fromage dans le tiroir avec l'accessoire grille de la friteuse à air chaud. Mettez en marche l'appareil à 180°C et laissez cuire pendant 8 minutes.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.89,
+            "total_reviews": 9
+        }
+    },
+    {
+        "ean": "000000000000086493",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ma box à partager Végé",
+                "desc": "Assortiment de bouchées préfrites, surgelées, à cuire : un sachet 31,6% de frite à base de farine de pois chiche ; un sachet 26,3% de préparation à base de carotte, oignon et emmental ; un sachet 21% de triangle de pâte de blé garni à base d'épinard, de fromage de chèvre et de miel ; un sachet 21 % de bouchée à base de courgette, quinoa et fromage de brebis.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9c70995a/produits/plats-cuisines/edition/000000000000011871_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/box-a-partager-vege-760g-000000000000086493.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "format": "760.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 223.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Frite à base de farine de pois chiche préfrite : eau, farine de pois chiche 24,4%, sel, acidifiant : acide citrique, herbes de Provence 0,3% (romarin, thym, sarriette, basilic, marjolaine). Préparation préfrite à base de carotte, oignon et emmental : carotte 42,7%, oignon préfrit 22,7% (oignon 20,4%, huile de tournesol), emmental français râpé (contient LAIT) 14,9%, flocon de pomme de terre, fécule de pomme de terre, ail, sel, jaune d'ŒUF en poudre de poule élevée en plein air, poivre, cumin, curcuma. Triangle de pâte de blé préfrit garni à base d'épinard, de fromage de chèvre et de miel : Épinard 33,8%, fromage de chèvre (contient LAIT) 13,5%, eau, farine de BLÉ (GLUTEN) 9,4%, ŒUF de poule élevée en plein air, miel 5,4%, fécule de pomme de terre, fibre de blé, blanc d'ŒUF en poudre de poule élevée en plein air, épices (thym, origan, sumac), sel, huile de colza, ŒUF entier en poudre de poule élevée en plein air, poivre. Bouchée à base de courgette, quinoa et fromage de brebis : courgette grillée 28,8%, quinoa rouge cuit (eau, quinoa rouge 11,2%), fromage de brebis (contient LAIT) 12,5%, pois chiche, chapelure [farine de BLÉ (GLUTEN), sel, poudre à lever : carbonate d'ammonium], oignon préfrit (oignon, huile de tournesol), blanc d'ŒUF en poudre, basilic, sel, poivre. Huile de friture : huile de colza\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 760.0,
+                "price_per_packaging": 9.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n11 min\nPréchauffez votre four à 210°C (th.7). Sortez les sachets plastiques de l'étui carton. Retirez les films plastiques. Disposez les croquettes de courgette en premier sur une plaque recouverte de papier cuisson, et laissez cuire pendant 2 min. Disposez ensuite les samoussas aux épinards, les galettes légumes emmental, et les frites de panisse, sur une plaque recouverte de papier cuisson, et laissez cuire l'ensemble des produits pendant 9 min. Four chaleur tournante : Croquettes de courgette 11 min puis samoussas aux épinards, galettes légumes emmental, frites de panisse 9 min. Four traditionnel : Croquettes de courgette 15 min puis samoussas aux épinards, galettes légumes emmental, frites de panisse 12 min.\n\nSans titre\n\nSortez les sachets plastiques de l'étui carton. Retirez les films plastiques. Disposez les croquettes de courgette en premier dans le tiroir avec l'accessoire grille de la friteuse à air chaud. Mettez en marche l'appareil à 180°C et laisser cuire pendant 3 minutes. Disposez ensuite les samoussas aux épinards, les galettes légumes emmental, et les frites de panisse dans le tiroir avec l'accessoire grille de la friteuse à air chaud, et laisser cuire l'ensemble pendant 6 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.11,
+            "total_reviews": 19
+        }
+    },
+    {
+        "ean": "000000000000089730",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini kebabs, poulet rôti, sauce blanche, épices",
+                "desc": "8 mini pains spéciaux type pita 52,9% garnis à la viande de cuisse de poulet traité en salaison cuit rôti 29,2%, sauce 17,4% à base de fromage blanc et épices, roquette ; surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw21e6062e/produits/000000000000063443_E4.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-kebabs-120g-000000000000089730.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 202.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 9.7,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 8.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "eau, fromage blanc 21,4% (contient LAIT), viande de cuisse de poulet 16,7% (origine : France*), farine de BLÉ (GLUTEN), oignon, huile de colza, farine de SEIGLE (GLUTEN), huile de tournesol, sel, jus de citron, fécule de manioc, fécule de pomme de terre, dextrose, roquette 0,4%, ail, cumin 0,3%, GLUTEN de BLÉ, menthe, piment doux 0,1%, poivre, levain de SEIGLE dévitalisé (GLUTEN), farine d'ORGE maltée toastée (GLUTEN), acidifiants (carbonate acide de sodium, citrates de sodium), agent de traitement de la farine : acide ascorbique.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th. 6). Sortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau sur une grille à mi-hauteur et laissez réchauffer le temps indiqué : Four à chaleur tournante : 15 min Four traditionnel : 17 min",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.38,
+            "total_reviews": 16
+        }
+    },
+    {
+        "ean": "000000000000089445",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini tacos",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-tacos-vegetal-000000000000089445.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 4.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089490",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "9 mini-burgers roses",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/9-mini-burgers-colorfood-000000000000089490.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 5.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086705",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 briouates poulet, raisins, miel, curcuma",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-briouates-240g-000000000000086705.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 4.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089321",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "American box party",
+                "desc": "Assortiment de bouchées préfrites surgelées : 1 sachet 33,3% de bouchées panées garniture à base de fromages et de bacon; 1 sachet 33,33% de bouchées panées garniture à base de mozzarella et de poivron vert ; 1 sachet 33,3% d'oignons panés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/americain-box-party-000000000000089321.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 322.0
+                    },
+                    "minerals": {
+                        "salt": 1.5
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 9.3
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Bouchées panées aux fromages et bacon : farine de BLÉ (GLUTEN), préparation à base de cheddar fondu 18,2% [cheddar 12,7% (contient LAIT), eau, émulsifiant : citrates de sodium, colorants (caroténoïdes, extrait de paprika)], fromage frais 18,2% (contient LAIT), eau, bacon cuit fumé au bois de hêtre 9,1% [viande de porc (origine : UE), sel, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium], fromage râpé 3,6% (contient LAIT), fromage en poudre 2,7% (contient LAIT), amidon de BLÉ (GLUTEN), fécule de pomme de terre, farine de maïs, sel, levure, ŒUF entier en poudre de poule élevée en plein air, GLUTEN de BLÉ, stabilisant: méthylcellulose, caséinate de sodium (LAIT), épices (paprika, curcuma), poudre à lever : carbonates de sodium, extrait d'oignon, extrait d'ail. Huile de friture : huile de colza Bâtonnets panés mozzarella et poivron vert : mozzarella 41% (contient LAIT), farine de BLÉ (GLUTEN), eau, poivron vert 4,1%, piment vert, fécule de pomme de terre, farine de maïs, sel, levure, ŒUF entier en poudre de poule élevée en plein air, curcuma, caséinate de sodium (LAIT), poudre à lever: carbonates de sodium, extrait d'ail, extrait d'oignon, extrait d'épices, vinaigre d'alcool, ail. Huile de friture : huile de colza Oignons panés : oignon 45,4%, farine de BLÉ (GLUTEN), eau, amidon de BLÉ (GLUTEN), sel, dextrose, levure, poudres à lever (carbonates de sodium, diphosphates), épaississants (carraghénanes, gomme guar). Huile de friture : huile de tournesol.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 9.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n12 min 8 min 6 min\nPréchauffez votre four à 180°C (th.6). Retirez les films plastiques. Disposez les anneaux d'oignons en premier sur une plaque recouverte de papier cuisson pour une durée totale de 12 minutes. Disposez les boules aux fromages et bacon pour 8 min de cuisson et enfin les bâtonnets mozzarella et poivron vert pour un temps de cuisson de 6 min. Four traditionnel : anneaux d'oignons 14 min, boules aux fromages et bacon 10 min, bâtonnets mozzarella et poivron vert 8 min Four chaleur tournante : anneaux d'oignons 12 min, boules aux fromages et bacon 8 min, bâtonnets mozzarella et poivron vert 6 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.97,
+            "total_reviews": 33
+        }
+    },
+    {
+        "ean": "000000000000089480",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bouchées mac and cheese",
+                "desc": "Bouchées panées garniture 50% à base de pâtes coquillettes, spécialité au fromage et cheddar, préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bouchees-mac-cheese-000000000000089480.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:19",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 275.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 5.2
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Eau, pâte coquillette cuite 17% [eau, semoule de BLÉ (GLUTEN)], farine de BLÉ (GLUTEN), spécialité au fromage 13% [LAIT, sel, ferments lactiques (LAIT), coagulant microbien, amidon de tapioca], cheddar blanc 11% (contient LAIT), pétale de maïs [maïs, sel, extrait de malt d’ORGE (GLUTEN)], huile de colza, amidon de maïs, fibre de BLÉ (GLUTEN), acidifiant : citrates de sodium, levure, sel, amidon de BLÉ (GLUTEN), épaississants (méthylcellulose, gomme de guar), gélifiant (agar-agar), poivre, dextrose.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n10 min\nPréchauffez votre four à 180°C (th.6). Étalez les bouchées sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : Four traditionnel :18 min Four à chaleur tournante :12 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.42,
+            "total_reviews": 36
+        }
+    },
+    {
+        "ean": "000000000000086325",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "DE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Jalapeños au cream cheese, bouchée panée au piment",
+                "desc": "Demi-piments jalapeños marinés farcis 50% d’une préparation au fromage frais et recouverts d’une panure 50%, préfrits, à cuire, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc0ea8483/produits/000000000000086338_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/jalapenos-cream-cheese-000000000000086325.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 237.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 6.0
+                    },
+                    "proteins": {
+                        "proteins": 5.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), fromage frais (contient LAIT) 25%, piment jalapeños marinés 22% (piment jalapenos 21,7%, eau, sel, acidifiant : acide acétique, stabilisant : chlorure de calcium), huile de colza, eau, crème liquide [crème (LAIT), stabilisant : carraghénanes], farine de maïs, ŒUF entier en poudre, sel, protéine de LAIT, poudre à lever : carbonates de sodium, fécule de pomme de terre, amidon transformé de pomme de terre, levure, paprika, curcuma, acidifiant : acide citrique, extrait d'ail, extrait d’oignon.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nDÉCONGÉLATIONCuisson au four pendant\n12 min\nPréchauffez votre four à 180°C (th.6). Déposez les bouchées sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué. Four traditionnel : 14 min - Four à chaleur tournante : 12 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.34,
+            "total_reviews": 50
+        }
+    },
+    {
+        "ean": "000000000000089267",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-cake chorizo tomate cerise confite",
+                "desc": "Mini-cake – chorizo fumé, tomate cerise confite – cuit, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-cake-chorizo-tomate-000000000000089267.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "245.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 316.0
+                    },
+                    "minerals": {
+                        "salt": 1.5
+                    },
+                    "fats": {
+                        "fats": 22.0,
+                        "saturates": 6.1
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 3.0,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "ŒUF entier 17,4% (liquide, pasteurisé), farine de BLÉ (GLUTEN), LAIT demi-écrémé, chorizo fumé 12,5% [viande de porc (origine : France*), épices et plantes aromatiques, sel, sirop de glucose en poudre, arômes naturels], emmental râpé (contient LAIT ; origine : UE), huiles végétales (colza, tournesol), tomate cerise confite marinée 6,5% (tomate cerise mi- séchée 6%, huile de colza, sel, origan, ail), préparation à base de tomate concentrée, huile d'olive vierge extra, tomate déshydratée, poudres à lever (carbonates de sodium, citrates de sodium), basilic.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 245.0,
+                "price_per_packaging": 3.7,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2 min 30\nSortez le cake de son étui carton puis retirez le film plastique. Déposez le cake sur une assiette et mettez l'ensemble au four à micro-ondes le temps indiqué : 750 W : 3 min - 900 W : 2 min 30 Laissez reposer le cake 5 min avant de le trancher.\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th. 6). Sortez le cake de son étui carton puis retirez le film plastique. Enfournez à mi- hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 28 min - Four à chaleur tournante : 25 min. Vous pouvez couvrir le cake 10 minutes avant la fin du réchauffage pour éviter qu'il ne dore trop en surface.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.73,
+            "total_reviews": 161
+        }
+    },
+    {
+        "ean": "000000000000086328",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 taquitos au poulet, cheddar, poivron, maïs",
+                "desc": "Garniture 61,7% à base de viande de cuisse de poulet, cheddar blanc, poivron, maïs et épices et galette 38,3% au maïs et au blé, frits, surgelés.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-taquitos-au-poulet-240g-000000000000086328.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 230.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 9.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Eau, viande de cuisse de poulet (origine : France*) 15,4%, farine de maïs 9,4%, oignon préfrit (oignon, huile de tournesol), farine de BLÉ (GLUTEN) 7,9%, cheddar blanc 7,4% (LAIT, sel, ferments lactiques, enzyme coagulante), oignon, pulpe de tomate au jus (tomate, jus de tomate), protéine de SOJA texturée, poivron rouge 3%, huile de tournesol, grain de maïs cuit 1,5%, épices 1,4% (paprika, cumin, piment, poivre), sel, coriandre. Huile de friture : huile de tournesol.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Déposez les taquitos sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 17 min Four à chaleur tournante : 15 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 81
+        }
+    },
+    {
+        "ean": "000000000000086099",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mezze, assortiment de 12 pièces",
+                "desc": "Assortiment de 4 boulettes préfrites à cuire 29,4% à base de fève et de pois chiche, 4 chaussons de pâte de blé à cuire 29,4% garniture à base de viande bovine, 4 triangles de pâte de blé préfrits à cuire 29,4% garniture à base de fromage de chèvre et fromage frais, accompagnés d'une sauce 11,8% à la purée de sésame, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/nouvel-assortiment-de-mezze-000000000000086099.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "340.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 258.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 6.0
+                    },
+                    "proteins": {
+                        "proteins": 9.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Assortiment de mezze (300g) : Farine de BLÉ (GLUTEN) 15,5%, eau, fromage de chèvre (contient : LAIT) 10,3%, fève 10,2%, oignon, pois chiche 8,7%, viande bovine cuite (origine : France*) 7%, oignon préfrit (oignon, huile de tournesol), beurre (LAIT), fromage frais (contient : LAIT) 2%, persil, jaune d’OEUF en poudre de poule élevée en plein air, pignon de pin, sel, ail, huile d'olive vierge extra, épices 0,4% (coriandre, cumin, poivre, muscade, cannelle, piment de Cayenne, anis), blanc d’OEUF en poudre de poule élevée en plein air, huile de colza, ciboulette, pulpe de citron, OEUF entier en poudre de poule élevée en plein air, amidon de maïs, poudres à lever (carbonates de sodium, acide tartrique), levure désactivée, psyllium en poudre, fibre d'agrume, farine de lin. Huile de friture : huile de colza. Sauce à la purée de SESAME (2 x 20g) : Eau, purée de sésame 40%, sucre, jus de citron concentré, sel, acidifiants (acide citrique, acide tartrique), amidon transformé de maïs, épaississants (gomme guar, gomme xanthane), ail.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n13 min\nPréchauffez votre four à 180°C (th.6). Disposez l'assortiment sur une plaque recouverte d'une feuille de papier cuisson. Enfournez à mi-hauteur et faites cuire le temps indiqué. Laissez décongeler les sachets de sauce dans un verre d'eau tiède le temps de réchauffage de l'assortiment. Four traditionnel : 18 min Four à chaleur tournante : 13 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.91,
+            "total_reviews": 78
+        }
+    },
+    {
+        "ean": "000000000000089378",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 mini cheeseburgers",
+                "desc": "10 Mini sandwiches cuits à base de pain 39%, garnis d'une préparation de viande bovine assaisonnée cuite 31%, de ketchup 15% et de cheddar fondu 10% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-mini-cheeseburgers-000000000000089378.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "165.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 251.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 9.3,
+                        "saturates": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.0,
+                        "of_which_sugars": 6.9,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Préparation de viande bovine assaisonnée cuite [viande bovine (origine: France*) 30,5%, oignon frit (oignon, huile de tournesol), sel, poivre], farine de BLÉ (GLUTEN) 21,1%, ketchup 15,1% [tomates, vinaigre, sucre, sel, extrait d'épices et de plantes aromatiques (contient CÉLERI), épice], eau, cheddar fondu 10,9% [cheddar et autres fromages (LAIT), protéines de LAIT, beurre (LAIT), eau, épaississants (gomme de caroube, gomme xanthane), colorant (extrait de paprika)], sauce mayonnaise [eau, huile de colza, jaune d'OEUF issu de poules élevées en plein air (liquide, pasteurisé), MOUTARDE de Dijon (eau, graines de MOUTARDE, vinaigre d'alcool, sel), amidon de maïs, vinaigre d'alcool, sel, épaississant (gomme xanthane), jus de citron concentré, épices], sucre, graine de lin jaune 1,4%, améliorant de boulangerie [farine de BLÉ (GLUTEN), farine de fève, acérola en poudre], levure, huile de colza, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 165.0,
+                "price_per_packaging": 4.89,
+                "preparation": "Sans titre\n\nPour une consommation optimale, nous vous conseillons un réchauffage au micro-ondes.\n\nAu micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1min30\nSortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau dans le micro-ondes et laissez- le réchauffer le temps indiqué : 900W : 1 min 30 750W : 1 min 50\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n8 min\nPréchauffez votre four à 180°C (th. 6). Sortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau sur une grille à mi-hauteur et laissez réchauffer le temps indiqué : - Four à chaleur tournante : 8 minutes - Four traditionnel : 10 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.19,
+            "total_reviews": 280
+        }
+    },
+    {
+        "ean": "000000000000089131",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pain surprise au pain spécial campagne",
+                "desc": "Pain surprise surgelé au pain spécial campagne 63,4% composé de : 10 sandwichs au saumon fumé, crème fraîche, citron et ciboulette ; 10 sandwichs préparation tomate mi-séchée et roquette ; 10 sandwichs compotée au coing, bloc de foie gras de canard, crème fraîche et fleur de sel ; 10 sandwichs jambon supérieur de Savoie, pickles courgette et cornichon ; 10 sandwichs cabécou, fruits secs et miel.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pain-surprise-pain-special-campagne-000000000000089131.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "950.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 244.0
+                    },
+                    "minerals": {
+                        "salt": 1.36
+                    },
+                    "fats": {
+                        "fats": 7.7,
+                        "saturates": 3.8
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 32.0,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "farine de BLÉ (GLUTEN), eau, crème fraîche 6,4% (LAIT), saumon fumé 4,8% [saumon* (POISSONS), sel], jambon supérieur de Savoie 4% [jambon de porc (origine : France**), sel], fromage blanc 2,5% (LAIT), LAIT demi-écrémé, bloc de foie gras de canard 1,9% [foie gras de canard 1,7% (origine : France**), eau, Armagnac, sel, sucre, poivre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium), tomate mi-séchée 1,8%, farine de petit ÉPEAUTRE (GLUTEN), flocons d'ÉPEAUTRE (GLUTEN), flocons de BLÉ (GLUTEN), farine de SEIGLE complète (GLUTEN), coing 1,7%, tomate pelée concassée (tomates 0,8%, jus de tomate 0,3%), courgette grillée 1,1%, cabécou 1,1% (contient LAIT), fromage frais 0,9% (contient LAIT), GLUTEN vital de BLÉ, levain de BLÉ dévitalisé déshydraté (GLUTEN), levure, pomme, sel, beurre (LAIT), huile de colza, cornichon au vinaigre (cornichon 0,3%, eau, vinaigre d'alcool, sel), amidon transformé, figue 0,4%, concentré de tomate, levain d'ÉPEAUTRE dévitalisé déshydraté (GLUTEN), BLÉ malté toasté concassé (GLUTEN), farine d'ORGE maltée toastée (GLUTEN), son de BLÉ (GLUTEN), raisin sec 0,1%, miel 0,1%, jus de citron 0,1%, échalote 0,1%, roquette 0,1%, NOISETTE 0,1%, ciboulette 0,07%, AMANDE 0,07%, cerfeuil, fleur de sel de Guérande 0,01%, farine de riz, poivre, huile de coton, sucre, amidon de tapioca, jus de citron, origan, ail, jus de citron à base de concentré, basilic.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 950.0,
+                "price_per_packaging": 13.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n24 heures\nSortez le pain surprise de sa boîte et retirez le film plastique. Mettez de côté le chapeau et recouvrez le dessus du pain avec un film alimentaire étirable. Laissez décongeler 24 heures dans le bas du réfrigérateur. Sortez-le 10 minutes avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 19.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.12,
+            "total_reviews": 147
+        }
+    },
+    {
+        "ean": "000000000000039972",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 Yakitori",
+                "desc": "10 brochettes à base de viande de poulet marinée aux épices, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-yakitori-brochettes-poulet-marine-epice-000000000000039972.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 158.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 21.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 10.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de poulet 59,7% (origine : Thaïlande*), eau, sucre, sauce soja (eau, graine de soja, blé (gluten), sel), amidon transformé de tapioca, sirop de glucose (amidon de tapioca, eau, acide citrique, carbonate de sodium), sauce mirin [eau, sucre, mirin (riz gluant, eau, alcool, riz, koji), alcool (mélasse, levures)], sel, colorant : caramel en poudre, amidon de pomme de terre, paprika, piment en poudre.\n*Issue d'animaux nés, élevés et abattus en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.62,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n2 min*\nDisposez les Yakitori côte à côte dans un plat adapté. Laissez réchauffer, sans couvrir, le temps indiqué ci-dessous en retournant à mi-temps. Puissance restituée du four à micro-ondes 750 W 900 W Pour 5 brochettes 3 min 2 min Pour 10 brochettes 5 min 4 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.6,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 233
+        }
+    },
+    {
+        "ean": "000000000000089231",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 mini-wraps",
+                "desc": "Assortiment de petites bouchées surgelées composées de 4 galettes de blé à l’épinard garnies de fromage de chèvre et tomate mi-séchée 33,3%, 4 galettes de blé à la tomate garnies de saumon fumé et agrumes 33,3%, 4 galettes de blé garnies au houmous et poivron rouge grillé 33,3%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/12-mini-wraps-180g-000000000000089231.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "180.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 235.0
+                    },
+                    "minerals": {
+                        "salt": 0.95
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.0,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Galette de BLÉ nature 12% [farine de BLÉ (GLUTEN), eau, huile de colza, poudres à lever (diphosphates, carbonates de sodium), dextrose, acidifiant : acide malique, sel, agent de traitement de la farine : L-cystéine], galette de BLÉ à l'épinard 12% [farine de BLÉ (GLUTEN) (farine de BLÉ (GLUTEN), carbonate de calcium, fer, niacine, thiamine), eau, huile de colza, poudres à lever (diphosphates, carbonates de sodium), épinard, assaisonnement à l'épinard et au persil, dextrose, sucre, acidifiant : acide malique, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, GLUTEN de BLÉ, sel, agent de traitement de la farine : L-cystéine], galette de BLÉ à la tomate 12% [farine de BLÉ (GLUTEN), eau, huile de colza, poudres à lever (diphosphates, carbonates de sodium), tomate 0,09%, dextrose, sel, acidifiant : acide malique, herbes et épices, paprika, oignon déshydraté, ail déshydraté, agent de traitement de la farine : L-cystéine], pois chiche cuit 9%, fromage de chèvre 7,5% (contient LAIT), crème fraîche épaisse (LAIT), fromage frais (contient LAIT), fromage nature (contient LAIT), poivron rouge grillé 4,8%, saumon fumé 4,6% [saumon qualité sans arête* (POISSONS), sel], tomate mi-séchée marinée 3,7% (tomate mi-séchée 3,6%, huile de tournesol, sel, ail, origan, marjolaine, persil), huile de tournesol, jus d’orange concentré 1,2%, jus de citron vert 1,1%, coriandre, courgette, carotte jaune, carotte, huile d’olive vierge extra, oignon rouge, purée de SÉSAME blanc 0,6%, amidon de riz, purée de citron sucrée 0,4% (citron jaune, jus de citron, sucre), AMANDE hachée grillée, jus de citron à base de concentré 0,3% (eau, jus de citron concentré), vinaigre d’alcool, fibre de pois, sel, basilic,eau, ciboulette, curcuma, ail, baies roses, mélange de 5 baies, poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.19,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n5 min\nSortez le plateau des mini-wraps de leur étui carton et retirez le film plastique. Laissez décongeler 5 minutes au four à micro-ondes en position décongélation 150 W. Laissez reposer 15 min au réfrigérateur avant de servir.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nSortez le plateau des mini-wraps de leur étui carton. Laissez décongeler le plateau au réfrigérateur pendant 5 heures en le laissant recouvert d'un film alimentaire étirable. Sortez-le du réfrigérateur 5 min avant de servir et disposez les mini-wraps sur un plateau adapté.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.12,
+            "total_reviews": 77
+        }
+    },
+    {
+        "ean": "000000000000089165",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "16 bouchées apéritives aux légumes",
+                "desc": "Assortiment de 16 bouchées apéritives aux légumes surgelées : 4 bouchées 31,7% tomate cerise mi-séchée, duo de poivrons grillés et mozzarella - 4 tartelettes 26,7% houmous de betterave et petits légumes - 4 roulés 23,2% de courgette, fromage de chèvre et pignon de pin - 4 bouchées 18,4% avocat, pain spécial malté, chutney d’oignon, radis et sésame.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-bouchees-aperitives-legumes-000000000000089165.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "165.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 193.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 6.2,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Courgette 9,2%, tartelette à la betterave 8,1% [farine de BLÉ (GLUTEN), farine de maïs, huile de tournesol, betterave rouge en poudre 0,5%, eau, framboise en poudre, sel, levure désactivée], préparation à l'avocat (avocat 7,9%, sel, antioxydant : acide ascorbique, correcteur d'acidité : acide citrique), demi-tomate cerise assaisonnée (tomate cerise mi-séchée 6,9%, huile de colza, sel, origan, ail), pain spécial malté au cacao maigre 6,7% [farine de BLÉ (farine de BLÉ (GLUTEN), GLUTEN de BLÉ , farine de BLÉ malté (GLUTEN)), eau, huile de tournesol, graine de tournesol, levure, sucre, farine d’ORGE maltée (GLUTEN), graine de lin jaune, LAIT écrémé en poudre, sel, graine de SÉSAME doré, cacao maigre en poudre 0,06%, GLUTEN de BLÉ , farine de fève, ORGE malté (GLUTEN), antioxydants (acide ascorbique, acide citrique)], fromage de chèvre 5,1% (contient LAIT ), pois chiche cuit salé (pois chiche 2,8%, eau, sel), courgette grillée 4,5%, poivron jaune grillé 4,1%, betterave rouge cuite 3,9%, poivron rouge grillé 3,1%, farine de BLÉ [farine de BLÉ (GLUTEN), GLUTEN de BLÉ , farine de BLÉ malté (GLUTEN)], fromage nature [fromage (contient LAIT ), sel], mozzarella 2,5% (LAIT , sel, correcteur d’acidité : acide citrique, ferments lactiques), carotte jaune 2,3%, carotte orange 2,3%, coulis de tomate (tomate 2,2%, sel), mascarpone [crème (LAIT ), correcteur d’acidité : acide citrique], fromage frais (contient LAIT ), huile de tournesol, oignon rouge 1,5%, huile d’olive vierge extra, OEUF entier de poule élevée en plein air (liquide, pasteurisé), purée de tomate double concentrée 0,8%, huile de colza, crème fraîche épaisse (LAIT ), ciboulette, basilic, jus de citron à base de concentré, radis 0,5%, eau, amidon de riz, LAIT demi-écrémé, condiment blanc (vinaigre de vin, moût de raisin), purée de graine de SÉSAME blanc 0,3%, graine de SÉSAME doré 0,3%, jus d’orange sanguine, pignon de pin 0,3%, sel, jus de citron vert, jus de mandarine, échalote, jus concentré de betterave 0,2% (jus concentré de betterave, correcteur d’acidité : acide citrique), coriandre, persil, graine de SÉSAME 0,1%, vinaigre d’alcool blanc, graine de nigelle, fibre de pois, préparation à l'ail (ail, sel, acidifiant : acide citrique), amidon de maïs, jus concentré d'orange, pulpe d’agrume séchée, sucre, écorce d’orange broyée, poivre blanc, poivron rouge déshydraté, thym, piment, mélange d'épices.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 165.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 heures\nSortez les 16 bouchées de l'étui carton et de leur emballage. Déposez-les sur une assiette et redressez le roulé de courgette. Laissez décongeler pendant 5 heures au réfrigérateur puis attendez 10 minutes à température ambiante avant de déguster. A consommer rapidement après décongélation.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.08,
+            "total_reviews": 90
+        }
+    },
+    {
+        "ean": "000000000000089166",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pain surprise polaire",
+                "desc": "Pain surprise composé de 32 sandwichs surgelés au pain polaire (59,1%) et garniture (40,9%) : 8 sandwichs brouillade d’œuf, moutarde à l’ancienne, ciboulette 25,1% - 8 sandwichs skyr, noix, éclats de cranberry 25,1%, - 8 sandwichs bacon fumé, pesto de roquette 25,1% - 8 sandwichs saumon cru aux 5 baies et à l'aneth 24,7%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pain-surprise-polaire-000000000000089166.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "380.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 256.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 8.8,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 9.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 6.1,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "Pain polaire 59,1% [farine de BLE (GLUTEN), eau, farine de seigle (GLUTEN), sucre, huile de colza, sel, levure, GLUTEN de BLE, farine d’ORGE maltée (GLUTEN)], skyr 7,5% (LAIT), bacon cuit fumé aux bois de hêtre et de chêne 4,9% [viande de porc 4,3% (origine : France*), sel, arômes naturels, antioxydant : acide ascorbique], fromage blanc (LAIT) 4,7%, saumon cru aux 5 baies et à l’aneth 4,6% [saumon (POISSONS) qualité sans arête** 4,3%, sel, sucre, mélange de 5 baies 0,02% (coriandre, poivre vert, poivre noir, poivre blanc, baies roses, sirop de glucose), aneth 0,01%], OEUF entier issu de poule élevée en plein air 3,6% (liquide, pasteurisé), crème fraîche (LAIT), huile de tournesol, OEUF cuit issu de poule élevée en plein air 2,1%, roquette 1,5%, NOIX hachée 0,9%, NOIX en poudre 0,8%, MOUTARDE à l'ancienne 0,6% (eau, graine de MOUTARDE, vinaigre d’alcool, sel), eau, éclat de cranberry sucré 0,5% (cranberry, sucre, dextrose, huile de tournesol), amidon de pomme de terre, jus de citron, beurre (LAIT), échalote, sel, fécule de manioc, Parmigiano Reggiano AOP*** râpé 0,2% (contient LAIT), ciboulette 0,2%, ail, protéines de LAIT, aneth 0,07%, huile d’olive vierge extra 0,07%, basilic 0,06% baies roses 0,01%, cardamome.\n*Issue d'animaux nés, élevés, abattus et transformés en France.\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 380.0,
+                "price_per_packaging": 11.99,
+                "preparation": "Au réfrigérateur\nPréparationCuisson au refrigerateur pendant\n8 heures\nSortez le pain surprise de sa boîte. Conservez le film plastique et déposez-le dans une assiette. Laissez décongeler 8 à 10h dans le bas du réfrigérateur. Sortez-le 10 min avant de servir et retirez le film plastique.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.1,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000086167",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Baba ganouj",
+                "desc": "Purée d’aubergines grillées à la pâte de sésame, surgelée",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/baba-ganouj-000000000000086167.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "225.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 125.0
+                    },
+                    "minerals": {
+                        "salt": 1.5
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.2,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Aubergine grillée 63,9%, eau, pâte de SESAME 15,9%, sel, acidifiant: acide citrique.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "on_discount": false,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n10 min\nRetirez l'opercule et laissez décongeler 10 à 12 min en position décongélation (150W). Laissez reposer pendant 5 min avant de déguster.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n24 h\nPlacez le bol au réfrigérateur et laissez décongeler pendant 24h. Laissez quelques minutes à température ambiante avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.95,
+            "total_reviews": 84
+        }
+    },
+    {
+        "ean": "000000000000071112",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-gougères au fromage, 30 pièces environ",
+                "desc": "Pièces de pâte à choux aux fromages, cuites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-gougeres-fromage-000000000000071112.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:20",
+                "format": "225.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 369.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 25.0,
+                        "saturates": 15.0
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "OEUF entier 34,8% (liquide, pasteurisé), farine de BLÉ [farine de BLÉ (GLUTEN), GLUTEN de BLÉ], eau, Comté 17,4% (contient LAIT), beurre (LAIT), emmental 4,3% (contient LAIT ; origine UE) , LAIT demi-écrémé, sel, poivre, muscade.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n5 min\nPréchauffez votre four à 180°C (th.6). Disposez les mini-gougères en une seule couche sur la plaque de votre four recouverte d'une feuille de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 8 minutes - Four à chaleur tournante : 5 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.53,
+            "total_reviews": 284
+        }
+    },
+    {
+        "ean": "000000000000064236",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-cake chèvre tomate courgette (à trancher)",
+                "desc": "Mini-cake chèvre tomate courgette surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-cake-chevre-tomate-courgette-000000000000064236.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:21",
+                "format": "245.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 276.0
+                    },
+                    "minerals": {
+                        "salt": 1.7
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 6.5
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "ŒUF entier 17% (liquide, pasteurisé), farine de BLÉ (GLUTEN), fromage de chèvre (contient LAIT) 17%, LAIT demi-écrémé, emmental râpé (contient LAIT ; origine : UE), courgette grillée 8%, huiles végétales (colza, tournesol), huile d'olive vierge extra, tomate marinée aux herbes 2,2% (tomate semi-déshydratée, huile de colza, ail, sel, origan), tomate en cube 2,2%, tomate déshydratée 2,2%, levure chimique [poudre à lever : carbonates de sodium - citrates de sodium, farine de BLÉ (GLUTEN)], basilic, sel.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 245.0,
+                "price_per_packaging": 3.3,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2 min 30\nSortez le cake de son étui carton puis retirez le film plastique. Déposez le cake sur une assiette, mettez l'ensemble au four à micro- ondes le temps indiqué: Puissance restituée du four à micro-ondes : 750 W : 3 min 900 W : 2 min30 Laissez reposer le cake 5 min avant de le trancher.\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th.6). Sortez le cake de son étui carton puis retirez le film plastique. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 30 min Four à chaleur tournante : 25 min Vous pouvez couvrir le cake 10 minutes avant la fin du réchauffage pour éviter qu'il ne dore trop en surface.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.7,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,40€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.81% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.72,
+            "total_reviews": 314
+        }
+    },
+    {
+        "ean": "000000000000089130",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 verrines apéritives",
+                "desc": "Assortiment de 6 verrines surgelées : 2 verrines mousse 16,2% au bloc de foie gras de canard, préparation 12,1% de pomme et poire, crumble au pain d'épices 6,3% ; 2 verrines mélange 18,2% de lentille corail et carotte, préparation 14,1% de pois chiche et petit pois, sauce 3% au lait de coco, fève de soja marinée 0,6% ; 2 verrines mélange 17,2% de quinoa, mangue et fruit de la passion, préparation 6,1% de saumon fumé, préparation 6,1% de fromage frais et raifort, ciboulette 0,1%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-verrines-aperitives-000000000000089130.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:21",
+                "format": "180.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 277.0
+                    },
+                    "minerals": {
+                        "salt": 0.8
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 7.5
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 6.6,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Fromage frais 10,1% [fromage (contient LAIT), sel], bloc de foie gras de canard 8,3% [foie gras de canard (origine : UE), eau, armagnac, sel, sucre, poivre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium], crème liquide (LAIT), carotte 7,5%, lentille corail 7,5%, préparation de pomme 7,4% (pomme Granny Smith, purée de pomme), préparation de pois chiche 5,9% [pois chiche, huile végétale (contient colza et/ou olive), jus de citron à base de concentré, eau, huile de SESAME grillé, sel], quinoa rouge 5,5%, quinoa blanc 5,5%, saumon fumé 5,1% [saumon* (POISSON), sel], mangue 4,4%, préparation de poire 3,7% (poire, sucre, sirop de glucose, épaississant : pectines, correcteur d'acidité : acide citrique, antioxydant : acide ascorbique), purée de petit pois 3,5%, lait de coco 3,5% (extrait de noix de coco, eau), brisure de pain d'épices 2,9% [sirop de sucre de canne blond, farine de SEIGLE (GLUTEN), miel, OEUF entier issu de poule élevée en plein air (liquide pasteurisé), épices (cannelle, anis), poudre à lever : carbonates de sodium, sel], beurre (LAIT), farine de BLE (GLUTEN), oignon préfrit (oignon, huile de tournesol), purée de fruit de la passion 1,1%, pur jus de pomme 0,7%, fève de SOJA 0,5%, jus de citron à base de concentré, huile d'olive vierge extra, huile végétale (contient tournesol et/ou colza), persil, gingembre, jus de citron vert, amidon de maïs, sel, ciboulette 0,2%, coriandre, caramel (sucre, eau, sirop de glucose), huile de SESAME, échalote, épices curry, préparation à base de raifort 0,08% (racine de raifort, vinaigre de cidre, eau, huile de tournesol, jus de pomme concentré, sel, farine de graine de guar), poivre, zeste de citron, cannelle, épaississant : gomme xanthane.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 7.5,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n7 heures\nSortez les verrines apéritives de l'étui carton et de leur emballage plastique. Déposez-les sur une assiette. Laissez décongeler pendant 7 heures au réfrigérateur puis attendre 10 minutes à température ambiante avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.34,
+            "total_reviews": 186
+        }
+    },
+    {
+        "ean": "000000000000089129",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "30 canapés traiteur",
+                "desc": "Assortiment de 30 canapés traiteur surgelés : 5 canapés bloc de foie gras de canard et figue, 5 choux saumon fumé, fromage frais citronné et concombre, 5 mini tartelettes mousse de carotte au cumin et carotte marinée au citron-gingembre, 5 mini sandwichs club, fromage frais piquillo et noix de jambon salée séchée, 5 canapés rillettes de cabillaud au citron confit et ciboulette, 5 canapés beurre à la fleur de sel et Tête de Moine, Fromage de Bellelay AOP.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/30-canapes-traiteur-000000000000089129.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:21",
+                "format": "320.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 257.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 8.0
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 5.4,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Farine de BLÉ ([farine de BLÉ (GLUTEN), GLUTEN de BLÉ], ŒUF entier de poule élevée en plein air (liquide, pasteurisé), fromage frais 9% (contient LAIT), eau, fromage blanc 5,3% (contient LAIT), purée de carotte 5,3%, rillettes de cabillaud 4,9% [cabillaud 3,1% (POISSONS), crème fraîche (LAIT), farine de BLÉ (GLUTEN), fibre de blé, sel, ciboulette] tartelette à la carotte 4,8% [farine de BLÉ (GLUTEN), farine de maïs, huile de tournesol, eau, carotte en poudre 0,2%, sel, levure, poivre], saumon fumé 4,1% [saumon* (POISSONS), sel], Tête de Moine, Fromage de Bellelay AOP** en rosette 4% (LAIT, sel, ferments lactiques, présure animale), bloc de foie gras de canard 3,2% [foie gras de canard (origine : France***), eau, armagnac modifié (sel), sel, poivre, sucre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium], noix de jambon salée séchée 3,1% [jambon de porc (origine : Espagne****), sel, stabilisant : lactate de potassium, eau, conservateurs : nitrite de sodium, nitrate de potassium], carotte 3%, beurre (LAIT), figue noire mi-séchée 2,7%, LAIT demi-écrémé, préparation à base de farine [farine de seigle (GLUTEN), farine de BLÉ (GLUTEN), GLUTEN vital de BLÉ, sel, levain de SEIGLE dévitalisé (GLUTEN), farine d'ORGE maltée toastée (GLUTEN), agent de traitement de la farine : acide ascorbique], chutney de figue 2% (figue 1,4%, sucre, eau, échalote, vinaigre de Xérès, amidon de tapioca, sel), farine de BLÉ (GLUTEN), crème fraîche (LAIT), compotée de piquillo 1,6% (piquillo 1,4%, huile de tournesol, sel, sucre, concentré de citron, ail, mélange de plantes aromatiques, poivre blanc), concombre 1,2%, zeste de citron semi confit 0,9% (sirop de glucose, zeste de citron jaune 0,6%, eau, sucre, correcteur d'acidité : acide citrique, antioxydant : acide ascorbique), jus de citron 0,9%, sucre, huile de tournesol, amidon transformé de pomme de terre, sel, ciboulette 0,3%, graines de pavot, NOISETTE 0,2%, levure de boulangerie, ŒUF entier issu de poule élevée en plein air en poudre 0,2%, gingembre 0,2%, LAIT écrémé en poudre, GLUTEN de BLÉ, coriandre 0,1%, NOISETTE en poudre 0,1%, NOIX hachée 0,1%, semoule de pois déshydratés 0,1%, roquette 0,1%, NOIX en poudre 0,1%, échalote 0,09%, persil, farine de BLÉ malté (GLUTEN), cumin 0,01%, fleur de sel de Guérande IGP***** 0,01%, thym.\n*A.O.P. : Appellation dOrigine Protégée.\n*Issue d'animaux nés, élevés, abattus et transformés en France.\n*IGP : Indication Géographique Protégée\n*Issue d'animaux nés, élevés et abattus en Espagne",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 18.9,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 heures\nSortez le plateau de son étui carton et retirez son emballage plastique. Laissez décongeler les canapés au réfrigérateur 4 heures environ. Sortez-les 10 minutes avant de servir.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.16,
+            "total_reviews": 73
+        }
+    },
+    {
+        "ean": "000000000000085736",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Glaçons alimentaires",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/glacons-alimentaires-000000000000085736.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:21",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 2.4,
+                "requires_loyalty_card": false
+            }
+        ]
+    }
+]

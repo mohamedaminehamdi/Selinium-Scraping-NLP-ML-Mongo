@@ -1,0 +1,2325 @@
+[
+    {
+        "ean": "tofu-nature-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFU NATURE 250G BIO",
+                "desc": "Tofu nature 250G Bio\nTofu nature issu de l'agriculture biologique.\nSoja français.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/b/a/basilic_v_130422.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofu-nature-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 6.5
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3
+                    }
+                },
+                "ingredients": "Eau, soja*, gélifiant : chlorure de magnésium (nigari).\n*Ingrédient issu de l'agriculture biologique.\nLes information en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.6,
+                "price_per_unit": 10.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer sous l'eau claire avant utilisation.",
+                "conservation": "A conserver entre 0°C et +4°C.\nAprès ouverture, conserver au réfrigérateur, dans de l'eau froids renouvelée quotidiennement et consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "tofu-nature-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFU NATURE 500G BIO",
+                "desc": "Tofu nature 500g Bio\nAgrémenter vos plats avec nos cubes de tofu nature. Tel quel ou revenus à la poêle, ces protéines végétales deviendront indispensables dans votre cuisine !\nSoja Français.\nTofu nature issu de l'agriculture biologique.\nDepuis sa création en 1973 NATURALIA entretient des relations durables avec les producteurs pionniers de la bio. Ces partenariats, fondés sur l'expertise et la maîtrise des filières, garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010101512.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofu-nature-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 6.5
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3
+                    }
+                },
+                "ingredients": "Eau, soja*, gélifiant: chlorure de magnésium (nigari).",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.79,
+                "price_per_unit": 7.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner tous vos plats: salades, poêlées, pâtes...",
+                "conservation": "Conditionné sous atmosphère protectrice.\nA conserver entre 0°C et +4°C. Rincer sous l'eau claire avant utilisation.\nAprès ouverture, conserver au réfrégirateur, dans de l'eau froide renouvelée quotidiennement et consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "grinioc-sarrasin-comte",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES SARRASIN & COMTÉ 2X100G BIO",
+                "desc": "Galettes sarrasin & comté 2x100g Bio\nDe délicieuses galettes associant le goût typique du sarrasin grillé à la douceur et au fondant du Comté.\nRiche en fibres, source de calcium.\nExcellente source naturelle de protéines.\nComté du Jura.\nSans huile de palme.\nFabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-proven_ale.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/grinioc-sarrasin-comte"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 980
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.8
+                    },
+                    "fats": {
+                        "fats": 10
+                    },
+                    "proteins": {
+                        "proteins": 9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 4.8
+                    }
+                },
+                "ingredients": "Boulgour de blé complet* 42,3 %, sarrasin grillé réhydraté* 17,1 %, comté* 10,5 %, oignons* 6,6%, farine de blé* 5,7%, huiles végétales* (huile de tournesol oléique désodorisée*, huile de tournesol*), flocons de blé complet* 3,9%, flocons de blé complet* 3,9 %, flocons d'avoine complète*, gluten de blé* 1,7%, sel de mer, ail*, poivre*.\n*Ingrédients issus de l'Agriculture Biologique.\nFabriqué dans un atelier qui utilise céleri, fruits à coque, oeuf, sésame, soja, lupin et moutarde.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 18.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Galettes de céréales prêtes à réchauffer.\nAccompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7)."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "filet-tofu-ail-des-ours-2x80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILETS DE TOFU À L'AIL DES OURS 2X80G BIO",
+                "desc": "Filets de tofu à l'Ail des ours 2X80G Bio\nS'impose à tous ceux qui apprécient ce légume sauvage. L'ail des ours frais donne à ces filets une note incomparable.\nConvient au régime végan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/b/a/basilic_v_130422.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/filet-tofu-ail-des-ours-2x80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.2
+                    },
+                    "fats": {
+                        "fats": 18.6
+                    },
+                    "proteins": {
+                        "proteins": 16.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.1,
+                        "of_which_sugars": 0.8
+                    }
+                },
+                "ingredients": "Tofu* 82 % (eau, graines de soja*, coagulant: nigari (chlorure de magnésium), sulfate de calcium), pesto ail des ours* 9,2 % (ail des ours* 50 %, huile de tournesol, sel de mer*), oignons*, graines de sésame*, bouillon de légumes* (sel de mer, extrait de levure*, amidon de pomme de terre*, poireaux*, carottes*, huile de tournesol*, macis*, céleri*, persil*), huile de tournesol*, concentré de jus de citron*, gingembre*.\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 17.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire revenir brièvement dans une poêle. Délicieux avec des pâtes, des pommes de terre ou des légumes.\nOu à griller : badigeonner préalablement d'un peu d'huile. Veillez à ne les laisser que peu de temps sur le gril ou employez un plat à frire.",
+                "conservation": "A conserver au froid à 2-7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "filets-de-tofu-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILETS DE TOFU À LA JAPONAISE 160G BIO",
+                "desc": "Filets de Tofu à la Japonaise 160G Bio\nComme il se doit dans la cuisine japonaise traditionnelle, ce produit est simple et naturel. Son assaisonnement est décent et souligne le goût caractéristique du tofu.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/filets-de-tofu-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "160G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 18.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.7,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Tofu* 95% (GRAINES DE SOJA* 55%, eau, agents de coagulation : chlorure de magnésium, sulfate de calcium), bouillon de légumes* (sel marin, extrait de levure*, fécule de pommes de terre*, huile de tournesol*, poireaux*, carottes*, céleri*, macis*, noix de muscade*, persil*), huile de tournesol*, jus de citron concentré*.",
+                "allergens": [
+                    "Soja",
+                    "Fruits à coque",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 17.81,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour la cuisine asiatique !\nFaire revenir brièvement dans une poêle, aromatisez le tofu avec de la sauce de soja, et servir avec des légumes. Vous pouvez émincer les filets à la japonaise, les couper en dés ou les faire frire entiers.",
+                "conservation": "A conserver au froid à 2-7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "sauc-tofu-vienn-fum-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VIENNOISES DE TOFU X4 300G BIO",
+                "desc": "Viennoises de tofu x4 300G Bio\nIdéales pour accompagner vos soupes et bouillons, elles sont aussi excellentes dans vos potées.\nA chauffer simplement 3-4 minutes dans l'eau chaude. Convient au régime végan. Riche en protéines.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010108047.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauc-tofu-vienn-fum-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:45",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 19.8
+                    },
+                    "proteins": {
+                        "proteins": 14.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.6,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "Tofu* 76 % (eau, graines de soja*, coagulant : nigari (chlorure de magnésium), sulfate de calcium), huile de tournesol pressée à froid*, sauce soja (eau, graines de soja*, blé*, sel marin), flocons d'avoine*, sel marin, épaississant (gomme de guar), fenugrec*, coriandre*, poivre blanc*, poivre noir*, paprika*, carvi*, ail*, bois de hêtre*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 16.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéales pour accompagner vos soupes et bouillons, elles sont aussi excellentes dans vos potées.\nChauffer simplement 3-4 minutes dans l'eau chaude.",
+                "conservation": "A conserver au froid à 2°C - 7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "steak-vegan-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "STEAK VEGAN SOJA & BLÉ 2X90G BIO",
+                "desc": "Steak vegan soja & blé 2x90G Bio\nLaissez-vous surprendre par ce délicieux Steak végétal au léger goût d’oignon. Riche en protéines grâce à l’association du soja et du blé et pauvre en acides gras saturés, cette délicieuse spécialité 100% vegan est idéale pour remplacer la viande de temps en temps.\nEn plus, c’est fabriqué en France, à partir de soja bio cultivé dans le Sud-Ouest!\nBienfaits nutritionnels:\nRiche en protéines végétales, source de fibres, pauvre en acides gras saturés, sans huile de palme, sans arômes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-panisse.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/steak-vegan-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 14
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "dietary_fiber": 4.8
+                    }
+                },
+                "ingredients": "Eau, farine de soja*(1) déshuilée 20%, huile de tournesol oléique* désodorisée, flocons de blé complet* 8,6%, gluten de blé* 7,7%, oignons* 5,3%, farine de blé * 2,1%, vinaigre de cidre*, épaississants: gomme xanthane et farine de graines de caroube*, ail*, sel de mer, extrait de levure*, paprika*.\n*Ingrédients issus de l'Agriculture Biologique. \nFabriqué dans un atelier qui utilise céleri, lait, sésame, fruits à coque et oeuf.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 22.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le déjeuner."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "escalope-tomate-basilic-176g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ESCALOPE TOMATE & BASILIC VEGAN 176G BIO",
+                "desc": "Escalope tomate & basilic vegan 176G Bio\nLaissez-vous surprendre par cette délicieuse Escalope végétale, croustillante et fondante, au bon goût de tomate et relevée d’une pointe de basilic.\nRiche en protéines grâce à l’association du soja et du blé et pauvre en acides gras saturés, cette délicieuse spécialité 100% vegan est idéale pour remplacer la viande de temps en temps.\nBienfaits nutritionnels: riche en protéines végétales, source de fibres.\nPauvre en acides gras saturés, sans huile de palme, sans arômes.\nEngagement local Soja sans OGM cultivé dans le Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-panisse.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/escalope-tomate-basilic-176g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "176G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 9
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Eau, chapelure* (farine de blé*, eau, sel, levure*), farine de soja* déshuilé 15,6%, huile de tournesol oléique désodorisée*, gluten de blé* 5,5%, concentré de tomates* 4,3%, farine de blé* 4%, extrait de levure*, flocons de blé complet* 1,9%, basilic*, sel de mer, épaississants: gomme xanthane, farine de graines de caroube*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 176.0,
+                "price_per_packaging": 4.9,
+                "price_per_unit": 27.84,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "eminces-tex-mex-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ÉMINCÉS TEX MEX VEGAN 150G BIO",
+                "desc": "Emincés Tex Mex vegan 150G Bio\nLaissez-vous surprendre par ces savoureux émincés sans viande, aromatisés à la tomate et aux épices, encore meilleurs une fois grillés ! \nRiches en protéines grâce à l’association du soja et du blé, riches en fibres et pauvres en acides gras saturés, voilà une idée originale pour remplacer la viande de temps en temps.\nRiche en protéines\nRiche en fibres\nPauvre en acides gras saturés\nSans huile de palme\nSans arômes\nSoja sans OGM cultivé dans le Sud-Ouest de la France.\n  Fabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010005063.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/eminces-tex-mex-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.9,
+                        "of_which_sugars": 2.7
+                    }
+                },
+                "ingredients": "Eau, farine de soja*(1) deshuilé 27,2%, gluten de blé* 8%, épices*, concentré de tomates*, huile de tournesol* désodorisée, extrait de levure*, sel de mer, ail*.\n*Ingrédients issus de l'agriculture biologique.\n(1)Soja français sans OGM issu d'une filière Bio Solidaire contrôlée par Ecocert Environnement.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 33.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : 4 à 5 min à feu vif avec un peu d’huile d’olive.\nA déguster dans une salade, une quiche ou en wrap !",
+                "conservation": "A conserver à +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "emince-nature-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ÉMINCÉS NATURE 150G BIO",
+                "desc": "Émincés nature 150G Bio\nLaissez-vous surprendre par ces savoureux émincés sans viande, encore meilleurs une fois grillés !\nRiches en protéines grâce à l’association du soja et du blé, riches en fibres et pauvres en acides gras saturés, voilà une idée originale pour remplacer la viande de temps en temps.\nEn plus, c’est fabriqué en France, à partir de soja bio cultivé dans le Sud-Ouest !\nSans huile de palme, riche en fibres, pauvre en acides gras saturés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010005063.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/emince-nature-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 4
+                    },
+                    "proteins": {
+                        "proteins": 21
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 2.4
+                    }
+                },
+                "ingredients": "Eau, farine de soja*(1) deshuilé 27,5%, gluten de blé* 8,1%, extrait de levure*, vinaigre de cidre*, huile d’olive*, sel de mer, épices*.\n*Ingrédients issus de l'agriculture biologique.\n(1)Soja français sans OGM issu d'une filière Bio Solidaire contrôlée par Ecocert Environnement.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 33.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : 4 à 5 min à feu vif avec un peu d’huile d’olive.",
+                "conservation": "A conserver à +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "falafel-tofu-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FALAFELS DE TOFU X15 250G BIO",
+                "desc": "Falafels de tofu x15 250g Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685000010.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/falafel-tofu-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 15
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 5.3
+                    }
+                },
+                "ingredients": "Tofu* 37,3% (eau, SOJA*, agents de coagulation : sulfate de calcium, nigari), pois chiches* réhydratés 34,4%, petits pois*, chapelure* (BLÉ*), huiles végétales* (huile de tournesol oléique*, huile d’olive vierge* extra), oignons*, sel de mer, cumin*, ail*.\n  *Ingrédient issu de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.6,
+                "price_per_unit": 18.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire revenir à la poêle préalablement huilée et bien chaude, avec un couvercle.\nAu four, pendant 10 minutes à 210°C.",
+                "conservation": "A conserver au réfrégirateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-tofou-chevr-epinar-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC TOFOU CHÈVRE & EPINARDS 200G BIO",
+                "desc": "Croc Tofou Chèvre & Epinards 200g Bio\nDe délicieuses galettes associant la texture fondante du fromage de chèvre et des épinards au croquant des graines de pavot. \nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.\nRiche en protéines végétales, riche en fibres, source de calcium, source de magnésium, source d'oméga3, sans huile de palme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-proven_ale.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-tofou-chevr-epinar-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 10
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.7,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Tofu* 83,5% (eau, soja*(1), agents de coagulation : sulfate de calcium, nigari), épinards* 9,1%, fromages* de chèvre 7,8%, farine de blé*, flocons d’avoine* complète,  sel de mer, graines de pavot* 0,7%, poivre*.\n*Ingrédients issus de l'agriculture biologique.\n(1)Soja français sans OGM issu de filière BIOPARTENAIRE® contrôlée selon le référentiel FiABLE.\nFabriqué dans un atelier qui utilise des oeufs, des fruits à coque, du céleri et du sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 21.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à 4°C. A consommer dans les 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-tofou-provencale-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC' TOFOU À LA PROVENÇALE 200G BIO",
+                "desc": "Croc' Tofou à la Provençale 200g Bio\nDe délicieuses galettes au tofu frais cuisinées à la provençale avec de la tomate, des oignons, des fines herbes et des aromates variés : persil, basilic, thym, sauge, origan…\nRiche en protéines et en fibres\nSource de calcium et de magnésium\nSoja équitable cultivé en France. Fabriqué en Midi-Pyrénées",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010301301.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-tofou-provencale-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 8.4
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.6,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 5
+                    }
+                },
+                "ingredients": "Tofu* 83,4% (eau, soja*(1), agents de coagulation : sulfate de calcium, nigari), concentré de tomates* 7,6%, oignons* 6,6%, flocons d’avoine* complète, sauce de soja* (eau, soja*, blé*, sel de mer, ferment), basilic*, farine de blé*, persil*, ail*, sel de mer, huile de tournesol*, herbes de Provence*, épaississant : gomme guar*, poivre*, extrait de levure*.\n*Ingrédients issus de l'agriculture biologique.\n(1)Soja français sans OGM issu de filière BIOPARTENAIRE® contrôlée selon le référentiel FiABLE.\nTraces possibles d'oeufs, de lait, fruits à coque, céleri et sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.45,
+                "price_per_unit": 22.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7)",
+                "conservation": "A conserver à 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-tofou-comte-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC TOFOU AU COMTÉ 2X100G BIO",
+                "desc": "Croc Tofou au Comté 2x100g Bio\nDe délicieuses galettes, riches en protéines et sans huile de palme, cuisinées avec du Comté fondant et relevées d'une pointe de muscade.\nRiche en protéines et en calcium.\nSource de fibres et de magnésium\nSoja équitable cultivé en France. Fabriqué en Midi-Pyrénées. Comté du Jura",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259011224234_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-tofou-comte-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.6
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.9,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 5.2
+                    }
+                },
+                "ingredients": "Tofu* 91,9% (eau, soja*(1) agents de coagulation : sulfate de calcuim, nigari), Comté* 11%, flocons de millet*, semoule de maïs*, extrait de levure, farine de riz*, sel de mer, épices*, épaississant : gomme guar*.\n*Ingrédients issus de l'Agriculture Biologique.\n(1)Soja français sans OGM issu d'une filière Bio Solidaire contrôlée par Ecocert Environnement.\nFabriqué dans un atelier qui utilise du gluten, des oeufs, du lait, des fruits à coque, du céleri et du sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 18.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée. Accompagner de légumes de saison, d'une salade ou de céréales.\n\nAu four : 10 min à 210°C (th.7)",
+                "conservation": "A conserver à 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-tofu-cepes-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC TOFU CÈPES EN PERSILLADE 200G BIO",
+                "desc": "Croc Tofu cèpes en persillade 200g Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259011224234_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-tofu-cepes-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:46",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 8.5
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Tofu* 91,3% (eau, SOJA*(1), agents de coagulation : sulfate de calcium, nigari), cèpes* réhydratés 7%, flocons d’AVOINE complète*, farine de BLÉ*, persil*, échalotes*, ail*, sel de mer, extrait de levure*, épices*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.45,
+                "price_per_unit": 22.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "tofou-marine-japonaise-2x140g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFOU MARINÉ À LA JAPONAISE 2X140G BIO",
+                "desc": "Tofou mariné à la Japonaise 2x140g Bio\nRetrouvez la richesse de la cuisine traditionnelle japonaise dans ce tofu prêt-à-savourer. Déjà mariné dans une sauce au tamari doux, il se déguste tel quel, en cubes ou en brochettes, ou se prête à une multitude de recettes ultra-faciles !\n- Riche en protéines végétales\n- Source de fibres\n- Source de calcium\n- Source de magnésium\n- Faible teneur en graisses saturées\nSoja français sans OGM issu d'une filière Bio Solidaire. Fabriqué en Midi-Pyrénées",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofou-marine-japonaise-2x140g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "140G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.3,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Tofu* 89,3% (eau, soja*, agents de coagulation : sulfate de calcium, nigari), sauce soja* 9,7%, (eau, soja*, blé*, sel de mer, ferments), sucre de canne*.\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Coupé en petits cubes : dans une salade, une poêlée ou en brochettes\nÉmietté : dans une farce ou un gratin\nMixé : dans une sauce ou un dessert",
+                "conservation": "A conserver au réfrigérateur à 4°C environ."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "tofume-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFOU FUMÉ AU BOIS DE HÊTRE 200G BIO",
+                "desc": "Tofou fumé au bois de hêtre 200g Bio\nFumé au bois de hêtre, le Tofou fumé révèle une saveur tout en finesse et une texture ferme et onctueuse.\n- Riche en protéines végétales\n- Source de fibres\n- Source d'Oméga3\n- Riche en magnésium\nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012359144102_baerlauch_bratfilets_fr_0120_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofume-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 520
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 10
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.1,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Tofu*(1) (eau, soja*décortiqué, gélifiant : nigari), tamari* (eau, soja*entier, sel de mer, alcool*, ferment), sel de mer, ail*, coriandre*, muscade*, poivre*.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 17.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Coupé en petits cubes : dans une salade ou une poêlée\nEmietté : dans une farce ou un gratin\nMixé : dans une sauce",
+                "conservation": "A conserver à +4° C / Après ouverture, à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "2",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFOU FRAIS NATURE 2X125G BIO",
+                "desc": "Tofou frais Nature 2x125g Bio\nLe Tofou est un caillé frais de « jus » de soja (ou Tonyu), élaboré à partir de graines de soja rigoureusement sélectionnées. Son goût neutre et sa texture souple lui permettent de s'adapter à de nombreuses préparations.\nRiche en protéines végétales\nSource de fibres\nSource de calcium\nSource de magnésium\nSource d'Oméga3\nSans sel\nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012359114303_tofu_rosso_0119.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofou-nature-frais-125gx2"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 9
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Eau, soja*(1), gélifiants : sulfate de calcium, nigari.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.89,
+                "price_per_unit": 11.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Coupé en petits cubes : dans une salade ou une poêlée\nEmietté : dans une farce ou un gratin\nMixé : dans une sauce ou un dessert",
+                "conservation": "A conserver à +4° C. Après ouverture, à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "200",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFINELLES ÉPINARDS & PIGNONS 200G BIO",
+                "desc": "Tofinelles épinards & pignons 200g Bio\nDe délicieuses quenelles au tofu frais cuisinées avec des épinards et des pignons de pin, finement relevées d’une pointe de muscade. Elles s’invitent à tous vos repas légers et équilibrés, accompagnées de légumes de saison, d’une salade ou de céréales.\nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.\nRiche en protéines végétales, source de fibres, source d'Oméga3, riche en magnésium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012359144003_japanische_bratfilets_fr_0120.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofinelles-epinards-pignon-200"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 8
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 4.1
+                    }
+                },
+                "ingredients": "Tofu*(1) 70,% (eau, soja* décortiqué 17,5%, gélifiants: sulfate de calcium, nigari), épinards* 16,4%, farine de riz*, blanc d’œuf* en poudre, sel de mer, pignons de pin* 1,1%, huile de tournesol*, ail*, muscade*, poivre*.",
+                "allergens": [
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 22.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : faire dorer les Tofinelle 5 à 6 min dans une poêle légèrement huilée, à feu doux, en les tournant régulièrement. Pour plus de croustillant, couper les Tofinelle en rondelles avant de les faire dorer.\nEn salade : mélanger des rondelles de Tofinelle (froides ou revenues à la poêle) avec les crudités de votre choix et arroser d’une vinaigrette légère.\nEn sauce : recouvrir les Tofinelle d’une sauce tomate ou d’une béchamel, saupoudrer de chapelure ou d’emmental râpé et faire gratiner 15 min à four chaud.",
+                "conservation": "A conserver à +4° C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "tofou-soyeux-nature-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOFOU SOYEUX NATURE 400G BIO",
+                "desc": "Tofou soyeux Nature 400g Bio\nFin et fondant, le Tofou Soyeux est une aide culinaire 100% végétale pauvre en matière grasse qui vous permettra d’interpréter facilement quiches, tartes et desserts imaginatifs ! Sa base neutre remplace aisément la crème fraîche et autres produits laitiers pour une cuisine légère et créative.\nRiche en protéines\nPauvre en matières grasses\nSoja équitable cultivé en France. Fabriqué dans le Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010101512.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tofou-soyeux-nature-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 5.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.4,
+                        "of_which_sugars": 0.9
+                    }
+                },
+                "ingredients": "Tofu* 100% (eau, soja* décortiqué 10,4%, gélifiant : nigari).",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 7.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mixé, haché ou mélangé à d’autres ingrédients, le Tofou Soyeux remplace aisément la crème fraîche et autres produits laitiers tout en contenant moins de matières grasses.\nAvec sa texture unique, il convient à toutes sortes de préparations, depuis les sauces jusqu’aux tartes, aux flans, et même aux glaces.",
+                "conservation": "A conserver au frais, à 4°C. Après ouverture, à consommer dans les 3 jours"
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-seitan-aubergine-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC' SEITAN AUBERGINES 2X100G BIO",
+                "desc": "Croc' Seitan aubergines 2X100g Bio\nDe délicieuses galettes végétales aux accents du Sud, mariant la texture moelleuse du seitan à la saveur des aubergines, des poivrons et des fines herbes.\nSans huile de palme, fabriqué en Midi-Pyrénées.\nRiche en protéines végétales.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-courgette-curry-887x1024.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-seitan-aubergine-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Seitan de blé* 39,6% (eau, gluten de blé*, farine de blé*, sel de mer), aubergines* 25,5%, riz complet* précuit, farine de blé*, poivrons rouges* 7,1%, huiles* végétales (tournesol* oléique désodorisée et tournesol*), flocons d’avoine complète*, oignons*, sel de mer, plantes* aromatiques (basilic*, thym*, origan*), paprika doux*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 24.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : à feu doux 2 à 3 min de chaque côté, sans ajouter de matière grasse.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à +4° C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "croc-seitan-emmental-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROC' SEITAN POMMES DE TERRE, EMMENTAL & OIGNO...",
+                "desc": "Croc' seitan pommes de terre, emmental & oignons 200g Bio\nPremier Croc'Seitan au fromage, riche en calcium, source de fibres, source de protéines. Ces galettes sont une idée originale pour découvrir de nouvelles saveurs et remplacer la viande de temps en temps.\nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259010201205_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croc-seitan-emmental-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.8
+                    },
+                    "fats": {
+                        "fats": 9
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Seitan de blé* 35,2% (eau, gluten de blé*, farine de blé*, sel de mer), riz* complet précuit, pommes de terre 12,7%*, poireaux*, emmental* 10,5%, oignons* 7,9%, huiles* végétales (tournesol oléique* désodorisée et tournesol*), flocons d’avoine* complète, farine de blé*, ail*, sel de mer, cumin*, poivre*, curcuma*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 23.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : à feu doux 2 à 3 min de chaque côté, sans ajouter de matière grasse.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à +4° C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "grinioc-brebis-tomate-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRINIOC BREBIS ET TOMATE 2X100G BIO",
+                "desc": "Grinioc Brebis et Tomate 2x100g Bio\nDe délicieuses galettes au boulgour croquant et au fromage de brebis fondant, cuisinées avec des tomates confites à l'huile d'olive et une pointe de basilic.\nAux céréales complètes, source de fibres, faible teneur en acides gras saturés.\nFabriqué en Midi-Pyrénées, sans huile de palme.\nFromage de brebis du Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259010201205_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/grinioc-brebis-tomate-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:47",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 950
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 7.8
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 28,
+                        "of_which_sugars": 3.8,
+                        "dietary_fiber": 4.6
+                    }
+                },
+                "ingredients": "Boulgour de blé* complet réhydraté 52,6%, eau, farine de blé* 9,4%, fromage de brebis* (sans présure animale) 6,4%, huile de tournesol oléique* désodorisée, flocons d’avoine* complète, flocons de blé* complet 3,8%, tomates* confites 2,2% (tomates*, huile d’olive vierge extra*, vinaigre*), gluten de blé* 2,1%, basilic*, concentré de tomates* 1,3%, sel de mer, tomates* séchées 0,56%, ail*, poivre*.\n*Ingrédients issus de l'Agriculture Biologique.\nFabriqué dans un atelier qui utilise sésame, céleri, fruits à coque, oeuf, soja, lupin et moutarde.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.0,
+                "price_per_unit": 20.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à 4°C, à consommer dans les 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "grini-org-chev-miel-noi-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRINIOC ORGE, CHÈVRE, MIEL & NOIX 2X100G BIO",
+                "desc": "Grinioc Orge, Chèvre, Miel & Noix 2x100g Bio\nDe délicieuses galettes associant de l'orge et du boulgour de blé, cuisinées avec de la tome de chèvre et du miel et agrémentées d'éclats de noix.\nCéréales complètes\nRiche en fibres\nFabriqué en Midi-Pyrénées. Sans huile de palme. Fromage de chèvre du Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-proven_ale.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/grini-org-chev-miel-noi-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 8.6
+                    },
+                    "proteins": {
+                        "proteins": 7.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27,
+                        "of_which_sugars": 4.5,
+                        "dietary_fiber": 4.6
+                    }
+                },
+                "ingredients": "Boulgour d’orge* cuit 36,6% , boulgour de blé complet* réhydraté 29%, oignons*, farine de blé* 5,3%, huiles végétales* (huile tournesol oléique* désodorisée, huile de tournesol*), fromage* de chèvre 4,9%, flocons d’avoine complète* 3,9%, flocons de blé* complet 3,9%, gluten de blé* 2,9%, miel* 2,9%, noix* 2%, graines de pavot*, sel de mer, poivre*.\nFabriqué dans un atelier qui utilise céleri, fruits à coque, lupin, moutarde, sésame, oeuf et soja.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Fruits à coque",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 19.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "grinioc-riz-legumes-safran",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRINIOC AU RIZ, PETITS LÉGUMES & SAFRAN 2X100G BIO",
+                "desc": "Grinioc au Riz, Petits légumes & Safran 2x100g Bio\nDe délicieuses galettes cuisinées « façon Paëlla », avec du riz complet, des poivrons, des petits pois et des oignons, le tout délicatement relevé d’une pointe de safran.\nRiz complet\nSource de fibres\nPauvre en graisses saturées\nSoja français sans OGM issu d'une filière Bio Solidaire, fabriqué en Midi-Pyrénées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259010201205_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/grinioc-riz-legumes-safran"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 8.8
+                    },
+                    "proteins": {
+                        "proteins": 5.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 3.9
+                    }
+                },
+                "ingredients": "Riz complet* précuit 64,7%, petit pois* 11,6%, flocons de pois chiches*, oignons* 7,3%, poivrons rouges* 6,3%, huiles* végétales (tournesol oléique* désodorisée et tournesol*), farine de riz*, sel de mer, ail*, safran*.\n*Ingrédients issus de l'agriculture biologique.\nFabriqué dans un atelier qui utilise : gluten, fruits à coque, sésame, oeuf, lait, soja et céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 19.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagner de légumes de saison, d'une salade ou de céréales.\nA la poêle : à feu doux 2 à 3 min de chaque côté dans une poêle légèrement huilée.\nAu four : 10 min à 210°C (th.7).",
+                "conservation": "A conserver à 4°C, et à consommer dans les 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "galette-epinards-pignon-2x90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES ÉPINARDS & PIGNONS 2X90G BIO",
+                "desc": "Galettes épinards & pignons 2X90g Bio\nDécouvrez le savoureux mariage de la figue et du fromage de brebis dans cette délicieuse galette de céréales. Un mélange sucré salé exceptionnel en quelques minutes à la poêle !\nFabriqué en Haute-Provence, farine de blé du Luberon, sans huile de palme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259011224234_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-epinards-pignon-2x90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 6
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39,
+                        "of_which_sugars": 4.8
+                    }
+                },
+                "ingredients": "Flocons de blé* complet hydratés 43,5 g(1), riz* complet cuit 29,2 g(1), flocons d’avoine* complète hydratés 21,8 g(1), farine de blé* complet 9,6 g(1), oignons*, épinards* 8,6 g(1), huile de tournesol* désodorisée, pignons* de pin 3,2 g(1), ail*, sel de mer, herbes* de Provence, poivre*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 21.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À la poêle : 2 min de chaque côté, avec ou sans matière grasse.\nÀ four chaud (200°C) : pendant 10 min pour une galette plus croustillante.\nAu grille-pain : pour les plus pressés !\nIdéales en accompagnement de crudités, salade verte ou de légumes cuisinés (ratatouille, gratin, purée, etc.…).",
+                "conservation": "À conserver à +4°C.\nAprès ouverture, à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "galette-courget-curry-2x90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES COURGETTE & CURRY SANS HUILE DE PALME 2X90...",
+                "desc": "Galettes Courgette & Curry Sans Huile de Palme 2X90g Bio\nDélicieuse galette de céréales alliant le fondant de la courgette au doux parfum du curry. Un voyage en orient le temps d’une pause déjeuner équilibrée !\nRiche en fibres. Faible teneur en graisses saturées. Aux céréales complètes. Sans huile de palme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03259011224234_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-courget-curry-2x90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 850
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 6.1
+                    },
+                    "proteins": {
+                        "proteins": 5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Flocons de blé* complet hydratés 42 g(1), riz* complet cuit 28,1 g(1), oignons* 25,5 g(1), flocon d’avoine* complète hydratés 21 g(1), courgettes* 20,5 g(1), farine de blé* complet 9,2 g(1), huile de tournesol* désodorisée, ail*, curry* (contient de la moutarde*), sel de mer, herbes* de Provence.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 21.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À la poêle : 2 min de chaque côté, avec ou sans matière grasse.\nÀ four chaud (200°C) : pendant 10 min pour une galette plus croustillante.\nAu grille-pain : pour les plus pressés !",
+                "conservation": "À conserver à +4°C\nAprès ouverture, à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "seitan-fume-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SEITAN FUMÉ EN TRANCHES 100G BIO",
+                "desc": "Seitan fumé en tranches 100G Bio\nCharcuterie végétale avec un délicieux goût de fumé, à base de seitan.\nSous forme de tranches pour une utilisation pratique.\nIl peut se consommer chaud ou froid dans vos sandwichs, salades composées ou encore dans vos croques-monsieur, pâtes et riz.\nRiche en protéines. Sa recette est sans huile de palme et sans sucres ajoutés.\nConvient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010108047.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/seitan-fume-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 12.2
+                    },
+                    "proteins": {
+                        "proteins": 27.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.9,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "Seitan* 85 % (eau, protéines de BLE*), huile de tournesol*, sel, extrait de levure*, oignons*, épaississant (farine de caroube*, gomme de guar*), épices*, fumées au bois de hêtre.\nPeut contenir des traces de CELERI, MOUTARDE, SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 29.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster dans vos recettes froides comme chaudes : salades, pâtes, sandwichs, riz...",
+                "conservation": "A conserver à maximum +7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "weenies-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI-SAUCISSES VÉGÉTALES 200G BIO",
+                "desc": "Mini-saucisses végétales 200G Bio\nSaucisses à base de protéine de blé avec une texture ferme qui ressemble à celle de la viande. Sans lactose et sans oeuf et riches en protéines.\nLégèrement fumées au bois de hêtre, ces saucisses sont délicieuses avec des lentilles, dans un tajine, en hot-dog ou simplement à la poêle. Les enfants adorent !\nConvient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-panisse.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/weenies-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 14.6
+                    },
+                    "proteins": {
+                        "proteins": 30.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.7,
+                        "of_which_sugars": 0.4
+                    }
+                },
+                "ingredients": "Seitan* 83 % (eau, protéines de blé*), huile de tournesol*, sel, extrait de levure*, oignons*, épices* (contient de la moutarde*), épaississant (farine de caroube*), extrait de poivron*, fumées au bois de hêtre.\n\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 24.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Huilez légèrement pour griller ou à savourer comme accompagnement de soupes, potages, riz ou autres féculents.",
+                "conservation": "Une fois ouvert, consommer dans les 48 heures.\nPeut être congelé (pas d'altération de texture ou de goût).\nConsommer dans les 3 mois après congélation."
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    },
+    {
+        "ean": "virginia-steack-175g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Produits vegans et végétariens"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VÉGÉ'POIVRÉ VIRGINIA STEAK 175G BIO",
+                "desc": "Végé'Poivré Virginia steak 175G Bio\nUne explosion de saveurs épicées dans un végé'steak 100% vegan ferme sous la dent: le résultat du Végé'Poivré de Wheaty.\nWheaty est une gamme unique de produits à base de protéines de blé.\nElle est bio, vegan, sans huile de palme, riche en protéines végétales mais surtout goûteuse, légèrement épicée et à la texture idéale.\nQue ce soit sous forme de saucisses végétales, rôtis vegan, assortiment pour barbecue végétalien ou végé’poêlées, leurs produits sont rapides et simples à utiliser, encore plus à déguster !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pack-hach_-bolo.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/virginia-steack-175g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:48",
+                "format": "175G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8
+                    },
+                    "fats": {
+                        "fats": 9.9
+                    },
+                    "proteins": {
+                        "proteins": 25.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 1.9
+                    }
+                },
+                "ingredients": "Seitan* (76%) (eau, protéines de blé*), huile de coco*, fibres d'avoine*, sel, oignons*, épices* (contient du céleri* et de la moutarde*), extrait de levure*, amidon de blé*, fécule de pomme de terre*, épaississant : xanthane.",
+                "allergens": [
+                    "Gluten",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 31.71,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A faire revenir à la poêle ou griller sur le barbecue.\nDélicieux avec une salade ou des frites!"
+            }
+        ],
+        "created_at": "2025-06-16T03:44",
+        "updated_at": "2025-06-16T03:44"
+    }
+]

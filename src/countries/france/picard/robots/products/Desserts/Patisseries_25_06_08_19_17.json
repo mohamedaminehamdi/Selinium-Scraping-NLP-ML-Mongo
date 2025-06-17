@@ -1,0 +1,88 @@
+[
+    {
+        "ean": "000000000000066656",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 moelleux chocolat caramel au beurre salé",
+                "desc": "Pâtisseries surgelées composées d'un moelleux au chocolat 72,7% avec un coeur coulant au caramel 27,3%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moelleux-chocolat-caramel-beurre-sale-000000000000066656.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-08T19:17",
+                "format": "LA BOÎTE DE 180 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "ŒUF entier de poule élevée en plein air (liquide, pasteurisé), beurre concentré 21% (LAIT), chocolat 15,4% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), farine de BLÉ (GLUTEN), caramel au beurre salé 10,1% [sirop de glucose-fructose, sucre, eau, beurre salé 9% (LAIT), amidon transformé de maïs, épaississants (gomme xanthane, pectines)], sucre, sirop de glucose, chocolat blanc (sucre, beurre de cacao, LAIT entier en poudre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), caramel 2,7% (sirop de glucose, sucre), LAIT écrémé en poudre, émulsifiant : lécithine de SOJA, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.7,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n18 min\nPréchauffez votre four à 180°C (th.6). Sortez les moelleux de leur étui et de leur sachet plastique. Pour obtenir des moelleux au cœur coulant, enfournez-les à mi-hauteur dans leur barquette et laissez cuire le temps indiqué. - four traditionnel : 22 min - four à chaleur tournante : 18 min Pour obtenir des moelleux au cœur tendre, enfournez-les à mi-hauteur dans leur barquette et laissez cuire le temps indiqué. - four traditionnel : 25 min - four à chaleur tournante : 20 min Démoulez les moelleux sur une assiette, laissez tiédir 10 minutes et dégustez.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,62 €/kg\nprix soldé\n2,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n27,10 €/kg\nprix soldé\n15,99 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n19,95 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.79,
+            "total_reviews": 540
+        }
+    }
+]

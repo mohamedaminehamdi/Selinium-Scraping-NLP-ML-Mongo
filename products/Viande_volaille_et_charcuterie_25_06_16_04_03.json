@@ -1,0 +1,2203 @@
+[
+    {
+        "ean": "lardons-fumes-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LARDONS FUMÉS AU BOIS DE HÊTRE 150G BIO",
+                "desc": "Lardons fumés au bois de hêtre 150G Bio\nLardons sans sel nitrité ajouté.\nPorc",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410048587.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lardons-fumes-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:59",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3630
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.63
+                    },
+                    "fats": {
+                        "fats": 20.5
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.1,
+                        "of_which_sugars": 1.9
+                    }
+                },
+                "ingredients": "Poitrine de porc* (85%-Origine France), décoction (eau(7%), poireau*, ail*, thym*, laurier*), sel de Camargue, vinaigre*, dextrose de maïs*, poudre de betterave rouge, extrait d'acérola*; romarin*, ferment fumet : bois de hêtre non traité.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 27.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire revenir à la poêle à feu doux, jusqu'à cuisson à coeur.",
+                "conservation": "A conserver entre 0° et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "poitrine-de-dinde-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BLANC DE DINDE AU FOUR 80G BIO",
+                "desc": "Blanc de dinde au four 80G Bio\nCharcuterie fine Italienne, blanc de dinde au four, 2% de matières grasses.\nSans gluten, sans lait et ses dérivés, sans sel de nitrate ajouté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/2/2220528_-_escalopes_de_poulet_extra_finex1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poitrine-de-dinde-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:59",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 21
+                    }
+                },
+                "ingredients": "Viande de dinde*97%, sel de mer, vin blanc*, arôme naturelle, épices* et plantes aromatiques*.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 62.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver a max +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-roti-aux-herbes-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON RÔTI AUX HERBES 100G BIO",
+                "desc": "Jambon rôti aux herbes 100G Bio\nCe jambon est préparé en Italie selon une recette authentique. Le jambon est rôti, cuit « à sec » et lentement doré au four de manière traditionnelle.\nLa saumure et les herbes donnent au jambon une saveur typique méditerrannéenne, en particulier grâce à la sauge et au romarin.\nCette charcuterie italienne a la particularité d’être découpé en tranches fines à la texture fondante, pour encore plus de plaisir.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700036905771_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-roti-aux-herbes-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:59",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1650
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.1
+                    },
+                    "fats": {
+                        "fats": 15
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Cuisse de porc*, plantes aromatiques*, sel, sucre*, préparation aromatisante naturelle contenant des nitrites d'origine végétale, antioxydant : acide ascorbique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 55.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur.",
+                "old_price": 6.49
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "prosciutto-basilic-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROSCIUTTO BASILIC 80G BIO",
+                "desc": "Prosciutto basilic 80g Bio\nUn jambon cuit en chiffonade au basilic. Une recette italienne, réalisée avec des porcs élevés en Italie. Idéal pour vos apéritifs, vos raclettes et tous vos sandwiches.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8008481792409.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/prosciutto-basilic-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:59",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.2
+                    },
+                    "fats": {
+                        "fats": 8.2
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "cuisse de porc*, sel, sucre*, arômes naturels, basilic* 1,5%, antioxydant : ascorbate de sodium; conservateur : nitrite de sodium.\n* ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 52.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une charcuterie à déguster seule, dans un bagel pour vos pique-nique ou pour vos soirées raclettes.",
+                "conservation": "A conserver au frais.",
+                "old_price": 4.99
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "steaks-haches-5-mg-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "STEAKS HACHÉS PUR BŒUF FAÇON BOUCHÈRE 5% 2X100G BIO",
+                "desc": "Steaks hachés pur bœuf façon bouchère 5% 2x100g Bio\nSteaks hachés pur boeuf issus de l'agriculture biologique.\nDepuis sa création en1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio.\nCes partenariats, fondés sur l'expertise et la maîtrise des filières, garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculteur biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pack_le_paysan_bio_porc_cote.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/steaks-haches-5-mg-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:59",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Viande hachée de boeuf fraîche*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.09,
+                "price_per_unit": 25.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "lardons-nature-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LARDONS NATURES 150G BIO",
+                "desc": "Lardons natures 150g Bio\nLardons natures de porc d'origine française.\nIdéal pour vos recettes de pâtes, riz cantonais...\nProduit issu de l'agriculture biologique.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lardons-nature-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.6
+                    },
+                    "fats": {
+                        "fats": 20.5
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    }
+                },
+                "ingredients": "*poitrine fraîche de porc (87% - origine France), eau, sel de mer, *sucre de canne, *extrait de levure, *carotte, *oignon, *arôme naturel de citron, *poireau, *ail, *romarin, *poivre.\nTraces éventuelles de gluten, d'oeufs, de lait, de fruits à coque, de moutarde et de sulfites.\n*Ingrédient issu de l'agriculture biologique\nLes informations en gras et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 27.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-dd-2t-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON DÉCOUENNÉ DÉGRAISSÉ SANS SEL NITRITÉ 2 TRANCHES...",
+                "desc": "Jambon découenné dégraissé 2 tranches 80g Bio\n2 tranches savoureuses de jambon découenné et dégraissé de porc français.\nProduit issu de l'agriculture biologique.\nSans sel nitrité.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-dd-2t-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    }
+                },
+                "ingredients": "*jambon de porc (87% - origine France), eau, sel de mer, *sucre de canne, *extrait de levure, *carotte, *oignon, *arôme naturel de citron, *poireau, *ail, *romarin, *poivre.\nTraces éventuelles de gluten, d'oeufs, de lait, de fruits à coque, de moutarde et de sulfites.\n*Ingrédient issu de l'agriculture biologique\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 49.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à l'apéro, en entrée ou dans vos recettes de sandwiches.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-dd-naturalia-4t-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON DÉCOUENNÉ DÉGRAISSÉ SANS SEL NITRITÉ 4 TRANCHES ...",
+                "desc": "Jambon découenné dégraissé 4 tranches 160g Bio\n4 tranches savoureuses de jambon découenné et dégraissé de porc français.\nProduit issu de l'agriculture biologique.\nSans sel nitrité.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8008481792409.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-dd-naturalia-4t-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    }
+                },
+                "ingredients": "*jambon de porc (87% - origine France), eau, sel de mer, *sucre de canne, *extrait de levure, *carotte, *oignon, *arôme naturel de citron, *poireau, *ail, *romarin, *poivre.\nTraces éventuelles de gluten, d'oeufs, de lait, de fruits à coque, de moutarde et de sulfites.\n*Ingrédient issu de l'agriculture biologique\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 43.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à l'apéro, en entrée ou dans vos recettes de sandwiches.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "3740600",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BLANC DE POULET 2 TRANCHES 80G BIO",
+                "desc": "Blanc de poulet 2 tranches 80G Bio\nFilet de poulet reconstitué, cuit, traité en salaison, de qualité supérieure, issu de l'agriculture biologique.\nPoulet",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3422210446640.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/blanc-poulet-2-tranches-80g-3740600"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.2,
+                        "of_which_sugars": 0.7
+                    }
+                },
+                "ingredients": "Filet de poulet* 93%, eau, sel, dextrose*, bouillon de volaille déshydraté* (plantes aromatiques*, graisse de poulet*, viande de poulet*), poivre*, arome naturel de romarin*.\n*Issu de l'agriculture biologique.\nTraces éventuelles de GLUTEN, LAIT, OEUFS.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 5.05,
+                "price_per_unit": 63.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-sup-ac-ssna-2tr-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON SUPÉRIEUR AVEC COUENNE SANS SEL NITRITÉ X2 80G B...",
+                "desc": "Jambon supérieur avec couenne x2 80g Bio\nDécouvrez ce jambon cuit avec couenne de qualité supérieure issu de l'agriculture biologique. Sans sel nitrité.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.\nPorcs",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8008481792409.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-sup-ac-ssna-2tr-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.8
+                    },
+                    "fats": {
+                        "fats": 5.4
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3,
+                        "of_which_sugars": 0.9
+                    }
+                },
+                "ingredients": "Jambon de porc* 78% (France), couenne de porc* 10%, sel, sucre de canne*, arôme naturel de citron* et arôme naturel de caroube* (contiennent naturellement des polyphénols),  antioxydant : acide ascorbique.\n*Ingrédients issus de l’agriculture biologique.\nTraces éventuelles de lait, de céleri, de fruits à coque, de moutarde et de sulfites.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 43.62,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour la préparation de vos plats, de vos sandwich lorsqu'il vous faut un en-cas rapide à préparer, pour vos salades...",
+                "conservation": "A conserver au réfrigérateur, entre 0°C et +4°C.\nA consommer dans les 48h après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-ac-ss-nit-4tr-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON CUIT AVEC COUENNE SANS SEL NITRITÉ X4 160G BIO",
+                "desc": "Jambon cuit avec couenne sans sel nitrité x4 160g Bio\nDécouvrez ce jambon cuit avec couenne de qualité supérieure, issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique. Sans sel nitrité.\nPorcs",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive44.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-ac-ss-nit-4tr-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "160G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.8
+                    },
+                    "fats": {
+                        "fats": 5.4
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3,
+                        "of_which_sugars": 0.9
+                    }
+                },
+                "ingredients": "Jambon de porc* 80% (France), couenne de porc* 10%, sel, sucre*, arôme naturel de citron* et arôme naturel de caroube* (contiennent naturellement des polyphénols), extrait de levure*, antioxydant : acide ascorbique, ail*, poivre*.\n*Ingrédients issus de l’agriculture biologique.\nTraces éventuelles de lait, de céleri, de fruits à coque, de moutarde et de sulfites.\nLes informations en gras sont destinées aux personnes intolérantes et allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 40.62,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour la préparation de vos plats, de vos sandwich lorsqu'il vous faut un en-cas rapide à préparer, pour vos salades...",
+                "conservation": "A conserver au réfrigérateur, entre 0° et 4°C.\nA consommer dans les 48h après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "6756203",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCISSES DU BERGER X4 220G BIO",
+                "desc": "Saucisses du Berger x4 220g Bio\nDécouvrez ces saucisses du berger, aux herbes de Provence.\nBasée à Gap, la maison Rostain élabore des saucisses à partir de viande issue de l’agriculture biologique. Afin de garantir la qualité constante des produits, ils ont su garder, tout au long de ces années, une authenticité dans la fabrication artisanale en perpétuant les recettes familiales et en privilégiant les éleveurs locaux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive44.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/saucisse-berger-220g-6756203"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 10
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    }
+                },
+                "ingredients": "Viande de mouton* (48% origine France), viande de porc* (43% origine France), vinaigre, sel de Camargue, sucre de canne*, dextrose de maïs*, extrait d'acérola*, ail*, herbes de Provence* (0,3%), poivre*, ferments, boyau naturel de mouton.\n*Ingrédients issus de l'agriculture biologique. \nAtelier utilisant de la farine de blé et fruits à coque.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 7.8,
+                "price_per_unit": 35.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal lorsqu'elles sont cuites sur le barbecue ou au grill. A consommer cuit à coeur.",
+                "conservation": "Se concerve au réfrigérateur, entre 0° et 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "6756200",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCISSES FUMÉES SANS NITRITE 200G BIO",
+                "desc": "Saucisses fumées sans nitrite 200g Bio\nDeux saucisses fumées au bois de hêtre. Fabriquées dans les ateliers de Bioporc en Vendée (France).\nUne recette sans nitrites grâce à l'ajout d'extraits végétaux et d'antioxydants, avec du porc français.\nTous nos animaux sont nourris exclusivement avec des aliments garantis sans OGM** (**Organisme Génétiquement Modifié). Le mode d'élevage de l'agriculture biologique respecte le bien-être des animaux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700036906853_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/saucisses-fumees-ss-nitrite-6756200"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.9
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Viande de porc*, sel, arôme naturel de citron*, arôme naturel de caroube*, poivre*, antioxydant: acide ascorbique, extrait de levure, ail, boyau naturel de porc.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 34.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Conseils de réchauffage : Une fois sorties de la barquette, plongez les saucisses 5 minutes dans l'eau chaude mais non bouillante.",
+                "conservation": "A conserver au réfrigérateur, entre 0° et 4°C.\nA consommer dans les 48h après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "bresaola-70gr",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BRESAOLA 70G BIO",
+                "desc": "Bresaola 70g Bio\nUne délicieuse charcuterie Italienne de boeuf d'origine UE, tranchée finement, naturellement sans gluten et sans lactose.\nUne recette idéale pour tous vos apéritifs, pique nique, sandwich ou vos raclettes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive44.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bresaola-70gr"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "70G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 33
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Viande de Boeuf* (origine du boeuf: UE), sel de salaison (sel, conservateur: E250), dextrose*, saccarose*, arômes naturels.",
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 99.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une charcuterie à déguster seule ou pour vos apéritifs, pique nique...",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "jambon-a-la-truffe-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROSCIUTTO TRUFFE 100G BIO",
+                "desc": "Prosciutto truffe 100g Bio\nDe délicieuses tranches de jambon cuit supérieur à la truffe d'été. Une charcuterie fine italienne à consommer seule, à l'apéritif ou pour accompagner vos raclettes et fondues.\nSa barquette est fabriqué avec -75% de plastique en moins par rapport aux barquettes traditionnelles, pour réduire l'empreinte écologique.\nUne recette sans gluten, sans lait et ses dérivés et sans sel nitrité ajouté.\nFabriqué en Italie.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8008481792409.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jambon-a-la-truffe-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:00",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.8
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 21
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Cuisse de PORC*, sel de mer, truffe* noir hâché et en cube (1%), arômes naturels (ail, gingembre, genévrier, poivre, sel, extraits végétaux de betterave et carotte, oignon), antioxydant : E300.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 69.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une charcuterie italienne à déguster seule ou à l'apéritf.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "mortadelle-ss-nitrites-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MORTADELLE SANS NITRITES 100G BIO",
+                "desc": "Mortadelle sans nitrites 100g Bio\nDes tranches de mortadelle sans sel nitrité. Viande d'origine Italie, une recette traditionnelle, à consommer seule, dans vos sandwiches ou avec d'autres charcuteries pour vos soirées raclettes.\nNe contient pas de lactose, ni gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive44.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mortadelle-ss-nitrites-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1
+                    }
+                },
+                "ingredients": "Viande de porc* 97 %, sel de mer, arômes naturels (extraits végétaux de betterave et de carotte), dextrose*, épices*, plantes aromatiques*, anti-oxydant (acide ascorbique).\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 41.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une charcuterie à déguster seule, dans un bagel pour vos pique-nique ou pour vos soirées raclettes.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "rssti-de-porc-sans-sel-nitrite",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RÔTI DE FILET DE PORC CUIT X4 BIO",
+                "desc": "Rôti de filet de porc cuit X4 Bio\nRôti de filet de porc cuit 4 tranches. \nSans nitrite ajouté.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pack_le_paysan_bio_veau_escalope.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/rssti-de-porc-sans-sel-nitrite"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.3
+                    },
+                    "fats": {
+                        "fats": 6.1
+                    },
+                    "proteins": {
+                        "proteins": 25
+                    }
+                },
+                "ingredients": "Longe de porc*, eau, poireau*, ail*, thym*, laurier*, sel de camargue, dextrose de maïs*, arômes naturels, extrait d'acerola*, romarin*, ail*,  ferment.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 6.85,
+                "price_per_unit": 45.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "bacon-8tr-100g-rostain",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BACON TRANCHÉ 100G BIO",
+                "desc": "Bacon tranché 100g Bio\nDécouvez le bacon tranché fumé traditionnellement au bois de hêtre. \nSans nitrites ajoutés. \nIdéal pour vos raclettes, vos plats maisons...\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700036905771_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bacon-8tr-100g-rostain"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 24
+                    }
+                },
+                "ingredients": "Longe fraîche de porc*, infusion (eau, ail*, thym*, laurier, poireau), sel de mer, vinaigre*, dextrose*, extrait d'acérola*, poudre de betterave rouge*, romarin*, sumet : bois de hêtre non traité.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 49.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "viande-des-grisons-igp-60g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VIANDE DE GRISONS IGP 60G BIO",
+                "desc": "Viande de grisons IGP 60g Bio\nDe la viande de boeuf assaisonnée et séchée pour faire de cette charcuterie, une spécialité suisse savoureuse et parfumée.\nNaturellement maigre et faible en matières grasses.\nLabel IGP (Indication Géographique Protégée)\nBarquette recyclable composée à 85% de papier.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/viande-des-grisons-igp-60g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "60G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 38
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Viande de boeuf*, sel iodé, épices*, sirop de glucose*, antioxydant: citrate de sodium, conservateur : nitrate de potassium.\n* Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 6.6,
+                "price_per_unit": 110.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à l'apéritif, au pique-nique ou pour vos soirées raclettes.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "chair-a-saucisse-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHAIR À SAUCISSE 260G BIO",
+                "desc": "Chair à saucisse 260g Bio\nChair à saucisse pur porc,",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chair-a-saucisse-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "260G",
+                "availability": true,
+                "ingredients": "chair à saucisse pur porc (origine France)*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.75,
+                "price_per_unit": 22.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "De la chair à saucisse pour cuisiner toutes vos farces.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "prosciutto-cotto-charcuterie-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROSCIUTTO COTTO CHARCUTERIE 80G BIO",
+                "desc": "Prosciutto cotto charcuterie 80g Bio\nUne savoureuse charcuterie italienne, tranchée finement, naturellement sans lactose et sans gluten.\nIdéal pour l'apéro ou dans vos recettes de sandwiches. \nOrigine de la viande de porc : UE.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/prosciutto-cotto-charcuterie-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.3
+                    },
+                    "fats": {
+                        "fats": 5.1
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.4
+                    }
+                },
+                "ingredients": "Cuisse de porc* (origine du porc: UE), sel de salaison (sel, conservateur E250), dextrose*, arômes naturels , antioxydants: E301.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 5.2,
+                "price_per_unit": 65.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à l'apéro ou dans vos sandwiches.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 24H après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "3875617",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPECK 70G BIO",
+                "desc": "Speck 70g Bio\nUn produit d'Italie, tranché fin, naturellement sans gluten et sans lactose. Un goût authentique pour tous vos apéros et recettes estivales.\nOrigine viande de porc : UE.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700036905771_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/speck-70g-3875617"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "70G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 33
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.7,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "cuisse de porc* (origine du porc : UE), sel de salaison (sel, conservateur : E250), épices*, dextrose*, antioxydant : E301. Fumage naturel.\n* Ingrédients issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 92.86,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour vos assiettes de charcuterie, vos recettes de sandwichs, bruschettas... ces tranches de speck seront idéales en toute occasion.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "prosciutto-crudo-70g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JAMBON CRU 70G BIO",
+                "desc": "Jambon cru 70g Bio\nDécouvrez ce jambon bru issu de l'agriculture biologique.\nOn ne présente plus la charcuterie italienne et son plateau de spécialités aussi fines et goûteuses les unes que les autres.\nUne conservation sous atmosphère modifiée préservant les qualités organoléptiques du produit.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8008481792409.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/prosciutto-crudo-70g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:01",
+                "format": "70G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 6000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6
+                    },
+                    "fats": {
+                        "fats": 14
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Cuisse de porc* (origine du porc : UE), sel.\n*Ingrédient issu de l'agriculture biologique.\nSans gluten et sans lactose.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 6.3,
+                "price_per_unit": 90.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il accompagnera vos salades ou vos plateaux de charcuterie.",
+                "conservation": "A conserver au réfrigérateur, entre 0° et 4°C.\nUne fois ouvert, a consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "3875614",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COPPA DI PARMA 70G BIO",
+                "desc": "Coppa Di Parma 70g Bio\nUne savoureuse charcuterie italienne, produit en Italie. Tranché finement, naturellement sans gluten et sans lactose.\nIdéal pour l'apéritif, vos raclettes ou encore dans vos sandwiches.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144670.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coppa-di-parma-70g-3875614"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "70G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13
+                    },
+                    "fats": {
+                        "fats": 31
+                    },
+                    "proteins": {
+                        "proteins": 29
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Viande de porc* , sel, dextrose*, épices*, herbes aromatiques*, conservateur: E252.\n*Ingredients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 5.6,
+                "price_per_unit": 80.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster seul ou avec du pain Bio. Idéal pour vos raclettes, apéritifs...",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C.\nUne fois ouvert, consommer dans les 24 heures."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "crousti-volaille-x10-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROUSTI DE VOLAILLE X10 200G BIO",
+                "desc": "Crousti de volaille x10 200g Bio\nDes nuggets de volaille 100% françaises, facile à préparer, en 6 minutes, c'est prêt  ! Les petits vont les adorer. A accompagner de légumes, céréales, pour un repas complet.\nViande 100% filet.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/2/2220528_-_escalopes_de_poulet_extra_finex1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crousti-volaille-x10-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 9.7
+                    },
+                    "proteins": {
+                        "proteins": 15
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18,
+                        "of_which_sugars": 0.6
+                    }
+                },
+                "ingredients": "Filets de poule* (OEUF) , 50% (Origine: France), eau, chapelure*(farine de BLE* levure*,sel), farine de BLE*, fécule*, amidon de BLE*, sel, poivre*, extrait de romarin*, maltodextrine*, huile végétale de tournesol*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 26.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire revenir à la poêle, à feu doux, pendant 5 minutes ou 10 minutes au four après pré-chauffage à 210°C.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "le-golfetta-ss-sel-nitrite-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCISSON SANS SEL NITRITÉ 80G BIO",
+                "desc": "Saucisson sans sel nitrité 80G Bio.\nIl Golfetta est un saucisson haute gamme, réalisé exclusivement avec de la viande à jambon italien.\nUn produit léger et savoureux, avec une haute teneur en protéines et faible en gras (40 % de matières grasses en moins, comparé à un saucisson traditionnel). \nViande origine Italie.\nSans sel nitrité, sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410221645.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/le-golfetta-ss-sel-nitrite-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7
+                    },
+                    "fats": {
+                        "fats": 15
+                    },
+                    "proteins": {
+                        "proteins": 26
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8
+                    }
+                },
+                "ingredients": "Viande de porc* 96 %, sel de mer, arômes naturels, dextrose*, sucre*, vin blanc*, épices*, plantes aromatiques*, anti-oxydant (acide ascorbique).\n\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 62.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster nature ou assaisonné d'un filet d'huile d'olive extra vierge et de jus de citron."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "lardons-de-volaille-2x75g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LARDONS DE VOLAILLE FUMÉS 150G BIO",
+                "desc": "Lardons de volaille fumés 150G Bio.\nLardons de volaille Bio fumés, sans nitrite et allégés en matières grasses**.\n**Par rapport aux lardons de volaille du marché.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/2/2220501_-_filet_de_poulet_noirx2_-_541263.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lardons-de-volaille-2x75g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 4.4
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.7,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Viande de volaille* 86%, eau, sel, sucre*, arômes naturels.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 27.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais entre 0°C et +4°C.\nA consommer après cuisson."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "cote-de-porc-sans-os-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÔTE DE PORC SANS OS X1 150G BIO",
+                "desc": "Côte de porc sans os x1 150g Bio\nCôte de porc biologique sans os x1.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036907577-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cote-de-porc-sans-os-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "Viande de porc issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 26.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais entre 0 et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "escalope-de-veau-s-os-x1-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ESCALOPE DE VEAU SANS OS X1 150G BIO",
+                "desc": "Escalope de veau sans os x1 150G Bio.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036907584-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/escalope-de-veau-s-os-x1-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:02",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "Viande de veau française issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 43.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    },
+    {
+        "ean": "boulettes-volaille-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viande, volaille et charcuterie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOULETTES DE VOLAILLE 180G BIO",
+                "desc": "Boulettes de poulet cuites au four !\nPréparation cuite, congelée à base de viande de volaille hachée issue de l'agriculture biologique.\nOrigine : France, Vendée",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3422210412485.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boulettes-volaille-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:03",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 1
+                    }
+                },
+                "ingredients": "Ingrédients : viande de poulet* 61,6%, eau, huile de tournesol*, fibre de soja*, oignons* frits (oignons*, huile de palme*, farine de blé*, sel), sel, maltodextrine de maïs*, dextrose*, sucre*, ail*, jus de citron*, poivre*.\n* Produit issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 27.72,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T03:58",
+        "updated_at": "2025-06-16T03:58"
+    }
+]

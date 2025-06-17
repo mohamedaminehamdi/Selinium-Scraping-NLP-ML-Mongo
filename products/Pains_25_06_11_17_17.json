@@ -1,0 +1,987 @@
+[
+    {
+        "ean": "000000000000086548",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Churros peruanos, churro roulé, cœur cacao",
+                "desc": "Pâte à beignet 90,9% roulée, fourrage 9,1% au cacao, frits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw09358b33/produits/pains-viennoiseries/edition/000000000000036743_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/churros-peruanos-50g-000000000000086548.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 335.0
+                    },
+                    "minerals": {
+                        "salt": 0.66
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49.0,
+                        "of_which_sugars": 12.0,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, sucre de canne, huile de soja entièrement raffinée, amidon de maïs, lait de coco, cacao en poudre 1,1%, levure, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n30 sec\nRetirez le film plastique puis déposez directement le churros avec son étui carton dans le four à micro-ondes et laissez-le réchauffer le temps indiqué. Laissez reposer quelques minutes avant dégustation. Ce produit se consomme tiède.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082460",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Banana bread, cake à la banane, 6 parts",
+                "desc": "Cake à la purée de banane et aux pépites de chocolat, cuit, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/banana-bread-300g-000000000000082460.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 345.0
+                    },
+                    "minerals": {
+                        "salt": 0.27
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 5.0
+                    },
+                    "proteins": {
+                        "proteins": 5.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 50.0,
+                        "of_which_sugars": 28.0,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), purée de banane 26%, sucre, ŒUF de poule élevée en plein air (liquide, pasteurisé), pépite de chocolat 5,9% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithines de SOJA, arôme naturel de vanille), beurre (LAIT), huile de colza, amidon de maïs, poudres à lever (carbonates de sodium, tartrate monopotassique), antioxydant : acide ascorbique, farine de BLÉ (GLUTEN) malté.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1 min 30 sec\nSortez le cake de son étui et ôtez le film plastique. Déposez le cake, dans son moule, sur le plateau du four à micro-ondes et laissez réchauffer le temps indiqué: Puissance restituée du four à micro-ondes: 2 min - 750 watts 900 watts - 1 min 30\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nPréchauffez votre four à 160°C (th. 6). Sortez le cake de son étui et ôtez le film plastique. Déposez le cake dans son moule sur la grille du four à mi-hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 33 min - Four à chaleur tournante : 30 min Laissez-le reposer 5 à 10 minutes dans son moule avant dégustation",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082315",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 focaccias au romarin précuites",
+                "desc": "2 pains spéciaux à l’huile d’olive 4,5% et au romarin, précuits, congelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6929f518/produits/000000000000089015_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-focaccias-romarin-200g-000000000000082315.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 315.0
+                    },
+                    "minerals": {
+                        "salt": 0.32
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47.0,
+                        "of_which_sugars": 4.7,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 54,7%, eau, huile d'olive 4,5%, levure, farine de BLÉ malté (GLUTEN) 0,9%, agent de traitement de la farine : acide ascorbique, sel, romarin séché 0,3%.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n5 min\nPréchauffer votre four à 200°C (thermostat 7). Sortez les focaccias de leur emballage, et déposez-les sur une grille recouverte de papier cuisson. Une fois le four chaud, laissez cuire le temps indiquer : Four traditionnel : 6 min Four à chaleur tournante : 5 min Agrémentez les focaccias ou dégustez-les natures encore tièdes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.71,
+            "total_reviews": 28
+        }
+    },
+    {
+        "ean": "000000000000082350",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pains burgers cuits",
+                "desc": "2 pains spéciaux aux graines de sésame, graines de lin - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pains-burgers-000000000000082350.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "format": "160.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 299.0
+                    },
+                    "minerals": {
+                        "salt": 0.48
+                    },
+                    "fats": {
+                        "fats": 6.3,
+                        "saturates": 3.1
+                    },
+                    "proteins": {
+                        "proteins": 8.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51.0,
+                        "of_which_sugars": 5.9,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 57,3%, eau, beurre (LAIT), sucre, mélange de graines 3,3% (graine de SÉSAME, graine de lin brun), ŒUF entier de poule élevée en plein air (liquide, pasteurisé), levure, sel, GLUTEN de BLÉ, fibre de BLÉ (GLUTEN), FARINE de BLÉ malté (GLUTEN), acérola en poudre, agent de traitement de la farine : acide ascorbique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.55,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n3 min\nRetirez tous les emballages. Déposez les buns sur une assiette, et laissez-les décongeler au micro-ondes le temps indiqué. Puissance restituée du four à micro-ondes (position décongélation) : 150 W 3 min.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n3h\nRetirez tous les emballages. Déposez les buns sur une assiette et laissez-les décongeler au réfrigérateur pendant 3h.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.7,
+            "total_reviews": 10
+        }
+    },
+    {
+        "ean": "000000000000086640",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Kkwabaegi",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/kkwabaegi-000000000000086640.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.0,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082301",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 petites baguettes céréales bio",
+                "desc": "2 petites baguettes de pain aux céréales et aux graines issues de l’agriculture biologique, précuites surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-p.baguettes-cereale-bio-000000000000082301.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:16",
+                "format": "260.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 301.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 4.9,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de BLÉ* type 65 [farine de BLÉ* (GLUTEN), GLUTEN de BLÉ*] 58,5%, eau, farine de BLÉ* type 80 (GLUTEN) 6,5%, graine de tournesol* 4,8%, graine de lin brun* 2,4%, graine de lin jaune* 2,4%, graine de millet décortiquée* 1,8%, sel, levure, farine de BLÉ* type 65 (GLUTEN) 0,7%.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 1.8,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 min\nPréchauffez votre four à 180°C (th.6). Enfournez les baguettes sur une grille à mi-hauteur et laissez cuire le temps indiqué. - Four à chaleur tournante : 12 min Laissez-les reposer quelques instants avant dégustation.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.24,
+            "total_reviews": 55
+        }
+    },
+    {
+        "ean": "000000000000082224",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 mini-croissants, pur beurre",
+                "desc": "10 mini-croissants pur beurre, prêts à cuire, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-mini-croissants-pur-beurre-000000000000082224.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 357.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 5.8,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 41,5%, beurre 24% (LAIT), eau, sucre 4%, levure, GLUTEN de BLÉ, ŒUF entier de poule élevée en plein air (liquide, pasteurisé), sel, agent de traitement de la farine : acide ascorbique, enzymes.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.79,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Déposez les mini-croissants sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez cuire le temps indiqué. Four traditionnel : 20 min Four à chaleur tournante : 15 min Laissez refroidir 10 minutes avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.49,
+            "total_reviews": 140
+        }
+    },
+    {
+        "ean": "000000000000043976",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes à pizza",
+                "desc": "2 pâtes à pizza crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-pizza-000000000000043976.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "470.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 233.0
+                    },
+                    "minerals": {
+                        "salt": 0.44
+                    },
+                    "fats": {
+                        "fats": 3.3,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 53,8%, eau, semoule de BLÉ dur (GLUTEN), levure, huile de colza, sel, sucre, améliorant de panification [farine de BLÉ (GLUTEN), émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, agent de traitement de la farine : acide ascorbique, enzymes], levure désactivée [levure de boulanger désactivée, farine de BLÉ (GLUTEN)].",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 470.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n2 h\nRetirez la pâte à pizza de son sachet plastique, déposez-la sur une assiette recouverte d'un film alimentaire étirable et laissez décongeler pendant 2 heures.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.53,
+            "total_reviews": 173
+        }
+    },
+    {
+        "ean": "000000000000082205",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 croissants pur beurre",
+                "desc": "8 CROISSANTS PUR BEURRE, Prêts à cuire, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-croissants-pur-beurre-beurre-charentes-000000000000082205.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "440.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 357.0
+                    },
+                    "minerals": {
+                        "salt": 0.86
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 8.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.0,
+                        "of_which_sugars": 6.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 41,2%, beurre 24% (LAIT), eau, sucre 3,9%, levure, GLUTEN de BLÉ, ŒUF entier de poule élevée en plein air (liquide, pasteurisé), sel, agent de traitement de la farine : acide ascorbique, enzymes.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 440.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n18 min\nPréchauffez votre four à 180°C (th.6). Déposez les croissants sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez cuire le temps indiqué. Four traditionnel : 20 min Four à chaleur tournante : 18 min Laissez refroidir 10 minutes avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.34,
+            "total_reviews": 529
+        }
+    },
+    {
+        "ean": "000000000000043455",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 gaufres",
+                "desc": "6 gaufres, Déjà cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-gaufres-000000000000043455.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "6 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 297.0
+                    },
+                    "minerals": {
+                        "salt": 0.72
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39.0,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Eau, farine de BLÉ (GLUTEN) 34,6%, huile de colza, OEUF entier de poule élevée en plein air 5,3%, LAIT écrémé en poudre, sucre, poudre à lever : carbonates de sodium, amidon de BLÉ (GLUTEN), acidifiant : tartrates de potassium, sel, arôme naturel de vanille",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 3.4,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n4 min\nPréchauffez votre four à 210°C (th. 7). Sortez les gaufres surgelées de leur emballage, déposez-les sur une grille à mi-hauteur et laissez réchauffer le temps indiqué : Four traditionnel : 6 minutes Four à chaleur tournante : 4 minutes\n\nAu grille-pain\nPréparationCuisson au grillepain pendant\n3 min\nSortez les gaufres surgelées de leur emballage et placez-les à réchauffer dans votre grille-pain pendant environ 3 minutes à thermostat moyen.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.53,
+            "total_reviews": 401
+        }
+    },
+    {
+        "ean": "000000000000043413",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 pancakes",
+                "desc": "6 pancakes au lait entier, déjà cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-pancakes-000000000000043413.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 290.0
+                    },
+                    "minerals": {
+                        "salt": 0.99
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 5.8
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 14.0,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "LAIT entier 34,8%, farine de BLÉ (GLUTEN), ŒUF entier de poule élevée en plein air (liquide, pasteurisé) 12,2%, sucre de canne, beurre concentré (LAIT) 6%, poudres à lever (carbonates de sodium, tartrates de potassium), sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.45,
+                "preparation": "Au grille-pain\nDÉCONGÉLATIONCuisson au grillepain pendant\n40 sec\nRetirez tous les emballages et placez les pancakes à réchauffer dans votre grille-pain pendant environ 40 secondes à thermostat moyen.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n20 sec\nRetirez tous les emballages et placez les pancakes sur une assiette sans les superposer. Faites réchauffer les pancakes pendant le temps indiqué : Puissance restituée du four: 750 watts 900 watts pour 1 pancake 30 s 20 s pour 3 pancakes 50 s 40 s\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n1 h\nRetirez tous les emballages et disposez les pancakes sur une assiette. Recouvrez d'un film alimentaire étirable et laissez-les décongeler pendant 1 h puis sortez-les 15 min avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.54,
+            "total_reviews": 615
+        }
+    },
+    {
+        "ean": "000000000000082206",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 pains au chocolat, pur beurre",
+                "desc": "6 pains au chocolat pur beurre - prêts à cuire - surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-pains-chocolat-2-barres-chocolat-pur-beurre-000000000000082206.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "420.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 373.0
+                    },
+                    "minerals": {
+                        "salt": 0.83
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 40.0,
+                        "of_which_sugars": 11.0,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 39,4%, eau, beurre (LAIT) 16%, chocolat 11% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithines de SOJA), sucre, levure, GLUTEN de BLÉ, ŒUF entier de poule élevée en plein air (liquide, pasteurisé), sel, agent de traitement de la farine : acide ascorbique, enzymes.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 420.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n20 min\nPréchauffez votre four à 180°C (th.6). Déposez les pains au chocolat sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez cuire le temps indiqué. Four traditionnel : 22 min - Four à chaleur tournante : 20 min. Laissez refroidir 10 minutes avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.57,
+            "total_reviews": 421
+        }
+    },
+    {
+        "ean": "000000000000043421",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 crêpes",
+                "desc": "6 crêpes au lait entier déjà cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-crepes-000000000000043421.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:17",
+                "format": "420.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 209.0
+                    },
+                    "minerals": {
+                        "salt": 0.53
+                    },
+                    "fats": {
+                        "fats": 9.2,
+                        "saturates": 6.0
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 8.5,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "LAIT entier réhydraté 64,3%, farine de BLE (GLUTEN), OEUF frais pasteurisé , beurre concentré (LAIT), sucre, sel, poudre à lever : carbonates de sodium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 420.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n40 sec\nSortez le nombre de crêpes souhaité de l'emballage plastique et déposez-les sur une assiette. Faites réchauffer le temps indiqué. Puissance restituée du four: 750 watts 900 watts Pour 1 crêpe : 1 min 40 sec Pour 2 crêpes : 2 min 1 min 30 Pour 6 crêpes : 5 min 4 min 30 Retournez les crêpes à mi-temps et laissez reposer quelques minutes avant de les déguster.\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n1 min\nSortez une crêpe de l'emballage plastique et faites-la réchauffer dans une poêle chaude sans ajout de matière grasse, à feu moyen, en retournant à mi-temps.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.75,
+            "total_reviews": 455
+        }
+    }
+]

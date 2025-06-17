@@ -1,0 +1,233 @@
+[
+    {
+        "ean": "000000000000039691",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems au poulet avec sauce nuoc-mâm",
+                "desc": "Farce au poulet 45,7%, galettes de riz 37,6% et sauce nuoc-mâm 16,7%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2605003a/produits/larg0924_88379_balme.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-poulet-avec-sauce-nuoc-mam-000000000000039691.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:14",
+                "format": "LA BOÎTE DE 240 G",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 780.0,
+                        "kcal": 186.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 5.6,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Nems au poulet (200 g) : eau, farine de riz 20,2%, viande de poulet (origine : France*) 13%, carotte 6,5%, vermicelle de pois réhydraté, châtaigne d'eau 6%, chou vert, ciboule, farine de SOJA, coriandre 2,2%, sauce SOJA [eau, SOJA , farine de BLÉ (GLUTEN), sel], champignon noir réhydraté 1,8%, fécule de manioc, oignon déshydraté, sel, citronnelle, purée de gingembre, huile de tournesol. Sauce nuoc-mâm (40 g) : eau, sucre, nuoc-mâm 14% (POISSONS, sel, eau), vinaigre d'alcool, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 3.5,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nFaites frire les nems 8 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Avant de servir, déposez les nems sur du papier absorbant.\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Four traditionnel : 18 min Four à chaleur tournante: 16 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.84,
+            "total_reviews": 291
+        }
+    },
+    {
+        "ean": "000000000000039899",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 bouchées de poulet au saté 2 parts",
+                "desc": "Bouchées composées d'une farce au poulet et au saté 85,1% et d'une galette de pâte de blé 14,9%, frites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-bouchees-poulet-sate-2-parts-000000000000039899.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:14",
+                "format": "LA BOÎTE DE 160 G",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 837.0,
+                        "kcal": 200.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 4.1,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet 57% (origine : Thaïlande*), pâte de BLÉ 14,2% [eau, farine de BLÉ (GLUTEN), huile de tournesol, sel], huile de tournesol, pois patate 5,5%, saté en poudre 4,6% [sucre, maltodextrine, amidon de tapioca, épices (contient MOUTARDE), sel, dextrose, acidifiant : acide malique, curcuma, citron kaffir], lait de coco, eau, échalote, coriandre, sucre, sel, sauce au POISSON [anchois (POISSON), sel], sauce au POISSON en poudre [anchois (POISSON), maltodextrine, sel].\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n8 min\nPréchauffez votre four à 210°C (th. 7). Déposez les bouchées sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué. - four traditionnel: 10 min - four à chaleur tournante : 8 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.52,
+            "total_reviews": 202
+        }
+    },
+    {
+        "ean": "000000000000072971",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "NL"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 brochettes de boeuf au fromage,sauce soja sucrée",
+                "desc": "6 Brochettes de gouda et de boeuf cuites 82,3% accompagnées d'un sachet de sauce soja sucrée 17,7% - surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-brochettes-boeuf-fromage-sauce-soja-sucree-000000000000072971.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:15",
+                "format": "LA BOÎTE DE 225 G",
+                "availability": true,
+                "ingredients": "Brochettes cuites de boeuf et fromage (185 g) : gouda (lait) 55,9%, viande bovine (origine : France*) 26,3%. Sauce soja sucrée (40 g) : sucre, sauce soja 6,3% [eau, graine de soja, farine de blé (gluten), sel], eau, vinaigre d'alcool.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 7.9,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n5 min\nDans une assiette, nappez les brochettes de sauce en les retournant afin qu'elles soient bien recouvertes. Mettez-les dans une poêle chaude avec un peu de matière grasse. Réchauffez les brochettes à feu moyen pendant 5 à 6 min en les retournant régulièrement. Baissez le feu si besoin. En fin de réchauffage, mettez dans la poêle la sauce restant dans l'assiette.\n\nAu four\nPréparationCuisson au four pendant\n11 min\nPréchauffez votre four à 180°C (th. 6). Dans un plat, nappez les brochettes de sauce en les retournant afin qu'elles soient bien recouvertes. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 11 à 14 min - Four à chaleur tournante : 11 à 12 min Laissez reposer quelques minutes avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 228
+        }
+    }
+]

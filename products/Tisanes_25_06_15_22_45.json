@@ -1,0 +1,1392 @@
+[
+    {
+        "ean": "tisane-rose-17-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION AYURVÉDIQUE ROSE - 17 INFUSIONS BIO",
+                "desc": "Infusion ayurvédique rose - 17 infusions Bio\nInfusion ayurvédique aux plantes : pétales de rose rouge, hibiscus, fleurs de lavande.\nLaissez vous guider par cette délicieuse infusion envoûtante, sensuelle et affectueuse.\nBoîte de 17 infusions.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012824402720-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tisane-rose-17-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Hibiscus* (23%), fleurs de camomille*, fleurs de sureau*, fleurs de tilleul*, pétales de rose rouge* (5%), cannelle*, fleurs de lavande* (3%), millefeuille*, gingembre*, poivre noir*, fenouil*, curcuma*, huile essentielle de géranium*, pétales de tournesol*, luzerne*, plantain lancéole*, cardamome*, clous de girofle*, boisson de kombucha desséchée*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.65,
+                "price_per_unit": 104.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-11%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse de 250 ml, laissez infuser votre sachet pendant 5 à 7 minutes, dans une eau à 100°C.\nPuis dégustez !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 4.09
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-elimination-20inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION ÉLIMINATION - 20 SACHETS BIO",
+                "desc": "Infusion Élimination - 20 sachets Bio\nUne infusion Bio pour le drainage des déchets et des toxines.\n  - Pour les personnes qui ont tendance à mal éliminer l’eau.\n- Pour aider à diminuer la cellulite\n- Pour tous ceux qui souhaitent détoxiner leur organisme aux changements de saison.\n- L’aubier de tilleul favorise l'élimination rénale de l'eau, des déchets et des toxines.\n- La prêle facilite les fonctions d'élimination urinaire. Elle est aussi utile en tant qu'adjuvant des régimes amincissants grâce à ses propriétés drainantes.\n- Le frêne contribue à l'excrétion urinaire. Il est tout particulièrement indiqué dans le cadre d'un régime minceur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012824000117-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-elimination-20inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Aubier de tilleul* (tilia cordata), prêle* (equisetum arvense), frêne* (fraxinus excelior).\n*Ingrédients issus de l’agriculture biologique, certifiés ECOCERT sas F-32600.",
+                "on_discount": false,
+                "price_per_packaging": 3.8,
+                "price_per_unit": 146.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "2 à 3 tasses par jour.\nOn pourra aussi infuser 3 à 4 sachets dans un litre d’eau bouillante. Boire la préparation, chaude ou tiède, dans la journée entre les repas.\nPrécautions d'emploi :\nIl n'est pas conseillé de dépasser la dose recommandée.\nÀ consommer dans le cadre d'une alimentation variée et équilibrée et d'un mode de vie sain.\nGarder hors de portée des enfants.",
+                "old_price": 4.49
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-articulat-x20inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION ARTICULATIONS AU CASSIS - 20 SACHETS BIO",
+                "desc": "Infusion Articulations au cassis - 20 sachets Bio\nUne infusion Bio pour aider à se débarrasser des toxines qui peuvent encrasser les articulations.\nPour toute personne gênée dans la marche ou ses mouvements, souffrant de raideurs articulaires.\n- Le cassis, le genièvre et le pissenlit, aux propriétés drainantes, vous aident à vous débarrasser des toxines, des acidités  qui peuvent encrasser vos articulations et gêner vos mouvements.\n- L'ortie, qui renferme de la silice, du calcium, contribue au maintien de la structure des cartilages. Elle active aussi l ‘élimination naturelle.\n- La cannelle vient réveiller les papilles, pour le plus grand plaisir et contribue à activer la digestion.\nBoîte de 20 sachets-filtres : 30 g\n  Gamme spécialisée du laboratoire Yves Ponroy, Bio Conseils rassemble des compléments alimentaires et des infusions conçus à base de plantes. Consciente de l’importance du paramètre nutritionnel pour l’optimisation du bien-être quotidien, compléments alimentaires et infusions sont soigneusement formulés avec les éléments nutritifs les plus pertinents et les plus performants. Certifiés bio, tous les produits affichent une qualité idéale, couplée à une garantie de performance. Issues de méthodes de fabrication douces, les infusions bio sont idéales pour soulager les petites gênes du quotidien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-articulat-x20inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Ortie* ; pissenlit*, feuilles de cassis*, genièvre*, cannelle*\n*Ingrédients issus de l'Agriculture Biologique, certifiés par ECOCERT sas F-32600",
+                "on_discount": false,
+                "price_per_packaging": 3.8,
+                "price_per_unit": 146.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "1 à 3 tasses par jour. durant au moins 2 mois.\nIl n'est pas conseillé de dépasser la dose recommandée.\nÀ consommer dans le cadre d'une alimentation variée et équilibrée et d'un mode de vie sain.\nGarder hors de portée des enfants.",
+                "old_price": 4.49
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "yogi-tea-ging-citron-17inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YOGI TEA GINGEMBRE & CITRON - 17 INFUSIONS BIO",
+                "desc": "Yogi Tea gingembre & citron - 17 infusions Bio\nInfusion ayurvédique aux plantes, aux épices et aux fruits.\nSelon la tradition ayurvédique, les 6 catégories de goût (sucré, acide, salé, amer, piquant et astringent) influencent notre état physique, mental et émotionnel.\nLe gingembre réchauffe et stimule l'organisme.\nL'acidité du citron éveille l'esprit en créant une sensation de légèreté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110682.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yogi-tea-ging-citron-17inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Gingembre* (43%), réglisse*, citronnelle*, poivre noir*, zeste de citron* (4%), menthe poivrée* (4%), extrait d'agrumes* (3%), hibiscus*, jus de citron séché* (2%).",
+                "on_discount": false,
+                "price_per_packaging": 3.5,
+                "price_per_unit": 114.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A savourer à tout moment de la journée, cette boisson sucrée et rafraîchissante est également délicieuse consommée glacée l'été.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 3.89
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "yogi-tea-classic-17inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YOGI TEA CLASSIC -17 SACHETS BIO",
+                "desc": "Yogi Tea Classic  -17 sachets Bio\nInfusion aux plantes et aux épices sans théine.\nFermez les yeux et laissez-vous envoûter par la séduisante fragrance de ce délicieux mélange riche et relaxant, qui réchauffe et stimule le corps et l'esprit.\nUnion parfaite du gingembre, de la cardamome, de la cannelle et des clous de girofle, aux saveurs revigorantes, sucrées et épicées, ses puissants arômes vous transporteront dans un monde connu depuis l'antiquité pour sa tasse de thé parfaite.\nYogi Tea s’engage à fournir des ingrédients de la meilleure qualité possible et à respecter les ressources naturelles de la terre. \nLes plantes aromatiques et les épices incorporées dans les infusions sont cultivées dans un environnement biologique contrôlé. Yogi Tea s'approvisionne uniquement en ingrédients d’origine biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yogi-tea-classic-17inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Cannelle* (50%), cardamome* (15%), gingembre* (15%), clous de girofle*, poivre noir*, huile de cannelle*.",
+                "on_discount": false,
+                "price_per_packaging": 3.5,
+                "price_per_unit": 93.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser 250 ml d'eau bouillante sur le sachet et laisser infuser 7 minutes, ou plus longtemps pour un goût plus fort.\nAjouter du lait et sucre selon votre goût.",
+                "conservation": "A conserver dans un endroit tempéré, à l'abri de l'humidité.",
+                "old_price": 3.89
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "20",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION 3 MENTHES ET CHANVRE X20 BIO",
+                "desc": "Infusion 3 menthes et chanvre x20 Bio\nUn voyage vers un monde de fraîcheur exaltante !\nDécouvrez cette infusion Trois Menthes et Chanvre.\nPourquoi 3 menthes ? L'harmonie de la menthe douce, poivrée et marocaine vous offrent trois fois plus de saveurs et de fraicheur dans chaque gorgée.\nElle apporte aussi un vrai coup de boost détox à votre organisme grâce à ses propriétés digestives.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/menthes-chanvre-x20"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Rooibos vert bio*, menthe douce bio* 10 %, feuilles de chanvre bio* 10 %, menthe poivrée bio* 6 %, menthe nanah bio* 2,3 %, huile essentielle de menthe nanah, huile essentielle de menthe.\n* Ingrédients issus de l'agriculture biologique.\nPeut contenir des traces de gluten et fruits à coque.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 136.14,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Conseil de préparation : Laisser infuser 6 à 8 min dans une eau à 95°C Se boit aussi froid : 5 à 6 sachets dans 1 litre d'eau à 95 °C puis laisser infuser au réfrigérateur entre 2 et 12 heures pour un goût optimal.\nContient naturellement du cannabidiol. Déconseillé aux enfants, femmes enceintes ou allaitantes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "reveil-mate-35-7g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION RÉVEIL MATÉ X17 BIO",
+                "desc": "Infusion réveil maté x17 Bio\nUne bonne journée commence par une matinée agréable ! YOGI TEA® Réveil Maté vous offre un trio naturellement puissant à base de maté, de maca et de grains de café vert. Succombez à un délicieux coup de fouet pour l’esprit et les sens avec en prime un goût naturel et savoureux. Avec ce parfum frais et enthousiasment, découvrez une façon de réinventer votre routine du matin.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/reveil-mate-35-7g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Maté torréfié*, maté vert*, curcuma*, café vert en grains*, rooibos vert*, Sencha*, racine de pissenlit torréfiée*, réglisse*, maca*, menthe en épi*, caroube*.\n*certifié biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 100.84,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser 250 ml d'eau bouillante sur le sachet et laisser infuser 5 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "fruit-rouge-vanille-34g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION FRUITS ROUGES À LA VANILLE X17 BIO",
+                "desc": "Infusion fruits rouges à la vanille x17 Bio\nDéconnectez et savourez un instant privilégié avec ce mariage incomparable de fruits et de vanille.\nYOGI TEA® Fruits rouges à la vanille associe baies fruitées et fleurs de sureau parfumées à de subtiles notes de vanille pour une expérience gustative et sensorielle exceptionnelle. Sucrée, savoureuse mais aussi douce et apaisante, cette variété unique offre un moment de plaisir à une personne tout aussi unique : vous.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fruit-rouge-vanille-34g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Hibiscus*, réglisse*, pomme*, cynorrhodon*, cannelle*, baies d'aronia*, zeste d'orange*, gingembre*, fleurs de sureau*, betterave rouge*, extrait de vanille*, fraise*, canneberge*, baies de sureau*, baies de genièvre*, huile essentielle d’orange*, gousse de vanille*.\nContient de la réglisse – les personnes souffrant d’hypertension doivent éviter toute consommation excessive.\n*certifié biologique",
+                "on_discount": false,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 105.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser 250 ml d'eau bouillante sur le sachet et laisser infuser 5 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-boost-20inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION COUP DE BOOST 20INFUSIONS BIO",
+                "desc": "Infusion coup de boost 20infusions Bio\nLe gingembre, grâce à ses propriétés stimulantes et tonifiantes, aide à résister à la fatigue.\nLe curcuma et le gingembre favorisent le bien-être articulaire.\nLa reine des prés complète idéalement cette formule délicieusement épicée et chaleureuse.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012824000117-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-boost-20inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:43",
+                "availability": true,
+                "ingredients": "Reine des prés BIO 32% (Filipendula ulmaria), fenouil doux BIO 30% (Foeniculum vulgare), gingembre BIO 18% (Zingiber officinale),\nanis vert BIO 12% (Pimpinella anisum), curcuma BIO 7% (Curcuma longa), poivre noir BIO 1% (Piper nigrum).",
+                "on_discount": false,
+                "price_per_packaging": 4.49,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dose journalière recommandée : 4 tasses / jour\nTemps d’infusion : 5 à 7 min\nTempérature de l’eau : 70°C",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "inf-camomille-50-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION CAMOMILLE 50 INFUSIONS BIO",
+                "desc": "Infusion Camomille 50 Infusions Bio\nUne infusion légère à la Camomille, cultivé et récolté en France. \nLes sachets sont compostable et le produit est issu de l'agriculture biologique.\nAccordez-vous une pause de douceur avec cette infusion !\nUn format économique et pratique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/inf-camomille-50-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Camomille matricaire* (Matricaria recutita)\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 8.49,
+                "price_per_unit": 212.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Versez l'eau frémissante sur l'infusette et laisser infuser pendant 5 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "clarte-du-mental-17-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION AYURVÉDIQUE CLARTÉ D'ESPRIT- 17 INFUSIONS...",
+                "desc": "Infusion ayurvédique Clarté d'Esprit - 17 infusions Bio\nInfusion ayurvédique aux plantes : racine de ginseng, mélisse, eucalyptus.\nLaissez vous vous emporter par cette délicieuse infusion mentholée et rafraîchissante.\nBoîte de 17 infusions.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110682.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/clarte-du-mental-17-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Menthe poivrée*, mélisse*, citronnelle*, menthe en épi*, réglisse*, rooibos*, gingembre*, cannelle*, eucalyptus*, racine de ginseng*, maca*, poivre noir*, huile essentielle d’orange*, cardamome*, huile essentielle de menthe poivrée*.",
+                "on_discount": false,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 114.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse de 250 ml, laissez infuser votre sachet pendant 5 à 7 minutes, dans une eau à 100°C.\nPuis dégustez !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "17",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TISANE FENOUIL ANIS CUMIN 20 SACHETS BIO",
+                "desc": "Tisane Fenouil Anis Cumin 20 sachets Bio\nDécouvrez Choice Fenouil Anis Cumin des prés. Un mélange équilibré de plantes, associé à de la badiane pour un bien-être et une légèreté absolus.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012824406407.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tisane-fenouil-anis-x17"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Fenouil bio* (39%), anis bio* (36%), carvi bio* (18%), réglisse bio*, muscade*, huile essentielle de badiane*.",
+                "on_discount": false,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 83.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laissez le temps au mélange de se déployer. Laissez le sachet de thé infuser dans de l’eau fraîchement bouillie (100°C) pendant 7 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "ashwaganda-17-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION AYURVÉDIQUE ASHWAGANDHA - 17 INFUSIONS BIO",
+                "desc": "Infusion ayurvédique Ashwagandha - 17 infusions Bio\nInfusion ayurvédique aux plantes : ashwagandha, baie d'acérola, passiflore.\nLaissez vous guider par cette délicieuse infusion fruitée, florale et relaxante.\nBoîte de 17 infusions.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110125.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ashwaganda-17-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Jus d'acérola séché*, cynorrhodon*, citronnelle*, menthe poivrée*, réglisse*, hibiscus*, ashwagandha*, pomme*, passiflore*, mélisse*, baies d'aronia*, cannelle*, zeste d'orange*, betterave*, feuilles de mûres sucrées*, canneberge*, huile essentielle d’orange*, huile essentielle de citron*.\n*Issus de l'agirculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 120.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse de 250 ml, laissez infuser votre sachet pendant 5 à 7 minutes, dans une eau à 100°C.\nPuis dégustez !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "16",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION SEX ON THE BEACH X16 BIO",
+                "desc": "Infusion sex on the beach  X16 Bio\nCraquez pour un baiser brûlant de gourmandises ! Une infusion 'muy caliente' aux notes chaudes et épicées.\n16 sachets d'infusion à la cerise et ginseng.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/inf-sex-on-the-beach-x16"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 8
+                    }
+                },
+                "ingredients": "Pomme* , Gingembre* , Hibiscus* , Cynorrhodon* , Ginseng* , poivre noir* , arome naturel d'ananas* ,Cerise*.\n*100% des ingredients sont issus de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se déguste aussi glacée (Infusion en eau froide).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-spirale-lumiere-16inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION SPIRALE LUMIÈRE X16 BIO",
+                "desc": "Infusion spirale lumière  X16 Bio \nLaissez vous tenter par cette infusion à l'échinacée, au gingembre et au cynorrhodon. Laissez les énergies circulier et réveillez vos esprits.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/e/nesicam_camomille_2_.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-spirale-lumiere-16inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Hibiscus*, gingembre*, cynorrhodonù, herbe d'échinacée*, curcuma*, cannelle*, galanga*, racine de pissenlit*, feuilles de stévia*, clous de girofle*, cardamome*, poivre noir*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 123.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour un sachet : verser dans une tasse 300 ml d'eau bouillante sur le sachet et laisser infusion 5 à 6 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-reverie-16inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION RÊVERIE MÉLISSE, VALÉRIANE & PASSIFLORE X1...",
+                "desc": "Infusion rêverie : mélisse, valériane & passiflore X16 Bio\nOffrez-vous un moment relaxant, chaleureux et détente avec la tisane infusion rêverie. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-reverie-16inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Mélisse*, citronnelle*, caroube*, passiflore*, myrte citronnée*, citron vert*, lavande*, racine de valériane*, houblon*, cardamome*, cannelle*, clous de girofle*, gingembre*, poivre noir.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 123.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse : verser 300ml d'eau bouillante sur le sachet et laisser infuser 5 à 6 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-joie-infinie-16inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION JOIE INFINIE CACAO, CARDAMOME & ORANGE X16...",
+                "desc": "Infusion joie infinie : cacao, cardamome & orange X16 Bio\nLe mélange corsé du cacao, cardamome et d'orange vous fait plonger dans un moment plein de joie. Retrouver une légèreté et une endurance dans vos journées.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110125.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-joie-infinie-16inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Ecorces de cacao*, rooibos*, cannelle*, gingembre*, zeste d'orange*, cardamome*, clous de girofle*, poivre noir*, extrait d'orange*, feuilles de stévia.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 123.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour un sachet : verser 300 ml d'eau bouillante dans une tasse sur le sachet puis laisser infuser 5 à 6 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "la-vie-en-rose-26g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION LA VIE EN ROSE - 20 SACHETS BIO",
+                "desc": "Infusion la vie en rose - 20 sachets Bio\nInfusion la vie en rose saveur hibiscus, camomille, lavande, rose, coquelicot et une note de framboise. \n20 sachets filtre. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/la-vie-en-rose-26g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Marc de raisin*, hibiscus, camomille matricaire*, lavande*, arôme naturel de framboise*, coquelicot*. \n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 182.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans votre tasse faites verser de l'eau frémissante sur le sachet. Laisser infuser 5 à 10 minutes.\nLa dose journalière recommandée : 4 tasses par jour.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "inf-fruits-des-bois-30g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION FRUITS DES BOIS - 20 SACHETS BIO",
+                "desc": "Infusion fruits des bois - 20 sachets Bio\nInfusion fruits des bois enchantés saveur cassis et hibiscus et des plantes d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/inf-fruits-des-bois-30g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Cassis*, hibiscus*, marc de raisin*, arôme naturel de fruits des bois*, arôme naturel de pêche.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 158.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une tasse faire verser de l'eau frémissente sur le sachet. Laissez infuser 5 à 10 minutes. Vous pouvez déguster votre infusion chaude ou froide. Pour une boisson fraîche, laissez 2 heures au frais.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "10",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION À LA BELLE ÉTOILE - 20 SACHETS BIO",
+                "desc": "Infusion à la belle étoile - 20 sachets Bio\nInfusion à la belle étoile à la mélisse, camomille, verveine, aubépine et une note de fleur d'oranger. Fabriqué à partir de plantes d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/inf-a-la-belle-etoile-x10"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:44",
+                "availability": true,
+                "ingredients": "Mélisse*, camomille matricaire*, verveine odorante*, aubépine*, huile essentielle d'orange douce*, huile essentielle de Petit Biragadier*. \n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 19.79,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans votre tasse, verser l'eau frémissente sur le sachet filtre. Laisser infuser 5 à 10 minutes. \nLa dose journalière recommandée : 3 tasses par jour",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-hiver-enchante-20inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION HIVER ENCHANTÉ 20X INFUSIONS BIO",
+                "desc": "Infusion hiver enchanté 20x infusions Bio\nDécouvrez cette infusion en édition limitée de chez Pukka, pour célébrer les fêtes de fin d'année. Des notes épicées et réconfortantes, un vrai appel au partage et à la gourmandise.\nSans caféine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3388742800056.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-hiver-enchante-20inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:45",
+                "availability": true,
+                "ingredients": "Racine de gingembre*, feuille de Rooibos*, écorce d’orange*, fruit de badiane*, hibiscus*, écorce de cannelle douce*, feuille de mélisse*, racine de chicorée torréfiée*, arômes naturels d’huiles essentielles d’orange*, clou de girofle*, arôme naturel d’huile essentielle de cannelle de Ceylan*, poivre noir.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 5.29,
+                "price_per_unit": 146.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laissez infuser 4 minutes dans une eau à 90°C. Vous pouvez y apporter un nuage de lait ou de votre boisson végétale préférée.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "tisane-ecorce-feve-cacao-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TISANE ÉCORCES DE FÈVES DE CACAO 100G BIO",
+                "desc": "Tisane écorces de fèves de cacao 100g Bio\nDécouvrez cette délicieuse et réconfortante infusion qui allie l'intensité du cacao et la légèreté de la tisane sans calore. \nLes fèves de cacao de variété Criollo proviennent d'un projet solidaire au Pérou. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110682.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tisane-ecorce-feve-cacao-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:45",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Ecorces de fèves de cacao.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.7,
+                "price_per_unit": 47.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire bouillir de l'eau à 80°, verser l'eau sur votre infusion. Laissez infuser quelques minutes, et dégustez !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "infusion-confort-ame-17-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION CONFORT DE L'ÂME 17 SACHETS BIO",
+                "desc": "Infusion confort de l'âme 17 sachets Bio\nYogi Tea Confort de l'Âme Bio 17 Sachets est une préparation Bio pour infusion ayurvédique au rooibos et aux épices.\nLe parfum incomparable des écorces de cacao réchauffe le cœur et en y associant du rooibos doux ainsi que des notes fruitées d'orange, cette infusion redonne le moral et le sourire.\nSans gluten.\nConvient au régime végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/infusion-confort-ame-17-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:45",
+                "availability": true,
+                "ingredients": "Cannelle*, Réglisse*, Écorces de cacao* (10%), Rooibos* (10%), Chicorée torréfiée*, Hibiscus*, Gingembre*, Anis*, Honeybush*, Zeste d'orange* (3%), Caroube*, Extrait naturel de cacao* (2,5%), Fleurs de mauve bleue* (2%), Poudre de cacao maigre*, Poivre noir*, Huile essentielle d'orange* (1,5%), Gousse de vanille*, Extrait de vanille*.\n*Ingrédients Biologiques.",
+                "on_discount": false,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 12.66,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser de l'eau frémissante sur un sachet. Laisser infuser pendant 8 minutes avant de déguster.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "4220267",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COFFRET TISANE DE NOËL X24 INFUSIONS",
+                "desc": "Coffret Tisane de Noël x24 infusions\nCette infusion Bio de Noël, aux plantes parfumées, aux agrumes rafraîchissantes et vivifiantes, et épices chaudes, vous réchauffera le cœur et le corps, pour les fêtes de Noël.\nPrésentée dans un coffret de Noël féérique qui dévoile ses infusettes appétissantes dans un tiroir magique très pratique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100423.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tisane-noel-cube-24-inf-4220267"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:45",
+                "availability": true,
+                "ingredients": "Canelle* 20%, gingembre* 15%, rooïbos 15%, hibiscus* 12%, réglisse* 10%, extrait d'orange* 7%, noix de muscade* 5%, écorce d'orange* 4%, écorce de citron* 4%, poivre noir* 3%, extrait de citron* 3%, clou de girofle* 2%.\nContient de la réglisse. Les personnes souffrant d'hypertension doivent éviter toute consommation excessive.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 11.42,
+                "price_per_unit": 190.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.42 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laissez infuser votre sachet de tisane pendant 5 minutes dans votre tasse d'eau chaude (utilisez de préférence de l'eau de source).\nConsommation recommandée à partir de 8 ans.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    },
+    {
+        "ean": "detox-citron-17inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tisanes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION AYURVÉDIQUE DETOX AU CITRON - 17 INFUSIONS BIO",
+                "desc": "Infusion ayurvédique Detox au Citron - 17 Infusions Bio\nInfusion ayurvédique aux plantes : Pissenlit, réglisse, zeste de citron.\nCette savoureuse infusion vous fera regagner vitalité et légèreté grâce à ce pétillant mélange de plantes.\nBoîte de 17 infusions.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3374010110125.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/detox-citron-17inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:45",
+                "availability": true,
+                "ingredients": "Citronnelle*, pissenlit* (23%), cannelle*, gingembre* (12%), réglisse* (8%), zeste de citron* (7%), mélisse*, menthe poivrée*, huile essentielle de citron*.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 114.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse de 250 ml, laissez infuser votre sachet pendant 5 à 7 minutes, dans une eau à 100°C.\nPuis dégustez !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:42",
+        "updated_at": "2025-06-15T22:42"
+    }
+]

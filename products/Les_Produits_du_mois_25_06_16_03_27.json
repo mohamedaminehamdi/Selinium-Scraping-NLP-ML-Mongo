@@ -1,0 +1,340 @@
+[
+    {
+        "ean": "tomate-cerise-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE CERISE 250G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomate-cerise-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:23",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "tomate-ancienne-rouge-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE ANCIENNE ROUGE 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomate-ancienne-rouge-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:24",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "tomates-cerise-grappe-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE GRAPPE 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomates-cerise-grappe-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:24",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "peche-plate-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÊCHE PLATE 500G BIO",
+                "desc": "Variété PARAGUAYO. Calibre A-C. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/peche-plate-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:25",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "peche-jaune-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÊCHE JAUNE 500G BIO",
+                "desc": "Calibre A-B. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/peche-jaune-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:25",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "nectarine-jaune-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NECTARINE JAUNE BIO 500G",
+                "desc": "Calibre A-B. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nectarine-jaune-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:26",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "mini-pasteque-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI PASTÈQUE EN PIÈCE",
+                "desc": "Variété HIROMI / PEPITA / NOIRE. Calibre 9-10. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-pasteque-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:26",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "melon-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MELON PIÈCE BIO",
+                "desc": "Variété CHARENTAIS. Calibre 12. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melon-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:27",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    },
+    {
+        "ean": "cerise-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Les Produits du mois"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CERISE 500G BIO",
+                "desc": "Variété Folfer. Calibre 22-24. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cerise-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:27",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:22",
+        "updated_at": "2025-06-16T03:22"
+    }
+]

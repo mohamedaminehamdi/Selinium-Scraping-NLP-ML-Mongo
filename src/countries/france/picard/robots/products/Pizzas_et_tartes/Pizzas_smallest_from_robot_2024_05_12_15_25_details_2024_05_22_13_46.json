@@ -1,0 +1,2202 @@
+[
+    {
+        "ean": "089421",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza funghi e tartufo \"Italia\"",
+                "packaging": "LA BOÎTE DE 370 G",
+                "desc": "Pâte (56,3%), garnie de mozzarella (18,8%), de champignon de Paris (8,5%), de truffe blanche d’été Tuber aestivum (1%) aromatisée, cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw97959cc5/produits/000000000000089421_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-funghi-e-tartufo-000000000000089421.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:42",
+                "format": "LA BOÎTE DE 370 G",
+                "format2": "1 part",
+                "availability": true,
+                "price_per_unit": "16.18",
+                "price": "5.99",
+                "packaging_measure_value": 370,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1044 kJ\n248 kcal",
+                    "Matières grasses": "8,5 g",
+                    "dont acides gras saturés": "3,8 g",
+                    "Glucides": "30 g",
+                    "dont sucres": "1,8 g",
+                    "Fibres alimentaires": "2,2 g",
+                    "Protéines": "12 g",
+                    "Sel": "1,9 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "mozzarella (contient LAIT) 18",
+                    "8%",
+                    "champignon de Paris cuisiné (champignon de Paris 8",
+                    "5%",
+                    "huile de tournesol",
+                    "sel",
+                    "ail)",
+                    "préparation au cheddar 9",
+                    "4% [eau",
+                    "huile de tournesol",
+                    "cheddar (contient LAIT)",
+                    "amidon de pomme de terre",
+                    "émulsifiant : citrates de sodium",
+                    "acidifiant : acide citrique",
+                    "fibre d'agrumes",
+                    "arôme naturel",
+                    "sel]",
+                    "fromage râpé (contient LAIT) 3",
+                    "5%",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "truffe blanche d’été marinée aromatisée [truffe blanche d’été (Tuber aestivum) 1%",
+                    "huile d’olive vierge extra",
+                    "sel",
+                    "arôme naturel]",
+                    "sel",
+                    "huile d’olive vierge extra",
+                    "persil",
+                    "origan",
+                    "levure.\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.33
+            }
+        ],
+        "created_at": "2024-05-22T13:42",
+        "updated_at": "2024-05-22T13:42"
+    },
+    {
+        "ean": "089409",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza Volcana \"Italia\"",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte à pizza 53,2%, garnie de sauce tomate épicée 17,9%, mozzarella 11,1%, oignon rouge 9,8% et salami spianata piquante aromatisée 8%, précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwaf1c7eeb/produits/000000000000089409_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-volcana-000000000000089409.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:42",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.25",
+                "price": "4.50",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "873 kJ\n208 kcal",
+                    "Matières grasses": "6,2 g",
+                    "dont acides gras saturés": "3,6 g",
+                    "Glucides": "23 g",
+                    "dont sucres": "2,0 g",
+                    "Fibres alimentaires": "2,5 g",
+                    "Protéines": "14 g",
+                    "Sel": "1,7 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "pulpe de tomate 17",
+                    "7%",
+                    "mozzarella 11",
+                    "1% (contient LAIT)",
+                    "oignon rouge 9",
+                    "8%",
+                    "salami spianata piquante aromatisée 8% [viande de porc (origine : UE)",
+                    "sel",
+                    "épices (piment",
+                    "graine de fenouil)",
+                    "arômes naturels",
+                    "dextrose",
+                    "antioxydants (ascorbate de sodium",
+                    "extrait de romarin)",
+                    "conservateur : nitrite de sodium]",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "sel",
+                    "huile d’olive vierge extra",
+                    "piment haché mariné dans l’huile 0",
+                    "2% (piment 0",
+                    "1%",
+                    "huile de tournesol",
+                    "sel",
+                    "antioxydant : acide citrique)",
+                    "origan",
+                    "levure."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.25
+            }
+        ],
+        "created_at": "2024-05-22T13:42",
+        "updated_at": "2024-05-22T13:42"
+    },
+    {
+        "ean": "083811",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "IT"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza chèvre, miel, noix",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte 45% garnie d'une sauce au miel 18,1%, de rondelles de chèvre, de mozzarella, d'épinard, de morceaux de noix et d'oignon rouge ; précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw249cecb0/produits/entrees-tartes-salades/edition/000000000000083811_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-chevre-miel-noix-000000000000083811.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:42",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1123 kJ\n268 kcal",
+                    "Matières grasses": "13 g",
+                    "dont acides gras saturés": "6,2 g",
+                    "Glucides": "26 g",
+                    "dont sucres": "2,8 g",
+                    "Fibres alimentaires": "2,4 g",
+                    "Protéines": "11 g",
+                    "Sel": "0,96 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "fromage de chèvre 15% (contient lait)",
+                    "mozzarella 10",
+                    "5% (UE ; contient lait)",
+                    "eau",
+                    "fromage stracchino 5",
+                    "5% (contient lait)",
+                    "épinard 4",
+                    "2%",
+                    "crème fraiche (lait)",
+                    "noix 3",
+                    "1%*",
+                    "oignon rouge 3%",
+                    "huile d'olive vierge extra",
+                    "miel 2",
+                    "3%",
+                    "oignon",
+                    "amidon transformé de maïs",
+                    "sel",
+                    "ciboulette",
+                    "levure",
+                    "ail",
+                    "gluten de blé",
+                    "farine de blé malté (gluten)",
+                    "antiagglomérant : carbonate de calcium",
+                    "poivre",
+                    "agent de traitement de la farine : acide ascorbique",
+                    "enzymes."
+                ],
+                "customer_reviews": 3.78
+            }
+        ],
+        "created_at": "2024-05-22T13:42",
+        "updated_at": "2024-05-22T13:42"
+    },
+    {
+        "ean": "071732",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza jambon speck, roquette, mozzarella",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte 44,7% garnie de sauce tomate 20,7%, de mozzarella, de jambon speck, de roquette et de tomate cerise confite ; précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc3d4544e/produits/000000000000071732_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-jambon-speck-roquette-mozzarella-000000000000071732.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:43",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "892 kJ\n212 kcal",
+                    "Matières grasses": "7,2 g",
+                    "dont acides gras saturés": "3,5 g",
+                    "Glucides": "24 g",
+                    "dont sucres": "2,4 g",
+                    "Fibres alimentaires": "2,3 g",
+                    "Protéines": "12 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "pulpe de tomate 15",
+                    "8%",
+                    "mozzarella en morceau et en bille (UE; contient lait) 15",
+                    "3%",
+                    "jambon cru fumé speck 14",
+                    "1% [viande de porc (origine : UE)",
+                    "sel",
+                    "épices et aromates",
+                    "antioxydant : ascorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "roquette 3",
+                    "5%",
+                    "tomate cerise confite 3",
+                    "5% (tomate cerise",
+                    "sirop de glucose de blé et/ou maïs",
+                    "sel)",
+                    "concentré de tomate 1",
+                    "7%",
+                    "huile d'olive 1",
+                    "6%",
+                    "levure",
+                    "sel",
+                    "oignon",
+                    "ail",
+                    "basilic 0",
+                    "04%",
+                    "poivre."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.28
+            }
+        ],
+        "created_at": "2024-05-22T13:43",
+        "updated_at": "2024-05-22T13:43"
+    },
+    {
+        "ean": "018515",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "GR"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pide, pizza bœuf poulet",
+                "packaging": "LA BOÎTE DE 160 G",
+                "desc": "Pâte garnie d'une farce à base de viande de bœuf et de poulet hachée, gouda râpé, précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbb8be414/produits/000000000000018515_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pide-000000000000018515.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:43",
+                "format": "LA BOÎTE DE 160 G",
+                "price_per_unit": "28.12",
+                "price": "4.50",
+                "packaging_measure_value": 160,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "985 kJ\n233 kcal",
+                    "Matières grasses": "4,0 g",
+                    "dont acides gras saturés": "1,6 g",
+                    "Glucides": "38 g",
+                    "dont sucres": "3,0 g",
+                    "Fibres alimentaires": "2,2 g",
+                    "Protéines": "11 g",
+                    "Sel": "1,3 g"
+                },
+                "ingredients": [
+                    "Pâte de BLÉ 70% [farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "levain de BLÉ (GLUTEN)",
+                    "levure",
+                    "sel",
+                    "huile de colza)",
+                    "farce à base de viande de boeuf et de poulet hachée 24% [pulpe de tomate au jus 8",
+                    "8% (tomate concassée",
+                    "jus de tomate",
+                    "correcteur d'acidité : acide citrique)",
+                    "viande de bœuf hachée (origine : France*) 4",
+                    "8%",
+                    "viande de poulet hachée (origine : Grèce**) 4",
+                    "8%",
+                    "oignon séché",
+                    "vin blanc (SULFITES)",
+                    "oignon",
+                    "purée de tomate 0",
+                    "7%",
+                    "huile de tournesol",
+                    "sel",
+                    "origan",
+                    "ail",
+                    "poivre]",
+                    "gouda râpé (contient LAIT) 6%.\n*ISSUE D'ANIMAUX NÉS",
+                    "ÉLEVÉS ET ABATTUS EN FRANCE\n*Issue d'animaux nés",
+                    "élevés et abattus en Grèce"
+                ],
+                "customer_reviews": 3.64
+            }
+        ],
+        "created_at": "2024-05-22T13:43",
+        "updated_at": "2024-05-22T13:43"
+    },
+    {
+        "ean": "089282",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "IT"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pinsa mozzarella, jambon cuit supérieur, tomate",
+                "packaging": "LA BOÎTE DE 350 G",
+                "desc": "Pâte précuite 60,4%, garniture 39,6% à base de mozzarella, jambon cuit supérieur et tomate, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw77145322/produits/000000000000089282_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pinsa-mozzarella-jambon-tomate-000000000000089282.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:43",
+                "format": "LA BOÎTE DE 350 G",
+                "format2": "1 part",
+                "availability": true,
+                "price_per_unit": "11.40",
+                "price": "3.99",
+                "packaging_measure_value": 350,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "893 kJ\n212 kcal",
+                    "Matières grasses": "4,8 g",
+                    "dont acides gras saturés": "1,9 g",
+                    "Glucides": "31 g",
+                    "dont sucres": "2,3 g",
+                    "Fibres alimentaires": "2,5 g",
+                    "Protéines": "10,0 g",
+                    "Sel": "1,3 g"
+                },
+                "ingredients": [
+                    "Eau",
+                    "farine de BLÉ (GLUTEN) tendre",
+                    "mozzarella 7",
+                    "7% (contient LAIT)",
+                    "jambon cuit supérieur 7",
+                    "7% [viande de porc (origine : France*)",
+                    "eau",
+                    "sel",
+                    "dextrose",
+                    "gélatine de porc",
+                    "bouillon (blette",
+                    "acérola",
+                    "carotte)",
+                    "ferments]",
+                    "tomate 3",
+                    "8%",
+                    "huile de tournesol",
+                    "préparation à base de lait en poudre [LAIT écrémé en poudre",
+                    "amidon de maïs",
+                    "lactosérum (LAIT) en poudre",
+                    "fibre de bambou",
+                    "sel]",
+                    "farine de SOJA",
+                    "sel",
+                    "farine de riz",
+                    "son de BLÉ (GLUTEN) tendre",
+                    "levure",
+                    "origan",
+                    "farine de BLÉ (GLUTEN) tendre malté",
+                    "poivre",
+                    "amidon de maïs.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 2.86
+            }
+        ],
+        "created_at": "2024-05-22T13:43",
+        "updated_at": "2024-05-22T13:43"
+    },
+    {
+        "ean": "089011",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza Regina \"Italia\"",
+                "packaging": "LA BOÎTE DE 440 G",
+                "desc": "Pâte 45,7% garnie de sauce tomate 16,6%, de mozzarella 14,5%, de jambon 12,4% et de champignon de Paris 6,6% ; cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw41583eb6/produits/entrees-tartes-salades/edition/000000000000089011_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-regina-italia-000000000000089011.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:43",
+                "format": "LA BOÎTE DE 440 G",
+                "availability": true,
+                "price_per_unit": "10.22",
+                "price": "4.50",
+                "packaging_measure_value": 440,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "815 kJ\n193 kcal",
+                    "Matières grasses": "4,8 g",
+                    "dont acides gras saturés": "2,8 g",
+                    "Glucides": "27 g",
+                    "dont sucres": "1,7 g",
+                    "Fibres alimentaires": "2,9 g",
+                    "Protéines": "9 g",
+                    "Sel": "1,7 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "pulpe de tomate 16",
+                    "6%",
+                    "eau",
+                    "mozzarella (contient LAIT; UE) 14",
+                    "5%",
+                    "jambon cuit 12",
+                    "4% [viande de porc (origine : UE)",
+                    "eau",
+                    "sel",
+                    "amidon de pomme de terre",
+                    "sucre",
+                    "dextrose",
+                    "épices et extraits d'épices",
+                    "antioxydant : ascorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "champignon de Paris cuisiné (champignon de Paris 6",
+                    "6%",
+                    "huile de tournesol",
+                    "sel",
+                    "sucre",
+                    "ail",
+                    "acidifiant : acide lactique)",
+                    "olive noire dénoyautée* (olive noire",
+                    "eau",
+                    "sel",
+                    "correcteur d'acidité : acide lactique)",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "sel",
+                    "huile d'olive vierge extra",
+                    "origan",
+                    "levure."
+                ],
+                "customer_reviews": 4.2
+            }
+        ],
+        "created_at": "2024-05-22T13:43",
+        "updated_at": "2024-05-22T13:43"
+    },
+    {
+        "ean": "083390",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza margherita Italia tomate, mozzarella",
+                "packaging": "LA BOÎTE DE 420 G",
+                "desc": "Pâte 46,8% garnie de mozzarella 31,9% et sauce tomate 21,3%; cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4b787b14/produits/000000000000083390_E4.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-margherita-italia-tomate-mozzarella-000000000000083390.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:43",
+                "format": "LA BOÎTE DE 420 G",
+                "price_per_unit": "10.71",
+                "price": "4.50",
+                "packaging_measure_value": 420,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "954 kJ\n227 kcal",
+                    "Matières grasses": "7,6 g",
+                    "dont acides gras saturés": "5,7 g",
+                    "Glucides": "29 g",
+                    "dont sucres": "2,3 g",
+                    "Fibres alimentaires": "2,6 g",
+                    "Protéines": "9,6 g",
+                    "Sel": "1,4 g"
+                },
+                "ingredients": [
+                    "Mozzarella en morceau et en bille 31",
+                    "9% (UE ; LAIT",
+                    "sel",
+                    "ferment lactique",
+                    "présure",
+                    "correcteur d’acidité : acide citrique)",
+                    "farine de BLÉ (GLUTEN)",
+                    "pulpe de tomate 21",
+                    "3%",
+                    "eau",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "sel",
+                    "huile d’olive vierge extra",
+                    "origan",
+                    "levure."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.49
+            }
+        ],
+        "created_at": "2024-05-22T13:43",
+        "updated_at": "2024-05-22T13:43"
+    },
+    {
+        "ean": "089080",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza margherita",
+                "packaging": "LA BOÎTE DE 300 G",
+                "desc": "Pizza Margherita sans gluten et sans lactose - surgelée. Spécialement formulée pour les personnes souffrant d’une intolérance au gluten.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6be0f2f8/produits/entrees-tartes-salades/pack/000000000000089080_P.png?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-margherita-000000000000089080.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 300 G",
+                "availability": true,
+                "price_per_unit": "16.63",
+                "price": "4.99",
+                "packaging_measure_value": 300,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "964 kJ\n230 kcal",
+                    "Matières grasses": "9,2 g",
+                    "dont acides gras saturés": "5,0 g",
+                    "Glucides": "27 g",
+                    "dont sucres": "1,4 g",
+                    "Protéines": "7,5 g",
+                    "Fibres alimentaires": "3,8 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "PÂTE 53% : amidon de maïs",
+                    "eau",
+                    "farine de riz",
+                    "levain 12% (farine de riz",
+                    "eau)",
+                    "épaississants : cellulose",
+                    "hydroxypropylméthylcellulose ; amidon de riz",
+                    "huile d’olive extra vierge 3",
+                    "5%",
+                    "levure",
+                    "farine de maïs",
+                    "huile de tournesol",
+                    "sel iodé",
+                    "(sel",
+                    "iodure de potassium)",
+                    "extraits de fruits (graines de caroube",
+                    "pomme)",
+                    "sucre",
+                    "dextrose",
+                    "poudres à lever : bicarbonate de sodium",
+                    "glucono-delta-lactone ; acidifiants : acide tartrique",
+                    "acide citrique. GARNITURE 47% : mozzarella 50% (lait pasteurisé sans lactose",
+                    "sel",
+                    "présure microbienne",
+                    "correcteur d’acidité : acide citrique)",
+                    "purée de tomate 41%",
+                    "sel iodé",
+                    "(sel",
+                    "iodure de potassium)",
+                    "origan. Peut contenir des traces de soja. SANS LACTOSE."
+                ],
+                "customer_reviews": 4.58
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "089153",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 frusta 4 fromages \"Italia\"",
+                "packaging": "LE SACHET DE 300 G",
+                "desc": "Pâte 66,6% garnie de sauce tomate 16,7% et de 4 fromages 16,7%, cuite surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8bbb780e/produits/000000000000089153_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-frusta-4-fromages-italia-000000000000089153.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LE SACHET DE 300 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "11.00",
+                "price": "3.30",
+                "packaging_measure_value": 300,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "915 kJ\n217 kcal",
+                    "Matières grasses": "5,0 g",
+                    "dont acides gras saturés": "3,0 g",
+                    "Glucides": "32 g",
+                    "dont sucres": "5,0 g",
+                    "Fibres alimentaires": "1,9 g",
+                    "Protéines": "10 g",
+                    "Sel": "1,5 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "pulpe de tomate 16",
+                    "7%",
+                    "mozzarella 8",
+                    "3% (contient LAIT)",
+                    "emmental 3",
+                    "8% (origine : Allemagne ; contient LAIT)",
+                    "edam 3",
+                    "8% (origine: Allemagne",
+                    "contient LAIT)",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "sel",
+                    "fromage bleu 0",
+                    "8% (contient LAIT)",
+                    "huile d'olive vierge extra",
+                    "levure",
+                    "origan."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.84
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "037198",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza 3 fromages bio",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte à pizza (50%) garnie de sauce tomate (17,5%) et d'un mélange de 3 fromages; surgelée",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc929f7ce/produits/000000000000037198_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-3-fromages-bio-000000000000037198.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "12.47",
+                "price": "4.99",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1114 kJ\n266 kcal",
+                    "Matières grasses": "12 g",
+                    "dont acides gras saturés": "6,1 g",
+                    "Glucides": "26 g",
+                    "dont sucres": "3,4 g",
+                    "Fibres alimentaires": "2,5 g",
+                    "Protéines": "12 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ * (GLUTEN)",
+                    "mozzarella* 13",
+                    "7% (contient LAIT)",
+                    "purée de tomate* 13",
+                    "1%",
+                    "emmental* 11",
+                    "2% (contient LAIT; Allemagne)",
+                    "Gorgonzola* 7",
+                    "5% (contient LAIT)",
+                    "eau",
+                    "huile d’olive vierge-extra*",
+                    "levure",
+                    "sel. *Issu(e) de l’agriculture biologique"
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.47
+            }
+        ],
+        "label": [
+            {
+                "bio": true
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "089303",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "CL",
+            "partial": [
+                "IT"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza houmous basilic, asperge, amande",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte 50%, garniture 25,9% à base de courgette grillée, d’asperge verte, d’épinard et d’amande, sauce 24,1% à base de pois chiche et de basilic ; précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbc8210a0/produits/000000000000089303_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-houmous-basilic-000000000000089303.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.25",
+                "price": "4.50",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "847 kJ\n201 kcal",
+                    "Matières grasses": "6,6 g",
+                    "dont acides gras saturés": "0,8 g",
+                    "Glucides": "28 g",
+                    "dont sucres": "2,3 g",
+                    "Fibres alimentaires": "2,2 g",
+                    "Protéines": "6,1 g",
+                    "Sel": "1 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 39",
+                    "2%",
+                    "eau",
+                    "courgette grillée 14",
+                    "5%",
+                    "pois chiche 7",
+                    "3% (pois chiche réhydraté",
+                    "eau",
+                    "sel)",
+                    "pointe d'asperge verte 3",
+                    "7%",
+                    "épinard 3",
+                    "7%",
+                    "huile de tournesol",
+                    "préparation à base de basilic 2",
+                    "4% (Basilico Genovese AOP* 1",
+                    "4%",
+                    "huile d’olive vierge extra",
+                    "sel",
+                    "antioxydant : acide ascorbique)",
+                    "purée de SESAME",
+                    "huile d'olive",
+                    "AMANDE 1",
+                    "2%",
+                    "Vinaigre Balsamique de Modène [Aceto Balsamico di Modena IGP** (vinaigre de vin",
+                    "moût de raisin cuit)]",
+                    "sel",
+                    "amidon de riz",
+                    "huile d’olive vierge extra",
+                    "sirop d’agave",
+                    "jus de citron concentré",
+                    "farine de BLÉ malté (GLUTEN)",
+                    "enzymes (contient GLUTEN)",
+                    "levure inactive (contient GLUTEN)",
+                    "levure",
+                    "ail.\n*A.O.P. : Appellation dOrigine Protégée.\n*IGP : Indication Géographique Protégée"
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.33
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "040581",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Flammekueche",
+                "packaging": "LA BOÎTE DE 260 G",
+                "desc": "Pâte fine 40,4% garnie de lardon fumé et d'oignon, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw44e3cf75/produits/000000000000040581_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/flammekueche-000000000000040581.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 260 G",
+                "format2": "3 parts",
+                "price_per_unit": "13.46",
+                "price": "3.50",
+                "packaging_measure_value": 260,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1046 kJ\n251 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "8,2 g",
+                    "Glucides": "22 g",
+                    "dont sucres": "2,1 g",
+                    "Fibres alimentaires": "1 g",
+                    "Protéines": "6,1 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Crème fraîche (LAIT) 34",
+                    "6%",
+                    "farine de BLE (GLUTEN) 26%",
+                    "lardon fumé 15",
+                    "4% [poitrine de porc (origine : France*)",
+                    "sel",
+                    "dextrose",
+                    "antioxydant : erythorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "oignon émincé 9",
+                    "6%",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "sel.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.33
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "083027",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza aux 4 fromages",
+                "packaging": "LA BOÎTE DE 200 G",
+                "desc": "Pâte à pizza précuite 48,5% garnie d'un mélange de 4 fromages 37%, sauce tomate 14,45%, origan 0,05%, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbb8e0868/produits/000000000000083027_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-4-fromages-000000000000083027.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 200 G",
+                "format2": "1 part",
+                "availability": true,
+                "price_per_unit": "14.00",
+                "price": "2.80",
+                "packaging_measure_value": 200,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1088 kJ\n259 kcal",
+                    "Matières grasses": "10 g",
+                    "dont acides gras saturés": "6,3 g",
+                    "Glucides": "30 g",
+                    "dont sucres": "1,5 g",
+                    "Fibres alimentaires": "1,2 g",
+                    "Protéines": "11 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 37",
+                    "9%",
+                    "eau",
+                    "mozzarella 13",
+                    "5% (LAIT",
+                    "sel",
+                    "ferments lactiques",
+                    "coagulant microbien",
+                    "correcteur d'acidité : acide citrique)",
+                    "fromage Provolone AOP* 7",
+                    "5% (contient LAIT)",
+                    "purée de tomate 7",
+                    "4% (tomate",
+                    "correcteur d'acidité : acide citrique)",
+                    "fromage Gorgonzola AOP* 6",
+                    "2% (contient LAIT)",
+                    "fromage Asiago AOP* 6% (contient LAIT)",
+                    "huile d'olive vierge extra",
+                    "crème fraîche (LAIT)",
+                    "oignon grillé",
+                    "fromage stracchino 0",
+                    "5% (contient LAIT)",
+                    "sel",
+                    "amidon de maïs",
+                    "améliorant de panification [farine de BLÉ (GLUTEN)",
+                    "enzymes]",
+                    "levure",
+                    "LAIT écrémé en poudre",
+                    "origan 0",
+                    "05%",
+                    "ail",
+                    "poivre noir",
+                    "poivre blanc.\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.97
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "071766",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza 4 saisons bio",
+                "packaging": "LA BOÎTE DE 420 G",
+                "desc": "Pâte à pizza (42,8%) garnie d'un mélange de légumes grillés, de sauce tomate (16,2%), de fromages et d'artichaut, surgelée",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwea7d6f4c/produits/71766.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-4-saisons-bio-000000000000071766.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 420 G",
+                "availability": true,
+                "price_per_unit": "11.88",
+                "price": "4.99",
+                "packaging_measure_value": 420,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "801 kJ\n191 kcal",
+                    "Matières grasses": "7,2 g",
+                    "dont acides gras saturés": "2,6 g",
+                    "Glucides": "24 g",
+                    "dont sucres": "2,7 g",
+                    "Fibres alimentaires": "2,7 g",
+                    "Protéines": "6,7 g",
+                    "Sel": "0,85 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)*",
+                    "eau",
+                    "aubergine grillée* 6",
+                    "5%",
+                    "artichaut cuisiné* 6% [artichaut*",
+                    "huile de tournesol*",
+                    "sel",
+                    "épices et aromates*",
+                    "acidifiant : acide citrique",
+                    "antioxydant : acide ascorbique]",
+                    "tomate cerise*",
+                    "courgette grillée* 5",
+                    "8%",
+                    "poivrons jaune et rouge grillés* 5",
+                    "4%",
+                    "emmental* 5",
+                    "2% (contient LAIT; Allemagne)",
+                    "mozzarella* 5",
+                    "2% (contient LAIT)",
+                    "purée de tomate* 5",
+                    "1%",
+                    "pulpe de tomate* 5",
+                    "1%",
+                    "huile d'olive vierge-extra*",
+                    "oignon*",
+                    "levure",
+                    "sel",
+                    "basilic*",
+                    "origan*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.\n*Convient aux végétariens (régime lacto-ovo-végétarien)."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.63
+            }
+        ],
+        "label": [
+            {
+                "bio": true
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "089016",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza bœuf, merguez, sauce salsa",
+                "packaging": "LA BOÎTE DE 430 G",
+                "desc": "Pâte 44,3%, garnie de sauce tomate épicée 14,5%, de préparation de viande bovine hachée assaisonnée 12,7%, de fromages 12,7%, de légumes 12,2% et de rondelles de merguez 3,6% - précuite - surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw5131d4fd/produits/000000000000089016_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-uf-merguez-sauce-salsa-000000000000089016.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:44",
+                "format": "LA BOÎTE DE 430 G",
+                "availability": true,
+                "price_per_unit": "11.60",
+                "price": "4.99",
+                "packaging_measure_value": 430,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "826 kJ\n197 kcal",
+                    "Matières grasses": "7,0 g",
+                    "dont acides gras saturés": "3,8 g",
+                    "Glucides": "22 g",
+                    "dont sucres": "2,5 g",
+                    "Fibres alimentaires": "3,5 g",
+                    "Protéines": "9,9 g",
+                    "Sel": "1 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "préparation de viande bovine hachée [viande de boeuf hachée cuite 12",
+                    "5% (origine : France*)",
+                    "sel",
+                    "oignon en poudre",
+                    "paprika",
+                    "cumin",
+                    "poivre",
+                    "thym]",
+                    "purée de tomate mi-réduite 7",
+                    "1%",
+                    "mozzarella 6",
+                    "9% (contient : LAIT)",
+                    "cheddar 5",
+                    "8% (LAIT",
+                    "sel",
+                    "ferments lactiques",
+                    "enzyme coagulante",
+                    "colorant : norbixine de rocou)",
+                    "poivron vert grillé 3",
+                    "6%",
+                    "poivron rouge grillé 3",
+                    "6%",
+                    "merguez 3",
+                    "6% [viande de boeuf (origine : France*)",
+                    "gras de boeuf",
+                    "épices et plantes aromatiques",
+                    "sel",
+                    "sirop de glucose",
+                    "dextrose",
+                    "arômes naturels]",
+                    "oignon",
+                    "poivron rouge 2",
+                    "5%",
+                    "oignon rouge 2",
+                    "4%",
+                    "huile d'olive",
+                    "levure boulangère",
+                    "sel",
+                    "purée de piment (piment broyé",
+                    "sel)",
+                    "ail",
+                    "sucre",
+                    "amidon de maïs",
+                    "paprika",
+                    "coriandre",
+                    "cumin",
+                    "paprika fumé.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.33
+            }
+        ],
+        "created_at": "2024-05-22T13:44",
+        "updated_at": "2024-05-22T13:44"
+    },
+    {
+        "ean": "071493",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 flammekueche",
+                "packaging": "LA BOÎTE DE 240 G",
+                "desc": "Pâte fine 41,7% garnie de lardon fumé et d'oignon, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw91a5c988/produits/000000000000071493_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-flammekueche-000000000000071493.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 240 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "12.45",
+                "price": "2.99",
+                "packaging_measure_value": 240,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1079 kJ\n258 kcal",
+                    "Matières grasses": "15 g",
+                    "dont acides gras saturés": "8,6 g",
+                    "Glucides": "23 g",
+                    "dont sucres": "1,9 g",
+                    "Fibres alimentaires": "1,3 g",
+                    "Protéines": "6,6 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Crème fraîche (LAIT) 33",
+                    "3 %",
+                    "farine de BLE (GLUTEN) 26",
+                    "9%",
+                    "lardon fumé 14",
+                    "2% [poitrine de porc (origine : France*)",
+                    "sel",
+                    "dextrose",
+                    "antioxydant : erythorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "eau",
+                    "oignon émincé 10",
+                    "8 %",
+                    "huiles végétales (tournesol et/ou colza)",
+                    "sel.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 4.13
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "064591",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "ES"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "9 petites pizzas 3 fromages",
+                "packaging": "LA BOÎTE DE 270 G",
+                "desc": "9 petites pizzas 3 fromages surgelées, composées de pâte précuite (40%) garnie de mozzarella, emmental et edamer dans une crème assaisonnée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4106fd03/produits/000000000000064591_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/9-petites-pizzas-3-fromages-000000000000064591.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 270 G",
+                "format2": "9 pièces",
+                "availability": true,
+                "price_per_unit": "12.96",
+                "price": "3.50",
+                "packaging_measure_value": 270,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1041 kJ\n248 kcal",
+                    "Matières grasses": "11 g",
+                    "dont acides gras saturés": "4,3 g",
+                    "Glucides": "27 g",
+                    "dont sucres": "3 g",
+                    "Fibres alimentaires": "1,6 g",
+                    "Protéines": "10 g",
+                    "Sel": "1,0 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "eau",
+                    "mozzarella 12",
+                    "5% (contient lait)",
+                    "emmental 9",
+                    "3% (contient lait ; UE)",
+                    "edamer 9",
+                    "3% (contient lait ;UE)",
+                    "crème [crème (lait)",
+                    "stabilisant : carraghénanes]",
+                    "lait",
+                    "crème fraîche (contient lait)",
+                    "huile de tournesol",
+                    "amidon de maïs",
+                    "fromage à pâte dure 0",
+                    "7% (contient lait)",
+                    "sel",
+                    "levure",
+                    "sucre",
+                    "poivre",
+                    "muscade",
+                    "persil."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 2.94
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "089017",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza légumes, pesto, parmigiano reggiano",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte 47,5%, garnie de sauce tomate 24%, de légumes 15,2%, de sauce au pesto 6,2% et de Parmigiano Reggiano 6,2% ; précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw61732cce/produits/000000000000089017_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-legumes-pesto-parmigiano-reggiano-000000000000089017.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "823 kJ\n195 kcal",
+                    "Matières grasses": "5,2 g",
+                    "dont acides gras saturés": "1,7 g",
+                    "Glucides": "30 g",
+                    "dont sucres": "1,4 g",
+                    "Fibres alimentaires": "1,7 g",
+                    "Protéines": "6,1 g",
+                    "Sel": "1,0 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "pulpe de tomates 20",
+                    "6%",
+                    "eau",
+                    "oignon rouge grillé 6",
+                    "7%",
+                    "Parmigiano Reggiano AOP* en copeaux et râpé 6",
+                    "6% (contient lait)",
+                    "demi-tomate cerise mi-séchée 5",
+                    "5%",
+                    "huile d'olive vierge extra 3",
+                    "1%",
+                    "épinard 3%",
+                    "purée de tomate 2",
+                    "6%",
+                    "préparation au basilic 1",
+                    "4% (basilic",
+                    "huile d'olive vierge extra",
+                    "sel",
+                    "antioxydant : acide ascorbique)",
+                    "sel",
+                    "basilic 1%",
+                    "ricotta 0",
+                    "6% [lactosérum (lait)",
+                    "crème de lait",
+                    "sel",
+                    "lait",
+                    "correcteur d'acidité : acide citrique]",
+                    "huile d'olive",
+                    "levure",
+                    "amidon transformé de maïs",
+                    "ail",
+                    "pignon de pin 0",
+                    "1%",
+                    "amidon transformé de riz. *AOP : appellation d'origine protégée\n*AUTORISATION DU CONSORTIUM DU PARMIGIANO REGGIANO."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.7
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "064616",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "9 petites pizzas jambon-fromage",
+                "packaging": "LA BOÎTE DE 270 G",
+                "desc": "9 petites pizzas jambon fromage surgelées, composées de pâte précuite (38%) garnie de jambon cuit, mozzarella, emmental et de sauce tomate assaisonnée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3ab0a0e6/produits/000000000000064616_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/9-petites-pizzas-jambon-fromage-000000000000064616.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 270 G",
+                "format2": "9 pièces",
+                "availability": true,
+                "price_per_unit": "12.96",
+                "price": "3.50",
+                "packaging_measure_value": 270,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "862 kJ\n205 kcal",
+                    "Matières grasses": "6,7 g",
+                    "dont acides gras saturés": "2,8 g",
+                    "Glucides": "26 g",
+                    "dont sucres": "2,8 g",
+                    "Fibres alimentaires": "1,8 g",
+                    "Protéines": "9,3 g",
+                    "Sel": "0,71 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "jambon cuit 16",
+                    "1% [jambon de porc (origine : France*) 14",
+                    "8%",
+                    "sel",
+                    "sirop de glucose",
+                    "dextrose",
+                    "arômes naturels",
+                    "antioxydant : ascorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "sauce tomate 14",
+                    "4% (purée de tomates",
+                    "eau",
+                    "huile de tournesol",
+                    "sel",
+                    "huile d'olive vierge extra",
+                    "épices)",
+                    "eau",
+                    "mozzarella 9",
+                    "6 % (lait",
+                    "sel",
+                    "ferment lactique",
+                    "présure",
+                    "affermissant : chlorure de calcium)",
+                    "emmental 6",
+                    "4 % (lait",
+                    "sel",
+                    "ferment lactique",
+                    "présure",
+                    "affermissant : chlorure de calcium)",
+                    "tomate concassée 4",
+                    "3% (tomate",
+                    "sel",
+                    "acidifiant : acide citrique)",
+                    "oignon préfit 3",
+                    "7%",
+                    "huile de tournesol",
+                    "sel",
+                    "levure",
+                    "origan",
+                    "ail",
+                    "basilic",
+                    "poivre.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.4
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "083019",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "FR",
+            "partial": [
+                "IT",
+                "RO",
+                "ES"
+            ]
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza Royale",
+                "packaging": "LA BOÎTE DE 200 G",
+                "desc": "Pâte à pizza précuite 50% garnie de mozzarella 18%, sauce tomate 10%, champignon 7,5%, tomate mi-séchée 7,5% et jambon cuit 7%, surgelés.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw22162334/produits/000000000000083019_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-royale-000000000000083019.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 200 G",
+                "format2": "1 part",
+                "availability": true,
+                "price_per_unit": "14.00",
+                "price": "2.80",
+                "packaging_measure_value": 200,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "966 kJ\n229 kcal",
+                    "Matières grasses": "6,3 g",
+                    "dont acides gras saturés": "2,8 g",
+                    "Glucides": "33 g",
+                    "dont sucres": "3,1 g",
+                    "Fibres alimentaires": "1,3 g",
+                    "Protéines": "9,7 g",
+                    "Sel": "0,93 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN) 39",
+                    "1%",
+                    "mozzarella 18% (LAIT",
+                    "sel",
+                    "ferments lactiques",
+                    "coagulant microbien",
+                    "correcteur d'acidité : acide citrique)",
+                    "eau",
+                    "champignon 7",
+                    "5%",
+                    "demi-tomate cerise mi-séchée 7",
+                    "5%",
+                    "jambon cuit supérieur 7% [jambon de porc (origine : France)*",
+                    "sel",
+                    "antioxydant : ascorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "pulpe de tomate 6",
+                    "5% (tomate",
+                    "correcteur d'acidité : acide citrique)",
+                    "purée de tomate 3",
+                    "1%",
+                    "huile d'olive vierge extra",
+                    "sel",
+                    "améliorant de panification [farine de BLÉ (GLUTEN)",
+                    "enzyme]",
+                    "levure",
+                    "huile d'olive",
+                    "amidon de maïs",
+                    "ail.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en France. *"
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 2.73
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "089015",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 mini-calzones jambon mozzarella Italia",
+                "packaging": "LE SACHET DE 300 G",
+                "desc": "Pâte 58,8%, garnie de sauce tomate 17,6%, de jambon 11,8% et de mozzarella 11,8%; cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6929f518/produits/000000000000089015_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/2-mini-calzones-jambon-mozzarella-italia-000000000000089015.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LE SACHET DE 300 G",
+                "format2": "2 pièces",
+                "availability": true,
+                "price_per_unit": "11.00",
+                "price": "3.30",
+                "packaging_measure_value": 300,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "795 kJ\n189 kcal",
+                    "Matières grasses": "4,4 g",
+                    "dont acides gras saturés": "2,6 g",
+                    "Glucides": "25 g",
+                    "dont sucres": "1,5 g",
+                    "Fibres alimentaires": "2,1 g",
+                    "Protéines": "11 g",
+                    "Sel": "1,5 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "eau",
+                    "pulpe de tomate 17",
+                    "6%",
+                    "jambon cuit 11",
+                    "8% [viande de porc (origine: UE)",
+                    "eau",
+                    "sel",
+                    "amidon de pomme de terre",
+                    "sucre",
+                    "dextrose",
+                    "épices et extraits d'épices",
+                    "antioxydant : ascorbate de sodium",
+                    "conservateur : nitrite de sodium]",
+                    "mozzarella (contient LAIT; UE) 11",
+                    "8%",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "sel",
+                    "huile d'olive vierge extra",
+                    "origan",
+                    "levure."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.13
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "089012",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza 4 formaggi italiani \"Italia\"",
+                "packaging": "LA BOÎTE DE 390 G",
+                "desc": "Pâte 46,9%, garnie de fromages 33,8%, de sauce tomate 19,2% et d'herbes 0,1% ; cuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6165f214/produits/000000000000089012_E[1].jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-4-formaggi-italiani-italia-000000000000089012.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 390 G",
+                "availability": true,
+                "price_per_unit": "11.53",
+                "price": "4.50",
+                "packaging_measure_value": 390,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "1052 kJ\n251 kcal",
+                    "Matières grasses": "11 g",
+                    "dont acides gras saturés": "6,6 g",
+                    "Glucides": "25 g",
+                    "dont sucres": "5,3 g",
+                    "Fibres alimentaires": "2,4 g",
+                    "Protéines": "12 g",
+                    "Sel": "1,1 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "pulpe de tomates 18",
+                    "6%",
+                    "mozzarella 12",
+                    "8% (contient lait)",
+                    "eau",
+                    "Gorgonzola AOP* 7",
+                    "6% (contient lait)",
+                    "Asiago AOP* 5",
+                    "1% (contient lait)",
+                    "mozzarella en billes 4",
+                    "3% (UE; contient lait)",
+                    "Grana Padano AOP* 3",
+                    "8% (lait",
+                    "sel",
+                    "présure animale",
+                    "conservateur: lysozyme d'oeuf)",
+                    "huile d'olive",
+                    "sel",
+                    "huile d'olive vierge extra",
+                    "levure",
+                    "sucre",
+                    "marjolaine",
+                    "origan.\n*A.O.P. : Appellation dOrigine Protégée."
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.39
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "089027",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza thon, tomate, olive",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pâte 49%, garnie de sauce tomate 16%, de thon 12%, de mozzarella 11,3%, de légumes 9,2% et d'olives 2,5% ; précuite, surgelée.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw62209d75/produits/000000000000089027_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-thon-tomate-olive-000000000000089027.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:45",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "871 kJ\n207 kcal",
+                    "Matières grasses": "6,6 g",
+                    "dont acides gras saturés": "2,6 g",
+                    "Glucides": "26 g",
+                    "dont sucres": "5,3 g",
+                    "Fibres alimentaires": "2,8 g",
+                    "Protéines": "10 g",
+                    "Sel": "0,92 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "pulpe de tomates 15",
+                    "3%",
+                    "thon à l'huile d'olive 12% [thon albacore 11",
+                    "7% (poissons)",
+                    "huile d'olive",
+                    "sel]",
+                    "mozzarella 11",
+                    "3% (UE ; contient lait)",
+                    "eau",
+                    "oignon rouge 5",
+                    "5%",
+                    "demi-tomate cerise mi-séchée 3",
+                    "7%",
+                    "olive dénoyautée assaisonnée* 2",
+                    "5% (olive",
+                    "sel",
+                    "arômes naturels",
+                    "correcteur d'acidité : acide citrique)",
+                    "huile d'olive",
+                    "huile d'olive vierge extra",
+                    "sel",
+                    "levure",
+                    "sucre",
+                    "basilic",
+                    "origan."
+                ],
+                "customer_reviews": 3.13
+            }
+        ],
+        "created_at": "2024-05-22T13:45",
+        "updated_at": "2024-05-22T13:45"
+    },
+    {
+        "ean": "089113",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza tomate, poulet, artichaut",
+                "packaging": "LA PIÈCE DE 400 G",
+                "desc": "Pâte à pizza 46,5% garnie de sauce à la tomate 17,2% précuite, poulet cuit rôti traité en salaison mariné au citron 12%, artichaut cuisiné 8%, mozzarella 7,5%, demi-tomate cerise mi-séchée 3,7%, épinard 2%, sauce au Vinaigre Balsamique De Modène 1,7%, fromage râpé 1,2% et origan 0,04%, surgelés.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdfbca38e/produits/entrees-tartes-salades/edition/000000000000089113_E1.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-tomate-poulet-artichaut-000000000000089113.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:46",
+                "format": "LA PIÈCE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "837 kJ\n199 kcal",
+                    "Matières grasses": "5,4 g",
+                    "dont acides gras saturés": "1,7 g",
+                    "Glucides": "28 g",
+                    "dont sucres": "3,2 g",
+                    "Fibres alimentaires": "1,6 g",
+                    "Protéines": "9,0 g",
+                    "Sel": "1,2 g"
+                },
+                "ingredients": [
+                    "Farine de BLÉ (GLUTEN)",
+                    "pulpe de tomate 15",
+                    "1%",
+                    "poulet cuit rôti traité en salaison [filet de poulet 10",
+                    "3% (origine : UE)",
+                    "huile de tournesol",
+                    "amidon de pomme de terre",
+                    "sel",
+                    "arôme naturel",
+                    "poivre blanc",
+                    "paprika]",
+                    "artichaut cuisiné (artichaut 6",
+                    "4%",
+                    "huile de tournesol",
+                    "sel",
+                    "basilic",
+                    "marjolaine",
+                    "persil",
+                    "ail",
+                    "poivre noir",
+                    "correcteur d'acidité : acide citrique",
+                    "antioxydant : acide ascorbique)",
+                    "mozzarella (LAIT",
+                    "sel",
+                    "ferments lactiques",
+                    "coagulant microbien",
+                    "correcteur d'acidité: acide citrique) 7",
+                    "5%",
+                    "eau",
+                    "demi tomate cerise mi-séchée 3",
+                    "7%",
+                    "semoule de BLÉ dur (GLUTEN)",
+                    "épinard 2%",
+                    "purée de tomate 1",
+                    "5%",
+                    "fromage râpé (LAIT) 1",
+                    "2%",
+                    "huile de tournesol",
+                    "Vinaigre Balsamique de Modène 1",
+                    "1% [Aceto Balsamico di Modena IGP** (vinaigre de vin",
+                    "moût de raisin cuit)]",
+                    "huile d'olive vierge extra",
+                    "sel",
+                    "sucre",
+                    "huile d'olive",
+                    "oignon",
+                    "farine de BLÉ dur maltée (GLUTEN)",
+                    "jus de citron concentré 0",
+                    "1%",
+                    "amidon transformé de maïs",
+                    "basilic",
+                    "amidon transformé de riz",
+                    "jus de citron vert concentré 0",
+                    "06%",
+                    "ail",
+                    "persil",
+                    "origan 0",
+                    "04%",
+                    "levure",
+                    "levure inactive (contient GLUTEN)",
+                    "poivre noir",
+                    "enzymes (contient GLUTEN).\n*IGP : Indication Géographique Protégée"
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 3.19
+            }
+        ],
+        "created_at": "2024-05-22T13:46",
+        "updated_at": "2024-05-22T13:46"
+    },
+    {
+        "ean": "089420",
+        "brand": "Picard",
+        "business_type": "food",
+        "categories": "unique_categories",
+        "origin": {
+            "explicit": "IT"
+        },
+        "unit_of_mesure": "kg",
+        "matter": "SUBSTANCE",
+        "market": {
+            "name": "Picard",
+            "country": "France"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza figue, Gorgonzola, jambon cru italien",
+                "packaging": "LA BOÎTE DE 400 G",
+                "desc": "Pizza surgelée composée d’une garniture à base de figue, mozzarella, Gorgonzola, jambon cru et crème 53,5% et d’une pâte précuite 46,5%.",
+                "images": "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwada108f5/produits/entrees-tartes-salades/edition/000000000000089420_E.jpg?sw=672&sh=392&q=30",
+                "links": "https://www.picard.fr/produits/pizza-gorgonzola-figue-jambon-cru-000000000000089420.html"
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2024-05-22T13:46",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "price_per_unit": "11.50",
+                "price": "4.60",
+                "packaging_measure_value": 400,
+                "packaging_measure_unit": "g",
+                "nutrition": {
+                    "Energie": "910 kJ\n217 kcal",
+                    "Matières grasses": "8,2 g",
+                    "dont acides gras saturés": "4,5 g",
+                    "Glucides": "25 g",
+                    "dont sucres": "3,1 g",
+                    "Fibres alimentaires": "1,6 g",
+                    "Protéines": "9,9 g",
+                    "Sel": "1,5 g"
+                },
+                "ingredients": [
+                    "Farine de blé (gluten)",
+                    "eau",
+                    "figue 10",
+                    "5%",
+                    "mozzarella 10% (lait",
+                    "sel",
+                    "ferments",
+                    "coagulant microbien",
+                    "correcteur d'acidité : acide citrique)",
+                    "Gorgonzola AOP* 8",
+                    "7% (contient lait)",
+                    "jambon cru 7",
+                    "5% [viande de porc (origine : Italie*)",
+                    "sel",
+                    "antioxydant : arôme naturel de romarin]",
+                    "semoule de blé dur (gluten)",
+                    "crème fraîche (lait)",
+                    "huile de tournesol",
+                    "sel",
+                    "amidon de maïs",
+                    "huile d'olive vierge extra",
+                    "lait écrémé en poudre",
+                    "farine de blé maltée (gluten)",
+                    "levure",
+                    "levure inactive (contient gluten)",
+                    "enzyme (contient gluten)",
+                    "poivre blanc.\n*A.O.P. : Appellation dOrigine Protégée.\n*Issue d'animaux nés",
+                    "élevés",
+                    "abattus et transformés en Italie"
+                ],
+                "allergens": [
+                    "soja",
+                    "fruits à coque",
+                    "chocolate"
+                ],
+                "customer_reviews": 2.96
+            }
+        ],
+        "created_at": "2024-05-22T13:46",
+        "updated_at": "2024-05-22T13:46"
+    }
+]

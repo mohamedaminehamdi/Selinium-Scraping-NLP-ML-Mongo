@@ -1,0 +1,940 @@
+[
+    {
+        "ean": "citron-jaune",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CITRON JAUNE 500G BIO",
+                "desc": "Variété PRIMO / VERNA / VERDELLI. Calibre 3-4. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/citron-jaune"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:06",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "betterave-bio-sachet",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BETTERAVE BIO SACHET 500G",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/betterave-bio-sachet"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:07",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "pomme-de-terre-lavee-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME DE TERRE LAVÉE 500G BIO",
+                "desc": "Variété ALLIANS /AGRIA. Calibre 45-55. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347110.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-de-terre-lavee-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:07",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "mais-bio-epis",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAÏS EN ÉPIS PRÉ-CUIT 400G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mais-bio-epis"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:08",
+                "format": "400G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "pomme-de-terre-rouge-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME DE TERRE ROUGE 500G BIO",
+                "desc": "Variété ALOUETTE / ROSABELLE. Calibre 28 /35. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-de-terre-rouge-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:09",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "pomme-de-terre-brossee-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME DE TERRE BROSSÉE 500G BIO",
+                "desc": "Variété ALLIANS /AGRIA. Calibre 45-55. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-de-terre-brossee-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:09",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "navet-violet-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NAVET VIOLET 500G BIO",
+                "desc": "Calibre A-B. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/navet-violet-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:10",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "asperges-blanches-bio-botte",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ASPERGES BLANCHES BIO BOTTE 300G",
+                "desc": "Calibre 16-20. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/asperges-blanches-bio-botte"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:10",
+                "format": "300G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "salade-feuille-chene-verte-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE FEUILLE CHÊNE VERTE PIÈCE BIO",
+                "desc": "Variété FEUILLE CHENE VERTE. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347110.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-feuille-chene-verte-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:11",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "salade-feuille-chene-rouge-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE FEUILLE CHÊNE ROUGE PIÈCE BIO",
+                "desc": "Variété FEUILLE CHENE ROUGE. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347110.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-feuille-chene-rouge-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:11",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "salade-batavia-verte-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE BATAVIA VERTE PIÈCE BIO",
+                "desc": "Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347035.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-batavia-verte-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:12",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "salade-jeunes-pousses-epinard-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE JEUNES POUSSES D'ÉPINARD 125G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-jeunes-pousses-epinard-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:12",
+                "format": "125G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "fenouil-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FENOUIL 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fenouil-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:13",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "endive-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ENDIVE 500G BIO",
+                "desc": "Variété WITLOOF. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/endive-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:13",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "endivettes-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ENDIVETTES 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/endivettes-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:14",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "radis-rose-bio-botte",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RADIS ROSE BOTTE PIÈCE BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347110.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/radis-rose-bio-botte"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:14",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "concombre-long-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONCOMBRE LONG PIÈCE BIO",
+                "desc": "Calibre 300-400. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347035.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/concombre-long-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:15",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "concombre-noa-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONCOMBRE NOA 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347035.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/concombre-noa-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:15",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "artichaut-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ARTICHAUT BIO 500G",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/artichaut-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:16",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "tomate-cerise-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE CERISE 250G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomate-cerise-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:16",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "tomate-ancienne-rouge-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE ANCIENNE ROUGE 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomate-ancienne-rouge-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:17",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "tomates-cerise-grappe-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATE GRAPPE 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomates-cerise-grappe-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:17",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "oignons-rouges-bio-filet",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILET D'OIGNONS ROUGES 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347318.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/oignons-rouges-bio-filet"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:18",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "oignons-jaune-bio-filet",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILET D'OIGNONS JAUNE 500G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347011.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/oignons-jaune-bio-filet"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:18",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    },
+    {
+        "ean": "oignon-cebette-bio-botte",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOTTE D'OIGNON CEBETTE BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347110.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/oignon-cebette-bio-botte"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:19",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:05",
+        "updated_at": "2025-06-16T03:05"
+    }
+]

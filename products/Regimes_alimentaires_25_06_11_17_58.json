@@ -1,0 +1,2585 @@
+[
+    {
+        "ean": "000000000000087505",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gnocchis de légumineuses",
+                "desc": "Gnocchis à base de farine de lentille corail, gnocchis à base de farine de pois et gnocchis à base de farine de pois chiche 52,8%, légumes grillés 23,6%, sauce 23,6% à l’huile d'olive (2%) et au basilic - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc5677528/produits/000000000000087351_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/450g-gnocchis-legumineuse-000000000000087505.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 107.0
+                    },
+                    "minerals": {
+                        "salt": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.3,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Gnocchi de lentille corail 17,6% (eau, farine de lentille corail 6,6%, sel), gnocchi de pois 17,6% (eau, farine de pois 6,6%, sel), gnocchi de pois chiche 17,6% (eau, farine de pois chiche 6,6%, sel), eau, poivron 7,8%, courgette 7,8%, aubergine 7,8%, huile d'olive 2%, basilic 0,7%.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 min\nDéposez les gnocchis dans une poêle, sans ajout de matière grasse et faites-les cuire 10 minutes environ à feu moyen et à couvert en les remuant régulièrement.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n8 min\nDéposez les gnocchis dans un plat adapté et laissez cuire le temps indiqué en remuant à mi-temps : 750 watts : 8 min",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089707",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini-focaccias au thym",
+                "desc": "8 mini pains spéciaux focaccias 38,2% au thym avec une garniture 41,1% à base de courgettes grillées et préparation au basilic et une garniture 20,7% à base de ricotta, mascarpone et oignon rouge – surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw333e2188/produits/000000000000089260_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-focaccias-thym-000000000000089707.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "format": "140.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 231.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Courgette grillée 24,2%, farine de BLÉ dur (GLUTEN), eau, ricotta 8,6% (sérum de LAIT, LAIT, correcteur d'acidité : acide citrique), mascarpone 7% [crème (LAIT), correcteur d'acidité : acide citrique], huile de tournesol, huile d'olive vierge extra, oignon rouge 4,4%, basilic 3,2%, fromage à pâte dure râpé (contient LAIT), citron jaune broyé sucré (citron, jus de citron, sucre), fibre de pois, sel, thym 0,8%, levure, jus de citron concentré, AMANDE hachée, amidon de riz, farine de malt d’ORGE (GLUTEN), ail, poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n9 à 11 min\n(Conseillé par Picard) Préchauffez votre four à 180°C (th.6). Déposez les focaccias sur une plaque recouverte de papier cuisson, en prenant soin de les redresser, et enfournez à mi-hauteur. Laissez réchauffer entre 9 et 11 minutes. Adaptez le temps de réchauffage à votre équipement. Ne pas cuire ou griller excessivement les produits.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000074368",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Salade d'algues, wakamé cultivé en Bretagne",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-algue-000000000000074368.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "on_discount": false,
+                "weight_per_packaging": 85.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089431",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Margherita, mozzarella, tomate, origan",
+                "desc": "Pizza surgelée garniture 52,5% mozzarella, sauce tomate, basilic et origan, pâte précuite 47,5%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pizza-margherita-400g-000000000000089431.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 277.0
+                    },
+                    "minerals": {
+                        "salt": 0.91
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29.0,
+                        "of_which_sugars": 5.2,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), mozzarella 30% (contient LAIT), purée de tomate 17,9%, eau, huile de tournesol, huile d'olive, sel, levure, amidon de maïs, basilic 0,02%, origan 0,01%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n8 min\nPréchauffez votre four à 210°C (th 7). Retirez le film et déposez la pizza sur une plaque recouverte de papier cuisson. Laissez-la 15 min à température ambiante et enfournez à mi-hauteur le temps indiqué : Four à chaleur tournante : 8 min - Four traditionnel : 10 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.18,
+            "total_reviews": 17
+        }
+    },
+    {
+        "ean": "000000000000068435",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Velouté courge butternut, lentille corail, citron",
+                "desc": "Velouté à base de courge butternut, lentilles corail, citron vert et coriandre, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwf1bcf625/produits/edition/68711.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/so-soup-veloute-courge-000000000000068435.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 49.0
+                    },
+                    "minerals": {
+                        "salt": 0.39
+                    },
+                    "fats": {
+                        "fats": 2.9,
+                        "saturates": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.1,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Courge butternut 45,5%, eau, lentille corail précuite 4% (lentille corail 2,4%, eau), crème fraîche (LAIT) liquide, oignon, beurre (LAIT), jus de citron vert à base de concentré 0,7% (eau, jus de citron vert concentré 0,1%), huile de SÉSAME grillé, sel, coriandre 0,3%, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.8,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n9 min\nRetirez le bol de son étui et placez-le au four à micro-ondes sans percer l'opercule. Laissez cuire le temps indiqué : 9 min à 900W 10 min à 750W Percez l'opercule et laissez reposer quelques minutes avant de consommer. Retirez ensuite l'opercule: c'est prêt!",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.59,
+            "total_reviews": 17
+        }
+    },
+    {
+        "ean": "000000000000019208",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 dos de cabillaud MSC, Norvège ou Islande",
+                "desc": "2 dos de cabillaud MSC qualité sans arête surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw57094441/produits/000000000000017738_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-dos-cabillaud-msc-000000000000019208.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*, Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.94,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson, passez le produit sous l'eau froide. Prévoyez les temps les plus courts sur les pièces les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 8.49,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.55,
+            "total_reviews": 53
+        }
+    },
+    {
+        "ean": "000000000000084355",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Glace caramel",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-pot-glace-caramel-340g-000000000000084355.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:55",
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 4.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089555",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Veg'gets saveur barbecue",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/veg-gets-bouchees-panees-000000000000089555.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089445",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini tacos",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-tacos-vegetal-000000000000089445.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 4.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089490",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "9 mini-burgers roses",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/9-mini-burgers-colorfood-000000000000089490.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 5.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089515",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade gnocchetti, légumes, poulet, jus de citron",
+                "desc": "Mélange de pâtes gnocchetti à la semoule de BLÉ dur complète cuites, légumes, émincé de filet de poulet traité en salaison cuit, assaisonnement 12,8% au jus de citron, graine de tournesol toastée, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-gnocchetti-300g-000000000000089515.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 108.0
+                    },
+                    "minerals": {
+                        "salt": 0.3
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Pâte gnocchetti à la semoule de BLÉ dur complète cuite 39,1% [eau, semoule de BLÉ (GLUTEN) dur complète], émincé de filet de poulet traité en salaison cuit 15,3% [filet de poulet 13,1% (origine : France*), eau, fécule de manioc, sel], brocoli 7,1%, fève de SOJA 6,2%, poivron jaune grillé 6,1%, chou kale 6,1%, tomate mi-séchée 4,6%, eau, jus de citron 3,5%, huile d'olive vierge extra, basilic, MOUTARDE de Dijon 1,1% (eau, graine de MOUTARDE, vinaigre d'alcool, sel), vinaigre balsamique de Modène (vinaigre de vin, moût de raisin), graine de tournesol toastée 0,6%, amidon de maïs, MOUTARDE à l'ancienne 0,5% (eau, vinaigre d'alcool, graine de MOUTARDE, tégument de graine de MOUTARDE, sel, curcuma), coriandre, origan, ail, sel, préparation à base de piment (piment, concentré de tomate, eau, sel, poivron séché, vinaigre d'alcool, poivron), épices (poivres, baie rose, coriandre).\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n15 min\nSortez le bol de son étui carton et retirez l'opercule. Placez le bol dans le four à micro-ondes et laissez décongeler 15 minutes en position décongélation. Mélangez bien et dégustez immédiatement.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n12 heures\nSortez le bol de son étui carton. Laissez décongeler 12 heures au réfrigérateur puis retirez l'opercule. Mélangez bien et dégustez immédiatement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.19,
+            "total_reviews": 27
+        }
+    },
+    {
+        "ean": "000000000000086566",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes végétariennes sauce cajun légumes rouges",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/colorfood-boulettes-vegetariennes-legumes-rouges-000000000000086566.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.1,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000073910",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 bâtonnets fraise banane",
+                "desc": "Sorbet plein fruit 53% à la fraise et à la banane, glace 42% à l'avoine et fraises hachées semi-confites 5%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwac4a4e89/produits/000000000000010206_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-batonnets-fraise-banane-000000000000073910.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.05
+                    },
+                    "fats": {
+                        "fats": 4.3,
+                        "saturates": 4.0
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 19.0,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Purée de fraise 31,8%, eau, sucre, purée de banane 7,9%, préparation de fraise hachée semi-confite (fraise 3,7%, sucre, jus de citron concentré), huile de coco, préparation à base d’AVOINE [eau, farine d'AVOINE (GLUTEN) 1%], fibre soluble de maïs, protéine de pois, fibre de racine de chicorée, fibre d'agrumes, émulsifiant : mono- et diglycérides d’acides gras d’origine végétale, stabilisants (farine de graines de caroube, gomme guar), jus concentré de betterave.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.6,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.49,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000073063",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 bâtonnets fruits",
+                "desc": "3 bâtonnets glacés 50% pomme, pêche, mangue et 3 bâtonnets glacés 50% fruits rouges, pomme, banane.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-batonnets-fruits-000000000000073063.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "format": "270.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 54.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 11.0,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Bâtonnet glacé pomme pêche mangue : purée de pêche 39,5%, jus de pomme à base de concentré 25%, purée de pomme 20%, purée de mangue 15%, jus concentré de citron. Bâtonnet glacé fruits rouges pomme banane : purée de fraise 35%, jus de pomme à base de concentré 25%, purée de banane 20%, purée de framboise 15%, purée de pomme 5%.",
+                "allergens": [
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 2.8,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.21,
+            "total_reviews": 62
+        }
+    },
+    {
+        "ean": "000000000000089163",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade à la grecque",
+                "desc": "Salade composée de riz noir cuit 20%, riz blanc cuit 20%, tomate cerise 15%, concombre 11,6%, Feta AOP 10%, olive noire 6%, huile d'olive vierge extra 5%, jus de citron 0,6%, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-grecque-000000000000089163.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:56",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 158.0
+                    },
+                    "minerals": {
+                        "salt": 0.55
+                    },
+                    "fats": {
+                        "fats": 9.1,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Riz noir cuit (eau, riz noir 8,3%), riz blanc cuit (eau, riz blanc 6,8%), demi-tomate cerise 15%, concombre en cube 11,6%, Feta AOP* 10% (contient lait), olive noire 6% (olive noire entière dénoyautée**, sel), oignon rouge, huile d'olive vierge extra 5%, vinaigre de vin blanc, menthe, moutarde (eau, graine de moutarde, vinaigre d'alcool, sel, curcuma), jus de citron 0,6%, origan, préparation à base d'ail (ail, eau, vinaigre d'alcool, sel), sel.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 5.95,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n12 min\nVersez la quantité désirée de salade dans un plat adapté. Laissez décongeler le temps indiqué en position décongélation en remuant délicatement à mi-temps : Position décongélation : Pour 300 g : 12 min - Pour 600 g : 18 min. Laissez reposer 15 min au réfrigérateur avant de servir.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n12 heures\nVersez la quantité désirée de salade dans un saladier. Laissez décongeler 12 heures au réfrigérateur. Remuez avant de servir. Laissez reposer 15 min à température ambiante avant de servir.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.45,
+            "total_reviews": 80
+        }
+    },
+    {
+        "ean": "000000000000073049",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "16 tubes, sorbets plein fruit et glace à l'eau",
+                "desc": "Assortiment de tubes glacés : 4 tubes sorbet plein fruit 25% à l'ananas, 4 tubes glace à l'eau 25% goût cola, 4 tubes sorbet plein fruit 25% aux fruits rouges, 4 tubes sorbet 25% à la pomme.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-tubes-sorbets-plein-fruit-glace-eau-000000000000073049.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "655.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Sorbet plein fruit à l'ananas : jus d'ananas 50%, eau, sucre, jus de citron, concentré de carthame* Glace à l'eau goût cola : eau, sucre, jus de citron, extrait de pomme*, arôme naturel Sorbet plein fruit aux fruits rouges : eau, purée de fraise 30%, sucre, purée de cassis 10%, purée de framboise 5%, jus de citron Sorbet à la pomme : eau, purée de pomme 35%, sucre, jus de citron, concentré de spiruline* Les pourcentages sont exprimés sur chaque tube. *Ingrédient ayant des propriétés colorantes",
+                "on_discount": false,
+                "weight_per_packaging": 655.0,
+                "price_per_packaging": 2.7,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.4,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000068762",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Graines de grenade, Italie",
+                "desc": "Graines de grenade surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9d8b5ab1/produits/000000000000068810_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/graines-de-grenade-000000000000068762.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 78.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Grenade.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.7,
+                "preparation": "Sans titre\n\nPour la préparation de boissons ou de gâteaux.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.58,
+            "total_reviews": 24
+        }
+    },
+    {
+        "ean": "000000000000073122",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 mini-bâtonnets lait de coco, mangue-passion",
+                "desc": "Glace au lait de coco 48,3%, sorbet à la mangue et au fruit de la passion 43,5%, sauce au fruit de la passion 8,2%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-mini-batonnets-lait-coco-mangue-passion-000000000000073122.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "288.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 148.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 5.7,
+                        "saturates": 5.2
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24.0,
+                        "of_which_sugars": 22.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, sucre, lait de coco 9,6% (pulpe de noix de coco, eau), sauce au fruit de la passion (sucre, purée de fruit de la passion 2,4%, eau, amidon de maïs, arôme naturel de fruit de la passion 0,01%), purée de mangue 6,5%, sirop de glucose, graisse de noix de coco 3,3%, jus de fruit de la passion à base de concentré 3,2%, protéines de pois hydrolysées, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, stabilisants (farine de graines de caroube, gomme guar), arôme naturel de noix de coco 0,05%, concentré de carthame, concentré de carotte pourpre.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque",
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 288.0,
+                "price_per_packaging": 3.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000087022",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Légumes à griller",
+                "desc": "Légumes à griller surgelés Courgettes, poivrons rouges et jaunes, oignons rouges, tomates",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/legumes-griller-000000000000087022.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 21.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.6,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Courgette 48%, oignon rouge 18%, poivron rouge 12%, poivron jaune 12%, tomate datterino 10%.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au barbecue\nPréparation sans décongélationCuisson au barbecue pendant\n12 min\nÉtalez les légumes en une seule couche sur la plancha chaude préalablement huilée, ou sur la grille du barbecue. Laissez cuire 12 min, en retournant régulièrement. Pour un résultat encore plus savoureux, vous pouvez faire mariner les légumes avant de les faire cuire.\n\nÀ la poêle\nPréparation sans décongélationCuisson au poele pendant\n12 min\nFaites revenir à feu moyen les légumes avec un peu d’huile d’olive pendant 12 min en retournant à mi-temps.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n20 min\nPréchauffez votre four à 210°C (th.7). Étalez les légumes sur la plaque en une seule couche et versez dessus 2 cuillères à soupe d'huile d'olive. Laissez cuire le temps indiqué en retournant à mi-temps : - Four traditionnel : 25 min - Four à chaleur tournante : 20 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.77,
+            "total_reviews": 22
+        }
+    },
+    {
+        "ean": "000000000000013477",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Velouté glacé de concombre à la menthe",
+                "desc": "Velouté glacé concombre, yaourt et menthe douce, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/veloute-glace-concombre-menthe-000000000000013477.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 82.0
+                    },
+                    "minerals": {
+                        "salt": 0.44
+                    },
+                    "fats": {
+                        "fats": 7.5,
+                        "saturates": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.3,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Concombre 68,4%, yaourt au lait entier 10%, brunoise de concombre 8%, huile d'olive vierge extra 7,2%, échalote, jus de citron, menthe douce 0,7%, ail, sel, poivre blanc.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.9,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n24 min\n- 150 W): Versez la quantité désirée de velouté glacé dans un plat adapté. Faites décongeler en position décongélation le temps indiqué, en remuant à mi-temps : Pour 300 g : 9 min Pour 600 g : 17 min Laissez reposer 15 à 20 min au réfrigérateur. Remuez avant de servir très frais.\n\nÀ la casserole\nDÉCONGÉLATIONCuisson au casserole pendant\n18 min\nDans une casserole, versez la quantité désirée de velouté glacé et amorcez la décongélation à feu doux en remuant continuellement, sans laisser chauffer le produit jusqu'à ce que les tablettes soient partiellement fondues. Retirez du feu. - Pour 300 g : 3 min - Pour 600 g : 4 min Laissez reposer 15 min au réfrigérateur. Remuez avant de servir très frais.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n10 h\nRépartissez le velouté de concombre dans un plat et faites décongeler 10 h au réfrigérateur. Remuez avant de servir et dégustez très frais.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.46,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000013899",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gaspacho (tomate, concombre, poivron, oignon)",
+                "desc": "Velouté froid à base de tomate, poivron, concombre, oignon avec morceaux de tomate et d'oignon - surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gaspacho-tomate-concombre-poivron-oignon-000000000000013899.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 44.0
+                    },
+                    "minerals": {
+                        "salt": 0.46
+                    },
+                    "fats": {
+                        "fats": 2.4,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.8,
+                        "of_which_sugars": 3.8,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Tomates 56,1%, poivron rouge 17%, concombre 15%, oignon 7%, huile d'olive vierge extra 1,8%, vinaigre de Xérès, ail, sel, jus de citron, paprika",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 4.9,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n23 min\nVersez la quantité désirée de gaspacho dans un plat adapté. Faites décongeler en position décongélation le temps indiqué, en remuant à mi-temps: - pour 250 g : 8 min - pour 500 g : 16 min - pour 1 kg : 25 min. Laissez reposer 15 à 20 minutes au réfrigérateur. Remuez avant de servir. Dégustez très frais.\n\nÀ la casserole\nDÉCONGÉLATIONCuisson au casserole pendant\n18 min\nDans une casserole, versez la quantité désirée de gaspacho et amorcez la décongélation à feu doux en remuant continuellement, sans laisser chauffer le produit jusqu'à ce que les tablettes soient partiellement fondues. Retirez du feu. - pour 250 g : 3 min - pour 500 g : 4 min - pour 1 kg : 7 min Laissez reposer 15 min au réfrigérateur. Remuez avant de servir très frais.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n10 h\nRépartissez le gaspacho dans un plat et faites décongeler 10 h au réfrigérateur. Remuez avant de servir et dégustez très frais.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 71
+        }
+    },
+    {
+        "ean": "000000000000087101",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini gaspacho concombre, courgette, petit pois",
+                "desc": "Soupe au concombre, courgette, petit pois, assaisonnée à l'huile d'olive vierge extra 1,4% et à la menthe - surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw7ea508be/produits/000000000000089163_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-gaspacho-vert-210g-000000000000087101.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "210.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 45.0
+                    },
+                    "minerals": {
+                        "salt": 0.38
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Concombre 39,6%, courgette 24,7%, petit pois 21,7%, eau, huile d'olive vierge extra 1,4%, menthe douce 1%, sel, fécule de pomme de terre, piment d'Espelette.",
+                "on_discount": false,
+                "weight_per_packaging": 210.0,
+                "price_per_packaging": 2.3,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n13 min\nRetirez le bol de son étui carton et retirez l'opercule plastique. Placez le bol au micro-ondes et laissez décongeler le temps indiqué : 13 min à 150W. Mélangez et laissez reposer quelques minutes avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 14
+        }
+    },
+    {
+        "ean": "000000000000019538",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de dorade-sébaste MSC",
+                "desc": "Filets de dorade-sébaste MSC, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe5234ca5/produits/000000000000087030_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-dorade-sebaste-msc-000000000000019538.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 105.0
+                    },
+                    "minerals": {
+                        "salt": 0.2
+                    },
+                    "fats": {
+                        "fats": 3.6,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de dorade-sébaste MSC (POISSONS). Sebastes marinus sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zone Islande et Féroé (V).",
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 15.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les filets sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.26,
+            "total_reviews": 31
+        }
+    },
+    {
+        "ean": "000000000000084281",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "5 bâtonnets pêche abricot verveine",
+                "desc": "5 bâtonnets de sorbet plein fruit pêche abricot et infusion de verveine.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/5-batonnets-glace-peche-abricot-verveine-000000000000084281.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "290.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 75.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 17.0,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Eau, purée de pêche 27%, purée d'abricot 18%, sucre, jus de citron, infusion de verveine 1%, jus de citron concentré, stabilisant : gomme guar.",
+                "on_discount": false,
+                "weight_per_packaging": 290.0,
+                "price_per_packaging": 3.6,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 95
+        }
+    },
+    {
+        "ean": "000000000000087086",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Taboulé au petit épeautre sauce aux agrumes",
+                "desc": "Mélange de légumes 39,4%, semoule de blé dur réhydratée 28,9%, petit épeautre cuit 17,2%, sauce aux agrumes 14,5%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9c6dfda6/produits/000000000000087646_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/taboule-epeautre-agrumes-000000000000087086.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 157.0
+                    },
+                    "minerals": {
+                        "salt": 0.55
+                    },
+                    "fats": {
+                        "fats": 7.3,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 2.0,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "BLÉ de petit épeautre cuit 17,2% [BLÉ de petit épeautre (GLUTEN), eau], concombre 16,4%, semoule de BLÉ dur (GLUTEN) 16%, tomate 13,2%, eau, jus de citron 4,2%, huile d'olive vierge extra, oignon 3,7%, huile de colza, ciboule, persil, menthe 1,5%, jus d'orange concentré 1,4%, jus de citron vert 0,8%, sel, ail en purée, coriandre, oignon en poudre 0,02%, cardamome, curcuma.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.8,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n8 à 9 min\nSortez le bol de son fourreau et retirez l'opercule. Placez le bol dans le four à micro-ondes et laissez décongeler 8 à 9 min en position décongélation. Bien mélanger et laissez reposer quelques minutes avant dégustation.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.75,
+            "total_reviews": 20
+        }
+    },
+    {
+        "ean": "000000000000089305",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Nouilles de riz légumes à l'asiatique",
+                "desc": "Mélange de légumes 45%, spécialité à base de riz cuite 38,3%, sauce 16,7% à base de sauce soja, sans gluten, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/nouilles-de-riz-leg-300g-000000000000089305.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:57",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 116.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 4.1,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 3.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Spécialité à base de riz cuite 37% (riz, eau, sel), eau, carotte rouge 7,4%, fève de SOJA 7,4%, brocoli 4,9%, oignon 4,9%, sauce SOJA 4,6% (eau, fève de SOJA, sel, vinaigre d'alcool), champignon shiitaké 4,3%, cive, poivron rouge 3,7% carotte jaune 3,7%, huile de SÉSAME, sirop d'agave, purée d'ail, jus de citron vert, coriandre, gingembre, farine de riz.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.9,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nSortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de déguster. Puissance restituée du four : 750 W : 6 min 30 900 W : 5 min 30\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n11 min\nVersez le contenu de la barquette dans une poêle chaude avec 2 cuillères à soupe d'eau froide. Laissez réchauffer à couvert et à feu moyen pendant 11 minutes en remuant régulièrement. Rajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.21,
+            "total_reviews": 33
+        }
+    },
+    {
+        "ean": "000000000000089304",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Coquillettes au fromage, coquillettes maïs et riz",
+                "desc": "Sauce 55% au cheddar blanc, spécialité céréalière cuite 45% à base de farine de maïs et de farine de riz, sans gluten, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/coquillette-from-300g-000000000000089304.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 168.0
+                    },
+                    "minerals": {
+                        "salt": 0.75
+                    },
+                    "fats": {
+                        "fats": 7.1,
+                        "saturates": 4.7
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Spécialité céréalière cuite 45% (eau, farine de maïs 15,7%, farine de riz 6,7%), eau, cheddar blanc râpé 12,1% [LAIT, amidon de pomme de terre, sel, coagulant microbien, ferments lactiques (LAIT)], LAIT écrémé en poudre, beurre (LAIT), farine de riz 1,9%, sel.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.9,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n5 min 30\nSortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de déguster. Puissance restituée du four : 750 W : 6 min 30 900 W : 5 min 30\n\nAu four\nCUISSONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Sortez la barquette de son étui carton et de son emballage plastique. Enfournez sur une grille à mi-hauteur et laissez réchauffer le temps indiqué. Couvrez à mi-temps : Four traditionnel : 40 min Four à chaleur tournante : 35 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.83,
+            "total_reviews": 23
+        }
+    },
+    {
+        "ean": "000000000000087267",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Courgettes grillées sans résidu pesticides, Italie",
+                "desc": "Courgettes grillées en morceaux sans résidu de pesticides* surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw388f422e/produits/00000000000000010313_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/courgettes-grillees-srp-000000000000087267.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 28.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.1,
+                        "of_which_sugars": 3.7,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Courgette grillée.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.99,
+                "preparation": "À la poêle\nCUISSONCuisson au poele pendant\n4 min\nDans une poêle chaude avec un peu de matière grasse, faites cuire les courgettes 4 minutes à feu moyen. Remuez régulièrement.\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n4 min\nEtalez les courgettes grillées dans un plat adapté. Laissez cuire le temps indiqué en retournant à mi-temps. Puissance restituée du four à micro-ondes: 750 W 900 W Pour 225g 5 min 4 min Pour 450 g 7 min 6 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.06,
+            "total_reviews": 31
+        }
+    },
+    {
+        "ean": "000000000000073117",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 fusées sorbets orange, citron, framboise",
+                "desc": "8 bâtonnets sorbet plein fruit orange 45,2%, sorbet plein fruit citron 38,1%, sorbet framboise 16,7%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-fusees-sorbets-orange-citron-framboise-000000000000073117.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "496.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, jus d'orange 22,5%, sucre, jus de citron 11,1%, purée de framboise 5%, stabilisant : gomme guar.",
+                "allergens": [
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 496.0,
+                "price_per_packaging": 2.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.62,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000084227",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini-bâtonnets vanille et chocolat",
+                "desc": "4 mini-bâtonnets 49,6% - crème glacée à la vanille avec une sauce au caramel au beurre salé, enrobage au chocolat au lait et morceaux d’amandes grillés. 4 mini-bâtonnets 50,4% - crème glacée au chocolat noir avec une sauce au chocolat, enrobage au chocolat noir et morceaux de noix de pécan caramélisés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-batonnets-vanille-chocolat-000000000000084227.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "282.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 332.0
+                    },
+                    "minerals": {
+                        "salt": 0.22
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 10.0
+                    },
+                    "proteins": {
+                        "proteins": 4.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 27.0,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Mini-bâtonnet crème glacée 57,2% à la vanille, enrobage 28,5% au chocolat au lait, sauce 8,6% au caramel au beurre salé, morceaux d’amandes grillés 5,7% : enrobage au chocolat au LAIT 28,5% [sucre, beurre de cacao, lactosérum en poudre (LAIT), matière grasse laitière anhydre (LAIT), pâte de cacao, LAIT écrémé en poudre, émulsifiants (lécithines de SOJA, polyricinoléate de polyglycérol)], LAIT écrémé réhydraté, eau, sirop de glucose, crème liquide (LAIT) 7,5%, sucre, morceau d’AMANDE grillé 5,7%, concentré de protéines de lactosérum (LAIT), fibre soluble de maïs, caramel au beurre salé 0,7% [sirop de glucose, LAIT entier concentré sucré, beurre salé 0,1% (beurre (LAIT), sel), eau, sucre, sel], LAIT écrémé concentré, émulsifiant : mono- et diglycérides d’acides gras d’origine végétale, gélifiants (farine de graines de caroube, gomme guar, pectines), extrait de vanille 0,08%, gousse de vanille épuisée broyée, caramel aromatique (sucre, eau), sel. Mini-bâtonnet crème glacée 57,8% au chocolat noir, enrobage 28,1% au chocolat noir, sauce chocolat 8,5%, morceaux de noix de pécan caramélisés 5,6% : enrobage au chocolat noir 28,1% [sucre, pâte de cacao, beurre de cacao, matière grasse laitière anhydre (LAIT), émulsifiant : polyricinoléate de polyglycérol], LAIT écrémé réhydraté, eau, sirops de glucose, crème liquide (LAIT) 9,3%, morceau de NOIX DE PÉCAN caramélisé 5,6% (NOIX DE PÉCAN 3,9%, sucre), sucre, cacao en poudre, chocolat noir 2,8% (pâte de cacao, sucre, cacao maigre en poudre, émulsifiant : lécithines de SOJA, arôme naturel de vanille), lactosérum doux en poudre (LAIT), cacao maigre en poudre, pâte de cacao, émulsifiant : mono- et diglycérides d’acides gras d’origine végétale, gélifiants (farine de graines de caroube, gomme guar), amidon de tapioca, sel.",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 282.0,
+                "price_per_packaging": 4.7,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 50
+        }
+    },
+    {
+        "ean": "000000000000087646",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Curry de légumes à l'indienne",
+                "desc": "Chou-fleur, patate douce et courgette grillée, sauce 29,2% au lait de coco et au curry, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw20e52b64/produits/0000000000000011438_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-legumes-a-l-indienne-000000000000087646.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 70.0
+                    },
+                    "minerals": {
+                        "salt": 0.31
+                    },
+                    "fats": {
+                        "fats": 4.0,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.5,
+                        "of_which_sugars": 4.0,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Chou-fleur 28,8%, patate douce 23%, courgette grillée 18,9%, lait de coco 13,2% (extrait de noix de coco, eau), eau, farine de riz, pâte de curry jaune 0,7% (épices, huile de tournesol, oignon, eau, gingembre, ail, vinaigre d'alcool, sel, piment vert), coriandre 0,3%, sel, jus concentré de carotte, poivre, curcuma.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n5 min 30\nSortez le bol de son fourreau et déposez-le dans le four à micro-ondes sans retirer ni percer l'opercule. Laissez cuire le temps indiqué. Puissance restituée du four à micro-ondes : 750W : 6 min30 - 900W : 5 min 30 Laissez reposer 1 minute puis retirez l'opercule et mélangez bien avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.02,
+            "total_reviews": 86
+        }
+    },
+    {
+        "ean": "000000000000087645",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Wedges et légumes grillés",
+                "desc": "Mélange de légumes et pomme de terre en quartier grillée salée, sauce 44,8% à la tomate et au basilic, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw20e52b64/produits/0000000000000011438_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-wedges-legume-grille-000000000000087645.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 88.0
+                    },
+                    "minerals": {
+                        "salt": 0.35
+                    },
+                    "fats": {
+                        "fats": 4.4,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.6,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Pomme de terre en quartier avec peau grillée salée 24% (pomme de terre 23,8%, sel), pulpe de tomate au jus 13,3% (tomate, jus de tomate), poivron rouge grillé 11,7%, aubergine grillée 11,2%, purée de tomate 11%, oignon préfrit (oignon, huile de tournesol), eau, oignon, basilic 2%, huile de tournesol, huile d'olive vierge extra, farine de riz, sel, poivre.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n5 min 30\nSortez le bol de son fourreau et déposez-le dans le four à micro-ondes sans retirer ni percer l'opercule. Laissez cuire le temps indiqué. Puissance restituée du four à micro-ondes : 900W : 5 min 30. 750W : 6 min 30. Laissez reposer 1 minute puis retirez l'opercule et mélangez bien avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.95,
+            "total_reviews": 59
+        }
+    },
+    {
+        "ean": "000000000000089010",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 mini cheese naans",
+                "desc": "12 mini pains spéciaux 66,9% garnis d’une préparation 33,1% aux fromages, cuits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/12-mini-cheese-naans-000000000000089010.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "180.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 280.0
+                    },
+                    "minerals": {
+                        "salt": 0.89
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 6.3
+                    },
+                    "proteins": {
+                        "proteins": 8.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 3.7,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), préparation laitière à l'emmental 14,3% [crème (LAIT), emmental 1,1% (contient LAIT ; origine : UE), fécule de pomme de terre, LAIT écrémé en poudre, sel, poivre], fromage frais 13,2% (contient LAIT), yaourt (contient LAIT), eau, emmental râpé 5,3% (contient LAIT ; origine : UE), huile d'olive vierge extra, sucre, sel, amidon de maïs, poudres à lever (carbonates de sodium, tartrates de potassium), épaississant : méthylcellulose.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 5.95,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n2 min\nSortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau dans le four à micro-ondes et laissez-le réchauffer le temps indiqué : 750W : 2 min\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th. 6). Sortez le plateau de son étui carton et ôtez son film plastique. Déposez directement le plateau sur une grille à mi-hauteur et laissez réchauffer le temps indiqué : Au Four : 15 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.16,
+            "total_reviews": 257
+        }
+    },
+    {
+        "ean": "000000000000087321",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tajine de légumes",
+                "desc": "Mélange de légumes cuisiné aux épices, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa055437e/produits/000000000000075770_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tajine-legumes-000000000000087321.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 88.0
+                    },
+                    "minerals": {
+                        "salt": 0.4
+                    },
+                    "fats": {
+                        "fats": 5.7,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 2.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.4,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Aubergine grillée 18%, courgette grillée 18%, carotte 14%, pulpe de tomate au jus 13% (pulpe de tomate, jus de tomate), pois chiche précuit 12% (eau, pois chiche), oignon grillé 8%, huile de tournesol, poivron rouge 3,7%, courgette 2,4%, huile d’olive vierge extra, eau, oignon 0,9%, graine de cumin 0,5%, épices 0,4% (paprika, fenouil, oignon, poivre, coriandre, curcuma, romarin, origan, piment), oignon grillé 0,4%, triple concentré de tomate 0,4%, sel, ail, laurier, thym, poivre.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.4,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6 min 30\nVersez la quantité désirée de tajine de légumes dans une poêle chaude. Laisser cuire à feu moyen le temps indiqué, en remuant régulièrement. Pour 300 g : 6 min 30 avec 2 cuil. à soupe d'eau Pour 600 g : 12 min avec 3 cuil. à soupe d'eau\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n4 min 30\nVersez la quantité désirée de tajine de légumes dans un plat adapté. Laissez cuire le temps indiqué, en remuant à mi-temps. Puissance restituée du four à micro-ondes : 750 W 300g : 5 min 600g : 9 min 900W 300g : 4 min 30 600g : 8 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.98,
+            "total_reviews": 145
+        }
+    },
+    {
+        "ean": "000000000000089264",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 chaussons tomate, poivron, mozzarella, pesto rosso",
+                "desc": "2 chaussons composés d'une pâte brisée pur beurre au basilic 54% et d'une garniture 46% à base de tomate mi séchées, poivrons, mozzarella et pesto rosso, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-chaussons-tomate-mozzarella-000000000000089264.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "280.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 294.0
+                    },
+                    "minerals": {
+                        "salt": 0.94
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 3.0,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 30,9%, beurre (LAIT) 17,7%, eau, tomates mi-séchées 10,1%, mozzarella 7,6% [LAIT, sel, coagulant, correcteur d'acidité : acide citrique], poivron jaune 5,5%, ŒUF entier de poule élevée en plein air (liquide, pasteurisé), poivron rouge 2,3%, préparation à base de basilic et concentré de tomate 2% [basilic, concentré de tomate, eau, fromage (contient LAIT), huile de tournesol, huile d'olive, sel, ail, jus de citron concentré, fécule de manioc, fécule de pomme de terre], crème liquide (LAIT), sel, pignon de pin, basilic 0,2%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 4.2,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nPréchauffez votre four à 180°C (th.6). Placez les chaussons à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Laissez réchauffer le temps indiqué : - Four à chaleur tournante : 30 min - Four traditionnel : 35 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.79,
+            "total_reviews": 43
+        }
+    },
+    {
+        "ean": "000000000000017738",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 dos de cabillaud MSC, Norvège ou Islande",
+                "desc": "4 dos de cabillaud MSC, qualité sans arête surgelés pêchés en Atlantique Nord-Est",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-dos-cabillaud-msc-000000000000017738.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "560.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*, Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": true,
+                "weight_per_packaging": 560.0,
+                "price_per_packaging": 13.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson individuel, passez le produit sous l'eau froide. Prévoyez les temps les plus courts pour les pièces les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 19.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.76,
+            "total_reviews": 182
+        }
+    },
+    {
+        "ean": "000000000000068802",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mangues en morceaux bio, Pérou",
+                "desc": "Mangues en morceaux issues de l'agriculture biologique surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mangues-morceaux-bio-000000000000068802.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 63.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Mangue issue de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.71,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n9 min\nLaissez décongeler dans un plat adapté le temps indiqué en remuant à mi-temps. Pour 225 g : 9 min Pour 450 g : 15 min Laissez reposer 15 minutes au réfrigérateur avant utilisation\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n6 h\n6 heures sur une seule couche dans un plat adapté.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.3,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.47,
+            "total_reviews": 150
+        }
+    },
+    {
+        "ean": "000000000000089165",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "16 bouchées apéritives aux légumes",
+                "desc": "Assortiment de 16 bouchées apéritives aux légumes surgelées : 4 bouchées 31,7% tomate cerise mi-séchée, duo de poivrons grillés et mozzarella - 4 tartelettes 26,7% houmous de betterave et petits légumes - 4 roulés 23,2% de courgette, fromage de chèvre et pignon de pin - 4 bouchées 18,4% avocat, pain spécial malté, chutney d’oignon, radis et sésame.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-bouchees-aperitives-legumes-000000000000089165.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "165.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 193.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 6.2,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Courgette 9,2%, tartelette à la betterave 8,1% [farine de BLÉ (GLUTEN), farine de maïs, huile de tournesol, betterave rouge en poudre 0,5%, eau, framboise en poudre, sel, levure désactivée], préparation à l'avocat (avocat 7,9%, sel, antioxydant : acide ascorbique, correcteur d'acidité : acide citrique), demi-tomate cerise assaisonnée (tomate cerise mi-séchée 6,9%, huile de colza, sel, origan, ail), pain spécial malté au cacao maigre 6,7% [farine de BLÉ (farine de BLÉ (GLUTEN), GLUTEN de BLÉ , farine de BLÉ malté (GLUTEN)), eau, huile de tournesol, graine de tournesol, levure, sucre, farine d’ORGE maltée (GLUTEN), graine de lin jaune, LAIT écrémé en poudre, sel, graine de SÉSAME doré, cacao maigre en poudre 0,06%, GLUTEN de BLÉ , farine de fève, ORGE malté (GLUTEN), antioxydants (acide ascorbique, acide citrique)], fromage de chèvre 5,1% (contient LAIT ), pois chiche cuit salé (pois chiche 2,8%, eau, sel), courgette grillée 4,5%, poivron jaune grillé 4,1%, betterave rouge cuite 3,9%, poivron rouge grillé 3,1%, farine de BLÉ [farine de BLÉ (GLUTEN), GLUTEN de BLÉ , farine de BLÉ malté (GLUTEN)], fromage nature [fromage (contient LAIT ), sel], mozzarella 2,5% (LAIT , sel, correcteur d’acidité : acide citrique, ferments lactiques), carotte jaune 2,3%, carotte orange 2,3%, coulis de tomate (tomate 2,2%, sel), mascarpone [crème (LAIT ), correcteur d’acidité : acide citrique], fromage frais (contient LAIT ), huile de tournesol, oignon rouge 1,5%, huile d’olive vierge extra, OEUF entier de poule élevée en plein air (liquide, pasteurisé), purée de tomate double concentrée 0,8%, huile de colza, crème fraîche épaisse (LAIT ), ciboulette, basilic, jus de citron à base de concentré, radis 0,5%, eau, amidon de riz, LAIT demi-écrémé, condiment blanc (vinaigre de vin, moût de raisin), purée de graine de SÉSAME blanc 0,3%, graine de SÉSAME doré 0,3%, jus d’orange sanguine, pignon de pin 0,3%, sel, jus de citron vert, jus de mandarine, échalote, jus concentré de betterave 0,2% (jus concentré de betterave, correcteur d’acidité : acide citrique), coriandre, persil, graine de SÉSAME 0,1%, vinaigre d’alcool blanc, graine de nigelle, fibre de pois, préparation à l'ail (ail, sel, acidifiant : acide citrique), amidon de maïs, jus concentré d'orange, pulpe d’agrume séchée, sucre, écorce d’orange broyée, poivre blanc, poivron rouge déshydraté, thym, piment, mélange d'épices.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 165.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 heures\nSortez les 16 bouchées de l'étui carton et de leur emballage. Déposez-les sur une assiette et redressez le roulé de courgette. Laissez décongeler pendant 5 heures au réfrigérateur puis attendez 10 minutes à température ambiante avant de déguster. A consommer rapidement après décongélation.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.08,
+            "total_reviews": 90
+        }
+    },
+    {
+        "ean": "000000000000086033",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Régimes alimentaires"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poêlée de gnocchis, tomates, mozzarella",
+                "desc": "Gnocchi à la pomme de terre précuit 59%, sauce tomate 18,5%, légumes 16,4%, mozzarella 6%; surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poelee-gnocchis-tomates-mozzarella-000000000000086033.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:58",
+                "format": "900.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 159.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 4.1,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 5.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24.0,
+                        "of_which_sugars": 8.4,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Gnocchi à la pomme de terre précuit 59% [semoule de BLÉ (GLUTEN), pomme de terre déshydratée 19,4%, eau, sel], purée de tomate 12,2%, oignon grillé 6,3%, mozzarella 6% [LAIT, sel, présure microbienne, acidifiant : acide citrique], tomate cerise 4,2%, épinard 3,1%, tomate cerise mi séchée 2,6%, huile d'olive vierge extra 2,3%, eau, basilic, ail, préparation d'oignon (jus d'oignon concentré, huile de tournesol), sel, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 900.0,
+                "price_per_packaging": 5.3,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nVersez la quantité désirée de produit dans une poêle adaptée. Laissez réchauffer le temps indiqué à feu moyen à couvert, en remuant régulièrement : Pour 450 g : 8 min Pour 900 g : 14 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nVersez la quantité désirée de produit dans un plat adapté. Couvrez et laissez réchauffer le temps indiqué en remuant à mi- temps. Bien mélanger avant de servir. Puissance restituée du four à micro-ondes: 750 W 900 W Pour 450 g : 8 min 6 min Pour 900 g : 12 min 8 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.48,
+            "total_reviews": 483
+        }
+    }
+]

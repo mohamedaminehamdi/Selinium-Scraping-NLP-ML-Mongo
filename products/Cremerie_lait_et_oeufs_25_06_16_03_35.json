@@ -1,0 +1,2185 @@
+[
+    {
+        "ean": "cabecou-3x35g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TROIS CABÉCOUS DE CHÈVRE 3X35G BIO",
+                "desc": "Trois Cabécous de chèvre 3X35G Bio\nFromage au lait de chèvre pasteurisé issu de l'agriculture biologique.\n21% de matières grasses.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3440775730004.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cabecou-3x35g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:31",
+                "format": "35G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 15
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Lait de chèvre pasteurisé*, sel, ferments lactiques et d'affinage, présure animale.\n*Issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 35.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 47.52,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "perail-de-brebis-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÉRAIL AU LAIT DE BREBIS 150G BIO",
+                "desc": "Pérail au lait de brebis 150G Bio\nFromage à pâte molle au lait de brebis issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3375610000274.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/perail-de-brebis-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:31",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 15
+                    },
+                    "fats": {
+                        "fats": 20
+                    },
+                    "proteins": {
+                        "proteins": 15
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Lait de brebis pasteurisé*, sel, ferments lactiques, présure animale.\n*Issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 6.19,
+                "price_per_unit": 41.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "chevre-frais-120g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHÈVRE FRAIS 120G BIO",
+                "desc": "Chèvre frais 120g Bio\nFromage frais de chèvre au lait cru.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860001511.1.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chevre-frais-120g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "120G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 770
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.7
+                    },
+                    "fats": {
+                        "fats": 16.9
+                    },
+                    "proteins": {
+                        "proteins": 13.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.03,
+                        "of_which_sugars": 2.03
+                    }
+                },
+                "ingredients": "Lait cru de chèvre*, sel marin, ferments lactiques, présure naturelle.\n*Ingrédients issus de l'agriculture biologique, garantis sans OGM.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 23.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +4°C et +7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "parmesan-reggiano-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PARMIGIANO REGGIANO AOP 200G BIO",
+                "desc": "Parmigiano Reggiano AOP 200g Bio\nParmigiano Reggiano AOP issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410229122.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/parmesan-reggiano-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 32
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "LAIT*, sel, présure.\n*Ingédients issus de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 9.99,
+                "price_per_unit": 49.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A râper sur vos plats de pâtes, gnocchis, raviolis ou dans vos préparations de crumble salés.",
+                "conservation": "A conserver entre +4°C et +8°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "gruyere-suisse-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRUYÈRE SUISSE AOP AU LAIT CRU 200G BIO",
+                "desc": "Gruyère Suisse AOP au lait cru 200G Bio\nFromage au lait de vache entier, à pâte pressée cuite, au lait cru.\nUne fabrication traditionnelle en fruitière dans les Alpes Suisse.\nLe gruyère suisse est un fromage au lait de vache entier, à pâte pressée cuite, au lait cru.\nC’est une AOP depuis plus de 10 ans.\nSon goût est fruité et aromatique car le lait ne subit aucun traitement thermique avant sa transformation en fromage.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4026913121706.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gruyere-suisse-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 22
+                    },
+                    "fats": {
+                        "fats": 35
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Lait cru de vache*, sel, ferments lactiques (lait), présure.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 11.19,
+                "price_per_unit": 55.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +4°C et +8°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "parmiggiano-reg-pointe-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PARMIGIANO REGGIANO DOP 150G BIO",
+                "desc": "Parmigiano reggiano DOP 150G Bio\nFromage de vache au lait cru.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410220099.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/parmiggiano-reg-pointe-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 19.6
+                    },
+                    "fats": {
+                        "fats": 29.7
+                    },
+                    "proteins": {
+                        "proteins": 32.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "LAIT * de vache, présure, sel.\n*Issu de l'Agriculture Biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 46.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +2 et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "fourme-d-ambert-aop-185g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FOURME D'AMBERT AOP 185G",
+                "desc": "Fourme d'Ambert AOP 185G.\nLa fourme d'Ambert est un fromage à pâte persillée. Elle est fabriquée sur la zone de montagne dans le Puy de Dome entre 600 et 1 600 m d'altitude.\nPour bénéficier de l'appelation et garantir toutes qualités gustatives du produit, les vaches se nourrissent d'herbe provenant exclusivement de cinq cantons du Cantal et huit communes de la Loire.\nAvec sa saveur délicate et un goût tout en douceur, la fourme d'Ambert sait se démarquer des autres fromages bleus.\n29% de matière grasse.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410217143.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fourme-d-ambert-aop-185g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "185G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 19
+                    },
+                    "fats": {
+                        "fats": 29
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.6,
+                        "of_which_sugars": 0.6
+                    }
+                },
+                "ingredients": "Lait de vache pasteurisé*, sel, ferments.\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 185.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 26.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster ainsi, n'hésitez pas à utiliser également la fourme d'Ambert dans vos recettes.",
+                "conservation": "A conserver entre 0°C et 6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "california-nature-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CALIFORNIA NATURE 150G BIO",
+                "desc": "California Nature 150G Bio\nUn délicieux fromage frais légèrement salé, à tartiner sur vos biscottes, tartines, pains azymes ou encore blinis.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410217136.1-0001_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/california-nature-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 780
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 17
+                    },
+                    "fats": {
+                        "fats": 26
+                    },
+                    "proteins": {
+                        "proteins": 5.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3,
+                        "of_which_sugars": 3
+                    }
+                },
+                "ingredients": "LAIT de vache*, sel, culture de bactéries lactiques, présure microbienne.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.0,
+                "price_per_unit": 13.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tartiner sur vos biscottes, tartines, pains azymes ou encore blinis.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "camembert-au-lait-cru-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAMEMBERT AU LAIT CRU 250G BIO",
+                "desc": "Camembert au lait cru 250G Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8051772190033.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/camembert-au-lait-cru-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13.7
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 20.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.2,
+                        "of_which_sugars": 0.1
+                    }
+                },
+                "ingredients": "Lait de vache cru* 98,18 %, sel de mer (séché non traité) 1,8 %, présure animale 0,02 %, ferments.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 23.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrégirateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "parmesan-rape-aop-50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PARMIGIANO REGGIANO AOP RÂPÉ 50G BIO",
+                "desc": "Parmigiano Reggiano AOP râpé 50G Bio\nFabriquée dans la région d'Emilia Romana, au Nord de l'Italie, et affiné minimum 12 mois, ce Parmigiano Reggiano mérite bien son AOP. Sa pâte ferme au goût fruité, doux et légèrement piquant permet de relever tous types de plats. \nLe saviez-vous?\nL'AOP \"Parmigiano Reggiano\" est délivrée lorsque le fromage respecte des règles strictes: il doit être produit et transformé sur son lieu d'origine, en Italie du Nord. Le lait doit provenir de vaches de la race Reggiana et Modenese, qui sont alimentées de façon naturelle et traites deux fois par jour. Ensuite, le lait frais est transformé directement après la traite, sans additifs, avec des agents de fermentation ainsi que de la présure naturels uniquement. La roue obtenue est affinée au minimum 12 mois, puis est inspectée et marquée au fer rouge si l'inspection est satisfaisante pour obtenir la certification AOP.\nIl faut 16 litres de lait pour produire 1 kilo de Parmigiano Reggiano.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410217136.1-0001_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/parmesan-rape-aop-50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:32",
+                "format": "50G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 32
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "LAIT issu de l'agriculture biologique, sel, présure.\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 49.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal dans vos plats de risotto, à râper sur vos pâtes ou vos pizzas.",
+                "conservation": "A conserver entre +2°C et +8°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "mozzarella-du-bufala-dop-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOZZARELLA DI BUFALA CAMPANA AOP 125G BIO",
+                "desc": "Mozzarella di Bufala Campana AOP.\nFabriquée de manière traditionnelle par une entreprise familiale située dans la province de Campanie, au sud de l'Italie, notre mozzarella di bufala est au lait entier de bufflonnes de race italienne. Leur lait est nutrionnellement meilleur que celui du lait de vache.\nC'est la seule mozzarella bénéficiant d'une AOP. Cette AOP garantie qu'elle est transformée et élaborée dans une aire géographique déterminée au sud de l'Italie, selon un savoir-faire reconnu. La coagulation du lait est réalisée grâce à un sérum naturel et la fabrication est supervisée par un fromager, qui file le fromage à la main.\nElle peut être congelée. Pratique pour en avoir toujours sous la main!\nLe saviez-vous?\nLes buffles auraient été introduits en Italie vers la fin du Xème siècle. D'abord utilisés comme des animaux de charge, ils ont ensuite été également utilisés pour leur production laitière, menant à des produits typiques tels que la mozzarella di bufala.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410218157.1-0003.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mozzarella-du-bufala-dop-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 390
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 16
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.6,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Lait de bufflonne issu de l'agriculture biologique pasteurisé*, sel, sérum d'ensemencement naturel* (lait), présure*.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 27.92,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer chaude ou froide.",
+                "conservation": "Tenir au frais de 0 à 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "cheddar-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MATURE CHEDDAR 200G BIO",
+                "desc": "Fromage cheddar à pâte pressée non cuite, au lait de vache pasteurisé\nMinimum 32% de matière grasse pour un produit fini.\nFabriqué et conditionné au Royaume-Uni.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8051772190033.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cheddar-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 21.7
+                    },
+                    "fats": {
+                        "fats": 34.9
+                    },
+                    "proteins": {
+                        "proteins": 25.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.1,
+                        "of_which_sugars": 0.1
+                    }
+                },
+                "ingredients": "Lait* de vache pasteurisé, sel, ferments lactiques (lait), coagulant végétal.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.65,
+                "price_per_unit": 28.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur entre +2°C et +8°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "buche-de-chevre-cendree-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BÛCHE DE CHÈVRE CENDRÉE 180G BIO",
+                "desc": "Bûche de chèvre cendrée 180g Bio\nUn délicieux fromage de chèvre Bio cendrée de Sainte-Maure. Une fabrication artisanale au lait des producteurs locaux.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3368132612018.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/buche-de-chevre-cendree-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 12
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4,
+                        "of_which_sugars": 4
+                    }
+                },
+                "ingredients": "LAIT de chèvre pasteurisé issu de l'agriculture biologique, sel cendré (sel, charbon végétal), présure, ferments.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 30.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal en fin de repas, sur un plateau de fromage, à déguster avec votre pain Bio préféré.",
+                "conservation": "Conserver entre 0 et 6 °C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "fromage-brebis-affine-140g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FROMAGE DE BREBIS AFFINÉ 140G BIO",
+                "desc": "Fromage de brebis affiné 140G Bio\nDécouvrez le Fromage de brebis affiné de La Bergerie. Fromage de brebis affiné en cave, à la texture ferme et fondante. Peut être servi sur un plateau ou utilisé en cuisine, consommé froid ou chaud.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860001757.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fromage-brebis-affine-140g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "140G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20.4
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2,
+                        "of_which_sugars": 2
+                    }
+                },
+                "ingredients": "Lait de brebis pasteurisé*, sel, ferments.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 34.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "gouda-portion-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GOUDA 200G BIO",
+                "desc": "Gouda 200g Bio\nLe fromage hollandais à la saveur douce. En portion il peut facilement être coupé en morceaux ou en cubes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/a/lait-plaisirs-mimolette-demi-vieille-200-g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gouda-portion-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20.5
+                    },
+                    "fats": {
+                        "fats": 30.4
+                    },
+                    "proteins": {
+                        "proteins": 22.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "LAIT de vache pasteurisé*, sel, ferments lactiques (dont LAIT), coagulant microbien.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.65,
+                "price_per_unit": 28.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer en fin de repas, ou coupés en dés pour vos apéros ou encore fondu sur des pommes de terre.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "chevre-affine-140g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FROMAGE DE CHÈVRE AFFINÉ 140G BIO",
+                "desc": "Fromage de chèvre affiné 140g Bio\nUn délicieux fromage fabriqué en France et moulé à la main en Bretagne.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220140857_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chevre-affine-140g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "140G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 19.2
+                    },
+                    "fats": {
+                        "fats": 25
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Lait de chèvre bio entier pasteurisé*, sel, ferments.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 33.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux fromage de chèvre pour vos fins de repas ou vos apéros.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "3740767",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GORGONZOLA 150G BIO",
+                "desc": "Gorgonzola 150g Bio\nLe fromage italien par excellence ! Intégrez-le dans vos recettes aux saveurs d'Italie:  pâtes, pizzas, gnocchis, raviolis...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410218157.1-0003.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gorgonzola-150g-3740767"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 21
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.7,
+                        "of_which_sugars": 0.1
+                    }
+                },
+                "ingredients": "LAIT de vache pasteurisé*, ferments lactiques (dont LAIT), sel, présure animale moisissures sélectionnés (Penicillium roqueforti).\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 37.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster seul ou à intégrer dans vos recettes aux saveurs d'Italie (pizzas, pâtes, raviolis...).",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "pecorino-rape-dop-50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PECORINO RÂPÉ DOP 50G BIO",
+                "desc": "Pecorino râpé DOP 50g Bio\nDécouvrez ce fromage râpé pecorino au lait de brebis de Sardaigne bio.\nProduit en Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860001757.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pecorino-rape-dop-50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "50G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 24
+                    },
+                    "fats": {
+                        "fats": 33
+                    },
+                    "proteins": {
+                        "proteins": 26
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Lait thermisé de brebis, sel, présure d'agneau, ferments lactiques.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.95,
+                "price_per_unit": 59.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner des pâtes fraîches.",
+                "conservation": "Se conserve au réfrigérateur, entre 2° et 6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "parmigiano-dop-rape-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PARMIGIANO REGGIANO DOP RÂPÉ 100G BIO",
+                "desc": "Parmigiano reggiano DOP râpé 100g Bio\nRâpé à base de lait cru de vache.\n41% de matière grasse sur produit fini.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760019710204.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/parmigiano-dop-rape-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:33",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 32
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Lait* de vache, présure, sel.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 42.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "mozzarella-di-bufala-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOZZARELLA DI BUFALA 125G BIO",
+                "desc": "Mozzarella Di Bufala 125g Bio\nUne délicieuse mozzarella à la texture onctueuse qui donnera des saveurs d'Italie à tous vos plats.\nIdéal dans vos salades composées, vos pizzas, pâtes, gnocchis ou encore pour vos apéritifs.\nOrigine Italie.\n  Depuis sa création en 1973 NATURALIA entretient des relations durables avec les producteurs pionniers de la bio.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410217136.1-0001_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mozzarella-di-bufala-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:34",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 390
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 16
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.6,
+                        "of_which_sugars": 0.6
+                    }
+                },
+                "ingredients": "Lait de bufflonne pasteurisé*, serum d'ensemencement naturel* dont lait, présure animale, sel.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 23.92,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos salades, vos préparations de pizzas, plats de pâtes ou sur vos tartines salées.",
+                "conservation": "A conserver entre 0°C et +4°C.\nA consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "buche-de-chevre-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BÛCHE DE CHÈVRE 150G BIO",
+                "desc": "Bûche de chèvre 150G Bio\nFromage affiné à pâte molle au lait de chèvre pasteurisé, issu de l'agriculture biologique.\nProduit par la fromagerie de la Lemance.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220140857_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/buche-de-chevre-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:34",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 15
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.7
+                    }
+                },
+                "ingredients": "Lait de chèvre pasteurisé* (France), sel, coagulant microbien, ferments lactiques (lait).\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 26.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster en fin de repas, à l'apéritif ou à intégrer dans vos recettes salées : pizzas, salades de chèvre chaud...",
+                "conservation": "A conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "frais-de-chevre-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FROMAGE FRAIS DE CHÈVRE 150G BIO",
+                "desc": "Fromage frais de chèvre 150G Bio.\nFromage frais au lait de chèvre pasteurisé issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410223595.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/frais-de-chevre-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:34",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 15
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2,
+                        "of_which_sugars": 2
+                    }
+                },
+                "ingredients": "Lait de chèvre entier pasteurisé*, sel, présure, ferments lactiques (lait).",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 26.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre 0°C et +6°C.\nAprès ouverture, conserver au réfrigérateur maximum 10 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "fromage-de-brebis-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FROMAGE FRAIS DE BREBIS 150G BIO",
+                "desc": "Fromage frais de brebis 150G Bio.\nFromage de brebis en bloc au lait pasteurisé issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/e/perail-de-brebis-lemance.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fromage-de-brebis-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:34",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 19
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Lait de brebis pasteurisé* (France), sel, coagulant microbien, ferments lactiques (lait).",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 27.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "3524442",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COMTÉ AOP EN PORTION 200G BIO",
+                "desc": "Comté AOP en portion 200g Bio\nComté appelation d'origine protégée.\nFromage à pâte pressée cuite au lait cru, issu de l'agriculture biologique.\nPortion de 200g.\n\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/a/lait-plaisirs-mimolette-demi-vieille-200-g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/comte-portion-200g-3524442"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:34",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 22
+                    },
+                    "fats": {
+                        "fats": 34
+                    },
+                    "proteins": {
+                        "proteins": 26
+                    }
+                },
+                "ingredients": "Lait de vache cru* (France), sel, ferments lactiques, présure animale.\n*Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 24.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre +4°C et +8°C.\nAprès ouverture, conserver au réfrigérateur dans l'emballage d'origine et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "3682694",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COMTÉ RÂPÉ 100G BIO",
+                "desc": "Comté râpé 100G Bio\nComté appellation d'origine protégée.\nFromage à pâte pressée cuite au lait cru râpé, issu de l'agriculture biologique.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/6/7640101094831.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/comte-rape-100g-3682694"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 22
+                    },
+                    "fats": {
+                        "fats": 34
+                    },
+                    "proteins": {
+                        "proteins": 26
+                    }
+                },
+                "ingredients": "Lait de vache cru* (France), sel, ferments lactiques, présure animale.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 29.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos plats de pâtes, raviolis ou vos pizzas.",
+                "conservation": "A conserver au réfrigérateur entre +4°C et +8°C.\nAprès ouverture, à consommer sous 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "frais-de-brebis-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FROMAGE FRAIS DE BREBIS 100G BIO",
+                "desc": "Fromage frais de brebis 100G Bio\nFromage frais de brebis au lait pasteurisé issu de l'agricutlure biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3513610140044_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/frais-de-brebis-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.6
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 2.5
+                    }
+                },
+                "ingredients": "LAIT de brebis entier pasteurisé*, sel, ferments lactiques (LAIT), coagulant microbien.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 22.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver entre +2°C et +6°C.\nAprès ouverture, conserver au réfrigérateur 7 jours maximum."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "roquefort-aop-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ROQUEFORT AOP 100G BIO",
+                "desc": "Roquefort AOP 100G Bio\nRoquefort appellation d'origine protégée - Fromage à pâte persillée au lait cru et entier de brebis issu de l'agriculture biologique.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3375610000397.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/roquefort-aop-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 23
+                    },
+                    "fats": {
+                        "fats": 32
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "LAIT de brebis cru et entier*, sel, présure, ferments lactiques (LAIT), Penicillium roqueforti.\n*Issu de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.25,
+                "price_per_unit": 32.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Sortir du réfrigérateur 30 minutes avant dégustation.",
+                "conservation": "A conserver au réfrigérateur entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "crottins-de-chevre-2x60g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROTTINS DE CHÈVRE 2X60G BIO",
+                "desc": "Crottins de Chèvre 2x60g Bio\nDécouvrez ces 2 crottins de chèvre au lait pasteurisé issus de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410244040.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crottins-de-chevre-2x60g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "60G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.7,
+                        "of_which_sugars": 1.3
+                    }
+                },
+                "ingredients": "Lait de chèvre pasteurisé*, sel, présure, ferments lactiques (lait), flore d'affinage.\n*Ingrédients issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 5.19,
+                "price_per_unit": 43.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur, entre 2° et 6°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "4246864",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAMEMBERT AU LAIT PASTEURISÉ 250G BIO",
+                "desc": "Camembert au lait pasteurisé 250G Bio\nUn délicieux camembert au lait pasteurisé de vache, un lait collecté localement (<60km) en France.\nUne recette idéale pour vos fins de repas à accompagner d'une tranche de votre pain bio préféré.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760099534561.1.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/camembert-naturalia-250g-4246864"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 19
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    }
+                },
+                "ingredients": "LAIT entier de vache pasteurisé* (origine france), sel, présure, ferments (LAIT).\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.1,
+                "price_per_unit": 12.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur un plateau fromage, à déguster avec votre pain préféré.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    },
+    {
+        "ean": "6755775",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Crèmerie, lait et œufs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LE CAMM'VERT NATURE 100G BIO",
+                "desc": "Le Camm'Vert nature 100g Bio\nLe CamemVert est une spécialité végétale à croûte fleurie à base de noix de cajou bio, fermentée et affinée comme son pendant traditionnel. Il permet d’adopter une alimentation plus responsable tout en continuant à se faisant plaisir !\nVous serez conquis par son crémeux, son caractère et sa délicate croûte fleurie. Autour d’un apéro et d’un bon verre de vin, il est à faire découvrir à vos amis les plus réticents !\n- Biologique\n- Artisanal\n- 100% végétal\n- Fabriqué en Ile-de-France\n- Emballage papier recyclable, et carton issu de déchets agricoles lui permettant d'être composté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220183281.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/camm-vert-nature-100g-6755775"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:35",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.6
+                    },
+                    "fats": {
+                        "fats": 31.5
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.3,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "noix de cajou*, eau, sel de Camargue, ferments.\n\nPeut contenir des traces de soja et fruits à coque.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.6,
+                "price_per_unit": 56.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos planches d'apéros ou en fin de repas avec votre pain bio préféré.",
+                "conservation": "A conserver entre 2° et 8°C.",
+                "old_price": 6.59
+            }
+        ],
+        "created_at": "2025-06-16T03:31",
+        "updated_at": "2025-06-16T03:31"
+    }
+]

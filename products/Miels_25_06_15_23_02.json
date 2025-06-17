@@ -1,0 +1,1810 @@
+[
+    {
+        "ean": "miel-cremeux-champagne-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL CRÉMEUX DE CHAMPAGNE 1KG BIO",
+                "desc": "Miel Crémeux de Champagne 1Kg Bio\nL'abeille est le liant d'un système de besoin et de production de biodiversité. Cela vient à la fois de la co-évolution des espèces végétales et animales au cours du temps et du comportement de butinage des abeilles en leur milieu.\nElle a besoin de biodiversité. Elle équilibre sa ration alimentaire en butinant une grande variété de fleurs chaque année, condition de son entier développement et de sa santé. Dans ce cadre, elle contribue à la fécondation de 80% des végétaux et 80% des récoltes dépendent de ce mode de fécondation.\nCe faisant, elle produit de la biodiversité et maintient la richesse des milieux.\nNos modes de gestion la mettent en péril, elle et ses services grâcieux. Pour cette raison, j'ai initié et suis engagé dans un programme national \"Jachères entomofaune pollinisatrice\".",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860047809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-cremeux-champagne-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:58",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Miel Crémeux de Champagne*.\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 18.6,
+                "price_per_unit": 18.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 18.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines ou à incorporer dans vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière.",
+                "old_price": 23.29
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "preparation-miel-orange-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRÉPARATION MIEL ORANGE AMÈRE SOMMEIL 250G BIO",
+                "desc": "Préparation miel orange amère sommeil 250g Bio\nDégustez cette préparation Bio à base de miel et de feuiles d'oranger afin de favoriser l'endormissement. Idéal pour sucrer naturellement vos boissons chaudes.\nFaites une pause détente avec cette préparation gourmande et réconfortante.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/0/3035630435311.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/preparation-miel-orange-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:58",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 84,
+                        "of_which_sugars": 74
+                    }
+                },
+                "ingredients": "Miel* 98,7 %, poudre de feuilles d'oranger* 1,3 %.\n*ingrédients issus de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.2,
+                "price_per_unit": 24.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer en boisson chaude ou froide, ou toute autre utilisation selon vos envies.",
+                "conservation": "A conserver à une température ambiante entre 15° et 20° C."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-fleurs-squizz-ue-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE FLEURS SQUIZZ UE 250G BIO",
+                "desc": "Miel de fleurs Squizz UE 250g Bio\nUn délicieux miel certifié AB, origine Europe, conditionné au pied des Pyrénées. Des notes fleuries et boisées qui plairont à toute la famille.\nSon format pratique, a un système stop goutte pour un dosage parfait et un flacon toujours propre.\nUn packaging recyclable et issu de 25% de matière recyclée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/0/3088541017135.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-fleurs-squizz-ue-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:58",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Miel Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.49,
+                "price_per_unit": 25.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines au petit-déjeuner ou pour sucrer naturellement vos boissons chaudes et recettes de pâtisserie.",
+                "conservation": "Conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "pollen-hongrie-440g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POLLEN MULTIFLORAL 440G BIO",
+                "desc": "Pollen multifloral 440g Bio\nIntégrez le pollen floral de Hongrie à votre alimentation pour bénéficier de ses multiples bienfaits et enrichir votre quotidien d'une touche de nature. \nVous pouvez en prendre une cuillère à soupe le matin ou dilué dans un verre d’eau ( le mettre la veille dans votre verre d'eau), mais également mélangé avec un yaourt, une compote ou du miel ...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3490090011173.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pollen-hongrie-440g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:58",
+                "format": "440G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 220
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 4.2
+                    },
+                    "proteins": {
+                        "proteins": 21.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52.5,
+                        "of_which_sugars": 36.5,
+                        "dietary_fiber": 11.3
+                    }
+                },
+                "ingredients": "Pollen",
+                "on_discount": false,
+                "weight_per_packaging": 440.0,
+                "price_per_packaging": 23.19,
+                "price_per_unit": 52.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 23.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Vous pouvez en prendre une cuillère à soupe le matin ou dilué dans un verre d’eau ( le mettre la veille dans votre verre d'eau), mais également mélangé avec un yaourt, une compote ou du miel ...",
+                "conservation": "Conserver de préférence entre 14°et 20° dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-de-printemps-idf-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE PRINTEMPS 250G BIO",
+                "desc": "Miel de Printemps 250g Bio\nDécouvrez le miel de printemps essentiellement récolté sur les champs de Colza et Aubépine.\nUn miel blanc, doux et crémeux idéal pour sucrer vos desserts.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860047809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-de-printemps-idf-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.49,
+                "price_per_unit": 29.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-chataignier-idf-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL CHÂTAIGNIER 250G BIO",
+                "desc": "Miel Châtaignier 250g Bio\nDécouvrez le miel à la châtaigne de la ferme des clos. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770025869070_a1r1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-chataignier-idf-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.19,
+                "price_per_unit": 32.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "6614593",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ACACIA ÉQUITABLE 250G BIO",
+                "desc": "Miel d'Acacia équitable 250g Bio\nDécouvrez le miel d'acacia pourDemain, doux et clair qui enchante les papilles avec sa pureté naturelle et sa délicate saveur florale.Il s’agit d’un miel liquide de haute qualité, récolté en France et mis en pot dans le Jura. Ce miel français se distingue par ses saveurs florales et vanillées qui reflètent la richesse de la nature française butinée par les abeilles.\nIdéal pour sucrer vos desserts. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860047809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-acacia-france-250g-6614593"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 80,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Miel d'acacia biologique.\n100% issu d'une filière Bio Equitable en france.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 11.2,
+                "price_per_unit": 44.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour sucrer naturellement vos laitages, vos pâtisseries ou vos fruits frais.",
+                "conservation": "A conserver à température ambiante. Craint le gel."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-eucalyptus-ita-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'EUCALYPTUS 250G BIO",
+                "desc": "Miel d'eucalyptus 250g Bio\nDécouvrez ce miel d'eucalyptus Bio d'une grande qualité, une saveur délicieuse sur vos tartines, dans vos yaourts, en cuisine, ou en produit sucrant pour vos boissons chaudes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770025869056_a1r1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-eucalyptus-ita-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 83.3,
+                        "of_which_sugars": 83,
+                        "dietary_fiber": 0.3
+                    }
+                },
+                "ingredients": "Miel d'Eucalyptus Bio",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.39,
+                "price_per_unit": 33.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Délicieux sur vos tartines, dans vos yaourts, en cuisine, ou en produit sucrant pour vos boissons chaudes...",
+                "conservation": "A conserver de préférence entre 14°et 20° dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-acacia-ue-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ACACIA UE 500G BIO",
+                "desc": "Miel d'Acacia UE 500g Bio\nUn miel liquide, clair et très doux, idéal pour sucrer naturellement vos boissons chaudes et vos pâtisseries. \nExtrait à froid.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860027887_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-acacia-ue-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Miel d’acacia récolté sur les plaines de Danube en Bulgarie issu de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 16.35,
+                "price_per_unit": 32.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 16.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux miel, idéal pour sucrer naturellement vos laitages, vos pâtisseries mais également pour vos tartines du petit-déjeuner.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-acacia-squeeze-ue-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL ACACIA SQUEEZE 250G BIO",
+                "desc": "Miel Acacia squeeze 250g Bio\nMiel d’acacia récolté sur les plaines de Danube en Bulgarie issu de l’agriculture biologique. Conditionné dans un flacon pratique pour doser facilement.\nMiel récolté par l'apiculteur et extrait à froid.\nSon flacon et son bouchon sont à recycler.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860047809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-acacia-squeeze-ue-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:59",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Miel d’acacia récolté sur les plaines de Danube en Bulgarie issu de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 10.29,
+                "price_per_unit": 41.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour sucrer naturellement vos recettes de pâtisseries, granolas ou encore laitages.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-d-acacia-bio-250g-provena",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ACACIA 250G BIO",
+                "desc": "Miel d'acacia 250g Bio\nDécouvrez notre miel d'acacia , délicieux sur vos tartines, dans vos yaourts, en cuisine, ou en produit sucrant pour vos boissons chaudes.\nProduit issu de l'Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3490090010084.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-d-acacia-bio-250g-provena"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81.1,
+                        "of_which_sugars": 81.1,
+                        "dietary_fiber": 0.3
+                    }
+                },
+                "ingredients": "Miel d'acacia*.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.99,
+                "price_per_unit": 39.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal le matin, sur une tartine de pain.\nPeut aussi accompagner un thé.",
+                "conservation": "Se conserve dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-acacia-ue-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ACACIA ROUMANIE 250G BIO",
+                "desc": "Miel d'acacia Roumanie 250g Bio\nGoûtez au miel doux et délicat d'Acacia, extrait à froid. Un miel récolté dans les forêts des Carpates, en Roumanie, où les acacias sont nombreux. Les récoltes en Frances ne sont pas possible car les récoltes sont insuffisantes. Il s'agit d'un miel plaisir pour sucrer vos laitages, fruits, mueslis...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860047809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-acacia-ue-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 80
+                    }
+                },
+                "ingredients": "Miel d'acacia*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.9,
+                "price_per_unit": 35.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner vos laitages et sucrer naturellement vos desserts.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-tilleul-france-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE TILLEUL FRANCE 375G BIO",
+                "desc": "Miel de Tilleul france 375g Bio\nUn savoureux miel de tilleul, idéal sur vos tartines mais également dans vos recettes sucrées et boissons chaudes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263620404611.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-tilleul-france-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 83,
+                        "of_which_sugars": 75
+                    }
+                },
+                "ingredients": "Miel de tilleul*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 15.75,
+                "price_per_unit": 42.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 15.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines au petit-déjeuner ou goûter, mais également dans vos boissons chaudes et recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-de-fleurs-sauvages-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE FLEURS SAUVAGES 250G BIO",
+                "desc": "Miel de fleurs sauvages 250g Bio\nUn délicieux miel de fleurs sauvages, récolté en France. Idéal pour le petit-déjeuner et le goûter sur vos tartines, biscottes... mais également dans vos recettes de pâtisseries.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-de-fleurs-sauvages-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% miel Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 39.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines de pain Bio préféré ou à incorporer dans vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-printemps-fr-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL PRINTEMPS DE FRANCE 250G BIO",
+                "desc": "Miel Printemps de France 250g Bio\nDécouvrez ce miel de Printemps, récolté en France lors des premières floraisons dans des zones préservées à forte densité florale. Ce miel issu d'un savoir-faire traditionnel révèle des notes délicates et une texture onctueuse.\nMiellerie située en Anjou.\nIssu de l'Agriculture Biologique.\n  La protection des abeilles est une priorité pour Ma Ruche Bio. Il s'agit d'un engagement fort qui se traduit par un soutien important auprès du Réseau Biodiversité pour les Abeilles puisque Ma Ruche Bio lui reserve 1% de ses ventes. Cette association à but non-lucratif a pour objectif d'augmenter et de diversifier les ressurces alimentaires des abeilles en partenariat avec les agriculteurs à travers la plantation de fleurs mellifères.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770025869056_a1r1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-printemps-fr-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Miel de printemps* récolté en France.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 39.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner vos tartines le matin ou pour édulcorer vos infusions.\nPeut également être utilisé pour la préparation de vos pâtisseries.",
+                "conservation": "A conserver à température ambiante, dans un endroit à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-ete-france-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL ETÉ DE FRANCE 250G BIO",
+                "desc": "Miel Eté de France 250g Bio\nDécouvrez ce miel d’Eté, récolté en France lors de la période estivale dans des zones préservées à forte densité florale. Ce miel à la robe dorée issu d’un savoir-faire traditionnel révèle de subtiles saveurs fruitées.\nMiellerie située en Anjou.\nIssu de l'Agriculture Biologique.\n  La protection des abeilles est une priorité pour Ma Ruche Bio. Il s'agit d'un engagement fort qui se traduit par un soutien important auprès du Réseau Biodiversité pour les Abeilles puisque Ma Ruche Bio lui réserve 1% de ses ventes. Cette association à but non-lucratif a pour objectif d'augmenter et de diversifier les ressources alimentaires des abeilles en partenariat avec les agriculteurs à travers la plantation de fleurs mellifères.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860027887_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-ete-france-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Miel d'été* récolté en France.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 39.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner vos tartines le matin ou pour édulcorer vos infusions.\nPeut également être utilisé pour la préparation de vos pâtisseries.",
+                "conservation": "A conserver dans un endroit à température ambiante, à l'abri de la lumière et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-provence-france-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE PROVENCE 250G BIO",
+                "desc": "Miel de Provence 250g Bio\nUn délicieux miel Bio de France, Provence, crémeux, idéal pour sucrer vos desserts ou à tartiner sur du pain Bio.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-provence-france-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% miel Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 13.35,
+                "price_per_unit": 53.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner sur des tartines de votre pain Bio préféré mais également à incorporer dans vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-acacia-fr-squeezer-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ACACIA DE FRANCE SQUEEZER 250G BIO",
+                "desc": "Miel d'Acacia de France squeezer 250g Bio\nDécouvrez ce miel d'acacia bio de France. Laissez-vous séduire par sa saveur douce peu prononcée, légèrement fleurie de type fleurs blanches, suave.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263620404611.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-acacia-fr-squeezer-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 80
+                    }
+                },
+                "ingredients": "Miel à 100% bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 15.95,
+                "price_per_unit": 63.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 15.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit déjeuner.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-et-gelee-royale-8-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIELS ET GELÉE ROYALE 250G BIO",
+                "desc": "Miels et Gelée Royale 250g Bio\nDécouvrez ce mélange de miels originaires de l'Union Européenne et de gelée royale bio.\n\nLa gelée royale figure parmi les compléments alimentaires les plus prisés, en raison de sa richesse en nutriments et de son action générale sur l’état de forme et le bien être. Elle est ainsi utilisée dans la médecine traditionnelle chinoise depuis plusieurs siècles.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3540860027702.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-et-gelee-royale-8-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 6
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.76
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 70
+                    }
+                },
+                "ingredients": "Miel de fleurs* 92%, gelée royale* 8%.\n\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.35,
+                "price_per_unit": 29.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Consommer une cuillère à café le matin à jeun.",
+                "conservation": "A conserver dans un endroit sec, à l'abri du soleil."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-montagne-italie-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE MONTAGNE ITALIE 1KG BIO",
+                "desc": "Miel de montagne Italie 1kg Bio\nUn délicieux miel de fleurs de montagne d'Italie.\nDes notes sucrées et florales, idéal dans vos tisanes, sur vos pains Bio préférés ou dans vos recettes de pâtisseries.\nProduit issu d'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3540860027702.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-montagne-italie-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:00",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81,
+                        "of_which_sugars": 79
+                    }
+                },
+                "ingredients": "100% miel d'italie Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 21.99,
+                "price_per_unit": 21.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines de pains Bio préférés, dans vos tisanes, yaourts nature ou dans vos pâtisseries.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-montagne-italie-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE MONTAGNE ITALIE 500G BIO",
+                "desc": "Miel de Montagne Italie 500g Bio\nDécouvrez ce miel de montagne italiennes issu de l'agriculture biologique.\n\nPot en verre de 500g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263620404611.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-montagne-italie-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81,
+                        "of_which_sugars": 79
+                    }
+                },
+                "ingredients": "Miel des montagnes*\n*Ingrédient issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 11.99,
+                "price_per_unit": 23.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal au petit-déjeuner, ou a rajouter dans vos boissons chaudes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-oranger-esp-italie-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ORANGER 375G BIO",
+                "desc": "Miel d'Oranger 375g Bio\nDécouvrez ce miel d'oranger issu de l'agriculture biologique. Un goût délicat et fruité, qui va prendra rapidement place sur vos tartines le matin.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-oranger-esp-italie-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 83,
+                        "of_which_sugars": 75
+                    }
+                },
+                "ingredients": "Miel d'oranger*.\n\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 10.89,
+                "price_per_unit": 29.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines, dans vos recettes salées et sucrées et dans les boissons fraîches ou chaudes.",
+                "conservation": "A conserver dans un endroit à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-tilleul-bulg-roum-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE TILLEUL 375G BIO",
+                "desc": "Miel de Tilleul 375g Bio\nDécouvrez ce miel de tilleul issu de l'Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263620404611.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-tilleul-bulg-roum-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 83,
+                        "of_which_sugars": 75
+                    }
+                },
+                "ingredients": "Miel de tilleul*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 6.75,
+                "price_per_unit": 18.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines, dans vo recettes salées et sucrées et dans les boissons fraîches ou chaudes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-d-ete-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL D'ÉTÉ 500G BIO",
+                "desc": "Miel d'été 500g Bio\nUn savoureux et crémeux miel d'été, récolté en France. \nCertifié Demeter.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-d-ete-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "100% miel Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 11.15,
+                "price_per_unit": 22.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour votre petit déjeuner ou pour vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-de-printemps-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE PRINTEMPS 500G BIO",
+                "desc": "Miel de printemps 500g Bio\nDécouvrez ce miel de printemps bio de France.\nTonifiant, énergétique, équilibrant pour l'organisme, le miel est l'aliment de santé par excellence.\nFiltré grossièrement, ce miel n'a subi aucun procédé de chauffe, lui garantissant ainsi toutes ses vitamines, sels minéraux et oligo-éléments.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-de-printemps-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Miel de printemps*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 11.15,
+                "price_per_unit": 22.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines, ou bien dans vos thés",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-fleurs-squizz-fr-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE FLEURS FRANCE SQUIZZ 250G BIO",
+                "desc": "Miel de Fleurs France squizz 250G Bio\nLa Miellerie des Pyrénées propose des miels purs et 100% naturels, issus dans leur grande majorité de notre terroir, et mis en pot par ses soins dans les Pyrénées-Atlantiques.\nDécouvrez le squeezer miel toutes fleurs bio France: ce miel typé et de caractère a une bonne persistance. Sa saveur est boisée, fraîche, balsamique, légèrement maltée (sans amertume) devenant légèrement végétale en fin de dégustation, il a une bonne longueur en bouche.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263620404611.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-fleurs-squizz-fr-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Miel 100% pur et naturel.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 11.95,
+                "price_per_unit": 47.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines au petit-déjeuner.",
+                "conservation": "Conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-montagne-france-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE MONTAGNE DE FRANCE 500G BIO",
+                "desc": "Miel de Montagne de France 500g Bio\nMiel de montagne issu de l'agriculture biologique française.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3540860027702.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-montagne-france-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "100% Miel de montagne*.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 15.45,
+                "price_per_unit": 30.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 15.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines de pain le matin, peut se consommer avec du yaourt ou dans vos préparations cullinaires.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-de-fleurs-en-rayon-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE FLEURS AVEC RAYONS 200G BIO",
+                "desc": "Miel de fleurs avec rayons 200G Bio\nCe miel biologique de fleurs vous est proposé avec ses morceaux de rayons en cire naturelle construits au cours de la saison.\nUn produit noble et précieux comme il est dans la ruche aux vertues pulmonaires et antiseptiques.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3540860028990.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-de-fleurs-en-rayon-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:01",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81,
+                        "of_which_sugars": 79
+                    }
+                },
+                "ingredients": "100% miel*.\n *Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 12.0,
+                "price_per_unit": 60.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans une endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-lavande-maritime-esp-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL DE LAVANDE MARITIME 500G BIO",
+                "desc": "Miel de Lavande maritime 500g Bio\nDécouvrez ce miel de lavande maritime d'Espagne.\nCe miel a été extrait à froid et mis en pot à la température de la ruche. Il n'a subi aucun traitement susceptible de modifier sa saveur et ses propriétés originelles. Des marbrures dues au froid peuvent apparaitre sur la surface du pot, cela n'altère en rien les qualités du miel.\nPot en verre de 500g",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03540860013606_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-lavande-maritime-esp-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:02",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Miel de lavande maritime Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 12.89,
+                "price_per_unit": 25.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal accompagner vos tartines au petit-déjeuner.",
+                "conservation": "Conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    },
+    {
+        "ean": "miel-propolis-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Miels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MIEL PROPOLIS 250G BIO",
+                "desc": "Miel Propolis 250G Bio\nDeux trésors de la ruche, la Propolis, utilisée par les abeilles comme antiseptique et antibactérien, et le Miel, qui agissent en synergie pour vous procurer un bien-être total.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3540860027702.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miel-propolis-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:02",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82.4,
+                        "of_which_sugars": 82
+                    }
+                },
+                "ingredients": "Miel d'acacia*° 99%, extrait hydroalcoolique de propolis* 1%.\n*Ingrédients issus de l'agriculture biologique.\n°Des forêts préservées de Roumanie.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.85,
+                "price_per_unit": 39.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prendre une cuillerée à café par jour, de préférence le matin.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:57",
+        "updated_at": "2025-06-15T22:57"
+    }
+]

@@ -1,0 +1,1487 @@
+[
+    {
+        "ean": "cafe-selection-moulu-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU SÉLECTION N°1 500G BIO",
+                "desc": "Café moulu Sélection n°1 500g Bio\nCe café bio moulu est issu d'un assemblage confectionné et peaufiné par nos maîtres artisans torréfacteurs.\nNotre sélection se compose exclusivement de cafés biologiques 100% arabica, torréfié par cuisson lente, pour libérer un maximum d'arôme.\nLes caféiers dont sont issues les graines que nous torréfions dans notre unité artisanale de Bordeaux poussent en altitude, sur des terroirs volcaniques.\nCe qui leur confèrent une réelle richesse de goût, propre à leur terroir.\nDélicat & Oncteux.\nIntensité 7/10\nPaquet de 500g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700112016414.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-selection-moulu-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:51",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café* (100% Arabica).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 11.15,
+                "price_per_unit": 22.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit sec à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "nat-chicoree-soluble-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHICORÉE SOLUBLE 100G BIO",
+                "desc": "Chicorée soluble 100g Bio\nDécouvrez la Chicorée Bio des Hauts-de-France, une alternative savoureuse et bienfaisante au café. Naturellement sans caféine, cette boisson douce et légèrement caramélisée est idéale pour une pause plaisir à tout moment de la journée.\n- 100% bio & cultivée en France : Issue de racines de chicorée sélectionnées et torréfiées avec soin dans les Hauts-de-France.\n- Alternative naturelle au café : Sans excitant, elle se déguste du matin au soir, chaude ou froide.\n- Douce pour la digestion : Riche en fibres prébiotiques, elle contribue au bien-être intestinal.\n- Facile à préparer : À infuser dans de l’eau chaude, du lait ou à intégrer dans des recettes sucrées.\nAdoptez la chicorée bio française, un plaisir authentique et réconfortant, sans caféine ni amertume excessive.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3560468797050.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nat-chicoree-soluble-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:51",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 270
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 22,
+                        "dietary_fiber": 24
+                    }
+                },
+                "ingredients": "100% chicorée soluble biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 49.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Boissons chaudes\nInfusée dans de l’eau chaude, comme un café, nature ou avec un peu de lait.\nMélangée avec du lait, végétal ou animal, pour une texture plus douce.\nRehaussée d’épices ou de miel, pour une saveur plus gourmande.\nBoissons froides\nEn version glacée, infusée à chaud puis refroidie avec des glaçons.\nDans un smoothie ou un milkshake, associée à du lait, une banane et une pointe de vanille.\nEn cuisine\nDans les desserts, ajoutée à des gâteaux, biscuits ou un tiramisu pour une note légèrement caramélisée.\nMélangée à un porridge ou un yaourt, pour une touche originale et naturelle.",
+                "conservation": "Refermer le pot après chaque utilisation et conserver à l'abri de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-grains-corse-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ GRAINS INTENSE 500G BIO",
+                "desc": "Café grains intense 500g Bio\nNaturalia a sélectionné pour vous les meilleures origines de café. Torréfiées lentement par cycle de 20 minutes afin d'obtenir des grains grillés à coeur, et révéler les richesses olfactives et gustatives de votre café.\nTorréfié en France.\nIssu du commerce équitable.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-grains-corse-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:51",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café grains pur Arabica* (Origine Ethiopie).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 10.99,
+                "price_per_unit": 21.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser directement le café en grains dans une machine automatique ou dans un moulin à grains. Afin d'obtenir un résultat optimal, n'hésitez pas à régler votre mouture en fonction du mode de préparation choisi. Vous pourrez alors doser une cuillère à soupe de café par tasse plus ou moins pleine selon que vous aimez votre café léger ou corsé.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité. A consommer rapidement après ouverture pour préserver les propriétés du produit.\nBien refermer le paquet entre chaque utilisation et dans une boîte hermétique de préférence."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-grains-doux-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ PUR ARABICA DOUX GRAINS 500G BIO",
+                "desc": "Café pur arabica doux grains 500g Bio\nNaturalia a sélectionné pour vous les meilleures origines de café. Torréfiées lentement par cycle de 20 minutes afin d'obtenir des grains grillés à coeur, et révéler les richesses olfactives et gustatives de votre café. Afin d'éviter toute dispersion d'arômes, nos cafés sont immédiatement conditionnés après la torréfaction dans un sachet muni d'une valve fraîcheur.\nTorréfié en France.\nIssu du commerce équitable.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-grains-doux-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:51",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café grains pur Arabica* (Origine Honduras).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 10.9,
+                "price_per_unit": 21.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser directement le café en grains dans une machine automatique ou dans un moulin à grains. Afin d'obtenir un résultat optimal, n'hésitez pas à régler votre mouture en fonction du mode de préparation choisi. Vous pourrez alors doser une cuillère à soupe de café par tasse plus ou moins pleine selon que vous aimez votre café léger ou corsé.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité. A consommer rapidement après ouverture pour préserver les propriétés du produit.\nBien refermer le paquet entre chaque utilisation et dans une boîte hermétique de préférence."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-moulu-robusta-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ PUR ROBUSTA CORSÉ MOULU 500G BIO",
+                "desc": "Café pur robusta corsé moulu 500g Bio\nNaturalia a sélectionné pour vous les meilleures origines de café. Torréfiées lentement par cycle de 20 minutes afin d'obtenir des grains grillés à coeur, et révéler les richesses olfactives et gustatives de votre café. Afin d'éviter toute dispersion d'arômes, nos cafés sont immédiatement conditionnés après la torréfaction dans un sachet muni d'une valve fraîcheur.\nTorréfié en France.\nIssu du commerce équitable.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-moulu-robusta-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:51",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café moulu pur robusta* (Origine Tanzanie).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour que ce café vous offre le meilleur, utilisez une eau fraîche et aussi pure que possible. Dosez une cuillère à soupe de café par tasse, plus ou moins pleine selon que vous aimez votre café léger ou corsé.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité.\nBien refermer le paquet entre chaque utilisation et dans une boîte hermétique de préférence."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-grains-equilibre-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ GRAINS ÉQUILIBRE 500G BIO",
+                "desc": "Café grains équilibre 500g Bio\nNaturalia a sélectionné pour vous les meilleures origines de café. Torréfiées lentement par cycle de 20 minutes afin d'obtenir des grains grillés à coeur, et révéler les richesses olfactives et gustatives de votre café.\nTorréfié en France.\nIssu du commerce équitable.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-grains-equilibre-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café moulu 100% arabica* (Origines Honduras, Ethiopie, Pérou).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 10.9,
+                "price_per_unit": 21.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser directement le café en grains dans une machine automatique ou dans un moulin à grains. Afin d'obtenir un résultat optimal, n'hésitez pas à régler votre mouture en fonction du mode de préparation choisi. Vous pourrez alors doser une cuillère à soupe de café par tasse plus ou moins pleine selon que vous aimez votre café léger ou corsé.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité. A consommer rapidement après ouverture pour préserver les propriétés du produit.\nBien refermer le paquet entre chaque utilisation et dans une boîte hermétique de préférence."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "chicoree-oat-latte-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHICORÉE OAT LATTE 100G BIO",
+                "desc": "Chicorée Oat Latte 100g Bio\nLatté Instantané à la Chicorée & Avoine – Gourmand, Sans Caféine & Facile à Préparer\nDécouvrez le Latté Instantané à la Chicorée & Avoine, une boisson onctueuse et réconfortante, idéale pour une pause chaleureuse à tout moment de la journée. Élaboré avec de la chicorée torréfiée et une touche d’avoine, il offre une alternative saine et naturelle au café.\n- Sans caféine & digestif : Profitez d’un moment de détente sans effet excitant.\n- Notes aromatiques uniques : Une saveur boisée, légèrement noisetée, avec une subtile amertume.\n- Facile & rapide à préparer : Instantané, il se mélange simplement avec de l’eau chaude ou du lait.\n- Naturel & gourmand : Une boisson végétale savoureuse, parfaite pour les amateurs de chicorée et de lattés.\n  Savourez ce latté chicorée avoine pour un plaisir doux et réconfortant, sans caféine.\nConvient au régime végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110045775.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chicoree-oat-latte-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.1
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70,
+                        "of_which_sugars": 31,
+                        "dietary_fiber": 6.3
+                    }
+                },
+                "ingredients": "Extrait d'AVOINE*, café de céréales (seigle, chicorée, orge, glands, figues)*, huile de tournesol*\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.89,
+                "price_per_unit": 58.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une boisson familiale très pratique, préparée sans effort avec de l'eau frémissante. Verser de l'eau frémissante sur 2 cuillerées à café de Chicorée Oat Latte.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "yannoh-oat-latte-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YANNOH® OAT LATTE 100G BIO",
+                "desc": "Yannoh® Oat Latte 100g Bio\nLatté Instantané au Yannoh – Une Alternative Gourmande et Sans Caféine\nDécouvrez le Latté Instantané au Yannoh, une boisson chaude savoureuse qui associe les arômes riches du seigle torréfié, de la chicorée, de l’orge, des glands et des figues, relevés par une touche subtile d’avoine. Idéal pour remplacer le café, il offre une saveur douce, torréfiée et légèrement amère, sans les effets excitants de la caféine.\n- Alternative saine au café : Profitez d’une boisson réconfortante, sans caféine ni excitants.\n- Ingrédients naturels et aromatiques : Un mélange de céréales et de chicorée pour une palette de saveurs équilibrée.\n- Instantané et facile à préparer : Se déguste chaud avec de l’eau ou du lait (végétal ou non).\n- Digestif et doux pour l’organisme : Une boisson qui allie plaisir et bien-être.\n  Savourez ce latté aux céréales et à la chicorée, l’alternative idéale pour une pause chaleureuse et équilibrée.\nConvient au régime végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/6/7610491030740.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yannoh-oat-latte-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.1
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72,
+                        "of_which_sugars": 28,
+                        "dietary_fiber": 5
+                    }
+                },
+                "ingredients": "Extrait d'AVOINE*, café de céréales (seigle, chicorée, orge, glands, figues), huile de tournesol.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.89,
+                "price_per_unit": 58.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une boisson familiale très pratique, préparée sans effort avec de l'eau frémissante. Verser de l'eau frémissante sur 2 cuillerées à café de Chicorée ou de Yannoh® Oat Latte.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "6601898",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ PUR ARABICA SOLUBLE 100G BIO",
+                "desc": "Café pur arabica soluble 100g Bio\nCafé instantané rond et équilibré de chez Destination. Cette boisson vous accompagne tout au long de votre journée.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3700110055828.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-lyophilise-100g-6601898"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Café soluble lyophilisé*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 99.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre une cuillère par tasse. Ajoutez de l'eau encore frémissante.",
+                "conservation": "A conserver au sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-mexique-deca-moulu-250g-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ DÉCAFÉINÉ MEXIQUE MOULU 250G BIO",
+                "desc": "Café décaféiné Mexique moulu 250g Bio\nLe café Mexique Artisans du Monde provient des hautes terres du Chiapas à une altitude de 1000 à 1500 mètres. Équilibré, il est réputé pour son arôme acidulé et corsé. Les grains sont cueillis à la main et séchés au soleil.\nCe café torréfié moulu est adapté aux cafetières et machines expresso.\nLe café déca Artisans du Monde est décaféiné selon une méthode naturelle utilisant uniquement de l’eau et du CO2. Elle exclut tout produit chimique et permet de conserver tout l’arôme du café d’origine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110075024.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-mexique-deca-moulu-250g-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Pur arabica décaféiné Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 9.1,
+                "price_per_unit": 36.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "capsules-expresso-10x5-5g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPSULES EXPRESSO ASSEMBLAGE X10 BIO",
+                "desc": "Capsules expresso assemblage X10 Bio\nAssemblage de purs arabicas d’Amérique Latine et d’Afrique, issus de l'agriculture biologique. Ce café à la mouture fine est idéal pour une utilisation en machine à expresso. Intense et rond, goûtez à ce café de « barista ». Compatible avec les machines Nespresso®.\nLes capsules sont compostables.\nRiche et Intense (Intensité 8/10).\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700110054739_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/capsules-expresso-10x5-5g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "availability": true,
+                "ingredients": "Café pur arabica.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 5.45,
+                "price_per_unit": 99.09,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Suivez la notice fournie par le constructeur de votre machine Nespresso®.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "capsules-exception-10x5-5g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPSULE EXCEPTION 10X5 5G BIO",
+                "desc": "Capsule exception 10X5 5g Bio \nAssemblage de purs arabicas d’Amérique Latine et d’Afrique, issus de l'agriculture biologique. Ce café à la mouture fine est idéal pour une utilisation en machine à expresso. Intense et rond, goûtez à ce café de « barista ». Compatible avec les machines Nespresso®.\nLes capsules sont compostables.\nRond et équilibré (7/10)\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110048806.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/capsules-exception-10x5-5g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "format": "5G",
+                "availability": true,
+                "ingredients": "Café pur arabica.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 5.0,
+                "price_per_packaging": 5.49,
+                "price_per_unit": 99.82,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "capsule-ethiopie-10x5-5g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPSULES ÉTHIOPIE MOKA PUR ARABICA X10 BIO",
+                "desc": "Capsules éthiopie moka pur arabica X10 Bio\nDécouvrez les nouvelles capsules corsées et fruitées. Compatible avec les machines Nespresso®. Ces capsules sont 100% végétales, vous pouvez les mettre à votre compost.\nIntensité 8/10.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908246.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/capsule-ethiopie-10x5-5g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:52",
+                "availability": true,
+                "ingredients": "Café pur arabica torréfié.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 90.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Suivez la notice fournie par le constructeur de votre machine Nespresso®.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "capsules-decafeine-10x5-5g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPSULES DÉCAFÉINÉ 10X5 5G BIO",
+                "desc": "Capsules décaféiné 10X5 5g Bio\nAssemblage de purs arabicas d’Amérique Latine et d’Afrique, issus de l'agriculture biologique. Ce café à la mouture fine est idéal pour une utilisation en machine à expresso. Intense et rond, goûtez à ce café de « barista ». Compatible avec les machines Nespresso®.\nLes capsules sont compostables.\nDoux et aromatique 5/10\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/capsules-decafeine-10x5-5g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "format": "5G",
+                "availability": true,
+                "ingredients": "Café pur arabica*\nCe produit est issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 5.0,
+                "price_per_packaging": 5.1,
+                "price_per_unit": 92.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "5570180",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ GRAINS MOKA ETHIOPIE 500G BIO",
+                "desc": "Café grains Moka Ethiopie 500g Bio\nCommencez bien votre journée grâce au café moka pur arabica, au goût corsé et fruité (intensité 8/10).\nUne torréfaction artisanale pour conserver tous les arômes des grains de café. \nIssu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110075024.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-moka-ethiopie-grains-500g-5570180"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café pur arabica torréfié et moulu issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 12.9,
+                "price_per_unit": 25.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "4409746",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RECHARGE CAFÉ AUX FRUITS ET CÉRÉALES BAMBU INSTANT 200G...",
+                "desc": "Recharge café aux fruits et céréales Bambu Instant 200G Bio\nPréparation pour boisson à base de chicorée, céréales et figues mûries au soleil.\nBambu est un café aromatique entièrement soluble extrait de fruits et de céréales de culture biologique contrôlée. \nBambu ne contenant aucun grain de café, il est donc dépourvu de caféine. Bambu peut être consommé le soir sans entraîner de troubles du sommeil.\nBambu est le succédané de café idéal pour les personnes nerveusement surmenées ou souffrant de problèmes d'estomac ou d'hypertension. Il convient également très bien aux enfants.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110045775.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bambu-recharge-200g-4409746"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 83,
+                        "of_which_sugars": 6
+                    }
+                },
+                "ingredients": "Extrait de chicorée*, froment* (20%), orge maltée*, figues* (20%) et glands* (1%) torréfiés.\n*Issus de culture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 8.99,
+                "price_per_unit": 44.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Diluer 1 cuillère à café de Bambu dans une tasse d'eau ou de lait chaud ou froid pour obtenir une succulente boisson.\nAstuce : Bambu permet également de préparer de délicieux desserts.",
+                "conservation": "Une fois le sachet ouvert, à conserver bien fermé et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "20",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPSULES EXPRESSO LUNGO X20 BIO",
+                "desc": "Capsules expresso lungo x20 Bio\nLe café Pérou d’Artisans du Monde est un café pur arabica cultivé entre 1200 et 1900m d’altitude par trois coopératives ; Norandino et Cooparm situées au nord du pays, et Cecovasa, situé au sud.\nCes coopératives assurent à près de 10 000 petits producteurs une garantie d’achat de la totalité de leur récolte à un prix minimum et stable.\nGrâce à un terroir d’exception, à une culture respectueuse de l’environnement et à une sélection manuelle des grains, vous découvrirez un café de grande qualité, à l’arôme rond et raffiné.\nUne capsule 100% végétale, compostable chez vous.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110075024.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/capsules-expresso-lungo-hcx20"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "availability": true,
+                "ingredients": "Café 100% arabica*, d’origine végétale.\nTorréfaction artisanale en France.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 7.95,
+                "price_per_unit": 79.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparer le café en suivant les instructions de votre machine expresso.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-ar-moulu-perou-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU PÉROU 500G BIO",
+                "desc": "Café moulu Pérou 500g Bio\nCafé moulu du Pérou au goût équilibré, suave et aromatique. Un 100% arabica Bio issu du commerce équitable.\nUn savoir-faire de torréfacteur artisanal qui vous permet de goûter des cafés biologiques de grande qualité, tout en proposant aux plus exigeants des mélanges de cafés aux saveurs uniques, établis en fonction de vos goûts.\nConditionné dans un sachet compostable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110048806.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-ar-moulu-perou-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café 100% arabica issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 13.25,
+                "price_per_unit": 26.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-ar-moulu-colombie-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU COLOMBIE 500G BIO",
+                "desc": "Café moulu colombie 500g Bio\nCafé moulu de Colombie au goût corsé et fruité. Un 100% arabica Bio issu du commerce équitable.\nUn savoir-faire de torréfacteur artisanal qui vous permet de goûter des cafés biologiques de grande qualité, tout en proposant aux plus exigeants des mélanges de cafés aux saveurs uniques, établis en fonction de vos goûts.\nConditionné dans un sachet compostable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3483981000691.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-ar-moulu-colombie-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:53",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Café 100% arabica issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 13.0,
+                "price_per_unit": 26.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-grain-arabica-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ EN GRAINS ARABICA 1KG BIO",
+                "desc": "Café en grains arabica 1kg Bio\nUn café 100% arabica, origine Pérou/Méxique.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700112016414.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-grain-arabica-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:54",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "100% arabica Chiapaneco.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 24.75,
+                "price_per_unit": 24.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 24.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "4135074",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU PÉROU 250G BIO",
+                "desc": "Café moulu Pérou 250g Bio\nUn arabica moulu pure origine, doux et fruité.\nMélange de cafés des coopératives partenaires d'Amérique du Sud, issus du commerce équitable, 100% SPP et de l'agriculture biologique.\n\nTorréfaction traditionnelle lente pour chauffer à cœur les grains de café et délivrer toutes les spécificités de chaque origine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110075024.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-perou-moulu-250g-4135074"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:54",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% café Arabica*.\n*Issu de l’Agriculture Biologique.\nCe produit est issu du commerce équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 27.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "4135072",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU ETHIOPIE 250G BIO",
+                "desc": "Café moulu éthiopie 250g Bio\nUn arabica moulu pure origine, floral et finement acidulé.\nMélange de cafés des coopératives partenaires d'Afrique, issus du commerce équitable, 100% SPP et de l'agriculture biologique.\n\nTorréfaction traditionnelle lente pour chauffer à cœur les grains de café et délivrer toutes les spécificités de chaque origine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760153590151.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-ethiopie-moulu-250g-4135072"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:54",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% café Arabica*.\n*Issu de l’Agriculture Biologique.\nCe produit est issu du commerce équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.45,
+                "price_per_unit": 29.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-moka-ethiopie-moulu-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU MOKA ÉTHIOPIE 250G BIO",
+                "desc": "Café moulu moka éthiopie 250g Bio\nUn café moka pur arabica, au goût corsé et fruité (intensité 8/10).\nUne torréfaction artisanale pour conserver tous les arômes des grains de café. \nIssu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760153590151.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-moka-ethiopie-moulu-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:54",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Café pur arabica torréfié et moulu issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.59,
+                "price_per_unit": 26.36,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "4044265",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU COLOMBIE 250G BIO",
+                "desc": "Café moulu colombie 250g Bio\nUn café moulu équilibré et acidulé (intensité 7/10).\n100% arabica Bio (colombie), torréfié en France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110005397.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-colombie-moulu-250g-4044265"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:54",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% arabica bio (colombie).",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.65,
+                "price_per_unit": 26.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une mouture adapté aux cafés filtres.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "cafe-moulu-mex-ar-ffl-250-g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAFÉ MOULU MEXIQUE 250G BIO",
+                "desc": "Café moulu Mexique 250g Bio\nUn café moulu rond et généreux 100% arabica, intensité 6/10.\nUne torréfaction artisanale en France.\nProduit issu de l'agriculture biologique. Certifié fair for life.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700112016414.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cafe-moulu-mex-ar-ffl-250-g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:55",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "100% pur arabica Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.2,
+                "price_per_unit": 24.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "chicoree-recharge-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RECHARGE DE CHICORÉE INSTANTANÉE 180G BIO",
+                "desc": "Recharge de Chicorée instantanée 180g Bio\nDécouvrez cette recharge pour chicorée instantanée bio.\nLa chicorée torréfiée est reconnue depuis le 17ème siècle pour ses bienfaits et son goût délicieux. Naturellement sans caféine, cette chicorée instantanée peut se consommer du matin au soir.\nSans sucres ajoutés*.\nCertifié Agriculture Biologique.\n*Contient des sucres naturellement présents.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/h/chicoree.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chicoree-recharge-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:55",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 3.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59,
+                        "of_which_sugars": 11,
+                        "dietary_fiber": 30
+                    }
+                },
+                "ingredients": "Chicorée*.\n*Ingrédients issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 8.15,
+                "price_per_unit": 45.28,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    },
+    {
+        "ean": "3729968",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cafés, Chicorée, Cacao"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHICORÉE NATURE 100G BIO",
+                "desc": "Chicorée nature 100G Bio\nChicorée Instantannée Bocal Bio de Destination Bio est une boisson aux subtiles notes de caramel vous accompagne toute la journée. Découvrez cette boisson savoureuse, issue de racine de chicorée cultivée dans le respect de l’agriculture biologique. Contient des sucres naturellement présents.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036909335.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chicoree-100g-3729968"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:55",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Chicorée soluble issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.7,
+                "price_per_unit": 57.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre dans un bol et ajouter de l'eau encore frémissante, du lait chaud ou votre boisson végétale.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:50",
+        "updated_at": "2025-06-15T22:50"
+    }
+]

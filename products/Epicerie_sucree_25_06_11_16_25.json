@@ -1,0 +1,1801 @@
+[
+    {
+        "ean": "000000000000085558",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pause gourmande, noix de cajou, amandes sucrées",
+                "desc": "Mélange sucré d'amande, noix de cajou et riz soufflé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwf1e2b767/produits/fruits/edition/000000000000068977_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pause-gourmande-40g-000000000000085558.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:20",
+                "format": "40.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 584.0
+                    },
+                    "minerals": {
+                        "salt": 0.51
+                    },
+                    "fats": {
+                        "fats": 41.0,
+                        "saturates": 5.4
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.0,
+                        "of_which_sugars": 19.0,
+                        "dietary_fiber": 5.2
+                    }
+                },
+                "ingredients": "AMANDE 39,2%, NOIX DE CAJOU 31,5%, sirop d'agave, sucre roux de canne 8,7%, riz soufflé 6,3%, huile de colza, sel.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 1.6,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085505",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Truffes en sachet",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/truffes-en-sachet-35g-000000000000085505.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:20",
+                "on_discount": false,
+                "weight_per_packaging": 35.0,
+                "price_per_packaging": 1.25,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085590",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Biscuits animaux, sablés au chocolat au lait",
+                "desc": "Biscuits sablés pur beurre au chocolat au lait.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/biscuits-animaux-120g-000000000000085590.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:20",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 499.0
+                    },
+                    "minerals": {
+                        "salt": 0.37
+                    },
+                    "fats": {
+                        "fats": 24.0,
+                        "saturates": 15.0
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.0,
+                        "of_which_sugars": 32.0,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), chocolat au LAIT 27% (sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, émulsifiant : lécithines de tournesol, arôme naturel de vanille), sucre, beurre (LAIT) 15%, LAIT entier, flocon d’AVOINE (GLUTEN), farine d’AVOINE (GLUTEN), LAIT entier en poudre, sel de Guérande, extrait de vanille, poudre à lever : carbonates d’ammonium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 2.99,
+                "conservation": "chaleur-humidite-lumiere",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085484",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 mini lunettes coeurs fraise bio",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-mini-lunette-fraise-bio-000000000000085484.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:20",
+                "on_discount": false,
+                "weight_per_packaging": 156.0,
+                "price_per_packaging": 2.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085491",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Popcorn au sucre naturel movies star",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/popcorn-sucre-naturel-000000000000085491.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:20",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 1.45,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085580",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cookies aux pépites de chocolat et noisettes",
+                "desc": "Biscuits pur beurre au chocolat et aux noisettes.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb8f5c1b7/produits/00000000000000084301_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cookies-pepites-chocolat-000000000000085580.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "175.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 506.0
+                    },
+                    "minerals": {
+                        "salt": 0.36
+                    },
+                    "fats": {
+                        "fats": 26.0,
+                        "saturates": 14.0
+                    },
+                    "proteins": {
+                        "proteins": 7.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59.0,
+                        "of_which_sugars": 33.0,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), sucre roux de canne, beurre (LAIT) 16,5%, morceau de chocolat noir 10,3% (pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithines, arôme naturel de vanille), pépite de chocolat noir 10,3% (sucre, pâte de cacao, beurre de cacao, cacao maigre en poudre, émulsifiant : lécithines, arôme naturel de vanille), NOISETTE hachée grillée 10,3%, LAIT écrémé en poudre, sel de Guérande, poudre à lever : carbonates d'ammonium, arôme naturel de vanille.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 2.9,
+                "conservation": "chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 2
+        }
+    },
+    {
+        "ean": "000000000000085515",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Lorina pêche blanche",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1x-lorina-peche-42cl-000000000000085515.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "on_discount": false,
+                "price_per_packaging": 2.2,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085770",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Coca cola cherry saveur cerise",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-canette-coca-cherry-000000000000085770.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "on_discount": false,
+                "price_per_packaging": 1.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085771",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Fuze tea saveur pêche intense",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1x-fuze-tea-peche-33cl-000000000000085771.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "on_discount": false,
+                "price_per_packaging": 1.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085288",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "20 ini-gaufrettes pur beurre",
+                "desc": "Mini-gaufrettes pur beurre",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-gaufrettes-000000000000085288.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 479.0
+                    },
+                    "minerals": {
+                        "salt": 0.51
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 6.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.0,
+                        "of_which_sugars": 35.0,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), sucre, beurre 20% (LAIT), OEUF entier de poule élevée en plein air (liquide, pasteurisé), amidon de BLÉ (GLUTEN), sel, poudre à lever : carbonates d'ammonium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.05,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085263",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "GB"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Shortbread sablés pur beurre",
+                "desc": "Biscuits sablés pur beurre",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/shortbread-pur-beurre-000000000000085263.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 528.0
+                    },
+                    "minerals": {
+                        "salt": 0.6
+                    },
+                    "fats": {
+                        "fats": 29.0,
+                        "saturates": 16.0
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre salé 32,1% [beurre (LAIT) 31,6%, sel], sucre, amidon de maïs.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000085272",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "14 mini meringues",
+                "desc": "14 mini-meringues",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/14-mini-meringues-70g-000000000000085272.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "70.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 393.0
+                    },
+                    "minerals": {
+                        "salt": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 92.0,
+                        "of_which_sugars": 92.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Sucre, blanc d'œuf de poule élevée en plein air 33,3% (liquide, pasteurisé).",
+                "allergens": [
+                    "Œuf",
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 2.7,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000085210",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 cornets à glace",
+                "desc": "12 cornets à glace",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw54fa135a/produits/000000000000084162_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/12-cornets-glace-000000000000085210.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 415.0
+                    },
+                    "minerals": {
+                        "salt": 0.22
+                    },
+                    "fats": {
+                        "fats": 6.2,
+                        "saturates": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81.0,
+                        "of_which_sugars": 28.0,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 65,2%, sucre, matière grasse végétale de coprah, fibre de BLÉ (GLUTEN), émulsifiant: lécithines de SOJA, caramel aromatique, acidifiant: carbonates de magnésium, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.5,
+                "conservation": "consommer-rapidement .chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085274",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 coupes gaufrette",
+                "desc": "6 coupes gaufrette",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwda972033/produits/000000000000084161_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-coupes-gaufrette-000000000000085274.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "format": "78.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 407.0
+                    },
+                    "minerals": {
+                        "salt": 0.35
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82.0,
+                        "of_which_sugars": 29.0,
+                        "dietary_fiber": 3.0
+                    }
+                },
+                "ingredients": "Farine de blé (gluten) 60,5%, sucre, matière grasse végétale de coprah, fibre de blé, émulsifiant : lécithines de soja, caramel aromatique (sucre, eau), acidifiant : carbonates de magnésium, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 78.0,
+                "price_per_packaging": 2.85,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.67,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000030286",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "yetigel x12",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/yetigel-000000000000030286.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:21",
+                "on_discount": false,
+                "weight_per_packaging": 660.0,
+                "price_per_packaging": 3.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000031962",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Crème vanillée",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/creme-vanillee-000000000000031962.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.25,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085064",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Guimauves nuages",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/guimauves-nuages-000000000000085064.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085447",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Roses au chocolat au lait",
+                "desc": "Chocolat au lait (66%) et pétales de maïs (34%).",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6bcc8095/produits/00000000000000082953_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/roses-chocolat-lait-000000000000085447.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "format": "125.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 489.0
+                    },
+                    "minerals": {
+                        "salt": 0.7
+                    },
+                    "fats": {
+                        "fats": 22.0,
+                        "saturates": 14.0
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64.0,
+                        "of_which_sugars": 26.0,
+                        "dietary_fiber": 3.6
+                    }
+                },
+                "ingredients": "Chocolat au LAIT 66% (sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), pétale de maïs 34% (maïs, sucre, sel). Chocolat au LAIT : 36% de cacao minimum",
+                "allergens": [
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.2,
+                "conservation": "consommer-rapidement .20-chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085040",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Lorina grenade, recette artisanale",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/lorina-grenade-recette-artisanale-000000000000085040.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "on_discount": false,
+                "price_per_packaging": 2.2,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085259",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Fraise fraise Mara des bois",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fraise-mara-des-bois-300g-000000000000085259.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000031318",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Dentelles",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dentelles-000000000000031318.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.3,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000080062",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Feuillets à la cannelle",
+                "desc": "Feuillets à la cannelle",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/feuillets-cannelle-000000000000080062.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:22",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 464.0
+                    },
+                    "minerals": {
+                        "salt": 0.85
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 10.0
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.0,
+                        "of_which_sugars": 38.0,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Farine de blé (gluten), sucre candi, beurre (lait), oeuf entier liquide pasteurisé, poudre à lever : carbonates de sodium, sirop de sucre candi, cannelle 0,1%.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Traces de Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.95,
+                "conservation": "consommer-rapidement .chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085245",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Barre au noix, au chocolat, bio, Taste of Nature",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/barre-noix-chocolat-bio-taste-of-nature-000000000000085245.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 1.95,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085451",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Bonbons fleurs, fraise,framboise,agrumes,abricot",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bonbons-fleurs-100g-000000000000085451.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085275",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "10 sucettes caramel au lait frais",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-sucettes-caramel-000000000000085275.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 3.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085145",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Pâte à tartiner noisette et cacao bio",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pate-tartiner-noisette-cacao-bio-000000000000085145.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085449",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Guimauves aromatisées à la framboise",
+                "desc": "Guimauves aromatisées à la framboise",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/guimauves-framboises-60-g-000000000000085449.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 332.0
+                    },
+                    "minerals": {
+                        "salt": 0.07
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 4.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78.0,
+                        "of_which_sugars": 68.0,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Sucre, sirop de glucose, eau, blanc d'ŒUF de poule élevée en plein air (liquide, pasteurisé) 6,6%, gélatine de porc, arôme naturel de framboise 1,1%, jus concentré de betterave, concentrés (patate douce, carotte pourpre), jus concentré de pomme, acidifiant : acide citrique, amidon de maïs.",
+                "allergens": [
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 1.99,
+                "conservation": "consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.67,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000030640",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "24 crepes dentelles",
+                "desc": "crêpes dentelle nature",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/24-crepes-dentelles-000000000000030640.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "format": "125.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 436.0
+                    },
+                    "minerals": {
+                        "salt": 0.95
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 6.8
+                    },
+                    "proteins": {
+                        "proteins": 5.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80.0,
+                        "of_which_sugars": 46.0,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Farine de BLE (GLUTEN), sucre, beurre concentré (LAIT), lactose (LAIT) et protéines de LAIT, sel, extrait de malt d'ORGE (GLUTEN).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.99,
+                "conservation": "consommer-rapidement .20-chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000030799",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Caramels au beurre salé 200g",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/caramels-beurre-sale-200g-000000000000030799.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:23",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085260",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Abricot fruit de la passion",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/abricot-fruit-passion-300g-000000000000085260.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085257",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Palmiers pur beurre",
+                "desc": "Biscuit feuilleté sucré",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/palmiers-pur-beurre-l-heure-000000000000085257.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "format": "115.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 477.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70.0,
+                        "of_which_sugars": 28.0,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Farine de blé 64% (gluten), sucre, beurre 22% (lait), sel, farine de malt d'orge (gluten).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 115.0,
+                "price_per_packaging": 2.35,
+                "conservation": "chaleur-humidite .consommer-rapidement .date-indiquee",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.6,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000085154",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Truffes en barre",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/truffes-barre-mathez-000000000000085154.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "on_discount": false,
+                "weight_per_packaging": 34.0,
+                "price_per_packaging": 1.25,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085276",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "10 sucettes saveurs fruits",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-sucettes-saveur-fruits-000000000000085276.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 3.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000031293",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Feuillets aux amandes",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/feuillets-amandes-000000000000031293.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.15,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085984",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "DE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "La rose au chocolat au lait",
+                "desc": "Chocolat au lait (68%) et pétales de maïs (32%)",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw6bcc8095/produits/00000000000000082953_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/rose-chocolat-lait-000000000000085984.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 515.0
+                    },
+                    "minerals": {
+                        "salt": 0.25
+                    },
+                    "fats": {
+                        "fats": 27.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 61.0,
+                        "of_which_sugars": 36.0,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Chocolat au LAIT 68% (sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), pétale de maïs 32% (maïs, sucre, sel).\n*% minimum de cacao dans le chocolat au lait : 36",
+                "allergens": [
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.5,
+                "conservation": "20-chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085016",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Palmiers apéritifs fromage-oignon",
+                "desc": "Biscuits feuilletés pur beurre aux fromages et à l'oignon",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/palmiers-aperitifs-fromage-oignon-000000000000085016.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 546.0
+                    },
+                    "minerals": {
+                        "salt": 2.0
+                    },
+                    "fats": {
+                        "fats": 35.0,
+                        "saturates": 25.0
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.0,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de blé (gluten) 50,3%, beurre (lait) 27,9%, mélange de fromages râpés 15,7% [lait, sel, ferments lactiques, présure animale, colorant : caroténoïdes], oignon déshydraté 3%, sel, lait écrémé en poudre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Arachide",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000085467",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Florentines au chocolat noir",
+                "desc": "Biscuits aux amandes nappés de chocolat noir",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw116700c2/produits/000000000000084116_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/florentine-chocolat-noir-000000000000085467.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:24",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 563.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 38.0,
+                        "saturates": 16.0
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 37.0,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "Chocolat noir 28,6% (pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithines de SOJA), sucre, AMANDE effilée 16,5%, AMANDE en poudre 12,3%, beurre (LAIT), praliné NOISETTE (NOISETTE, sucre), blanc d’ŒUF de poule élevée en plein air (liquide, pasteurisé), crème liquide [crème (LAIT), stabilisant : carraghénanes], miel, purée de citron, écorce de citron broyée, écorce d’orange broyée.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.6,
+                "conservation": "chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.78,
+            "total_reviews": 9
+        }
+    },
+    {
+        "ean": "000000000000085555",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "9 tartelettes au citron bio",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/9-tartelettes-au-citron-bio-000000000000085555.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:25",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.15,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085237",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Bâtonnets sablés au chocolat au lait bio",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bat-sable-choc-lait-bio-000000000000085237.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:25",
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 3.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000080153",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crêpes dentelle au chocolat au lait",
+                "desc": "CREPES DENTELLE enrobées de chocolat au lait",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crepes-dentelle-enrobees-chocolat-lait-000000000000080153.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:25",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 478.0
+                    },
+                    "minerals": {
+                        "salt": 0.65
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70.0,
+                        "of_which_sugars": 48.0,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Chocolat au LAIT 43% [sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, lactose (LAIT), émulsifiant: lécithine de SOJA, arôme naturel de vanille], farine de BLE (GLUTEN), sucre, beurre concentré (contient LAIT), lactose (LAIT) et protéines de LAIT, sel, extrait de malt d'ORGE (GLUTEN), poudre à lever: carbonates de sodium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "conservation": "consommer-rapidement .20-chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 1
+        }
+    }
+]

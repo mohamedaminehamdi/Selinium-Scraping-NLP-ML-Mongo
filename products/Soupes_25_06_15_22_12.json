@@ -1,0 +1,1964 @@
+[
+    {
+        "ean": "gaspacho-tomate-basilic-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO TOMATE BASILIC 1L BIO",
+                "desc": "Gaspacho Tomate Basilic 1L Bio\nClassique indémodable, cette soupe froide d’origine espagnole est composée de tomates, poivrons, concombres, basilic, le tout cuisiné à l’huile d’olive et délicatement assaisonné d’une pointe de menthe. Cette recette estivale va apporter du soleil sur votre table! Sans gluten.\n\nTomates 100% de France, à déguster très frais.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4000345046783.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-tomate-basilic-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:08",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 530
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Tomate*, comcombre*, basilic*, menthe*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.79,
+                "price_per_unit": 4.79,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A deguster très frais.",
+                "conservation": "Se conserve dans un endroit frais et sec.",
+                "old_price": 5.99
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "gaspacho-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO 1L BIO",
+                "desc": "Gaspacho 1L Bio\nClassique indémodable, cette soupe froide d’origine espagnole est composée de tomates, poivrons, concombres, oignons et ail, le tout cuisiné à l’huile d’olive et délicatement assaisonné d’une pointe de citron. Cette recette estivale va apporter du soleil sur votre table !\nUne recette élaborée avec des tomates 100% d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800030572.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:08",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.1,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Légumes* 93.3% (jus de tomates* 56.8%, poivrons rouges* 13.5%, jus de concombre* 12.1%, oignons* 10.9%), huile d'olive vierge extra*, vinaigre de vin rouge*, ail*, jus de citron*, sel.\n\n* Ingrédient issu de l’agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.3,
+                "price_per_unit": 5.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Servir bien frais, avec des croutons ou des morceaux de concombres, poivrons...",
+                "conservation": "Une fois ouvert, à conserver au froid et à consommer dans les 5 jours.\nAgiter et servir froid.",
+                "old_price": 6.29
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "gaspacho-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO 50CL BIO",
+                "desc": "Gaspacho 50CL Bio\nNotre gaspacho est cuisiné avec des légumes d'été gorgés de soleil : tomates, poivrons verts et rouges, oignons, concombres.\nIl est parfumé avec de l'ail, du basilic et de l'assaisonnement de prune umébosis.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4000345046783.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "50CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.6,
+                        "of_which_sugars": 3.1,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Tomates*, poivrons rouges*, poivrons verts*, oignons*, concombre*, basilic*, assaisonnement umébosis (prunes, feuilles d’irésine, sel marin) sel marin non raffiné, ail*.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 8.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À déguster bien frais, agrémenté d'un filet d'huile d'olive.\nNotre gaspacho pourra accompagner un repas estival, ou être consommé seul avec une belle tranche de pain.",
+                "conservation": "A conserver dans un endroit frais et sec.\nConserver au réfrigérateur après ouverture et consommer rapidement.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-legumes-varies-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE DE LÉGUMES VARIÉS 75CL BIO",
+                "desc": "Soupe de légumes variés 75cl Bio\nRégalez-vous cet hiver avec cette recette gourmande à faible teneur en matières grasses. Pour plus de gourmandise, accompagnez-la de croûtons. Du poireau, pomme de terre et carotte pour faire le plein de légumes.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3700036908819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-legumes-varies-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 380
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "eau, poireau* 13.5%, pomme de terre* 13.5%, carotte* 8%, panais* 5%, oignon* 3.2%, CELERI RAVE* 1.7%, amidon de maïs*, épinard* 1%, bouillon de légumes*, huile de tournesol*, sel, ail*, thym*, laurier*, poivre*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 5.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi, ne pas ajouter d'eau.\nVerser le contenu dans une casserole, réchauffer quelques instants à feu doux en remuant de temps en temps, ou bien au micro-ondes, dans un bol. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-courgette-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE COURGETTE ET LÉGUMES 75CL BIO",
+                "desc": "Soupe courgette et légumes 75cl Bio\nRégalez-vous cet hiver avec cette recette gourmande à faible teneur en matières grasses. Pour plus de gourmandise, accompagnez-la de croûtons. De la courgette, du poireau, pomme de terre et carotte pour faire le plein de légumes.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3700036908826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-courgette-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 450
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.4,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Eau, courgette* 22.7%, pomme de terre* 11.3%, poireau* 5.3%, carotte* 4.1%, bouillon de légumes*, amidon de maïs*, huile de tournesol*, CELERI VERT* 0.4%, mélange d'herbes aromatiques*, purée de pomme*, cumin*, poivre noir*.\nTraces éventuelles de SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.9,
+                "price_per_unit": 5.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi, ne pas ajouter d'eau.\nVerser le contenu dans une casserole, réchauffer quelques instants à feu doux en remuant de temps en temps, ou bien au micro-ondes, dans un bol. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-carotte-curry-coco-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE CAROTTE PATATE DOUCE COCO CURRY 75CL BIO",
+                "desc": "Soupe carotte patate douce coco curry 75cl Bio\nUne recette gourmande pour vous réchauffer, pleine de saveurs. Régalez-vous de cette recette à faible teneur en matières grasses. Pour plus de gourmandise, accompagnez-la de croûtons.\nDes carottes, de la patate douce, du lait de coco et légèrement épicé au curry pour un repas complet et sain.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3700036908802.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-carotte-curry-coco-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 470
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.9,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "eau, carotte* 37.3%, patate douce* 11.3%, lait de coco* 7.5%, amidon de maïs*, oignon*, huile de tournesol*, bouillon de légumes*, curry jaune* 0.1%.\nTraces éventuelles de CELERI.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 5.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi, ne pas ajouter d'eau.\nVerser le contenu dans une casserole, réchauffer quelques instants à feu doux en remuant de temps en temps, ou bien au micro-ondes, dans un bol. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-butternut-cart-poti-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE BUTTERNUT CAROTTE POTIRON 75CL BIO",
+                "desc": "Soupe butternut carotte potiron 75cl Bio\nUne recette gourmande pour vous réchauffer. Régalez-vous de cette recette à faible teneur en matières grasses. Pour plus de gourmandise, accompagnez-la de croûtons.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3700036908796.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-butternut-cart-poti-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 480
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 2,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "eau, butternut* 19.5%, carotte* 13.8%, potiron* 13.7%, crème fraîche (LAIT), double concentré de tomate*, oignon*, amidon de maïs*, bouillon de légumes*, sel, poivre blanc*, muscade*.\nTraces éventuelles de CELERI et de SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 5.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi, ne pas ajouter d'eau.\nVerser le contenu dans une casserole, réchauffer quelques instants à feu doux en remuant de temps en temps, ou bien au micro-ondes, dans un bol. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-harira-480g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE HARIRA 480G BIO",
+                "desc": "Soupe Harira 480g Bio\nPlongez dans les saveurs authentiques de la Harira, une soupe emblématique de la cuisine marocaine qui vous fera voyager dès la première cuillerée. Riche en pois chiches fondants, lentilles nourrissantes et tomates savoureuses, elle est le parfait allié des instants réconfortants.\nCette recette traditionnelle incarne à merveille la chaleur et la générosité du Maroc.\nAvec Le Voyage de Mamabé, partez à la découverte des trésors culinaires du monde. Et la Harira en est l’un des joyaux… Dégustez, rêvez, voyagez.\nFabriqué en France.\nPour 1 à 2 personnes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3269712401919.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-harira-480g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "480G",
+                "availability": true,
+                "ingredients": "Tomate* (38%), eau, lentille* (14%), huile de tournesol*, pois chiche* (6,6%), céleri*, coriandre* (1,6%), sel, persil*, épices*, farine de riz*.\nTraces possibles de Gluten et Soja.\n* Produit issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 480.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 10.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec et à consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-fasolada-490g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE FASOLADA 490G BIO",
+                "desc": "Soupe fasolada 490g Bio\nPartez à la découverte des saveurs méditerranéennes avec notre Soupe Fasolada, un classique incontournable des tables grecques et chypriotes. Riche et savoureuse, cette soupe aux haricots blancs (ou fèves) est sublimée par un généreux filet d’huile d’olive, symbole de la cuisine du soleil.\nLes légumes frais — tomates, carottes, oignons et céleri — s’unissent harmonieusement pour créer une texture douce et veloutée. Des herbes fraîches et des épices bien dosées viennent parfumer le tout, apportant fraîcheur et caractère à chaque bouchée.\nConsidérée comme le plat national en Grèce, la Fasolada dépasse la simple assiette : elle incarne un art de vivre, une célébration des produits simples, locaux et de saison.\nLaissez-vous séduire par cette soupe réconfortante, véritable hymne à la tradition, à la générosité et à la gourmandise méditerranéenne.\nPour 1 à 2 personnes.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3269712401926.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-fasolada-490g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:09",
+                "format": "490G",
+                "availability": true,
+                "ingredients": "Tomate* (30%), haricot blanc* (26%), eau, carotte*, oignon*, jus de citron*, céleri*, huile d’olive extra vierge*, ail*, sel, aromates* (0,6%).\nPeut contenir des traces de Gluten et Soja\n* Produit issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 490.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 10.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-legumes-verts180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ PROTÉINÉ LÉGUMES VERTS EN POUDRE 180G BIO",
+                "desc": "Velouté protéiné légumes verts en poudre 180g Bio\nDécouvrez cette délicieuse recette de velouté protéines bio à réhydrater !\nFormulé pour favoriser une assimilation des protéines optimale, grâce à un mélange de 4 sources végétales offrant un profil complet en acides aminés.\nComposé de vraies poudres de légumes, elles vous permettront de compléter facilement vos apports en protéines en les intégrant directement à votre repas, en entrée par exemple !\nObtenez au quotidien votre dose de bienfaits nutritionnel, quelque soit votre objectif, que vous soyez sportifs, séniors, vegan ou en dénutrition.\nFacile et rapide à préparer, sachet refermable de 180g !\nFabriqué en France.\n- Jusqu’à 30 % de protéines à assimilation rapide et un profil complet en acides aminés.\n- Aucune origine douteuse : protéines végétales d'origine UE.\n- Mélange de 4 protéines végétales associé à de véritables légumes bio en poudre.\n- Aucun ingrédient superflu : saveur naturelle préservée et non dénaturée.\n- Compléter facilement ses apports en consommant des protéines directement intégrées à ses repas.\n- Soupes en poudre pouvant se conserver sur une longue durée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3701182301967.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-legumes-verts180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2270
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 5.5
+                    },
+                    "proteins": {
+                        "proteins": 30
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 32,
+                        "of_which_sugars": 9.5,
+                        "dietary_fiber": 16
+                    }
+                },
+                "ingredients": "Mélange de 4 sources de protéines végétales* (protéines de tournesol*, protéines de chanvre*, protéines de courge*, protéines de lin*), poudre de pomme de terre* (18%), poudre d’asperge* (9%), poudre d’épinard* (7%), poudre de poireau* (7%), poudre d’oignon*(7%), poudre de tomate*, sel*, poudre d’ail*, poivre*. \n*Ingrédient issu de l’agriculture biologique.\nFabriqué dans un atelier manipulant des produits à base de lait , fruits à coque et céréales pouvant contenir du gluten.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 13.9,
+                "price_per_unit": 77.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il vous suffit de mélanger 30 g de notre recette de velouté dans 150 ml d’eau bouillante. Mélangez, jusqu’à obtenir un velouté onctueux.\nVous pouvez agrémenter votre soupe de petits croûtons de pain, graines de courges ou parmesan rappé.\nVous n’avez plus qu’à déguster !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-legumes-potager-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ PROTÉINÉ LÉGUMES DU POTAGER EN POUDRE 180G BIO",
+                "desc": "Velouté protéiné légumes du potager en poudre 180g Bio\nDécouvrez cette délicieuse recette de velouté protéines bio à réhydrater !\nFormulé pour favoriser une assimilation des protéines optimale, grâce à un mélange de 4 sources végétales offrant un profil complet en acides aminés.\nComposé de vraies poudres de légumes, elles vous permettront de compléter facilement vos apports en protéines en les intégrant directement à votre repas, en entrée par exemple !\nObtenez au quotidien votre dose de bienfaits nutritionnel, quelque soit votre objectif, que vous soyez sportifs, séniors, vegan ou en dénutrition.\nFacile et rapide à préparer, sachet refermable de 180g !\nFabriqué en France.\n- Jusqu’à 30 % de protéines à assimilation rapide et un profil complet en acides aminés.\n- Aucune origine douteuse : protéines végétales d'origine UE.\n- Mélange de 4 protéines végétales associé à de véritables légumes bio en poudre.\n- Aucun ingrédient superflu : saveur naturelle préservée et non dénaturée.\n- Compléter facilement ses apports en consommant des protéines directement intégrées à ses repas.\n- Soupes en poudre pouvant se conserver sur une longue durée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3701182301974.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-legumes-potager-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2020
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 5
+                    },
+                    "proteins": {
+                        "proteins": 26
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 38,
+                        "of_which_sugars": 11,
+                        "dietary_fiber": 15
+                    }
+                },
+                "ingredients": "Mélange de 4 sources de protéines végétales* (protéines de tournesol*, protéines de chanvre*, protéines de courge*, protéines de lin*), poudre de pomme de terre*(17%), poudre de poireau*(7%), poudre d’oignon*(7%), fécule de pomme de terre*(7%), poudre d’asperge*(6%), poudre de tomate*, poudre de carotte*(4%), sel*, persil*, poudre d’ail*, poivre*. \n*Ingrédient issu de l’agriculture biologique.\nFabriqué dans un atelier manipulant des produits à base de lait , fruits à coque et céréales pouvant contenir du gluten.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 13.9,
+                "price_per_unit": 77.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il vous suffit de mélanger 30 g de notre recette de velouté dans 150 ml d’eau bouillante. Mélangez, jusqu’à obtenir un velouté onctueux.\nVous pouvez agrémenter votre soupe de petits croûtons de pain, graines de courges ou parmesan rappé.\nVous n’avez plus qu’à déguster !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-courgette-basil-30cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ DE COURGETTES ET BASILLIC 30CL BIO",
+                "desc": "Velouté de Courgettes et Basillic 30cl Bio\nLisse et onctueux, il marie avec harmonie la douceur de la courgette, la fraîcheur du basilic, et une pointe d'huile d'olive vierge extra, le tout cuisiné avec des petits légumes (carottes, oignons, céleri-rave, épinards, choux-fleurs, poireaux et haricots verts).\nLégumes 100% France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3252920048922.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-courgette-basil-30cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "30CL",
+                "availability": true,
+                "ingredients": "Légumes*49.9% (courgettes*18.5%, carottes* 13,5%, oignons* 5,5%, céleri-rave*, épinards*, choux-fleurs*, poireaux*, haricots verts*), huile d'olive viergeù, amidon de riz*, flocons de millet*, sel, basilic* 0,4%, ail*, poivre*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 1.55,
+                "price_per_unit": 5.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Après avoir agité la brique, réchauffez le potage dans une casserole à feu doux, en remuant de temps en temps. Pour des saveurs optimales, ne pas porter à ébullition.",
+                "conservation": "Avant ouverture : conservation à température ambiante.\nAprès ouverture : conservation au réfrigérateur et consommer sous 48 heures."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-carot-lentille-30cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ CAROTTES LENTILLES CORAIL COCO 30CL BIO",
+                "desc": "Velouté carottes lentilles corail coco 30cl Bio\nRéchauffez-vous cet hiver avec ce réconfortant velouté de carottes et de lentilles corail cuisinés au lait de coco. \nUne recette avec des légumes 100% français, source de protéines et à faible teneur en matières grasses.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3252920048946.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-carot-lentille-30cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "30CL",
+                "availability": true,
+                "ingredients": "Eau, Légumes* 25% (carottes* 20, poireaux* 5%), lentilles corail* 6.5%, lait de coco* 4.5% (extrait de coco*, eau), sel, ail* 0,1%, romarin 0.025%\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 1.65,
+                "price_per_unit": 5.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Secouez la brique avant d’ouvrir.\nA la casserole : Verser le potage dans une casserole sans ajouter d’eau. Réchauffez à feu doux sans porter à ébullition en remuant de temps en temps.\nAux micro-ondes : utiliser un récipient adapté",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-poireaux-pdt-70cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE FINE POIREAUX ET POMMES DE TERRE 70 CL BIO",
+                "desc": "Soupe Fine Poireaux et  Pommes de terre 70 cl Bio\nNe laisse pas ta chance de simpliflier ta cuisine avec notre délicieuse soupe, aux légumes français et deviens un pro de la cuisine.\nPour plus de gourmandise dégustez cette soupe avec des croûtons à l'ail.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3760071072043.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-poireaux-pdt-70cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "70 CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 370
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.6,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Légumes* (Pomme de terre* 24%, poireau* 20%, oignon*)eau, crème fraîche(LAIT), sel de Guérande.\n\n* Produits issus de l'agriculture biologique et certifiés par ECOCERT FR\u0002BIO-01. Origine bio : agriculture France.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 8.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer à feu doux",
+                "conservation": "Avant ouverture à conserver à température ambiante\nAprès ouverture à conserver au frais (4°C) et consommer sous 48 heures"
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-leg-verts-ss-sel-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ DE LÉGUMES VERTS SANS SEL AJOUTÉ 1L BIO",
+                "desc": "Velouté légumes verts sans sel ajouté 1l\nPour ce velouté, Priméal a sélectionné des légumes plein champ cultivés  dans nos campagnes françaises.\nLe parfum de cette soupe est apporté uniquement par les légumes et les herbes aromatiques. Aucun arôme n’est ajoutéet vous offre une expérience gustative authentique. Il est préparé sans sel ajouté, ce qui permet aux saveurs des légumes de briller.\nAccompagnez votre velouté de croûtons croustillants ou d'un filet d'huile d'olive pour ajouter une touche de texture et de richesse. N'oubliez pas de le savourer chaud, en prenant le temps de goûter chaque cuillerée pour apprécier pleinement la douceur des légumes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/3/3380380102820.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-leg-verts-ss-sel-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.9,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Eau, légumes verts* 40% (courgettes* 18%, brocolis* 8%, épinards* 8%, poireaux* 4%, haricots verts*), oignons* 8%, carottes*, huile d'olive* vierge extra, farine de riz*, ail*, thym*.\n*issus de l’agriculture biologique.\nPeut contenir des traces de :Lait, gluten, céleri, crustacés, poisson, mollusques, moutarde, oeufs, soja et fruits à coque.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 3.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, réchauffez à feu doux en mélangeant régulièrement sans faire bouillir. Servir chaud.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer sous 48 heures."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "gaspacho-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO RECETTE ANDALOUSE 500ML BIO",
+                "desc": "Gaspacho Recette Andalouse 500ml Bio\nLe gaspacho andalou pourrait être considéré comme le paradigme de le régime méditerranéen en raison de l'intégration dans sa recette de tous les légumes les plus sains et les plus biologiques d'Andalousie, offrant une combinaison parfaite de saveur et de santé. Gaspacho andalou Luque est basé sur une recette familiale très proche de mesure à la maison et avec l'avantage supplémentaire du BIO dans chacun de ses ingrédients, comme c'est le cas de notre huile d'olive extra vierge biologique (3.5%).\nOrigine : 100% ESPAGNE\nUne recette sans gluten.\nConvient au régime végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/8/4/8437002696528.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:10",
+                "format": "500ML",
+                "availability": true,
+                "ingredients": "Tomates*, poivrons*, concombres*, huile d'olive extra vierge*, vinaigre de vin*, ail*, sel.\n\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter et servir froid.",
+                "conservation": "Une fois ouvert, à conserver au froid et à consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-tomate-pates-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ TOMATES, LÉGUMES ET PÂTES 1L BIO",
+                "desc": "Velouté tomates, légumes et pâtes 1L Bio\nCe velouté tomate légumes pâtes, est une recette gourmande et équilibrée ! Composé de légumes 100% français, ce velouté est source de fibres et à faible teneur en matières grasses, pour un repas léger et sain !\nLes pâtes issues de Savoie, apportent une texture onctueuse et gourmande à ce potage. Grandeur Nature travaille en étroite collaboration avec des producteurs partenaires locaux pour garantir la qualité de leurs légumes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3252920048991.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-tomate-pates-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus de tomate à base de base de concentré* 50,4%, eau, légumes* 15% (carottes*, pommes de terre*, poireaux*), pâtes* 2% (semoule de blé dur*), huile d'olive vierge extra*, sel, ail*, basilic* 0,1%.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 3.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Secouez la brique avant d’ouvrir.\nA la casserole : Verser le potage dans une casserole sans ajouter d’eau. Réchauffez à feu doux sans porter à ébullition en remuant de temps en temps.\nAux micro-ondes : utiliser un récipient adapté",
+                "conservation": "Avant ouverture : à conserver dans un endroit frais et sec.\nAprès ouverture : à conserver au réfrigérateur et à consommer dans les 48h."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "mouline-legumes-varies-30-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOULINÉ DE LÉGUMES VARIÉS 30CL BIO",
+                "desc": "Mouliné De Légumes Variés 30cl Bio\nUne recette 100% plaisir, saine et savoureuse, légèrement assaisonnée à la muscade.\nComposée de légumes variés, ce mouliné du potager Bio est sans gluten, riche en fibres, et ses légumes sont d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3252920048908.jpeg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mouline-legumes-varies-30-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "30CL",
+                "availability": true,
+                "ingredients": "Légumes* 55% (carottes* 17,6%, pommes de terre* 17,6%, céleri-rave*, oignons* 4,95%, choux fleurs* 4,95%, poireaux* 3,3%, haricots verts* 1,1%), eau, huile d'olive vierge extra*, sel, ail*, livèche* en poudre, thym*, marjolaine* en poudre, poivre*, muscade*.\n\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 1.65,
+                "price_per_unit": 5.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffer à la casserole, ne pas porter à ébullition.\nPour plus de générosité, accompagnez votre soupe mouliné de croutons.",
+                "conservation": "Après ouverture, consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "mouline-legumes-verts-30-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOULINÉ DE LÉGUMES VERTS FRANÇAIS 30CL BIO",
+                "desc": "Mouliné De Légumes Verts Français 30cl Bio\nCe mouliné de légumes verts 100% végétal, est riche en fibres et sans gluten.\nUn mouliné sain et savoureux qui ravira toute la famille, fabriqué à partir de légumes 100% France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3252920048915.jpeg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mouline-legumes-verts-30-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "30CL",
+                "availability": true,
+                "ingredients": "Légumes* 50% dont 34% de légumes verts* (courgettes* 13%, brocolis* 8,5%, oignons*, épinards* 5%, carottes*, poireaux* 4%, haricots verts* 3,5%, CELERI-rave*), eau, huile d'olive vierge extra*, sel, thym*, livèche* en poudre, marjolaine* en poudre, poivre*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédients issus de l'agriculture biologiqu",
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 1.65,
+                "price_per_unit": 5.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux, ne pas porter à ebullition.",
+                "conservation": "Après ouverture, consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "gaspacho-vert-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO DE COURGETTES AU BASILIC 25CL BIO",
+                "desc": "Gaspacho de courgettes au basilic 25cl Bio\nGaspacho frais, léger et sain aux courgettes et bacilic. Une alternative savoureuse aux soupes traditionnelles. Peut être consommer à tout moment de la journée, parfait pour une pause déjeuner rapide. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3760052230813.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-vert-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Courgettes*, brocoli*, concombre*, oignons*, eau pure, crème de brebis*, sel de Guérande, ail*, basilic*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 3.7,
+                "price_per_unit": 14.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se consomme froid mais peut aussi être servi chaud. \nA agrémenter d'une pincée d'herbes fraîches.",
+                "conservation": "Avant ouverture : à conserver à température ambiante. \nAprès ouverture : à conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "ramen-riz-semi-complet-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAMEN NOUILLES RIZ DEMI-COMPLET EXPRESS 4X70G BIO",
+                "desc": "Ramen nouilles riz demi-complet express 4x70g Bio\nCuisinez facilement avec le ramen express de nouilles de riz demi-complet.\nComposées de riz cultivé dans des micro-fermes du nord-est de la Thäilande, ces nouilles vous assurent un repas délicieux en quelques minutes.\n  1 sachet = 1 personne.\nVegan et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/4/8428532192352.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ramen-riz-semi-complet-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "70G",
+                "availability": true,
+                "ingredients": "100% riz semi-complet thaïlandais.\nIssu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 5.49,
+                "price_per_unit": 19.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plongez les nouilles dans un grand volume d'eau bouillante salée pendant 5/6 minutes.",
+                "conservation": "A conserver dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "ramen-riz-blanc-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAMEN NOUILLES DE RIZ EXPRESS 4X70G BIO",
+                "desc": "Ramen nouilles de riz express 4x70g Bio\nCuisinez facilement avec le ramen express de nouilles de riz blanc.\nComposées de riz blanc cultivé dans des micro-fermes du nord-est de la Thäilande, ces nouilles vous assurent un repas délicieux en quelques minutes.\n  1 sachet = 1 personne.\nVegan et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/0/7061257574709.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ramen-riz-blanc-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "70G",
+                "availability": true,
+                "ingredients": "100% riz blanc thaïlandais.\nIssu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 5.49,
+                "price_per_unit": 19.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plongez les nouilles dans un grand volume d'eau bouillante salée pendant 5/6 minutes.",
+                "conservation": "A conserver dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "cup-thaie-72cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MA SOUPE THAÏE PREMIUM 72CL BIO",
+                "desc": "Ma soupe thaïe premium 72cl Bio\nUne soupe instantanée asiatique, vegan et sans additifs pour une pause déjeuner sur le pouce, savoureuse et rassasiante !\nA base de riz complet de terroir cultivé dans des micro-fermes au nord de la Thaïlande, laissez vous tenter par ces nouilles aux délicieuses notes d'agrume et de gingembre.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/0/7061257574709.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cup-thaie-72cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "72CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Nouilles de riz complet des terroirs de Thaïlande* 83 %, noix de coco*, sel, tomate*, sucre de canne*, curcuma*, gingembre* 0,8%, coriandre*, oignon*, ail*, persil*, huile essentielle de citron* 0,1 %, cumin*, paprika doux*. \n*Ingrédient issus de l'Agriculture Biologique.\nPeut contenir des traces de gluten, crustacés, œufs, poissons, soja, lait, fruits à coque, moutarde, anhydride sulfureux, mollusques.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 72.0,
+                "price_per_packaging": 4.45,
+                "price_per_unit": 6.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ôtez l'opercule et versez l'eau bouillante jusqu'au niveau d'eau. Mélangez et laissez reposer 6 minutes.",
+                "conservation": "À conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "cup-ramen-japonais-69cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MON RAMEN JAPONAIS 69CL BIO",
+                "desc": "Mon Ramen Japonais 69cl Bio\nUne soupe instantanée asiatique, vegan et sans additifs pour une pause déjeuner sur le pouce, savoureuse et rassasiante !\nA base de riz complet de terroir cultivé dans des micro-fermes au nord de la Thaïlande, laissez vous tenter par ces nouilles à la saveur typique du miso alliée au parfum délicat des shiitakés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411220289.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cup-ramen-japonais-69cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:11",
+                "format": "69CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Nouilles de riz complet des terroirs de Thaïlande* 87 %, sel, miso* 2,7 % (soja*, riz complet*, sel, ferment : Aspergillus Oryzae), carottes*, champignons shiitaké* 2,2%, poireaux*, oignons*, algue nori*, gingembre*, ail*, poivre blanc*.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 69.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 7.03,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ôtez l'opercule et versez l'eau bouillante jusqu'au niveau d'eau. Mélangez et laissez reposer 6 minutes.",
+                "conservation": "À conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-tomate-et-lentilles-co",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ TOMATES ET LENTILLES CORAIL 33CL BIO",
+                "desc": "Velouté tomates et lentilles corail 33cl Bio\nDécouvrez ce velouté aux tomates et lentilles corail, idéale pour la saison hivernale.\n Ce velouté peut être agrémenté de crème fraîche ou de basilic pour un goût encore plus raffiné. Un choix délicieux pour ceux qui cherchent à savourer les plaisirs simples de la cuisine.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/v/e/veloute-tomates-lentilles-corail-33cl.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-tomate-et-lentilles-co"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "33CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 710
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Légumes* (purée de tomates*, carottes*, CELERI*, oignons*; poireaux*, courgettes*), eau, lentilles corail*, amidon de riz*, sucre de canne*, sel, huile d'olive* vierge extra.\nPeut contenir des traces de : Lait, gluten, crustacés, poisson, mollusques, moutarde, œufs, soja et fruits à coque.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 33.0,
+                "price_per_packaging": 1.75,
+                "price_per_unit": 5.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agitez avant d’ouvrir. Préparation : dans une casserole, réchauffez à feu doux en mélangeant régulièrement sans faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec. \nAprès ouverture, à conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-oriental-33cl-primeal",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE ORIENTALE 33CL BIO",
+                "desc": "Soupe Orientale 33cl Bio\nVoyagez avec cette délicieuse soupe orientale parfumée à la coriandre, la cannelle et au gingembre. \nParfaite pour réchauffer les soirées ou pour un repas léger mais nourrissant.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/3/3380380094156.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-oriental-33cl-primeal"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "33CL",
+                "availability": true,
+                "ingredients": "Jus de tomates reconstitué*, eau, céleri-rave*, oignons*, pois chiches réhydratés*, huile d'olive*, farine de riz*, sel, coriandre*, persil*, cumin*, gingembre*, cannelle*, piment*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 33.0,
+                "price_per_packaging": 2.1,
+                "price_per_unit": 6.36,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, réchauffez à feu doux en mélangeant régulièrement sans faire bouillir.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, à conserver au réfrégérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "veloute-champignons-1l-primeal",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ DE CHAMPIGNONS 1L BIO",
+                "desc": "Velouté de champignons 1l Bio\nUn délicieux velouté de champignons de Paris, fabriqué en France.\nAucun arôme n'est ajouté. Faites réchauffer ce velouté, accompagnez-le de croûtons et savourez un repas sain et délicieux. Idéal pour réchauffer vos soirées d'hiver.\nEmballage recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/a/natali-potage-bio-ortie-2-x-8-5-gr.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-champignons-1l-primeal"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Eau, champignons de Paris*, légumes* (pommes de terre*, courgettes*, oignons*), huile de colza*, sel, amidon de riz*.\nPeut contenir des traces de LAIT, CELERI, GLUTEN, CRUSTACES, POISSON, MOLLUSQUES, MOUTARDE, OEUFS, SOJA, FRUITS A COQUE.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 4.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant ouverture. Dans une casserole, réchauffez à feu doux en mélangeant régulièrement sans faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 2 jours, après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-courgettes-fr-conv-96cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE COURGETTES 96CL PAS (ENCORE) BIO",
+                "desc": "Soupe courgettes 96cl pas (encore) Bio\nUne délicieuse et réconfortante soupe aux courgettes, idéal pour les soirées froides de l'hiver !\nBioDemain est une marque équitable qui accompagne les agriculteurs lors de la difficile période de conversion biologique. Avoir le label bio n’est pas si facile pour un agriculteur… Pour obtenir le label, l’agriculteur doit réussir une transition compliquée qui dure entre 2 et 3 ans. Durant cette période, l’agriculteur doit cultiver selon les règles contraignantes du label, mais sans pouvoir en profiter… BioDemain soutient ces agriculteurs qui s’engagent pour un monde plus durable !\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3464875070082_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-courgettes-fr-conv-96cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "96CL",
+                "availability": true,
+                "ingredients": "Eau, courgettes 47%, oignons 12%, crèmes fraîche (LAIT), amidon de maïs, sel.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 96.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 6.24,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux, sans jamais porter à ébullition. A déguster seule ou avec des croûtons.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 2 jours, après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-marocaine-78cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE MAROCAINE 78CL BIO",
+                "desc": "Soupe marocaine 78cl Bio\nDégustez cette soupe aux saveurs marocaines: un mariage subtile de légumineuse (pois chiches), d'abricot et de légumes (courgettes, céleri, oignons et tomates). Le tout légérement relevé par le cumin et de l'huile d'olive.\nUn plat complet, sain et équilibré.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800030572.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-marocaine-78cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "78CL",
+                "availability": true,
+                "ingredients": "eau pure du parc régional du Haut-Languedoc, courgettes* (15%), céleri* (11%), oignons* (11%), tomates* (8,2%|orig. France), pois chiches* (5,1%|orig. Sud-Ouest), abricots* (3,1%), sel de Guérande garanti Nature & Progrès, coriandre*, cumin*, huile d’olive première pression à froid*.\n*ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 78.0,
+                "price_per_packaging": 6.65,
+                "price_per_unit": 8.53,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au bain-marie, en remuant de temps en temps ou dans une casserole.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    },
+    {
+        "ean": "soupe-legume-potager-78cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Soupes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE DE LÉGUMES DU POTAGER 78CL BIO",
+                "desc": "Soupe de légumes du potager 78cl Bio\nUne recette savoureuse de légumes: carottes, chou, oignons et poireau. Elle est légérement assaisonnée de romarin et de sel.\nUn plat complet, sain et équilibré.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3464875070082_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-legume-potager-78cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:12",
+                "format": "78CL",
+                "availability": true,
+                "ingredients": "eau pure du parc régional du Haut-Languedoc, brocoli* (20%), carottes* (16%|orig. France), oignons*, poireaux* (8%|orig. France), courge butternut* (6%|orig. France), sel de Guérande garanti Nature & Progrès, laurier*, origan* (0,1%), persil*, poivre*, curcuma*\n*ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 78.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 8.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au bain-marie, en remuant de temps en temps ou dans une casserole.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:08",
+        "updated_at": "2025-06-15T22:08"
+    }
+]

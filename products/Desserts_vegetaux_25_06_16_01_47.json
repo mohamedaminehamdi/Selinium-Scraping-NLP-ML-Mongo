@@ -1,0 +1,1024 @@
+[
+    {
+        "ean": "bioflan-caramel-2x1-5l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BIOFLAN CARAMEL 2X1/4 L BIO",
+                "desc": "Bioflan caramel 2x1/4 L Bio\nPréparation en poudre pour faire soi-même des entremets sans sucres ajoutés avec du lait ou des jus végétaux.\nLe BIOFLAN est garanti sans adjonction de sucre et sans matière d’origine animale. Vous choisissez vous-même la qualité et la quantité de sucre à ajouter à votre dessert.\nSACHET 2 DOSES // 1 dose = 2 desserts de 125 ml",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800032439.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bioflan-caramel-2x1-5l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:45",
+                "format": "4 L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 110
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 4.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.1,
+                        "of_which_sugars": 6.3
+                    }
+                },
+                "ingredients": "Amidon de maïs*, arôme naturel de caramel* (20%), gélifiant : agar-agar*.\n* Produits issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 4.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 150.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser la poudre dans une casserole. Ajouter le sucre en poudre choisi sur la base d’une cuillère à soupe rase par dose.\nMélanger et délayer progressivement en ajoutant le lait (¼ L par dose).\nMettre sur le feu et remuer à l'aide d'une cuillère jusqu’à complète ébullition.\nPoursuivre la cuisson pendant 1 minute. Verser dans les ramequins et laisser refroidir. Mettre au frais et servir froid.",
+                "conservation": "À conserver à température ambiante, dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6756188",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DESSERT VÉGÉTAL COCO NATURE 350G BIO",
+                "desc": "Abbot coco nature 350g\nUn dessert 100% végétal, à base de noix de coco sans lactose ni gluten et pourtant toujours très onctueux.\nUne recette gourmande au goût nature, à sucrer avec du sirop d'érable par exemple ou à intégrer dans vos recettes de mueslis. \nUn conditionnement économique et pratique.\nConvient au régime sans lactose et végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220184516_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/abbo-coco-nature-350g-6756188"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:45",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 16
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4,
+                        "of_which_sugars": 1.8
+                    }
+                },
+                "ingredients": "Lait de coco* 97,3% (extrait de noix de coco* 58,4%, eau), amidon, épaississant (gomme guar*), ferments de yaourts*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée, avec des fruits frais, du mueslis ou seul avec votre sucre préféré (miel, sirop d'agave, sirop d'érable, sucre de coco...)",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6756185",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YA COCO VANILLE 400G BIO",
+                "desc": "YA Coco Vanille 400g Bio\nDessert végétal au lait de coco et à la vanille . Sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3375610002346_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ya-coco-vanille-400g-6756185"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:45",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.4
+                    },
+                    "fats": {
+                        "fats": 10
+                    },
+                    "proteins": {
+                        "proteins": 1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 6.4,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Lait de coco* 92%, sucre de canne*, amidon de manioc, extrait de vanille*, ferments sélectionnés.\n*100% des ingrédients d'origine agricole sont biologiques.\nPeut contenir des traces d'amandes.\nSouligné : 94% d'ingrédients d'origine agricole équitables\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.35,
+                "price_per_unit": 10.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Vous pouvez consommer ce dessert avec du muesli, le matin avant de démarrer votre journée.",
+                "conservation": "A consommer dans les 3 jours après ouverture.\nA conserver entre +2° et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6756183",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YA COCO LÉGÈRE NATURE 400G BIO",
+                "desc": "YA Coco légère Nature 400g Bio\nSuccombez à ce dessert 100% végétal, à base de lait de coco allégé offrant douceur et légèreté à votre palais. Plaisir gustatif assuré avec 55% de matières grasses en moins que la coco nature gourmande.\nOutre son goût délicieusement bon, il est sans lactose, sans gluten, sans sucres ajoutés et sans soja. Avec sa recette unique, cette douceur se compose uniquement de deux ingrédients, le lait de coco et des ferments.\nVous pourrez le consommer directement avec des fruits, des céréales ou bien en tant que crème fraîche en faisant par exemple une délicieuse poêlée de légumes au curry.\n55% de matières grasses en moins que la formule coco gourmande.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220182574.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ya-coco-legere-400g-6756183"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.4
+                    },
+                    "fats": {
+                        "fats": 8.8
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Lait de coco allégé* 97%, amidon de manioc*, ferments sélectionnés.\n*ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Consommer directement avec des fruits, des céréales ou bien en tant que crème fraîche en faisant par exemple une délicieuse poêlée de légumes au curry.",
+                "conservation": "A consommer dans les 3 jours après ouverture.\nA conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755910",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YA COCO NATURE 400G BIO",
+                "desc": "Ya Coco Nature 400g Bio\nDessert végétal fermenté au lait de coco 100% bio. Sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220182574.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ya-coco-nature-400ml-6755910"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13
+                    },
+                    "fats": {
+                        "fats": 14
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.8,
+                        "of_which_sugars": 3.7
+                    }
+                },
+                "ingredients": "Lait de coco* (96%), amidon de manioc*, ferments sélectionnés.\n*100% des ingrédients d'origine agricole sont biologiques.\nPeut contenir des traces d'amandes.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 9.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Vous pouvez consommer ce dessert avec du muesli.",
+                "conservation": "A consommer dans les 3 jours après ouverture.\nA conserver entre +2°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755894",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DESSERT SOJA MYRTILLE CERISE SANS SUCRES AJOUTÉS 400G B...",
+                "desc": "Dessert soja myrtille cerise sans sucres ajoutés 400g Bio\nUne recette au soja français au bon goût de fruits : myrtilles et cerises. Un yaourt brassé délicieux et gourmand, sans sucres ajoutés et riche en protéines.\nIdéal pour une fin de repas ou au goûter.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220187364.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sosoja-myrtille-cerise-ss-400g-6755894"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 4.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5,
+                        "of_which_sugars": 4.5
+                    }
+                },
+                "ingredients": "Jus de SOJA (83%), fruits (myrtille* 7%, cerise* 2%), jus de pomme concentré, amidon de tapioca, arômes naturels, ferments sélectionnés dont Bifidus et Lactobacillus acidophilus.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.79,
+                "price_per_unit": 9.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée, pour une pause lactée et fruitée.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755849",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SO SOJA ! NATURE 4X100G BIO",
+                "desc": "So Soja ! Nature 4x100g Bio\nSpécialité végétale à base de soja français garanti sans OGM. Faible teneur en acides gras saturés et riche en protéines végétales.\n  Sans lactose et naturellement sans gluten.\n  Les pots sont fabriqués avec une partie en carton recyclé et recyclable.\n  Contenance : 4x100g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220182574.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sojade-nature-4x100g-6755849"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.6,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Jus de soja* 99% (eau, graines de soja dépelliculées* 9,2%), ferments sélectionnés dont Bifidus et Lactobacillus acidophilus.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 4.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster bien frais, en dessert ou à tout moment de la journée. Seul ou avec des biscuits.",
+                "conservation": "A conserver à +2°C / +6°C"
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755847",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOJA À LA GRECQUE VANILLE BOURBON 400G BIO",
+                "desc": "Soja à la Grecque Vanille Bourbon 400g Bio\nDécouvrez ce dessert végétal de soja aux arômes naturels de vanille Bourbon.\nLe soja est une légumineuse naturellement riche en protéines végétales",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800032514.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sojade-grecque-vanille-400g-6755847"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.7,
+                        "of_which_sugars": 7.3,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Jus de soja* 84%, sucre de canne non rafiné*, eau, arôme naturel de vanille Bourbon* 0.5%, épaississant : pectine - farine de graines de caroube*, amidon de maïs, jus de citron concentré*, gousse de vanille épuisée*, ferments sélectionnés.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 9.62,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer frais.",
+                "conservation": "A conserver à +2°C / +6°C"
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755846",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SO SOJA ! CHOCOLAT 4X100G BIO",
+                "desc": "So Soja ! Chocolat 4x100g Bio\nSpécialité végétale à base de soja français garanti sans OGM. Faible teneur en acides gras saturés et riche en protéines végétales.\n\nSans lactose et naturellement sans gluten.\n  Les pots sont fabriqués avec une partie en carton recyclé et recyclable.\n  Contenance : 4x100g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220184516_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sojade-choco-4x100g-6755846"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 120
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.1,
+                        "of_which_sugars": 12.3
+                    }
+                },
+                "ingredients": "Jus de soja* 78% (eau, graines de soja dépelliculées* 8%), sucre de canne non raffiné*, chocolat en poudre* 3% (sucre*, cacao en poudre* 32%), amidon de riz*, cacao* 1,5%, gélifiants : carraghénanes – farine de graines de guar, sel.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 7.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster bien frais, en dessert ou à tout moment de la journée. Seul ou avec des biscuits.",
+                "conservation": "A conserver à +2°C / +6°C"
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755845",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SKYR DE SOJA NATURE 400G BIO",
+                "desc": "Skyr de soja Nature 400g Bio\nSavourez cette recette traditionnelle islandaise avec une variante originale à base de soja, pour une recette 100% végétale.\nFabriqué dans le sud ouest de la France, cette recette est riche en protéines, sans sucres. On apprécie sa texture ferme et onctueuse, que vous pouvez déguster avec des morceaux de fruits frais mais aussi des céréales.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800032514.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/skyr-de-soja-nature-6755845"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:46",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 6.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.6,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "Jus de soja* 99,99% (eau, soja* du Sud-Ouest 12,5%), ferments sélectionnés dont Bifidus.\n*Ingrédient issu de l'Agriculture Biologique.\n\nAllergènes : Soja et produits à base de soja\nTraces de : traces possibles de fruits à coque",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.55,
+                "price_per_unit": 6.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tout moment de la journée, dégustez ce skyr de soja seul ou avec votre sucrant naturel préféré : sirop d'érable, d'agave. Vous pouvez également l'accompagner de flocons d'avoine et de fruits frais.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6755842",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SO SOJA NATURE À LA GRECQUE 400G BIO",
+                "desc": "So Soja nature à la grecque 400G Bio\nUne recette à la texture ultra onctueuse, sans sucre et riche en protéines. Un allié idéal pour tous vos repas qui vous permet d’élaborer des recettes Vegan gourmandes et variées.\nLes produits Sojade sont réalisés à partir de soja bio français sans OGM et sont compatibles avec les régimes végétariens, végétaliens ou vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/t/ptitfrais_a_h.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/so-soja-nature-grecque-400g-6755842"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:47",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 110
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.4,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Eau, Soja (12,5 %), Stabilisant (pectine), Ferments issus de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 6.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à +2°C / +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6623699",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DESSERT VÉGÉTAL RIZ VANILLE 530G BIO",
+                "desc": "Dessert végétal riz vanille 530g Bio\nUn dessert 100% végétal à base de riz français et au bon goût de vanille. Les petits et les grands gourmands vont se régaler !\nConfectionné en Bretagne.\nUne recette à faible teneur en matières grasses.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220184516_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-riz-vanille-530g-6623699"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:47",
+                "format": "530G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 80
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.3,
+                        "of_which_sugars": 9.9
+                    }
+                },
+                "ingredients": "eau, riz* 16 %, sucre de canne non raffiné*, amidon de riz*, huile de tournesol*, arôme naturel de vanille*, épaississants (carraghénanes, concentré de potiron et de pomme*).\n\n*Ingrédient issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 530.0,
+                "price_per_packaging": 3.65,
+                "price_per_unit": 6.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le goûter ou le dessert, à déguster seul ou accompagné d'un biscuit.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.\nA conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6623697",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SO SOJA! DESSERT VÉGÉTAL CHOCOLAT 530G BIO",
+                "desc": "So Soja! Dessert végétal Chocolat 530g Bio\nDécouvrez cette boisson végétale au soja et au chocolat issu du commerce équitable.\nLe soja est une légumineuse naturellement riche en protéines. Les produits Sojade sont sans gluten et sans lactose.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800032514.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-soja-choco-530g-uht-6623697"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:47",
+                "format": "530G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 150
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 3.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.5,
+                        "of_which_sugars": 12.6
+                    }
+                },
+                "ingredients": "Jus de SOJA* 79%, sucre de canne non raffiné*, amidon de riz*, poudre de cacao maigre* 2,8%, chocolat en poudre* 1%, sirop de blé (garanti sans gluten), épaississant : carraghénanes, sel marin.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 530.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ce produit sont consomme en dessert ou comme en-cas.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer dans les 3 jours"
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    },
+    {
+        "ean": "6623696",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Desserts végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SO SOJA! DESSERT VANILLE 530G BIO",
+                "desc": "So Soja! Dessert Vanille 530g Bio\nDécouvrez cette crème dessert végétal à base de soja et au bon goût de vanille.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220184516_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-soja-vanille-530g-uht-6623696"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:47",
+                "format": "530G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 150
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Jus de SOJA* 81%, sucre de canne non raffiné*, amidon de riz*, sirop de blé* (garanti sans gluten), arôme naturel de vanille*, épaississant : carraghénanes, sel marin.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 530.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster bien frais, en dessert ou à tout moment de la journée. Seul ou avec des biscuits.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer dans les 3 jours"
+            }
+        ],
+        "created_at": "2025-06-16T01:44",
+        "updated_at": "2025-06-16T01:44"
+    }
+]

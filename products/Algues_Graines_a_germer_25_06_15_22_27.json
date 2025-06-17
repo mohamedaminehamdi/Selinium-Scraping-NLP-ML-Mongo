@@ -1,0 +1,894 @@
+[
+    {
+        "ean": "salade-pecheur-35g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE DU PÊCHEUR AUX 3 ALGUES 35G BIO",
+                "desc": "Salade du pêcheur aux 3 algues 35G Bio.\nDécouvrez la salade du pêcheur aux trois algues déshydratées: Dulse, Nori, et Laitue de mer.\n100% Bio.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3565840206090_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-pecheur-35g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:25",
+                "format": "35G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 18
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21,
+                        "dietary_fiber": 29
+                    }
+                },
+                "ingredients": "Dulse*, laitue de mer*, nori*.\n*Issu de l'Agriculture Biologique.\nOrigine : Atlantique. Produit de cueillette sauvage.",
+                "on_discount": false,
+                "weight_per_packaging": 35.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 142.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ajoutez la salade du pêcheur dans tous vos plats : salades, omelettes, quiches, tartes, soupes, sauces, poissons etc... Les algues se réhydrateront au contact des aliments.\nEn remplacement des fines herbes: une cuillère à thé relèvera agréablement le goût d'un potage au moment de servir.",
+                "conservation": "Conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "germoir-verre-germline",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GERMOIR EN VERRE POUR GRAINES À GERMER",
+                "desc": "Germoir en verre pour graines à germer.\nVous allez pouvoir découvrir - et faire découvrir à votre entourage - ce phénomène captivant de vie du végétal!\nDans votre cuisine, vous allez déclencher le stade embryonnaire du développement des plantes et légumes et récolter - en quelques jours seulement - des germes qui vous apporteront saveur et haute vitalité dans votre alimentation.\nVotre germoir est composé de 2 parties :\n\n- Un bocal en verre + Un couvercle perforé\n- Un égouttoir\nLa forme du couvercle du germoir bocal GERMLINE a évolué, faite dans le but d’améliorer la praticité d’utilisation : l’égouttoir moulé en un seul bloc évite les fuites qu’il y avait avec la version précédente, ce qui permet de garder un plan de travail propre et sec.\nDimensions du bocal en verre :\n- hauteur : 14,5cm\n- diamètre : 9cm\nDimensions du bocal + couvercle + support :\n- hauteur totale : 17,5cm\n- diamètre : 9 x 12,5 cm",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511821600.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/germoir-verre-germline"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:25",
+                "availability": true,
+                "on_discount": false,
+                "price_per_packaging": 10.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "1. Versez une cuillère à soupe de graines dans votre bocal.\n\n2. Remplissez votre bocal d'eau, fermez-le avec le couvercle et laissez tremper les graines une nuit entière.\n\n3. Le lendemain matin, renversez votre bocal au dessus de votre évier pour vider l'eau. Placez votre germoir sur son support, en position oblique, couvercle vers le bas.\n\n4. Deux fois par jour, soir et matin, rincez vos graines à l'eau claire. Pour ce faire, remplissez le bocal d'eau sous le robinet d'eau froide, remuez bien le bocal pour démêler les graines et vider ensuite l'eau dans votre évier.\n\n5. Après le rinçage, replacez votre bocal sur son support\n\n6. Répétez les étapes 4 et 5 autant de jours que la durée de germination qui vous est indiquée sur les paquets de graines."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "alfa-cress-ch-rouge-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ALFA CRESSON CHOU ROUGE GRAINES À GERMER 150G BIO",
+                "desc": "Alfa Cresson Chou Rouge graines à germer 150G Bio\nLes Graines d'alfalfa cresson et chou rouge à germer Bio de Germline constituent une combinaison efficace au niveau énergétique et nutritionnel.\nLes qualités de cette combinaison vertueuse sont, en grande partie, le résultat de la germination, un processus qui permet le développement du potentiel nutritionnel en sommeil dans les graines.\nFacile à mettre en oeuvre, puisqu'elle ne requiert qu'un germoir adapté, de l'eau, de la chaleur et un peu de lumière, la germination peut être réalisée à la maison. \nLudique, elle est appréciée de tous, petits comme grands, et se révèle être un jeu d'enfant ! Les graines d'alfalfa, de cresson et de chou rouge se marient parfaitement, créant une association riche en couleurs et en saveurs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465510011804.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/alfa-cress-ch-rouge-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:25",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "75% graines d'alfalfa à germer (Medicago sativa) issues de l'agriculture biologique : 112,5 g\nOrigine des graines : France, Italie.\n20% graines de chou rouge à germer (Brassica oleracea capitata rubra) issues de l'agriculture biologique : 30 g\nOrigine des graines : Italie.\n5% graines de cresson à germer (Lepidiumsativum) issues de l'agriculture biologique : 7,5 g \nOrigine des graines : Italie.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 46.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Tremper les graines dans l'eau froide 6 à 8 heures.\nRincer à l'eau claire dans un tamis.\nRépartir les graines dans le germoir en fines couches.\nArroser 2 à 3 fois par jour.\nLe temps de germination varie de 2 à 8 jours selon les variétés.\nBien laver les graines pour éliminer les enveloppes, avant consommation.",
+                "conservation": "Conservez vos graines à germer dans leur emballage d’origine à température ambiante, dans un endroit sec.\n\nVos graines germées seront meilleures toutes fraiches. Si vous ne les consommez pas immédiatement, conservez-les quelques jours dans votre réfrigérateur, de préférence dans un récipient fermé avec un film alimentaire étirable."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "alfa-radis-fenouil-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ALFA RADIS FENOUIL GRAINES À GERMER 150G BIO",
+                "desc": "Alfa Radis Fenouil graines à germer 150G Bio\nLes Graines d'alfalfa radis fenouil à germer Bio de Germline est un délicieux mélange qui procure énergie et vitalité.\nParticulièrement intéressante en matière nutritionnelle et énergétique, la germination permet de révéler le potentiel caché des graines. Économique et ludique, elle est à la portée de tous et de toute la famille.\nElle nécessite un peu d'attention, quelques éléments naturels comme l'eau, la chaleur et la lumière, ainsi qu'un germoir adapté. Le mélange de graines à germer proposé, à base d'alfalfa, de radis et de fenouil, réunit trois plantes aux qualités nutritionnelles reconnues et aux goûts très particuliers.\nSubtilement coloré, ce cocktail de graines germées détient une saveur fraîche, à la fois piquante et croquante. Le fenouil, légèrement anisé, donne toute la fraîcheur à ce mélange, tandis que l'alfalfa apporte douceur, et le radis, une touche piquante, très tonique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511101153_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/alfa-radis-fenouil-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "75% graines d'alfalfa à germer (Medicago sativa) issues de l'agriculture biologique : 112,5 g\nOrigine des graines : France, Italie.\n15% graines de radis à germer (Raphanus sativus) issues de l'agriculture biologique : 22,5 g\nOrigine des graines : Italie.\n10% graines de fenouil à germer (Foeniculum vulgaris) issues de l'agriculture biologique : 15 g\nOrigine des graines : Italie.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 7.6,
+                "price_per_unit": 50.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Tremper les graines dans l'eau froide 6 à 8 heures.\nRincer à l'eau claire dans un tamis.\nRépartir les graines dans le germoir en fines couches.\nArroser 2 à 3 fois par jour.\nLe temps de germination varie de 2 à 8 jours selon les variétés.\nBien laver les graines pour éliminer les enveloppes, avant consommation.\nA ajouter dans les salades et les sandwichs.",
+                "conservation": "Conservez vos graines à germer dans leur emballage d’origine à température ambiante, dans un endroit sec.\n\nVos graines germées seront meilleures toutes fraiches. Si vous ne les consommez pas immédiatement, conservez-les quelques jours dans votre réfrigérateur, de préférence dans un récipient fermé avec un film alimentaire étirable."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "alfalfa-a-germer-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ALFALFA GRAINES À GERMER 150G BIO",
+                "desc": "Alfalfa graines à germer 150G Bio\nDe la famille des légumineuses, l'alfalfa (luzerne) est la reine des graines à germer pour son caractère nutritif complet. D’une culture facile, elle est une des graines à faire germer les plus connues et appréciées.\nSa saveur verte et douce plait généralement à tous.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511130207_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/alfalfa-a-germer-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "100% graines à germer d’alfalfa (Medicago sativa), issues de l’agriculture biologique. \nOrigine : France, Italie.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.59,
+                "price_per_unit": 30.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "S’utilise sous forme germée en toute occasion, avec assaisonnement léger en accompagnement de salades, sandwichs, omelettes ou potages.  Se marie à vos crevettes, s’ajoute à une farce de fromage blanc et fines herbes à tartiner sur vos crêpes, canapés, blinis…  Épatera vos amis sur une salade de fruits ! Son nom actuel vient de l'arabe et signifie \"père de tous les aliments\". Découverte en Iran, elle était donnée aux chevaux pour les rendre résistants et fougueux.\nElle se consomme en pousses crues, tendres et croquantes, de 2 à 3 cm.\nDegré de facilité : facile et rapide. La graine d’alfalfa est idéale pour faire ses premiers pas dans la germination.\nTemps de trempage : 1 nuit.\nDurée de germination : 5 à 6 jours.",
+                "conservation": "Conservez vos graines à germer dans leur emballage d’origine à température ambiante, dans un endroit sec.\nVos graines germées seront meilleures toutes fraiches. Si vous ne les consommez pas immédiatement, conservez-les quelques jours dans votre réfrigérateur, de préférence dans un récipient fermé avec un film alimentaire étirable."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "haricot-mungo-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRAINES À GERMER HARICOT MUNGO 200G BIO",
+                "desc": "Graines à germer Haricot mungo 200G Bio\nD’une saveur discrète au léger goût de noix, les pousses de haricot Mungo apportent fraicheur et croquant à vos salades composées ou vos potages.\nA consommer en pousses crues de 2 à 3 cm.\nDegré de facilité : facile et rapide.\nTemps de trempage : 1 nuit.\nDurée de germination : 5 jours.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511137152_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricot-mungo-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "200G",
+                "availability": true,
+                "ingredients": "100% graines à germer de haricot Mungo (Vigna radiata).\n*Issues de l’Agriculture Biologique.\nOrigine : Chine.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 14.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Germoir conseillé : germoir bocal ou germoir à étages Germline, en suivant le mode d’emploi livré avec le germoir, ou accessible via notre site internet.\nConservez vos graines à germer dans leur emballage d’origine à température ambiante, dans un endroit sec.\nVos graines germées seront meilleures toutes fraiches. Si vous ne les consommez pas immédiatement, conservez-les quelques jours dans votre réfrigérateur, de préférence dans un récipient fermé avec un film alimentaire étirable.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "6755792",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TARTARE D'ALGUES WAKAME ET CITRON 100G BIO",
+                "desc": "Tartare d'algues Wakamé Citron 90g Bio\nPréparation à tartiner aux algues marines bio. Idéale pour les apéros conviviaux en famille ou entre amis.\nSe consomme sans modération et se décline sous plusieurs utilisations, c'est à vous de décider !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03565840404359_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tartare-wakame-et-citron-100g-6755792"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Algues marines* 44% (Dulse*, Laitue de mer*, Wakamé*), huile d'olive vierge extra*, oignons*, cornichons* (cornichons*, vinaigre*), vinaigre de cidre*, échalotes*, sauce soja* (eau, graines de soja*, sel), assaisonnement au riz complet* (eau, riz complet*, sel de mer), graines de moutarde*, eau, persil*, ail*, herbes*, jus concentré de citron* 0,2%.",
+                "allergens": [
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 49.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A savourer sur des toasts ou en dip. Agrémente les sandwichs, salades et crudités.",
+                "conservation": "Après ouverture, à conserver entre +2°C et +6°C et à consommer sous 3-4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "mini-germoir-alfalfa-40g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI GERMOIR ALFALFA 40G BIO",
+                "desc": "Mini germoir alfalfa 40g Bio\nLa germination révèle les qualités des graines, naturellement sources de protéines végétales et de fibres. Savourez ce boost nutritionnel en apportant une touche saine et gourmande à vos plats !\nUn kit complet comprenant cinq mini-germoirs prêts à l'emploi, avec graines pré-dosées pour une germination simple, infaillible et accessible à tous. Une dose quotidienne optimale, parfaite pour 1 à 2 personnes et permettant plusieurs germinations en décalé.\nUne solution tout-en-un éco-responsable.\nLe film utilisé pour nos mini germoirs est fabriqué à partir de canne à sucre 100 % non OGM, matériau certifié biodégradable et respectueux de l'environnement.\nTutoriel vidéo intuitif et facile d'accès pour une expérience utilisateur simplifiée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3417960041955.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-germoir-alfalfa-40g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "40G",
+                "availability": true,
+                "ingredients": "100% graines à germer d'alfalfa (medicago sativa)* origine France.\n*Ingrédient issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 49.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Trempez le mini-germoir dans l'eau pendant 1 nuit.\nLe lendemain, rincez-le 2 à 3 fois dans un bol.\nBien égoutter et placer sur une assiette.\nRépétez ces opérations pendant 4 à 6 jours.\nAprès 4 à 6 jours, déchirez le sachet et dégustez.\nConservez vos graines à germer dans leur boite, dans un endroit sec et frais.\nUne fois germées, conservez-les jusqu'à 3 jours au réfrigérateur.",
+                "conservation": "Conservez vos graines à germer dans leur boite, dans un endroit sec et frais.\nUne fois germées, conservez-les jusqu'à 3 jours au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "cumin-graines-40g-cook",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CUMIN GRAINES 40G BIO",
+                "desc": "Cumin graines 40g Bio\nDécouvrez les graines de cumin de chez Cook. Parfait pour relever et parfumer vos fromages, poissons et pains. C'est une éco-recharge qui vous permet de ne pas racheter le flacon et de limiter les déchets.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511144204_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cumin-graines-40g-cook"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "40G",
+                "availability": true,
+                "ingredients": "Cumin*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 86.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "4202620",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRAINES DE FENUGREC 150G BIO",
+                "desc": "Graines de fenugrec 150g Bio\nDécouvrez ces graines à faire germer soi-même, de fenugrec Bio, d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511101153_1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fenugrec-150g-4202620"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.3,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "100% graines à germer de fenugrec*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.05,
+                "price_per_unit": 27.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A faire germer dans un germoir adapté. Une fois les graines germées, vous pouvez les consommer crues, en crudités dans vos sandwichs, galettes, ou à disposer sur vos plats de viandes ou poissons.",
+                "conservation": "Conservez vos graines dans un endroit frais et sec. Une fois germées, gardez-les au réfrigérateur pendant 2 à 3 jours, dans un récipient hermétique. Avant de les consommer, lavez bien vos graines germées pour détacher les cosses."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "fines-algues-marines-30g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FINES ALGUES MARINES 30G BIO",
+                "desc": "Fines algues marines 30g Bio\nDe fines algues à saupoudrer sur tous vos plats pour leur apporter couleur et un léger goût iodé. \nNaturellement salées, une fabrication artisanale, source de protéines.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3565840207097.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fines-algues-marines-30g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "30G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4500
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 30
+                    }
+                },
+                "ingredients": "Algues Dulse* (Palmaria palmata), Laitue de mer* (Ulva sp.), Nori* (Porphyra sp.), en proportion variable selon les saisons.\n* Issus de l’agriculture biologique.\nTraces possibles de graines de sésame, mollusques et crustacés.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 166.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Saupoudrer sur tous vos plats: légumes, poissons, céréales, salades...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "kombu-royal-feuilles-20g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "KOMBU ROYAL EN FEUILLES 20G BIO",
+                "desc": "Kombu royal en feuilles 20G Bio.\nPlongez dans la cinquième saveur avec le Kombu Royal : l'Umami !\nLe Kombu devient le petit secret de vos plats, grâce à son pouvoir exhausteur de goût naturel.\nChez Marinoë, nous écoutons la mer pour vous proposer une alimentation savoureuse et joyeuse.\nLa mer nous a comblés, expérience et savoir-faire ont fait le reste.\nNos algues sèches sont délicatement déshydratées à basse température. Elles sont des trésors à cuisiner.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3565840206090_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/kombu-royal-feuilles-20g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "20G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 9200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 10
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24,
+                        "dietary_fiber": 29
+                    }
+                },
+                "ingredients": "Kombu royal* (saccharina latissima).\n*Issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 249.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Algue brune sauvage à la saveur douce.\nFaire tremper un morceau de feuille pendant 10 minutes pour que l'algue se réhydrate.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "wakame-paillettes-35g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "WAKAMÉ EN PAILLETTES 35G BIO",
+                "desc": "Wakamé en paillettes 35G Bio\nAlgue alimentaire la plus consommée dans le monde, la Wakamé biologique vous enchantera en salade, développant une gamme de saveurs intenses et délicatement subtiles.\nL’ingrédient indispensable pour l’élaboration de vos soupes Miso.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_700.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/wakame-paillettes-35g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:26",
+                "format": "35G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 13000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.7,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 41
+                    }
+                },
+                "ingredients": "Wakamé* (Undaria pinnatifida).\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 35.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 142.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le wakamé peut être dégustée crue ou blanchie. Son léger goût d'huître, et sa texture très tendre sont très appréciés dans les soupes et les salades.\nLe wakamé renforce les saveurs et s’utilise également dans les tourtes ou en accompagnement de poissons, fruits de mer ou viandes blanches.\nEnvie d’originalité ? Coupez finement le wakamé et incorporez-le dans le riz ou les pâtes!",
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "nori-paillettes-20g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NORI EN PAILLETTES 20G BIO",
+                "desc": "Nori en paillettes 20G Bio.\nLe nori est le nom donné à une préparation Japonaise traditionnelle de l’algue Porphyra, hachée en petits morceaux puis mise en suspension dans l’eau douce et ensuite étalée sur une petite trame de bambou pour y être séchée. On obtient alors une feuille d’algue de forme carrée, très fine qui sert à enrouler le riz ou les légumes ( sushis).\nDans nos régions, la Porphyra est mise, après récolte, sur des petites claies sans qu’il y ait lieu de la hacher comme dans la préparation du Nori.\nEn effet, cette algue très fine, de couleur violet foncé, presque noire peut parfaitement se consommer sous sa forme originale en assaisonnement de légumes ou en accompagnements de poissons.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3565840206090_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nori-paillettes-20g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:27",
+                "format": "20G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 31
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 36
+                    }
+                },
+                "ingredients": "Nori* (Porphyra sp).\n*Issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 237.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A ajouter directement dans vos plats. L'algue se réhydrate avec l'humidité du plat.",
+                "conservation": "Conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    },
+    {
+        "ean": "mix-proteines-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Algues, Graines à germer"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRAINES À GERMER MIX DE PROTÉINES 200G BIO",
+                "desc": "Graines à germer mix de protéines 200G Bio.\nDécouvrez les graines à germer Bio Mix Protéines, un délicieux mélange de graines à germer de pois chiche, lentilles et fénugrec.\n\nEn plus de leurs innombrables vertus, les graines à germer Germ'line, agrémenteront délicieusement vos salades, potages et vous surprendront par leur goût.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511137152_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mix-proteines-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:27",
+                "format": "200G",
+                "availability": true,
+                "ingredients": "34% graines à germer de pois chiche* (Cicer arietinum), 33% graines à germer de lentille* (Lens culinaris), 33% graines à germer de fenugrec* (Trigonella foenugraecum).\n*Ingrédients issus de l'agriculture biologique.\n\nConditionné en France dans un atelier qui utilise des fruits à coque, des céréales contenant du gluten, graines de sésame, graines de moutarde.",
+                "allergens": [
+                    "Gluten",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.15,
+                "price_per_unit": 25.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer en pousses crues de 2 à 3 cm, à croquer à l’apéritif ou associé à vos salades fraiches d’été, vos salades de féculents ou vos sandwichs.\nCe mix accompagnera aussi agréablement vos viandes et bouillons de légumes.\n\n- Faites tremper les graines à germer dans l'eau froide pendant 6 à 8 heures.\n- Rincez-les à l'eau claire dans un tamis.\n- Répartissez les graines à germer sur la coupelle ou sur un coton humidifié.\n- Avant de les consommer, lavez bien les graines germées afin d'éliminer les enveloppes.\n- A consommer idéalement crues, pour agrémenter salades et potages.",
+                "conservation": "Conservation des graines à température ambiante dans un endroit sec.\nConservation des graines germées pendant 4 à 5 jours après la récolte, dans un récipient hermétique placé au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:24",
+        "updated_at": "2025-06-15T22:24"
+    }
+]

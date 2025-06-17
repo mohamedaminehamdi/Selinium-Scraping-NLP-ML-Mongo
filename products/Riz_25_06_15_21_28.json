@@ -1,0 +1,1710 @@
+[
+    {
+        "ean": "riz-lg-blanc-camargue-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG BLANC DE CAMARGUE 1KG BIO",
+                "desc": "Riz long blanc de Camargue 1KG Bio\nDans le grand delta du Rhône, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé. Grâce à un partenariat à long terme avec un groupe de riziculteurs camarguais, Priméal préserve le patrimoine de cette vaste plaine sauvage.\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.\nTendre et moelleux, le riz long blanc a un goût assez neutre qui lui permet de se marier avec de nombreuses préparations plus particulièrement en salade.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390006408_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-lg-blanc-camargue-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:24",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Riz long blanc issu de l'agriculture biologique.\n \nAnalyse type pour 100g :\nEnergie : 351kcal\n________________________________\nMatières grasses : 1.1g\ndont acides gras saturés : 0.3g\n________________________________\nGlucides : 79.2g\ndont sucres : 0.2g\n________________________________\nFibres : 0.7g\n________________________________\nProtéines : 6.6g\n________________________________\nSel : 0.02g",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.49,
+                "price_per_unit": 5.49,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laver, égoutter et cuire 1 volume de riz dans 1.5 volume d'eau couvert.\nCuisson 10 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-lg-1-2-cpl-camargue-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG DEMI-COMPLET DE CAMARGUE 1KG BIO",
+                "desc": "Riz long demi-complet de Camargue 1KG Bio\nDans le grand delta du Rhône, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé. Grâce à un partenariat à long terme avec un groupe de riziculteurs camarguais, Priméal préserve le patrimoine de cette vaste plaine sauvage.\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.\nLe riz demi-complet est obtenu après un léger mondage du grain complet et conserve le germe du riz.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390006408_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-lg-1-2-cpl-camargue-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:24",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74.3,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Riz long demi-complet.\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 5.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laver et cuire 1 volume de riz dans 2 volumes d'eau à couvert.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-long-demi-cpt-750g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG DEMI-COMPLET 750G BIO",
+                "desc": "Riz long demi-complet 750G Bio\nRiz long demi-complet issu de l'agriculture biologique Naturalia.\nOrigine Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/b/a/banque_images_primeal_5511_riz_de_camargue_long_blanc_500g_2019.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-long-demi-cpt-750g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:24",
+                "format": "750G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Riz long demi-complet* 100% (Italie.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 5.32,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Comptez environ 60G de riz par personne.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-long-dcpt-2kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG DEMI-COMPLET 2KG BIO",
+                "desc": "Riz long demi-complet 2kg Bio\nAvec ses formats économiques, Priméal vous permet de régaler toute la famille au quotidien.\nFacile à cuisiner, le riz long d'Italie est idéal pour réaliser de nombreux plats (salades, plats mijotés...) ou tout simplement en accompagnement. N'hésitez pas à l'agrémenter de légumes et légumineuses pour en faire un plat complet.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390004404_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-long-dcpt-2kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:24",
+                "format": "2KG",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.5,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Riz long demi complet*\n*issu de l’agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 2.0,
+                "price_per_packaging": 8.25,
+                "price_per_unit": 4.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 2 volumes d’eau à couvert pendant 12-15 mn puis saler.",
+                "conservation": "A conserver dans un endroit sec, tempéré et à l’abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-basmati-sobre-blc-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI BLANC – SOBRE EN EAU 400G BIO",
+                "desc": "Riz Basmati blanc – Sobre en eau 400g Bio\nNotre riz Basmati bio sobre en eau est une grande victoire obtenue main dans la main avec les fermiers de la coopérative de Lahore au Pakistan.\nSous notre impulsion et avec notre aide financière, ils ont commencé il y a 4 ans à cultiver le riz autrement. La technique expérimentée a produit des résultats encourageants : moins de graines plantées, moins d’eau puisée dans les nappes phréatiques, moins d’émission de gaz à effet de serre et... plus de riz récolté ! C’est bon pour la planète !\nLes scientifiques nous le disent : c’est la façon de cultiver le riz qui est déterminante pour le climat. Même s’il vient de loin !\nSachet recyclable de 400 g pour 4 à 6 portions\nCuisson 12 min",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3413880082221_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-sobre-blc-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "100% riz Basmati blanc sobre en eau*\n*Issu de l’agriculture biologique et du commerce équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 7.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La cuisson basique en 12 min, inratable :\nPlongez un volume de riz Basmati blanc dans 1 volume d’eau bouillante salée. Laissez cuire à feu doux jusqu’à absorption totale du liquide.\nLa variante traditionnelle indienne :\nPour cuire le riz comme dans le Nord du pays, près de New Dehli, il vous faudra prendre le temps de faire tremper le riz. Essayez, ça vaut le coup !\nAstuce zéro gaspi... et gourmande !\nIl est impensable de gaspiller votre reste de cet exceptionnel riz Basmati cuit, n’est-ce pas ?  Faites sauter au wok le riz conservé au frigo. Ajoutez des épices indiennes, des fruits secs, des amandes effilées, des petits pois... Toute la famille va se régaler !",
+                "conservation": "À conserver dans un endroit frais et sec. À conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-basmati-sobre-demi-c-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI DEMI-COMPLET – SOBRE EN EAU 400G BIO",
+                "desc": "Riz Basmati demi-complet – Sobre en eau 400g Bio\nNotre riz Basmati bio demi-complet est un riz sobre en eau. C'est une grande victoire obtenue main dans la main avec les fermiers de la coopérative de Lahore au Pakistan.\nSous notre impulsion et avec notre aide financière, ils ont commencé il y a 4 ans à cultiver le riz autrement. La technique expérimentée a produit des résultats encourageants : moins de graines plantées, moins d’eau puisée dans les nappes phréatiques, moins d’émission de gaz à effet de serre et... plus de riz récolté ! C’est bon pour la planète !\nLes scientifiques nous le disent : c’est la façon de cultiver le riz qui est déterminante pour le climat. Même s’il vient de loin !\nSachet recyclable de 400 g pour 4 à 6 portions\nCuisson 16 min",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3413880082221_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-sobre-demi-c-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.3
+                    },
+                    "proteins": {
+                        "proteins": 8.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "100% riz Basmati semi-complet sobre en eau*.\n* Issu de l’agriculture biologique et du commerce équitable.\nOrigine Pakistan.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.65,
+                "price_per_unit": 9.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La cuisson basique en 16 min, inratable :\nPlongez un volume de riz Basmati demi-complet dans 1,5 volume d’eau bouillante salée. Laissez cuire à feu doux jusqu’à absorption totale du liquide.\nLa variante traditionnelle indienne :\nPour cuire le riz comme dans le Nord du pays, près de New Dehli, il vous faudra prendre le temps de faire tremper le riz. Essayez, ça vaut le coup !\nAstuce zéro gaspi... et gourmande !\nIl est impensable de gaspiller votre reste de cet exceptionnel riz Basmati cuit, n’est-ce pas ?  Faites sauter au wok le riz conservé au frigo. Ajoutez des épices indiennes, des fruits secs, des amandes effilées, des petits pois... Toute la famille va se régaler !",
+                "conservation": "À conserver dans un endroit frais et sec. À conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-long-demi-cplet-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG DEMI-COMPLET 500G BIO",
+                "desc": "Riz long demi-complet 500g Bio\nFacile à cuisiner, le riz long d'italie est idéal pour réaliser de nombreux plats ou tout simplement en accompagnement. N'hésitez pas à l'agrémenter de légumes et de légumineuses pour en faire un plat complet ! \nCe produit est issu de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/b/a/banque_images_primeal_5511_riz_de_camargue_long_blanc_500g_2019.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-long-demi-cplet-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.5,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Riz long demi-complet*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.89,
+                "price_per_unit": 5.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation : rincer et cuire 1 volume de riz dans 2 volumes d'eau à couvert pendant 12-15 minutes, puis saler.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-konjac-avoine-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ DE KONJAC ET D'AVOINE 200G BIO",
+                "desc": "Riz de Konjac et d'Avoine 200g Bio\nDécouvrez cette alternative au riz à base de konjac. Cette nouvelle recette, avec une touche d'avoine qui fait toute la différence. Elle permet d'obtenir une texture plus gourmande et de mieux retenir vos sauces préférées.\nLe konjac qu'est-ce que c'est ? Utilisée depuis plus de 2000 ans, cette plante venue d'Asie contient une fibre hydrosoluble naturelle appelée glucomannane. Ses vertus sont incroyable.\n- Aide à équilibrer le cholestérol\n- Contribue à la perte de poids\nRiche en fibres et sans gluten, ce produit convient à l'alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390000291.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-konjac-avoine-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "Eau purifiée 95,6%, farine de konjac bio* 3,4%, fibre d'avoine* bio et sans gluten 1%.\n*Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 19.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Egouttez le riz et rincez-le.\nVersez directement dans une poêle avec votre sauce préférée. Faites revenir le tout 2 à 3 minutes (ou 2 minutes au micro-ondes).\nAssaisonnez comme vous le voulez car ce produit ne contient pas de sel.",
+                "conservation": "Conserver le produit dans son emballage à température ambiante.\nA consommer dans les 2 jours après l'ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-rd-cpt-italie-kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ COMPLET 1KG BIO",
+                "desc": "Riz complet 1kg Bio\nFacile à cuisiner, le riz rond d'italie est idéal pour réaliser de nombreux plats et notamment de délicieux risottos.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380063145.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-rd-cpt-italie-kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 8.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.5,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "Riz rond complet.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 4.55,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation : rincer et cuire 1 volume de riz dans 2 volumes d'eau à couvert pendant 40-45 min, puis saler.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "5",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG ROUGE COMPLET INCOLLABLE 500G BIO",
+                "desc": "Riz long rouge complet incollable 500g Bio\nDécouvrez le nouveau riz long rouge complet qui ne colle jamais grâce au procédé d'étuvage. Le procédé d'étuvage est une précuisson du riz à la vapeur. Ce riz est simple à utiliser et idéal pour les plats ou salades. \nOrigine Italie, conditionné en Isère (France) dans un sachet recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380079108_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-rouge-complet-incollable-5"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "Riz rouge complet*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 9.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer le riz, faire cuire dans un grand volume d'eau frémissante. Laisser cuire à feu moyen pendant 15 minutes à découvert. Enfin, egoutter et saler.",
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "sticky-rice-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ GLUANT 500G BIO",
+                "desc": "Riz gluant 500g Bio\nUne variété thaïe ancestrale adapté à la cuisson vapeur. Idéal en accompagnement mais également pour la réalisation de desserts aux saveurs d'Asie.\nIssu du commerce équitable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380000348_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sticky-rice-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100% riz glutineux blanc*.\n* ingrédient issu de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faites-le tremper au minimum 3 h. L’idéal, c’est d’y penser la veille. Puis l’égoutter. Le transférer dans un récipient sans trous (saladier…) et mettre ensuite le récipient dans de l'eau bouillante pour une cuisson à couvert pendant au moins 30 min. Vous pouvez l’oublier un peu mais remuez-le si possible une fois.\nNe pas saler, c’est inutile. Et surtout ne pas humecter. C’est au sec que le riz cuit à la vapeur ou se réchauffe, autant de fois que vous le souhaitez. Par contre, le four ou le micro-onde ne sont pas faits pour lui.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-thai-gaba-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ THAÏ GABA 500G BIO",
+                "desc": "Riz thaï gaba 500g Bio\nUn riz germé riche en phosphore et source de magnésium. Incollable, ce riz est facile à cuisiner et donnera à vos plats des saveurs asiatiques.\nOrigine Thaïlande.\nProduit issu de l'agriculture Bio.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_694_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-thai-gaba-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:25",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "100% riz thaï complet étuvé biologique et équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 9.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre un volume de riz dans deux volumes d'eau bouillante salée. Laissez cuire à feu doux jusqu'à absorption totale. Assaisonnez et dégustez !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-carnaroli-blanc-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ CARNAROLI RISOTTO 500G BIO",
+                "desc": "Riz carnaroli risotto 500g Bio\nUne variété de riz italien qui se caractérise par ses longs grains bombés, adaptés à la réalisation de risotto. Il vous suffit de 20 minutes de cuisson, pour obtenir un risotto onctueux, au goût équilibré.\nConditionné en Isère (France), dans un emballage recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390000291.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-carnaroli-blanc-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Riz carnaroli blanc*.\n*issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire revenir 1 volume de riz dans un peu de matière grasse. Remuer jusqu'à ce que le grain commence à être translucide. Ajouter progressivement au moins 2 volumes de bouillon chaud et poursuivre la recette du risotto choisie (20 min. environ).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-lg-blanc-camargue-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG BLANC CAMARGUE 500G BIO",
+                "desc": "Riz long blanc Camargue 500g Bio\nPriméal a sélectionné la variété Arélate, une espèce endémique à la Camargue, pour son goût typique et sa qualité. Prêt en 8 min seulement, ses grains fins et tendres s'adaptent à tous vos plats et salades, pour vous régaler.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380055096.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-lg-blanc-camargue-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79.2,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Riz de Camargue IGP** long blanc*.\n*issu de l’agriculture biologique.\n**Indication Géographique Protégée.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laver et cuire 1 volume de riz dans 1,5 volume d’eau à couvert, pendant 8 min.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-lg-cpt-camargue-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG COMPLET DE CAMARGUE 500G BIO",
+                "desc": "Riz long complet de Camargue 500g Bio\nUn riz de caractère au parfum typique, idéal pour une cuisson à l'étouffé. Un riz IGP de Camargue, variété Arélate. Une cuisson rapide de 30 minutes pour obtenir un riz savoureux d'une riche qualité nutritionnelle, à déguster avec vos plats de viandes, poissons ou légumes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380055133.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-lg-cpt-camargue-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75.3,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Riz long complet*.\n*issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 6.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laver le riz avant cuisson. Cuire 1 volume de riz dans 2 volumes d'eau froide couvert pendant 45 minutes. Assaisonner et déguster !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-basmati-1-2-cplt-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI DEMI COMPLET 1KG BIO",
+                "desc": "Riz basmati demi complet 1kg Bio\nUn riz basmati demi-complet pour réaliser tous vos plats. Idéal pour accompagner vos plats de viandes, poissons ou vos légumes. Le riz basmati tire son parfum inimitable de son terroir, au pied de l'himalaya, naturellement irrigué par les eaux des glaciers. On apprécie le riz basmati à sa texture légère et moelleuse et ses grains fins, qui restent bien détachés à la cuisson.\nUn riz d'origine Pendjab, conditionné en Isère (France), dans un sachet recyclable.\nUne cuisson en 20 minutes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144670.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-1-2-cplt-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.7,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Riz basmati demi-complet* (variété traditionnelle).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 6.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 2 volumes d'eau à couvert pendant 20 minutes, puis saler.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-basmati-1-2-cplt-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI DEMI-COMPLET 500G BIO",
+                "desc": "Riz Basmati demi-complet 500g Bio\nLe riz basmati gagne son titre royal en étant cultivé dans ces terres si spécifiques, au pied de l'Himalaya qui les abreuve de ses eaux généreuses.\nIl puise dans ce terroir unique la puissance de son parfum (le nom « Basmati » vient de l'hindi, signifiant la « reine du parfum »). Le déguster nature permet d'apprécier son parfum unique. Son grain reste fin et bien détaché à la cuisson. Satexture très légère en fait un plat d'accompagnement raffiné. Le riz basmati demi-complet offre un intérêt visuel (de couleur crème, il reste clair après la cuisson), nutritif (il contient plus d'éléments nutritifs que le riz blanc) et gustatif à la fois.\nConditionné en Isère (France) dans un emballage recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144670.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-1-2-cplt-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.7,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Riz basmati demi-complet* 'variété traditionnelle).\n*Issu de l'agriculture biologique.\nPeut contenir des traces de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 7.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 2 volumes d'eau à couvert pendant 20 mn puis saler.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-basmati-blanc-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI BLANC 1KG BIO",
+                "desc": "Riz Basmati blanc 1kg Bio\nUn riz basmati aux grains très allongés et au parfum unique et puissant. Il accompagnera parfaitement vos plats de viandes, poissons et légumes.\nSaviez-vous que le nom \"basmati\" vient de l'hindi et signifie \"la reine du parfum\" ?\nUn grand format, pratique et économique.\nUne cuisson de 10 minutes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144670.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-blanc-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 77.6,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Riz basmati blanc* (variété traditionnelle).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 6.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 1.5 volume d'eau couvert pendant 10 min puis saler. C'est prêt !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-lg-1-2-cplt-camargue-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ LONG DEMI-COMPLET DE CAMARGUE 500G BIO",
+                "desc": "Riz long demi-complet de Camargue 500g Bio\nUn riz IGP de Camargue, variété Arélate. Une cuisson rapide de 10 minutes pour obtenir un riz savoureux d'une riche qualité nutritionnelle, à déguster avec vos plats de viandes, poissons ou légumes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390010306.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-lg-1-2-cplt-camargue-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74.3,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Riz complet légèrement poli (origine France)*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 7.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Laver le riz avant cuisson. Cuire 1 volume de riz dans 2 volumes d'eau froide couvert pendant 30 minutes. Assaisonner et déguster !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "4124957",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI BLANC 500G BIO",
+                "desc": "Riz Basmati blanc 500g Bio\nLe riz basmati gagne son titre royal en étant cultivé dans ces terres si spécifiques, au pied de l'Himalaya qui les abreuve de ses eaux généreuses. Il puise dans ce terroir unique la puissance de son parfum (le nom « Basmati » vient de l'hindi, signifiant la « reine du parfum »). Le déguster nature permet d'apprécier son parfum unique. Son grain reste fin et bien détaché à la cuisson. Sa texture très légère en fait un plat d'accompagnement raffiné.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-blanc-500g-4124957"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:26",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 77.6,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Riz basmati blanc* (variété traditionnelle).\n*Issu de l'agriculture biologique.\nPeut contenir des traces de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 1,5 volume d'eau à couvert pendant 10 mn puis saler.",
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "4124956",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI COMPLET 500G BIO",
+                "desc": "Riz basmati complet 500g Bio\nUn riz complet au goût fin et aux grandes qualités nutritionnelles. Idéal à consommer seul ou avec votre sauce préférée: satay, tomates, crème, curry...\nUne cuisson en 30 minutes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144403.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-complet-500g-4124956"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:27",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 9.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Riz basmati complet* .\n*issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plonger dans l'eau bouillante, laissez cuire 30 minutes, égoutter et c'est prêt !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-rond-blanc-italie-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ ROND BLANC 1KG",
+                "desc": "Riz Rond Blanc 1kg\nPriméal, l'expert du riz,s elctionne pour vous le meilleur des grains ! \nAvec sa marge gamme de riz d'Italie , blanc, 1/2 complet et complet , Priméal vous permet de varier les plaisirs au quotidien. Facile à cuisiner, le riz rond d'Italie est idéal pour réaliser de délicieux risotti mais convient aussi aprfaitement pour la confection des desserts et d'entrements.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380063145.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-rond-blanc-italie-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:27",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78.5,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 0.4
+                    }
+                },
+                "ingredients": "riz rond blanc*, cultivé en Italie. \n*Ingrédient issu de l'agricuture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 4.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de riz dans 2 volumes d'eau à couvert pendant 10 minutes puis saler.",
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abris de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-thai-jasmin-comp-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ THAÏ JASMIN COMPLET HOM MALI 500G BIO",
+                "desc": "Riz thaï Jasmin complet Hom Mali 500G Bio.\nHom Mali est une variété traditionnelle de riz parfumée reconnue pour ses qualités, son parfum naturel et délicat.\nCe riz biologique blanc est cultivé par des petits paysans de Surin et Yasothorn (Nord-Est de la Thaïlande). Regroupés au début des années 1980 pour combattre l’endettement, ces paysans ont reçu le soutien d’ONG locales et plus particulièrement de Surin Farmers Support. Ils ont pu, ainsi, créer une banque d’épargne et de riz : les membres y déposent de l'argent ou du riz. Ainsi, lorsqu'ils en ont besoin, ils peuvent emprunter jusqu'à 3 ou 4 fois les quantités ou les montants prêtés.\n\nIls ont également mis en activité un moulin communautaire qui leur permet d’échapper aux prix fixés par les meuniers, de coordonner l'achat, le conditionnement, l'emballage et le transport du riz vers Bangkok. Cette initiative a abouti à la fondation à d'une double structure d'exportation à Bangkok : Green Net et Nature Food Cooperative.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788036498.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-thai-jasmin-comp-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:27",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76
+                    }
+                },
+                "ingredients": "Riz complet 100% issu du commerce équitable et de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 7.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "riz-thai-jasmin-blanc-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ THAÏ JASMIN BLANC HOM MALI 500G BIO",
+                "desc": "Riz thaï jasmin blanc Hom Mali 500G Bio.\nHom Mali est une variété traditionnelle de riz parfumée reconnue pour ses qualités, son parfum naturel et délicat.\nCe riz biologique blanc est cultivé par des petits paysans de Surin et Yasothorn (Nord-Est de la Thaïlande). Regroupés au début des années 1980 pour combattre l’endettement, ces paysans ont reçu le soutien d’ONG locales et plus particulièrement de Surin Farmers Support. Ils ont pu, ainsi, créer une banque d’épargne et de riz : les membres y déposent de l'argent ou du riz. Ainsi, lorsqu'ils en ont besoin, ils peuvent emprunter jusqu'à 3 ou 4 fois les quantités ou les montants prêtés.\n\nIls ont également mis en activité un moulin communautaire qui leur permet d’échapper aux prix fixés par les meuniers, de coordonner l'achat, le conditionnement, l'emballage et le transport du riz vers Bangkok. Cette initiative a abouti à la fondation à d'une double structure d'exportation à Bangkok : Green Net et Nature Food Cooperative.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144397.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-thai-jasmin-blanc-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:27",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79,
+                        "dietary_fiber": 8
+                    }
+                },
+                "ingredients": "Riz blanc de variété traditionnelle Hom Mali*.\n*100% issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.05,
+                "price_per_unit": 8.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer le riz dans une passoire. Versez le riz dans une casserole, ajouté l'eau et une pincée de sel. Couvrez la casserole et portez à ebullition. Laissez cuire à feux doux jusqu'à l'absorption totale de l'eau.",
+                "conservation": "Conserver à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    },
+    {
+        "ean": "3405331",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Riz"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI BLANC INDE 500G BIO",
+                "desc": "Riz Basmati blanc 500G Bio.\nLe riz Basmati est l'un des riz les plus parfumés au monde et cultivé en Inde depuis des millénaires. Depuis 2016, l'appellation Basmati est protégée par une Indication Géographique Protégée limitée à 7 provinces au Nord de l'Inde.\nNature Bio-Foods est un groupement de producteurs situé au pied de l'Himalaya dans l'état d'Uttarakand en Inde du Nord. Les profucteurs bénéficient d'un revenu global 20 à 30% plus élevé  qu'avant, ont diversifié leurs cultures et réduit leur consommation d'eau dans les rizières d'environ 30%.Retrouvez plus d'informations sur nos producteurs au bas de la page.\nNous entretenons une relation durable avec les producteurs permettant de certifier la traçabilité des échanges. Chaque produit garantit aux paysans une rémunération juste et un respect des droits humains fondamentaux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144403.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-blanc-500g-3405331"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:28",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 10
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Riz basmati blanc et équitable 100% issu du commerce équitable et de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.05,
+                "price_per_unit": 10.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un volume de riz, trois volumes d'eau, une pincée de sel. Rincez le riz à grande eau dans une passoire.\nVersez-le dans une casserole et ajoutez l'eau ainsi qu'une pincée de sel. Faire cuire pendant 5 minutes, puis laisser frémir à feux doux pendant 6 à 8 minutes environ jusqu'à l'absorption totale de l'eau.",
+                "conservation": "Conserver à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:23",
+        "updated_at": "2025-06-15T21:23"
+    }
+]

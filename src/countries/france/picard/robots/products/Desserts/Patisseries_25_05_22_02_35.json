@@ -1,0 +1,176 @@
+[
+    {
+        "ean": "000000000000066656",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 moelleux chocolat caramel au beurre salé",
+                "desc": "Pâtisseries surgelées composées d'un moelleux au chocolat 72,7% avec un coeur coulant au caramel 27,3%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moelleux-chocolat-caramel-beurre-sale-000000000000066656.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1873.0,
+                        "kcal": 450.0
+                    },
+                    "fats": {
+                        "fats": 30.0,
+                        "saturates": 19.0
+                    },
+                    "proteins": {
+                        "proteins": 5.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39.0,
+                        "of_which_sugars": 27.0,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "ŒUF entier de poule élevée en plein air (liquide, pasteurisé), beurre concentré 21% (LAIT), chocolat 15,4% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), farine de BLÉ (GLUTEN), caramel au beurre salé 10,1% [sirop de glucose-fructose, sucre, eau, beurre salé 9% (LAIT), amidon transformé de maïs, épaississants (gomme xanthane, pectines)], sucre, sirop de glucose, chocolat blanc (sucre, beurre de cacao, LAIT entier en poudre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), caramel 2,7% (sirop de glucose, sucre), LAIT écrémé en poudre, émulsifiant : lécithine de SOJA, sel.",
+                "allergens": [
+                    "soja",
+                    "gluten",
+                    "œuf",
+                    "lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 4.7,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    },
+    {
+        "ean": "000000000000082182",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cake au chocolat, 6 parts",
+                "desc": "cake au chocolat pur beurre, cuit et surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93b5eaa2/produits/pains-viennoiseries/edition/000000000000082205_E1.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cake-chocolat-6-parts-000000000000082182.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1909.0,
+                        "kcal": 458.0
+                    },
+                    "fats": {
+                        "fats": 28.0,
+                        "saturates": 18.0
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 33.0,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "OEUF issu de poule élevée en plein air (liquide, pasteurisé) 25,9%, beurre (LAIT) 21,6%, chocolat 21,6% (pâte de cacao, sucre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), sucre, farine de BLÉ (GLUTEN), poudres à lever (carbonates de sodium, tartrates de potassium)",
+                "allergens": [
+                    "soja",
+                    "gluten",
+                    "lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 6.5,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    },
+    {
+        "ean": "000000000000082815",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 merveilleux au chocolat",
+                "desc": "Dessert pâtissier composé de mousse au chocolat 52%, de meringue 28% et de copeaux de chocolat 20%; surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-merveilleux-175g-000000000000082815.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1766.0,
+                        "kcal": 424.0
+                    },
+                    "fats": {
+                        "fats": 26.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 40.0,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Crème liquide 38,5% [crème (LAIT), gélifiant : carraghénanes], copeau de chocolat noir 20% [pâte de cacao, sucre, beurre de cacao, matière grasse laitière anhydre (LAIT), émulsifiant : lécithine de SOJA, arôme naturel de vanille], chocolat noir 12,8% (pâte de cacao, sucre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), sucre glace (sucre, fécule de pomme de terre), sucre, blanc d’ŒUF de poule élevée en plein air 9,2% (liquide, pasteurisé), cacao en poudre alcalinisé 0,5% (cacao en poudre, correcteurs d'acidité : hydroxyde de sodium, carbonates de potassium), blanc d’ŒUF de poule élevée en plein air en poudre 0,1%.",
+                "allergens": [
+                    "soja",
+                    "œuf",
+                    "lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 37.14,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "ean": "000000000000086427",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Formats"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 Dim sum aux crevettes",
+                "desc": "Farce à la crevette 49,1%, pâte de riz 41,8% et sauce soja 9,1%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw24762670/produits/000000000000072757_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-dim-sum-crevettes-000000000000086427.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:15",
+                "format": "LA BOÎTE DE 220 G",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 781.0,
+                        "kcal": 185.0
+                    },
+                    "minerals": {
+                        "salt": 0.87
+                    },
+                    "fats": {
+                        "fats": 5.3,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 31.0,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Dim Sum à la crevette (200g) : crevette décortiquée 20,2% (crustacé), farine de riz 18,8%, eau, carotte 5,5%, oignon blanc, huile de soja, igname, amidon de pomme de terre, amidon de maïs transformé, amidon de blé (gluten), coriandre, ciboule, ail, sucre de canne, sel, sauce soja [sauce soja (eau, graine de soja, blé (gluten), sel), eau, sucre], échalote, gingembre, poivre blanc. Sauce soja (20g) : eau, sauce soja 21,9% [sauce soja (eau, graine de soja, blé (gluten), sel), eau, sucre], sucre de canne, vinaigre de riz, sauce pimentée [eau, piment, sucre, ail, vinaigre, amidon de tapioca, gomme xanthane, sel], sucre, piment rouge, amidon de maïs, ail, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Crustacés",
+                    "Soja",
+                    "Traces de Lait",
+                    "Traces de Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au panier vapeur\nCUISSONCuisson au paniervapeur pendant\n5 min\nSortez les bouchées et déposez-les dans un panier bambou (ou un panier vapeur) préalablement huilé. Laissez réchauffer le panier au-dessus d'une casserole d'eau bouillante pendant 5 min environ. Servez avec la sauce soja (à décongeler à température ambiante ou sous un filet d'eau tiède).\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n2 min\nSortez les bouchées et déposez-les sur une assiette en les espaçant. Réchauffez à 750 watts pendant 2 min. Servez avec la sauce soja (à décongeler à température ambiante ou sous un filet d'eau tiède).",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,42 €/kg\nprix soldé\n5,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n32,00 €/kg\nprix soldé\n4,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,98 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.49,
+            "total_reviews": 177
+        }
+    },
+    {
+        "ean": "000000000000086014",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems au porc",
+                "desc": "Farce au porc 50,4%, galette de riz 35,3% et sauce nuoc-mâm 14,3%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-porc-000000000000086014.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:15",
+                "format": "LA BOÎTE DE 280 G",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1097.0,
+                        "kcal": 263.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 4.3
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Nems au porc (240 g) : eau, maigre et gras de porc (origine : France*) 24,7%, farine de riz 13,5%, chou vert 5,2%, vermicelle de pois réhydraté, carotte 4,1%, oignon 2,9%, germe de haricot mungo 2,9%, ciboule 2,9%, sauce SOJA [eau, graine de SOJA, sel, farine de BLÉ (GLUTEN)], purée de gingembre, champignon noir réhydraté, farine de SOJA, fécule de manioc, oignon déshydraté 0,9%, sel, huile de tournesol. Sauce nuoc-mâm (40 g) : eau, sucre, nuoc-mâm 14% (POISSONS, sel, eau), vinaigre d'alcool, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 3.4,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nFaites frire les nems 8 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Avant de servir, déposez les nems sur du papier absorbant.\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Four traditionnel : 18 min Four à chaleur tournante: 16 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,42 €/kg\nprix soldé\n5,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n32,00 €/kg\nprix soldé\n4,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,98 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.93,
+            "total_reviews": 166
+        }
+    },
+    {
+        "ean": "000000000000072715",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Formats"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 perles de coco Cuisine Evasion",
+                "desc": "6 bouchées composées d'une pâte 58,3% de riz fourrées avec une préparation 35% à base de lait de coco et enrobées de copeaux de noix de coco, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-perles-coco-000000000000072715.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:15",
+                "format": "LA BOÎTE DE 180 G",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1135.0,
+                        "kcal": 271.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 4.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33.0,
+                        "of_which_sugars": 8.1,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de riz collant 23,1%, lait de coco 21,5% (extrait de noix de coco, eau), eau, chair de noix de coco 9,8%, haricot mungo, copeau de noix de coco 6,6%, sucre de canne, amidon de BLÉ (GLUTEN), huile de tournesol, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 3.5,
+                "preparation": "Conseils de préparation\nPréparation\nSortez les perles de coco de l'étui carton et de leur emballage plastique.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n25 s\nDéposez les perles de coco dans une assiette. Faites réchauffer le temps indiqué. Puissance restituée du four à micro-ondes: 750 watts. - 1 perle : 25 sec - 3 perles : 40 sec - 6 perles : 1 min 20 Laissez reposer 5 min avant de déguster.\n\nAu panier vapeur\nPréparationCuisson au paniervapeur pendant\n8 min\nDéposez les perles de coco dans un panier bambou (ou dans un panier vapeur). Faites réchauffer le panier au-dessus d'une casserole d'eau bouillante pendant 8 min environ. Laissez reposer 5 min avant de déguster.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n3h\nDéposez les perles de coco dans une assiette. Faites les décongeler dans le bas du réfrigérateur pendant 3 h environ. Laissez reposer 15 min à température ambiante avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,42 €/kg\nprix soldé\n5,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n32,00 €/kg\nprix soldé\n4,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,98 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 43
+        }
+    }
+]

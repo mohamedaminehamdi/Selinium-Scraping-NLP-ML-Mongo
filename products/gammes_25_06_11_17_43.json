@@ -1,0 +1,2298 @@
+[
+    {
+        "ean": "000000000000086653",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Falafels, sauce au basilic",
+                "desc": "Préparation précuite à base de pois chiche, oignon, courgette et carotte, sauce 35% au basilic Surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3d23c2ab/produits/000000000000086477_2f.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/falafels-basilic-mix-miam-000000000000086653.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:40",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 162.0
+                    },
+                    "minerals": {
+                        "salt": 0.89
+                    },
+                    "fats": {
+                        "fats": 6.6,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 7.3
+                    }
+                },
+                "ingredients": "Préparation précuite 64,9% à base de pois chiche, oignon, courgette et carotte [eau, pois chiche 15,2%, pois chiche cuit 5,5%, oignon 5,5%, persil, courgette 3,9%, carotte 3,9%, huile de tournesol, farine de BLÉ (GLUTEN), coriandre, oignon en poudre, fibre de psyllium, vinaigre d'alcool, sel, poivre, piment de cayenne], eau, lait de coco (extrait de noix de coco, eau), bouillon de légumes (eau, tomate, carotte, poireau, CÉLERI, oignon, échalote, fenouil, huile d'olive vierge extra, purée d'ail, thym), basilic 2,2%, pâte d'AMANDE blanchie grillée, échalote, farine de riz, jus de citron, huiles végétales (contient tournesol et/ou colza), sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n2 min\n- Pour 1 sachet : versez le contenu du sachet dans un bol adapté et laissez cuire pendant 2 min à 900W - Dans le cas d’une utilisation simultanée avec 2 autres sachets de la gamme : versez le contenu des 3 sachets les uns à côté des autres dans un bol adapté, et laissez cuire 6 min à 6min30 à 900W. Ce produit doit être cuit avant consommation",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Mix & Miam"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.73,
+            "total_reviews": 15
+        }
+    },
+    {
+        "ean": "000000000000089552",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Curry de légumes et pois chiches, duo de riz",
+                "desc": "Sauce 40,1% à la tomate, lait de coco et curry, légumes 21,1%, riz long, pois chiche et spécialité à base de lentille corail, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/curry-leg%2Fpois-chiches-fe-000000000000089552.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:40",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 95.0
+                    },
+                    "minerals": {
+                        "salt": 0.51
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Riz long cuit 21% (eau, riz long 6,3%), pulpe de tomate au jus 14,7% (tomate, jus de tomate), oignon, pois chiche cuit 12% (eau, pois chiche 4,5%), chou-fleur 10%, patate douce 8%, spécialité à base de lentille corail cuite 5,2% (eau, farine de lentille corail 2,3%), pois doux garden peas 3%, lait de coco 2,9% (extrait de coco, eau), LAIT fermenté concentré, huile de colza, ail, eau, gingembre, sel, curry 0,3% [épices, plantes aromatiques (contient MOUTARDE), sel], coriandre, farine de riz, curcuma, coriandre en poudre, cardamome, cannelle, laurier, girofle.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.0,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes - Four à chaleur tournante : 35 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 36
+        }
+    },
+    {
+        "ean": "000000000000086416",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Emincés de dinde sauce au citron, linguine complète et légumes verts",
+                "desc": "Pâtes linguines au blé complet cuites, légumes verts, sauce 24,8% au citron, émincés de dinde cuits traités en salaison, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4943c4b0/produits/000000000000072608_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dinde-linguine%2Fleg-verts-000000000000086416.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 93.0
+                    },
+                    "minerals": {
+                        "salt": 0.36
+                    },
+                    "fats": {
+                        "fats": 2.0,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Pâte linguine au blé complet cuite 30% [eau, semoule de BLÉ (GLUTEN) complet], émincé de filet de dinde cuit traité en salaison 20% [filet de dinde 17% (origine : France*), eau, sel, fécule de pomme de terre], courgette grillée 12,5%, petit pois 12,5%, crème fraîche liquide légère (LAIT), bouillon de légumes (eau, tomate, carotte, poireau, CÉLERI, oignon, échalote, fenouil, huile d'olive vierge extra, ail, thym), eau, jus de citron 2,9%, échalote, farine de riz, huile d'olive vierge extra, ail, sel, basilic, persil, poivre, curcuma, laurier.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.6,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nNous vous recommandons une préparation au micro-ondes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.75,
+            "total_reviews": 32
+        }
+    },
+    {
+        "ean": "000000000000086415",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Colin d'Alaska pané MSC façon fish and chips, sauce tartare",
+                "desc": "Pommes de terre préfrites 55%, sauce tartare 25% et colin d'Alaska pané 20%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe6d61f7d/produits/000000000000063691_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/colin-msc-fish-chips-fe-000000000000086415.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 132.0
+                    },
+                    "minerals": {
+                        "salt": 0.43
+                    },
+                    "fats": {
+                        "fats": 4.5,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 4.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 2.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Pomme de terre préfrite 55% (pomme de terre, huile de tournesol, dextrose), colin d'Alaska pané 20% [colin d'Alaska (POISSON) qualité sans arête* 11,7%, chapelure (farine de BLÉ (GLUTEN), sel, paprika, levure, curcuma), huile de colza, eau, farine de BLÉ (GLUTEN), amidon de pomme de terre, sel], eau, crème fraîche légère (LAIT), cornichon au vinaigre (cornichon, eau, vinaigre d'alcool, sel), oignon, jaune d'ŒUF de poule élevée en plein air (liquide, pasteurisé), huile de tournesol, vin blanc, MOUTARDE de Dijon (eau, graine de MOUTARDE, vinaigre d'alcool, sel), farine de riz, vinaigre d'alcool, câpre au vinaigre 0,5% (câpre, eau, vinaigre d'alcool, sel), beurre (LAIT), protéine de LAIT, lactosérum en poudre (LAIT), ail, sel, persil, estragon, cerfeuil, poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\n\nAu micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n6 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 W) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n30 à 35 min\nMise en garde : la température du four ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 35 minutes Four à chaleur tournante : 30 minutes\n\nConseils de préparation\nPréparation sans décongélation\nNous vous recommandons une préparation au four à micro-ondes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.9,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000086270",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Lasagnes végétariennes",
+                "desc": "Sauce 53,9% à base de tomate, champignon de Paris et légumes, sauce béchamel 22,2%, pâte précuite 20% et saupoudrage 3,9% de tomate mi-séchée et fromage râpé, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdefd484e/produits/larg0122_86743_gut_ret_300.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/900g-lasagne-vegetarienne-000000000000086270.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "900.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 132.0
+                    },
+                    "minerals": {
+                        "salt": 0.49
+                    },
+                    "fats": {
+                        "fats": 6.2,
+                        "saturates": 2.4
+                    },
+                    "proteins": {
+                        "proteins": 5.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 3.1,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "LAIT écrémé réhydraté, champignon de Paris 12%, pulpe de tomate 11,7%, semoule de BLÉ dur (GLUTEN), crème fraîche liquide (LAIT), oignon 5,9%, purée de tomate 5,8%, carotte 4,6%, fromage râpé (contient LAIT) 4,2%, huile d'olive, oignon grillé 2,9%, tomate 2,9%, farine de BLÉ (GLUTEN), ŒUF entier de poule élevée en plein air (liquide, pasteurisé), ail, tomate mi-séchée 0,8%, sel, eau, basilic, persil, amidon de riz, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 900.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n50 min\nPréchauffez votre four à 180°C (th.6). Sortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué sur une grille à mi-hauteur. Four traditionnel : 1 h - Four à chaleur tournante : 50 min Laissez reposer quelques instants avant de déguster\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n18 min\nSortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de servir. Puissance restituée du four à micro-ondes: 750 W 900 W 20 min 18 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.67,
+            "total_reviews": 54
+        }
+    },
+    {
+        "ean": "000000000000086292",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Falafels, boulghour aux petits légumes",
+                "desc": "Boulghour cuisiné aux petits légumes 49,7%, purée aux légumes verts cuisinée 30,2%, préparation à base de pois chiche préfrite 20%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4df14892/produits/plats-cuisines/edition/000000000000069562_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/falafels-boulgour-legumes-000000000000086292.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 118.0
+                    },
+                    "minerals": {
+                        "salt": 0.32
+                    },
+                    "fats": {
+                        "fats": 3.6,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Boulghour cuit 24,8 % [eau, boulghour 9,9 % (gluten)], préparation à base de pois chiche préfrite à l'huile de tournesol 20% (pois chiche réhydraté 10,3%, oignon, pois chiche cuit 1,6%, fécule de pomme de terre, persil, coriandre, eau, ail, épices, huile de tournesol, jus de citron, sel), petit pois 11,4%, crème fraîche légère liquide (lait) 9,2%, courgette grillée 6,7%, tomate 5%, poivron rouge 3,8%, brocoli 3,6%, échalote 3,6%, poivron jaune grillé 3,6%, oignon rouge 2,4%, jus de citron vert, épinard 1,1%, coriandre 0,4 %, persil 0,4 %, purée d'ail, menthe 0,3 %, zeste de citron jaune, sel, huile d'olive vierge extra, fécule de manioc, cumin, cardamome, curcuma, piment d’Espelette, poivre noir, poivre blanc, baie rose, poivre vert, coriandre graine.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n5 min 30\nSortez la barquette vapeur de son fourreau sans percer ni enlever l'opercule plastique. Laissez cuire le temps indiqué : Puissance restituée du four : 750W : 6 min 30 - 900W : 5 min 30 Laissez reposer 1 minute avant de retirer l'opercule. Attention la barquette et son contenu sont très chauds.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.41,
+            "total_reviews": 93
+        }
+    },
+    {
+        "ean": "000000000000089313",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Burger feuilleté steak haché de bœuf, cheddar",
+                "desc": "Pain spécial feuilleté 39,5% garni d’un steak haché pur bœuf cuit 26,3%, d’une sauce 13,2% à la moutarde, de cheddar 10,5%, de confit d’oignon 7,9% et de roquette 2,6%, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw756942c9/produits/000000000000089244_E%20copie.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/burger-feuillete-170g-000000000000089313.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "170.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 319.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 10.0
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24.0,
+                        "of_which_sugars": 5.2,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Steak haché pur bœuf cuit 26,3% (origine : France*), farine de BLÉ (GLUTEN), cheddar blanc 10,5% (contient LAIT), eau, beurre (LAIT), confit d'oignon 7,9% [oignon émincé, sucre, vinaigre d'alcool, caramel (sucre, eau), vin blanc, vinaigre balsamique, sel, gélifiant : pectines, poivre), roquette 2,6 %, huile de colza, MOUTARDE à l'ancienne 1,4% (eau, graine de MOUTARDE, vinaigre d’alcool, sel), farine de riz cireux prégélatinisée, sucre, levure, MOUTARDE 0,7% (eau, graine de MOUTARDE, vinaigre d'alcool, sel, épices), lactosérum en poudre (LAIT), sel, LAIT écrémé en poudre, LAIT entier en poudre, protéine de LAIT, amidon de maïs, protéine de pois, fibre de psyllium, épice.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Sans titre\n\nOuvrez la boîte et retirez le film autour du burger. Remettez le burger dans sa boîte et laissez réchauffer le temps indiqué : 3 minutes en position décongélation (150W) puis 2 minutes 30 secondes à 750W. Patientez 1 minute avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.43,
+            "total_reviews": 49
+        }
+    },
+    {
+        "ean": "000000000000089513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini sandwich bretzel pastrami, cheddar, épinard",
+                "desc": "Pain spécial 60,4% garni de pastrami (viande de bœuf barattée cuite), cheddar, épinard et sauce 6,9% - surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw756942c9/produits/000000000000089244_E%20copie.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-sandwich-bretzel-90g-000000000000089513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "90.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 276.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 4.0,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, viande de bœuf barattée cuite 13,9% [viande de bœuf (origine : France*) 12,5%, eau, dextrose, bouillon de légumes (blette, carotte, oignon), extrait d'acérola, sel, épices, plante aromatique, sucre, arôme naturel, ferments], cheddar blanc 11,2% (contient LAIT), pousse d'épinard 7,4%, mayonnaise [huile de colza, eau, MOUTARDE (eau, graine de MOUTARDE, vinaigre d'alcool, sel), jaune d’ŒUF de poule élevée en plein air (liquide, pasteurisé), vinaigre d’alcool, sucre, jaune d’ŒUF en poudre de poule élevée en plein air, sel, jus de citron concentré], huile de colza, ketchup [tomate, vinaigre d'alcool, sucre, sel, extrait d'épices, extrait de plantes aromatiques (CÉLERI), épices], cornichon au vinaigre (cornichon, eau, vinaigre d'alcool, sel), levure, oignon, sel, MOUTARDE (eau, graine de MOUTARDE, vinaigre d'alcool, sel, épices), GLUTEN de BLÉ, correcteur d'acidité : hydroxyde de sodium, ail, enzymes, agent de traitement de la farine : acide ascorbique.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1 min 20 s\nOuvrez l'étui via la languette d'ouverture. Retirez l'emballage plastique et remettez le sandwich dans l'étui. Refermez-le et laissez réchauffer le temps indiqué. Laissez reposer 2 minutes avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086017",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gratin de conchiglioni farcis au fromage Corse et au jambon fumé",
+                "desc": "Sauce tomate 48,6%, conchiglioni (pâte) farci au fromage corse (brousse de brebis) et au jambon fumé 47,1, préparation à base de basilic 2,9%, fromage 1,4% - surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gratin-conchiglioni-farcis-fromage-corse-000000000000086017.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 130.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 6.7,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Eau, pâte cuite 17,1% [semoule de BLÉ dur (GLUTEN), eau], brousse de brebis 16,9% [lactosérum de brebis (LAIT), LAIT de brebis, sel], coulis de tomate 15,1%, échalote, oignon, jambon fumé au bois de hêtre 4,5% [jambon de porc (origine France*), eau, sel, dextrose, bouillon de légumes (concentré de blette, acérola, carotte), ferments], purée de carotte, Parmigiano Reggiano 2,6% (LAIT, sel, présure animale), amidon de maïs, crème fraîche liquide (LAIT), concentré de tomates 1,1%, basilic 1%, huiles végétales (colza et/ou tournesol), huile d'olive vierge extra 0,7%, fromage à pâte dure (contient : LAIT), sel, LAIT entier en poudre, ail, muscade, jus de citron concentré, poivre, amidon de tapioca.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.39,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n7 min\nSortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de déguster. Puissance restituée du four : 750 W : 8 min 900 W : 7 min\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n35 min\nMise en garde : la température du four ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Sortez la barquette de son étui carton et de son emballage plastique. Enfournez sur une grille à mi-hauteur et laissez réchauffer le temps indiqué. Couvrez à mi-temps : Four traditionnel : 40 min Four à chaleur tournante : 35 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 4.9,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,51€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.41% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.8,
+            "total_reviews": 132
+        }
+    },
+    {
+        "ean": "000000000000086028",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bœuf mariné, nouilles et légumes sautés, sauce soja sésame",
+                "desc": "Légumes sautés 32,6%, nouilles de blé cuites 22,8%, sauce soja et sésame 20,3%, viande de bœuf marinée cuite 20 % et pois croquant 4,3% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boeuf-marine-nouilles-legumes-sautes-sauce-soja-000000000000086028.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 95.0
+                    },
+                    "minerals": {
+                        "salt": 0.88
+                    },
+                    "fats": {
+                        "fats": 2.8,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.9,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Nouille de BLÉ cuite 22,8% [farine de BLÉ (GLUTEN), eau, sel, curcuma], viande de bœuf marinée cuite [viande de bœuf 17,8% (origine : France*), sauce SOJA 2% (eau, graine de SOJA, BLÉ (GLUTEN), sel, vinaigre d’alcool, alcool, sucre), huile de tournesol], eau, carotte 8,5%, poivron rouge 8,5%, mini-maïs 5,7%, pousse de haricot mungo 5,7%, pois croquant 4,3%, champignon noir 4,2%, sauce SOJA 3,4% [eau, graine de SOJA, BLÉ (GLUTEN), sel, vinaigre d'alcool, alcool, sucre], miel, oignon préfrit à l'huile de tournesol, graine de SÉSAME 1,1%, huiles végétales (colza et/ou tournesol), amidon de maïs, ail, basilic thaï, basilic citron, coriandre, gingembre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n7 min\nSortez la barquette de son étui carton et de son emballage plastique. Déposez-la dans le four à micro-ondes et laissez réchauffer le temps indiqué : 750 W = 8 min 900 W = 7 min Laissez reposer 1 minute avant de déguster.\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n15 min\nVersez le contenu de la barquette dans une poêle chaude avec 2 à 3 cuillères à soupe d'eau. Laissez réchauffer à couvert et à feu doux pendant 15 minutes en remuant délicatement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.8,
+            "total_reviews": 86
+        }
+    },
+    {
+        "ean": "000000000000086075",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Couscous",
+                "desc": "Semoule de blé cuisinée 28,5 %, légumes 28,5%, sauce 28%, filet de poulet cuit traité en salaison 10%, merguez précuite 5%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/couscous-000000000000086075.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 122.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 3.9,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Semoule cuisinée 28,5% [semoule de BLÉ dur (GLUTEN), eau, huile de colza, sel, curcuma], eau, filet de poulet traité en salaison [filet de poulet 8,9% (origine : France*), eau, sel], merguez précuite 5% [viande bovine (origine : France*), viande et gras de mouton (origine : UE), épices et plante aromatique, sel, dextrose, sucre, antioxydant : érythorbate de sodium, arômes naturels], oignon, navet, carotte, courgette grillée, pois chiche (pois chiche, eau, sel), poivron rouge, poivron vert, CÉLERI, purée de tomate double concentrée, huile de colza, épices raz el hanout, sel, graisse de poulet (origine : France*), coriandre, cumin, coriandre en poudre, purée d'ail, amidon de maïs, cannelle, muscade.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.35,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n6 min\nDécollez le coin de l'opercule carton et laisser cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes Four à chaleur tournante : 35 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.9,
+            "total_reviews": 223
+        }
+    },
+    {
+        "ean": "000000000000089781",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Hachis parmentier",
+                "desc": "Purée de pomme de terre cuisinée 68%, viande bovine cuisinée 32%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa51ff2f9/produits/000000000000086110_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/hachis-parmentier-individuel-000000000000089781.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 110.0
+                    },
+                    "minerals": {
+                        "salt": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.7,
+                        "saturates": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Purée de pomme de terre 45,3% (pomme de terre 42,2%, eau), viande bovine hachée 22,3% (origine : France*), eau, oignon, lait entier en poudre, crème liquide (lait), beurre (lait), farine de riz, sel, persil 0,2%, ail, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait",
+                    "Traces de Œuf",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.65,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n6 min\nDécollez le coin de l’opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l’opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nCUISSONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l’opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes Four à chaleur tournante : 35 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.83,
+            "total_reviews": 123
+        }
+    },
+    {
+        "ean": "000000000000086016",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gnocchis au chèvre et aux épinards, sauce tomate",
+                "desc": "Gnocchis 50%, sauce aux fromages et aux épinards 23,3%, sauce à la tomate 21,6%, fromage de chèvre 5%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gnocchis-chevre-epinards-sauce-tomate-000000000000086016.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 156.0
+                    },
+                    "minerals": {
+                        "salt": 0.66
+                    },
+                    "fats": {
+                        "fats": 4.9,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.0,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Gnocchi de pomme de terre précuit 50% [semoule de BLÉ dur (GLUTEN), pomme de terre 16,5%, eau, sel], tomate pelée concassée au jus 13,7% (purée de tomate, jus de tomate), eau, fromage de chèvre 6,5% (contient : LAIT), crème liquide (LAIT), épinard 4,4%, purée de tomate 3,6%, oignon, mozzarella (contient : LAIT), LAIT demi-écrémé, fromage à pâte dure (contient : LAIT), échalote, beurre (LAIT), huile d'olive vierge extra, farine de riz, basilic, farine de BLÉ (GLUTEN), sel, ail, thym, poivre blanc.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.6,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n5 min\nNous vous recommandons une préparation au four à micro-ondes. Décollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 W) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n30 min\nMise en garde : la température du four ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 35 minutes Four à chaleur tournante : 30 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.46,
+            "total_reviews": 474
+        }
+    },
+    {
+        "ean": "000000000000086529",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Petit salé aux lentilles vertes",
+                "desc": "Lentilles vertes cuites cuisinées 64,3%, petit salé de porc 21%, saucisse fumée 14,3%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/petit-sale-lentilles-vertes-000000000000086529.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 156.0
+                    },
+                    "minerals": {
+                        "salt": 0.85
+                    },
+                    "fats": {
+                        "fats": 8.4,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.7,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 4.0
+                    }
+                },
+                "ingredients": "Lentilles vertes cuites 37%, petit salé de porc [palette de porc 19% (origine : France*), eau, sel, antioxydant : erythorbate de sodium, conservateur : nitrite de sodium], saucisse fumée précuite [viande de porc 13,5% (origine : France*), gras de porc, sel, épices et plantes aromatiques, antioxydant : acide ascorbique, conservateur : nitrite de sodium, boyau de porc naturel], eau, oignon, carotte en rondelles 3,8%, graisse de canard, carotte, vin rouge Bordeaux, beurre (LAIT), poireau, préparation d’oignon (jus d’oignon concentré, huile de tournesol), farine de BLE (GLUTEN), sel, purée d’ail, thym, persil, ail, poivre, concentré de légumes (carotte, oignon, poireau), laurier.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.99,
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.18,
+            "total_reviews": 112
+        }
+    },
+    {
+        "ean": "000000000000089340",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "US"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sandwich à l'italienne",
+                "desc": "Sandwich composé d’une garniture 50,7% à base de tomate, mozzarella et préparation au basilic, et de pain spécial 49,3% - surgelé - à réchauffer.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8297b313/produits/000000000000058797_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sandwich-italienne-150g-000000000000089340.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:41",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 230.0
+                    },
+                    "minerals": {
+                        "salt": 0.96
+                    },
+                    "fats": {
+                        "fats": 9.7,
+                        "saturates": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.0,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Pain spécial 49,3% [farine de BLE (GLUTEN), eau, sucre, levure, sel], mozzarella 13,9% (contient LAIT), tomate 10,4%, oignon préfrit (oignon, huile de tournesol), préparation à base de tomate 6,9% (tomate semi-déshydratée 6,7%, huile de tournesol, sel, ail, marjolaine, origan, persil), préparation à base de basilic 6,5% [huile de colza, basilic 1,9%, fromages râpés 0,9% (contient LAIT), huile d'olive vierge extra, ail, jus de citron à base de concentré (eau, jus de citron concentré), sel], crème fraîche épaisse (LAIT), basilic 0,4%, ail, amidon de riz, sel, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2min30s\nOuvrez la languette d’ouverture facile jusque-là moitié. Déposez l’étui à plat dans le four à micro-ondes. Réchauffez le sandwich pendant 2 min 30s. Attendre 2 minutes avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.26,
+            "total_reviews": 34
+        }
+    },
+    {
+        "ean": "000000000000086702",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Riz à la cantonaise",
+                "desc": "Mélange de riz, légumes, jambon cuit supérieur fumé et omelette cuisinés, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa3799d2f/produits/000000000000089758_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/riz-cantonais-300g-fe-000000000000086702.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 3.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 4.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Riz cuit 61,3% (eau, riz), petit pois 8%, omelette 6% [ŒUF entier de poule élevée en plein air (liquide, pasteurisé), eau, farine de maïs, sel, jus de citron concentré], jambon cuit supérieur fumé 6% [jambon de porc (origine : France*), sel, bouillon (viande et os de porc), arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique], carotte 5,1%, oignon préfrit (oignon, huile de tournesol), oignon, sauce POISSONS (POISSONS, sel, eau), huile de tournesol, eau, sauce SOJA [eau, SOJA, BLÉ (GLUTEN), sel], huile de SÉSAME, ail rissolé (ail, huile de tournesol, antioxydant : extraits de romarin), farine de riz.\n*Issue d'animaux nés, élevés, abattus et transformés en France",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.6,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 W) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n30 à 35 min\nMise en garde : la température ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.27,
+            "total_reviews": 97
+        }
+    },
+    {
+        "ean": "000000000000047378",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Saumon en croûte , 6 parts",
+                "desc": "Garniture (68,1%) à base de filet de saumon, d'épinard, de chou vert et de vin blanc enrobée d'une pâte feuilletée pur beurre (31,9%), surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/saumon-croute-6-parts-000000000000047378.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "700.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 256.0
+                    },
+                    "minerals": {
+                        "salt": 0.84
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 9.8
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Filet de saumon * qualité sans arête** 35,2% (POISSONS), farine de BLÉ (GLUTEN), beurre (LAIT) 13,4%, épinard en branche 9%, chou vert 8,4%, eau, crème liquide (LAIT), crêpe [farine de FROMENT (GLUTEN), farine de sarrasin, LAIT entier, ŒUF (liquide ,pasteurisé), sel, eau], vin blanc 2%, ŒUF issu de poule élevée en plein air (liquide, pasteurisé), échalote, oignon 0,8%, sel, poivre. *Origine du saumon voir lettres indiquées dans le pavé de datage : CL : Chili, NO : Norvège",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 17.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n55 min\nPréchauffez votre four à 180°c (th.6). Déposez le saumon en croûte sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur, laissez cuire le temps indiqué. Vous pouvez couvrir le feuilleté 10 à 15 min avant la fin de la cuisson si la coloration est suffisante. Four à chaleur tournante : 55 minutes Four traditionnel : 1h05",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.38,
+            "total_reviews": 94
+        }
+    },
+    {
+        "ean": "000000000000029099",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Moussaka",
+                "desc": "Sauce à la viande 43,8%, aubergines préfrites 32,3%, sauce béchamel 18%, mozzarella 2,9% et fromage râpé 2,9%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/moussaka-000000000000029099.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "850.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 159.0
+                    },
+                    "minerals": {
+                        "salt": 0.6
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.8,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Aubergine préfrite à l'huile de tournesol 32,3%, viande bovine 18,4% (origine : France*), eau, oignon, purée de tomate 4%, carotte, farine de blé (gluten), mozzarella (lait, sel, ferments lactiques, coagulant microbien, correcteur d'acidité : acide citrique), fromage râpé 2,9% (lait, sel, coagulant microbien ou présure animale, ferments lactiques, lysozyme d’œuf),céleri, viande d'agneau 1,9% (origine : UE), lactosérum en poudre (lait), beurre (lait), sel, lait écrémé en poudre, huile d'olive vierge extra, ail, poivre, origan, thym.\n*Issue d'animaux nés, élevés et abattus en France",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 850.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n45 min\nPréchauffez votre four à 180°C (th.6). Sortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué sur une grille à mi-hauteur. Four traditionnel : 55 min - Four à chaleur tournante : 45 min Laissez reposer quelques instants avant de déguster.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n12 min\nSortez la barquette de son étui carton et de son emballage plastique. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de servir. Puissance restituée du four à micro- ondes: 750 W 900 W 15 min 12 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.57,
+            "total_reviews": 282
+        }
+    },
+    {
+        "ean": "000000000000072591",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Dos de colin d’Alaska au citron et au basilic, risotto verde",
+                "desc": "Risotto aux légumes verts 65,7%, filet de colin d'Alaska 20,5%, sauce au citron et au basilic 13,8%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4df14892/produits/plats-cuisines/edition/000000000000069562_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dos-colin-alaska-citron-risotto-verde-000000000000072591.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 85.0
+                    },
+                    "minerals": {
+                        "salt": 0.27
+                    },
+                    "fats": {
+                        "fats": 1.6,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Filet de colin d'Alaska (POISSONS) qualité sans arête* 20,5%, riz cuit 22%, eau, petit pois 13,6%, crème fraîche liquide légère (LAIT) 7,1%, brocoli 6,1%, épinard 5,1%, LAIT écrémé en poudre, jus de citron 1%, tomate semi-déshydratée marinée (tomate, huile de colza, sel, origan, ail), farine de riz, amidon de maïs, fibre de chicorée, Parmigiano Reggiano AOP** (contient : LAIT) 0,4%, basilic 0,4%, bouillon de légumes (légumes et jus de cuisson de légumes, extrait de vin blanc, sel, huile de tournesol, extraits d'épices), échalote, sel, zeste de citron 0,08%, poivre.\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.75,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min 30\nSortez la barquette vapeur de son fourreau sans percer ni enlever l'opercule plastique. Laissez cuire le temps indiqué: Puissance restituée du four : - 750 W : 7 min - 900 W : 6 min 30 Laissez reposer 1 minute avant de retirer l'opercule.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n17 min\nVersez le contenu de la barquette dans une poêle chaude avec 3 cuillères à soupe d'eau froide. Laissez cuire à feu doux pendant 7 minutes puis à feu moyen pendant 10 minutes. Remuez de temps en temps.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.85,
+            "total_reviews": 120
+        }
+    },
+    {
+        "ean": "000000000000081110",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cuisse de canard confite sauce au poivre vert",
+                "desc": "Pommes de terre préfrites à l’huile de tournesol cuisinées à la graisse de canard 49,7% , cuisse de canard maigre confite 27,4%, sauce au poivre vert 22,9% - Surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cuisse-canard-confite-sauce-poivre-vert-000000000000081110.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 166.0
+                    },
+                    "minerals": {
+                        "salt": 0.77
+                    },
+                    "fats": {
+                        "fats": 8.8,
+                        "saturates": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 0.1,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Pomme de terre préfrite (pomme de terre 44,6%, huile de tournesol 2,1%, dextrose), cuisse de canard confite 27,4% [cuisse de canard maigre (origine : France*), graisse de canard (origine France*), sel], eau, crème liquide (LAIT), graisse de canard 1,4% (origine France*), Porto, échalote, persil 0,6%, beurre (LAIT), arômes naturels, ail 0,4%, farine de tapioca, sel, Cognac, poivre vert saumuré 0,1% (poivre vert, eau, vinaigre, sucre, sel), concentré de tomate, poivre, curcuma.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 7.25,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n5 min 30\nSortez la barquette de son étui et percez l'opercule plastique de quelques trous. Déposez-la dans le four à micro-ondes et laissez réchauffer le temps indiqué. Puissance restituée du four : 750 W : 6 min 30 - 900 W : 5 min 30.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n30 min\nFaites préchauffer votre four à 180°C (th.6). Retirez l'opercule et laissez réchauffer le temps indiqué sur une grille à mi-hauteur. Remuez les pommes de terre à mi-temps. Couvrez si nécessaire en fin de cuisson. - Four traditionnel : 35 min - Four à chaleur tournante : 30 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.11,
+            "total_reviews": 121
+        }
+    },
+    {
+        "ean": "000000000000063443",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tagliatelles à la carbonara",
+                "desc": "Sauce aux lardons cuits fumés 54%, tagliatelles cuisinées 46%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tagliatelles-carbonara-000000000000063443.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 162.0
+                    },
+                    "minerals": {
+                        "salt": 0.66
+                    },
+                    "fats": {
+                        "fats": 8.9,
+                        "saturates": 5.1
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Tagliatelle aux ŒUFS cuisinée [eau, tagliatelle aux ŒUFS 19,8% (semoule de BLÉ dur (GLUTEN), ŒUF entier de poule élevée en plein air (liquide, pasteurisé), huile de tournesol, sel], crème liquide 17,1% (LAIT), eau, lardon cuit fumé traité en salaison 15% [poitrine de porc (origine : France*), sel, arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique], fromage à pâte dure (contient : LAIT), farine de riz, jaune d’ŒUF de poules élevées en plein air (liquide, pasteurisé), farine de BLÉ (GLUTEN), sel, poivre blanc, muscade.\n*Issue d'animaux nés, élevés et abattus en France",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.6,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nDécollez le coin de l'opercule carton et laissez réchauffer à puissance maximale (900 W) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.97,
+            "total_reviews": 355
+        }
+    },
+    {
+        "ean": "000000000000086565",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Emincés de poulet, riz à la sauce mangue et curry",
+                "desc": "Riz cuit au curcuma assaisonné 33,3%, mélange 25% de légumes jaunes cuisinés, émincés de filet de poulet traité en salaison cuit rôti, sauce 20% à la purée de mangue et au curry, amandes effilées grillées, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/colorfood-poulet-riz-legumes-jaune-000000000000086565.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 136.0
+                    },
+                    "minerals": {
+                        "salt": 0.4
+                    },
+                    "fats": {
+                        "fats": 6.2,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Riz cuit au curcuma 25,7% (eau, riz 11,1%, sel, curcuma 0,02%), poulet traité en salaison cuit rôti 20% [filet de poulet (origine : France*) 16,7%, eau, fécule de manioc, sel], carotte jaune 11,6%, courgette jaune 11,6%, eau, oignon, LAIT demi-écrémé, crème de coco (extrait de noix de coco, eau), huile de tournesol, bouillon de poulet [eau, os de poulet, viande de poulet (origine : France)], purée de mangue 2,3%, AMANDE effilée grillée 1,6%, pâte de curry jaune 1,4% (huile de tournesol, oignon, eau, coriandre, curcuma, cumin, fenugrec, fenouil, poivre, piment de Cayenne, gingembre, ail, vinaigre d'alcool, sel, piment vert jalapeño), noix de coco râpée, huile d'olive vierge extra, échalote, ail, farine de riz, sel, gingembre, coriandre, curcuma, poivre, piment rouge, cumin, fenugrec, cardamome, muscade, farine de BLE (GLUTEN), ail en poudre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n5 min\nSortez la barquette de son fourreau. Décollez le coin de l'opercule plastique. Laissez cuire le temps indiqué. Laissez reposer 1 minute avant de retirer l'opercule.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.81,
+            "total_reviews": 36
+        }
+    },
+    {
+        "ean": "000000000000057558",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cannelloni à la bolognaise",
+                "desc": "Farce 35,7%, pâte précuite 25,8%, béchamel 22,2%, sauce à la tomate 13,9%, emmental 2,4%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cannelloni-bolognaise-000000000000057558.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "325.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 131.0
+                    },
+                    "minerals": {
+                        "salt": 0.76
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 6.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Pâte précuite 25,8% [semoule de blé dur (gluten), eau, œuf entier issu de poule élevé en plein air (liquide, pasteurisé)], viande bovine 16,3% (origine : France*), lait écrémé réhydraté, purée de tomate 11,9%, eau, oignon, Emmental (Allemagne, France, Pays-Bas ; contient lait), carotte, concentré de tomate 2,4%, crème fraîche (lait), tomate 2%, chapelure [farine de blé (gluten), levure, sel], amidon de maïs, beurre (lait), oignon préfrit à l'huile de tournesol, huile d'olive, sel, ail, basilic, persil, poivre noir, muscade, thym, origan.\n*Issue d'animaux nés, élevés et abattus en France",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 325.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nNous vous recommandons une préparation au four à micro-ondes.\n\nAu micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n6 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n30 min\nMise en garde : la température ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. Four traditionnel : 35 min Four à chaleur tournante : 30 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.65,
+            "total_reviews": 257
+        }
+    },
+    {
+        "ean": "000000000000086287",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Emincés de poulet, conchiglie complètes, légumes",
+                "desc": "Légumes 33%, pâtes conchiglie complètes 22,8%, sauce à la tomate 21,8%, émincés de poulet cuit traité en salaison 20%, mozzarella râpée 2,2%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4df14892/produits/plats-cuisines/edition/000000000000069562_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/emince-poulet-conchiglie-000000000000086287.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 98.0
+                    },
+                    "minerals": {
+                        "salt": 0.32
+                    },
+                    "fats": {
+                        "fats": 2.2,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Pâte conchiglie complète cuite 22,8% [eau, semoule de BLÉ dur complet (GLUTEN)], émincé de poulet cuit traité en salaison [filet de poulet 17,8% (origine : UE), eau, sel], tomate pelée concassée 10,8% (tomate, jus de tomate), poivron rouge et jaune grillé 11,3%, courgette grillée 9,6%, aubergine grillée 6,2%, eau, tomate 3,4%, mozzarella râpée 2,2% (contient : LAIT), oignon rouge, poivron rouge grillé saumuré 1,2% (poivron rouge, eau, sel), basilic 1,1%, huile d'olive vierge extra, fibre de chicorée, purée de tomate double concentrée 0,6%, oignon, amidon de riz, poivron rouge 0,2%, oignon en poudre, ail, sel, LAIT écrémé en poudre, origan, persil, carotte 0,02%, thym, poivre blanc, herbes de Provence, Tabasco® (vinaigre, piment rouge vieilli, sel).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min 30\nNous vous recommandons une préparation au four à micro-ondes. Sortez la barquette vapeur de son fourreau sans percer ni enlever l'opercule plastique. Laissez réchauffer le temps indiqué : Puissance restituée du four : 750W : 7 min - 900W : 6 min 30. Laissez reposer 1 minute avant de retirer l'opercule. Attention la barquette et son contenu sont très chauds. Mélangez avant de déguster.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n17 min\nVersez le contenu de la barquette dans une poêle froide avec 3 cuillères à soupe d'eau froide. Laissez réchauffer à couvert et à feu doux pendant 5 minutes, puis à feu moyen pendant 12 minutes. Remuez à mi-temps.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.3,
+            "total_reviews": 56
+        }
+    },
+    {
+        "ean": "000000000000086582",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Saumon ASC, orge, quinoa, purée aux légumes verts",
+                "desc": "Purée de légumes verts 36,6%, mélange 30,9% de quinoa rouge et blanc et orge cuisinés, morceau de filet de saumon ASC 22,3%, sauce 9,9% à la framboise et au citron, graines de sésame noir 0,03%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4df14892/produits/plats-cuisines/edition/000000000000069562_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/saumon-asc-orge-quinoa-000000000000086582.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 152.0
+                    },
+                    "minerals": {
+                        "salt": 0.72
+                    },
+                    "fats": {
+                        "fats": 9.1,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 8.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.2,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Filet de saumon Atlantique ASC qualité sans arête* (POISSON) 22,3%, brocoli 19,4%, quinoa blanc précuit 10,9% (eau, quinoa blanc 2,6%), ORGE (GLUTEN) précuite 8,5% [eau, ORGE3,6% (GLUTEN)], fève pelée 7,7%, tomate mi-séchée assaisonnée 5,6% (tomate, huile de tournesol, sel, ail, origan, marjolaine, persil), pomme de terre précuite, crème liquide (LAIT), eau, quinoa rouge précuit 3,2% (eau, quinoa rouge 2,1%), huile de tournesol, huile d’olive vierge extra, échalote, fibre de pois, brisure de framboise 0,7%, coriandre, sel, jus de citron vert, oignon rouge, persil, ail, ciboulette, jus de citron à base de concentré 0,2% (eau, jus de citron concentré), mélange 5 baies, amidon de riz, graine de SESAME noir 0,03%, poivre blanc.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n7 min\nSortez la papillote de son étui carton et déposez-la sur une assiette, couvercle vers le haut. Faites cuire 7 min à 750W. Laissez reposer 1 min avant de retirer le couvercle avec précaution.\n\nAu four\nPréparationCuisson au four pendant\n45 min\nFaites préchauffer le four à 180°C (th. 6). Sortez la papilotte de son étui carton et déposez-la dans un plat adapté, couvercle vers le haut. Laissez cuire à mi-hauteur le temps indiqué : - Four à chaleur tournante : 45 à 50 min - Four traditionnel : 50 à 55 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.69,
+            "total_reviews": 221
+        }
+    },
+    {
+        "ean": "000000000000029958",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Brandade morue Parmentier à l'huile d'olive (6%)",
+                "desc": "Brandade de morue à l'huile d'olive (6%) 52%, purée de pomme de terre 48%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/brandade-morue-parmentier-huile-olive-6-000000000000029958.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 165.0
+                    },
+                    "minerals": {
+                        "salt": 0.68
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Morue salée qualité sans arête* 20,2% [morceau de cabillaud (poissons),sel], morue dessalée qualité sans arête* 20,2 % [morceau de cabillaud (poissons),sel] purée de pomme de terre 29,6%, pomme de terre cuite (pomme de terre 9,8%, sel), crème liquide pasteurisée (lait), huile d'olive vierge extra 6%, eau, lait entier en poudre, flocon de pomme de terre 0,9% beurre (lait), ail, sel, poivre.",
+                "allergens": [
+                    "Lait",
+                    "Poisson",
+                    "Traces de Œuf",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.75,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nSortez la barquette de son étui carton et retirez le film plastique. Laissez réchauffer le temps indiqué : Puissance restituée du four : 750 W : 7 min - 900 W : 5 min 30.\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nMise en garde : la température du four ne doit pas excéder 200°C. Préchauffez votre four à 180°C (th.6). Sortez la barquette de son étui carton et retirez le film plastique. Laissez réchauffer sur une grille à mi-hauteur le temps indiqué : - Four traditionnel : 40 min - Four à chaleur tournante : 30 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.66,
+            "total_reviews": 205
+        }
+    },
+    {
+        "ean": "000000000000086476",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gnocchi de patate douce et épinards",
+                "desc": "Gnocchi 84,3% à la patate douce, épinard 10% et sauce 5,6% au beurre des Charentes et à l'échalote, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw39616c07/produits/000000000000086477_2c.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gnocchi-patate-douce-mix-miam-000000000000086476.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:42",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 164.0
+                    },
+                    "minerals": {
+                        "salt": 0.51
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 4.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24.0,
+                        "of_which_sugars": 5.9,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Gnocchi à la patate douce 84,3% [patate douce 35,3%, farine de BLÉ (GLUTEN), pomme de terre, ŒUF de poule élevée en plein air (liquide, pasteurisé), huile de tournesol, sel], épinard 10%, Beurre des Charentes AOP* (LAIT) 3,7%, échalote 1,5%, ail, sel, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 1.2,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n2 min*\n- Pour 1 sachet : versez le contenu du sachet dans un bol adapté et laissez cuire pendant 2 min à 900W - Dans le cas d’une utilisation simultanée avec 2 autres sachets de la gamme : versez le contenu des 3 sachets les uns à côté des autres dans un bol adapté, et laissez cuire 6 min à 6min30 à 900W. Ce produit doit être cuit avant consommation",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Mix & Miam"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.06,
+            "total_reviews": 47
+        }
+    },
+    {
+        "ean": "000000000000089430",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers épinard - chèvre",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-paniers-epinard-chevre-000000000000089430.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:43",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.7,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086608",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bœuf sce marchand de vin,écrasé PDT légumes",
+                "desc": "Ecrasé de pommes de terre 31,8% et légumes cuisinés 31,8%, sauté de paleron de bœuf cuit, sauce 18,1% au vin rouge et à l’échalote, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4943c4b0/produits/000000000000072608_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boeuf-sce-marchand-vin-000000000000086608.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:43",
+                "format": "330.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 100.0
+                    },
+                    "minerals": {
+                        "salt": 0.36
+                    },
+                    "fats": {
+                        "fats": 4.9,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 6.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Pomme de terre cuite 25,1% (pomme de terre 25%, sel), sauté de paleron de bœuf cuit 18,1% [viande de bœuf 16,2% (origine : France*), eau, fécule de manioc, sel, poivre], carotte 14,9%, eau, vin rouge Merlot 6,4%, lentille verte cuite 5,2% (eau, lentille verte), graine de SOJA 5,2%, échalote 4,8%, crème fraîche liquide (LAIT), épinard 3,5%, oignon, huile de colza, amidon de riz, purée de tomate double concentré, fond de bœuf 0,3% [viande et jus de cuisson de bœuf (origine : France*), sel], ail, huile d'olive vierge extra, persil 0,1%, beurre (LAIT), thym, oignon en poudre, sel, muscade, épices, laurier, girofle.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 4.95,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n7 min 30\nDécollez le coin de l'opercule et laissez réchauffer le temps indiqué. Puissance restituée du four à micro-ondes : 750 Watts : 7 min 30 - 900 Watts : 6 min 30. Laissez reposer quelques instants avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086609",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Gammes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de maquereau, pâtes orzo, légumes du soleil",
+                "desc": "Sauce 44,8% aux légumes et à la tomate, pâtes orzo complètes cuites et morceaux de filet de maquereau, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdea4f3cc/produits/00000000000000072591_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/maquereau-sce-provencale-000000000000086609.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:43",
+                "format": "330.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 93.0
+                    },
+                    "minerals": {
+                        "salt": 0.32
+                    },
+                    "fats": {
+                        "fats": 2.9,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.7,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Pâte orzo complète cuite 28,8% [eau, semoule de BLÉ dur (GLUTEN)], morceau de filet de maquereau avec peau* (POISSONS) 22,9%, courgette 13,7%, pulpe de tomate au jus 6,4% (tomate pelée concassée, jus de tomate), purée de tomate 6,4%, eau, poivron rouge 4,4%, aubergine grillée 4,4%, oignon, basilic, échalote, purée de tomate double concentré 0,7%, huile de tournesol, huile d'olive vierge extra, ail, farine de riz, jus concentrés de légumes (carotte, oignon, poireau), sel, sel de Guérande, paprika, algue nori déshydratée, fibre de lin, origan, thym, poivre, piment d'Espelette. *Le filet de maquereau peut contenir des arêtes.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 4.75,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n7 min 30\nDécollez le coin de l'opercule et laissez cuire le temps indiqué. Puissance restituée du four à micro-ondes : 750 Watts : 7 min 30 - 900 Watts : 6 min 30. Laissez reposer quelques instants avant de déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    }
+]

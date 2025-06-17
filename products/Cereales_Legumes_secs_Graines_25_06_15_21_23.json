@@ -1,0 +1,2182 @@
+[
+    {
+        "ean": "hache-vegetal-175g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HACHÉ VÉGÉTAL POIS ET FÉVEROLE 175G BIO",
+                "desc": "Haché végétal pois et féverole 175g Bio\nDécouvrez une alternative végétale savoureuse à la viande : un haché riche en fibres et en protéines, sans soja, à base de pois et de féverole cultivés en France. Facile à cuisiner, il s’adapte à toutes vos recettes du quotidien : hachis parmentier, sauce bolognaise ou plats mijotés.\nFilière France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031750.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/hache-vegetal-175g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:19",
+                "format": "175G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.6
+                    },
+                    "proteins": {
+                        "proteins": 52
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 17
+                    }
+                },
+                "ingredients": "Protéine de pois* (70%), protéine de féverole* (30%).",
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 3.59,
+                "price_per_unit": 20.51,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Compter environ 20g de protéine par personne. Réhydrater dans de l’eau bouillante (compter 5 fois leur volume) pendant au moins 20 min. Egoutter le haché et le faire revenir dans une poêle chaude avec une cuillère à soupe d’huile de tournesol. Assaisonner.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "lentilles-corail-1-kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES CORAIL 1KG BIO",
+                "desc": "Lentilles corail 1kg Bio\nDe succulentes lentilles corail, à consommer chaudes ou froides. Elles constituent un apport élevé en protéines et en fer. Accompagnez-les de céréales.\nConditionné dans un sachet recyclable, en Isère (France).\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329484291207.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-corail-1-kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:19",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 25
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51.5,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Lentilles corail*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 4.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plonger les lentilles dans de l'eau bouillante. Laisser cuire 10 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "proteines-soja-fin-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROTÉINES DE SOJA ÉMINCÉES FINES 200G BIO",
+                "desc": "Protéines de soja émincées fines 200g Bio\nLe soja jaune est dépelliculé et partiellement dégraissé par pression à froid. Le tourteau de soja est ensuite moulu et extrudé à 140-160°C et trié.\nOrigine UE.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031750.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/proteines-soja-fin-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:19",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 48.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.2,
+                        "of_which_sugars": 5.4
+                    }
+                },
+                "ingredients": "Farine de soja déshuilée *.\n*Ingrédient issu d'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 14.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "1 volume de liquide bouillant pour 1 volume de protéines de soja. Couvrir et laisser gonfler. Idéal pour vos farces, galettes, dhal...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "couscous-demi-c-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUSCOUS DEMI-COMPLET 500G BIO",
+                "desc": "Couscous demi-complet 500g Bio\nLe couscous complet est obtenu à partir de semoule de blé dur complète et d’eau. Les grains obtenus sont ensuite précuits et séchés. La couleur du couscous complet varie du jaune ambré au brun clair.\nCuisson en 5 minutes.\nIdéal pour un couscous et taboulé. Riche en fibres, Source de protéines.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380023774.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/couscous-demi-c-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:19",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 5
+                    }
+                },
+                "ingredients": "Semoule de BLÉ dur demi-complète.*\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.69,
+                "price_per_unit": 5.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation : verser 1 volume de couscous dans un saladier, ajouter 1 volume d'eau bouillante salée, couvrir le saladier, laisser gonfler 5 minutes puis égrener à la fourchette. \nAssaisonner selon vos goûts. Le couscous complet sera idéal pour réaliser la recette traditionnelle du couscous en ajoutant légumes, viandes et épices de votre choix. Il sera également délicieux en accompagnement de tous vos légumes et pour la conception de taboulé.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "graines-chanvre-lin-chia-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRAINES DE CHANVRE LIN ET CHIA MOULUES 200G BIO",
+                "desc": "Graines de chanvre lin et chia moulues 200g Bio\nUne recette riche en cuivre, qui soutient le système immunitaire, en fibres, protéines végétales et oméga 3.\nSon sachet fraîcheur est pratique et vous permet de le refermer afin de garantir la meilleure qualité de ces supers graines moulues.\nIl vous suffit d'ajouter cette super poudre à vos repas (yaourts, smoothies...)\nFabriqué à partir de chanvre cultivé en France.\nConvient au régime sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329488732508_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/graines-chanvre-lin-chia-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:19",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 37
+                    },
+                    "proteins": {
+                        "proteins": 24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.7,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 27
+                    }
+                },
+                "ingredients": "Graines complètes de chanvre Bio moulues 70%, graines de lin Bio moulues 20%, graines de chia (Salvia hispanica) Bio moulues  10%.\nPeut contenir des traces de NOIX, SESAME, SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.05,
+                "price_per_unit": 25.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-11%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ajoutez 25g (2cuillères à soupe) à vos repas: yaourts, smoothies, soupes ...",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.65
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "sarrasin-decort-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SARRASIN DÉCORTIQUÉ 500G BIO",
+                "desc": "Sarrasin décortiqué 500g Bio\nDu sarrasin décortiqué, d'origine Europe et conditionné en Isère (France). En France, on connaît plus le sarrasin sous forme de farine, notamment dans la recette des galettes bretonnes mais il est délicieux sous forme de \"grains\" avec des notes de noisettes grillées.\nUn accompagnement original à tous vos plats de viande, poisson et légumes.\nPratique, sa cuisson n'est que de 10 minutes.\nOn apprécie son conditionnement dans un emballage recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329488661204_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sarrasin-decort-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 11.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 5.6
+                    }
+                },
+                "ingredients": "Sarrasin * décortiqué.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de sarrasin pour 2 volumes d'eau, à couvert pendant 10 minutes, puis saler.\nA déguster chaud en accompagnement mais également froid dans vos salades composées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "pois-chiches-france-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CHICHES DE FRANCE 500G BIO",
+                "desc": "Pois chiches de france 500g Bio\nDes pois chiches issus de la filière légumineuses 100% France de Priméal. Une cuisson en 40 minutes, idéal pour vos recettes de houmous maison, salades composées ou en accompagnement de vos plats de légumes.\nAccompagné d'une céréale, le pois chiche constitue une alternative végétale aux protéines animales.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484521205_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-chiches-france-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 170
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 6.2
+                    },
+                    "proteins": {
+                        "proteins": 20.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 37,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 22.1
+                    }
+                },
+                "ingredients": "Pois chiches*.\nPeut contenir des traces de GLUTEN.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 6.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire tremper une nuit puis amener à ébullition 2min. Égoutter et cuire à feu doux 40 à 60 minutes dans de l'eau.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "grain-lin-tourn-courg-goj-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE DE GRAINES MOULUES COURGE GOJI 200G BIO",
+                "desc": "Mélange de graines moulues courge goji 200g Bio\nDes graines de lin, tournesol, courge, chia et baies de goji moulus à froid, pour préserver les nutriments et faciliter leur absorption par l'organisme.\nUn mélange pour profiter des bienfaits naturels des plantes: source de fibres et de protéines et riche en oméga 3.\nConvient au régime végétalien et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329482685008_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/grain-lin-tourn-courg-goj-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 120
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.1
+                    },
+                    "fats": {
+                        "fats": 37
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8,
+                        "of_which_sugars": 5.7,
+                        "dietary_fiber": 18
+                    }
+                },
+                "ingredients": "46% graines de lin bio, 15% graines de tournesol bio, 15% graines de courge bio, 12.5% graines de chia (Salvia hispanica) bio, 10% baies de goji bio séchées au soleil, amidon de maïs cireux.\nPeut contenir des traces de FRUITS A COQUE, SESAME, SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.9,
+                "price_per_unit": 24.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-11%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ajouter simplement 2 cuillères à soupe à vos plats préférés par jour : salade, yaourt, smoothie ou céréales.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.49
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "eclats-de-soja-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ÉCLATS DE SOJA 500G BIO",
+                "desc": "Eclats de soja 500G Bio.\nProtéines de soja sans OGM.\nSans gluten.\nFormat : 2,5 à 5 mm.\nOrigine Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/e/x/ex4a3846_soja_coeur_300_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/eclats-de-soja-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 48.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.7,
+                        "of_which_sugars": 6.7
+                    }
+                },
+                "ingredients": "Soja biologique déshuilée.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.05,
+                "price_per_unit": 14.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour les plats type sauce bolognaise, farce, lasagnes...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "coeurs-de-soja-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CŒURS DE SOJA 300G BIO",
+                "desc": "Coeurs de soja 300G Bio.\nProtéines de soja sans OGM.\nSans gluten.\nFormat : 12 à 20 mm.\nOrigine Sud-Ouest.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031736.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coeurs-de-soja-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 48.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.7,
+                        "of_which_sugars": 6.7
+                    }
+                },
+                "ingredients": "Soja biologique déshuilée.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 15.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour les plats type chili con soja, poêlée, sauté, marinades, etc.\nPeut remplacer le poulet dans une recette de \"poulet sauce aigre-douce\".",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "taboule-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABOULÉ 300G BIO",
+                "desc": "Taboulé 300g Bio\nRecette inspirée de la recette libanaise originelle, pratique, c'est prêt en 5 minutes.\nUne recette colorée et parfumée peut être préparée la veille et agrémentée selon vos envies, pour déguster seul ou en accompagnement.\nUne recette avec du blé d'origine Europe et fabriqué en Isère (France).\nUn conditionnement en sachet recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410018955.1-0001_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/taboule-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 11.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70,
+                        "of_which_sugars": 3.8
+                    }
+                },
+                "ingredients": "Semoule blanche de BLÉ dur*, tomate*, sel marin, oignon*, persil*, menthe*, carotte*.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 13.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser la préparation dans un grand saladier.\nAjouter 500 ml d'eau chaude ou l'équivalent en volume du couscous taboulé et 2 cuillères à soupe d'huile d'olive. Couvrir et laisser reposer quelques minutes.\nLorsque la semoule est bien gonflée, aérer avec une fourchette.\nAjouter 1 à 2 jus de citron et mettre au frais. Possibilité d'ajouter des petits cubes de concombres, de tomate, de la menthe fraîche, des crevettes...",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "couscous-aux-fleurs-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUSCOUS AUX FLEURS 300G BIO",
+                "desc": "Couscous aux fleurs 300g Bio\nRecette instantanée pour consommer des fleurs de façon originale.\nElles apportent par leurs formes et leurs couleurs variées un plaisir visuel aux graines de couscous fines et rondes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329482011128_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/couscous-aux-fleurs-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 11.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69.2,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Semoule blanche de blé dur*, flocons de pois chiche*, sel marin, carotte*, fleurs*(1%)(hibiscus*, rose*, bleuet*, lavande*), paillettes d'huiles essentielles* (agave*, huiles essentielles d'agrumes*), oignon*, persil*, ail des ours*, ail*, romarin*, curcuma*",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 14.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser la préparation dans un grand saladier.\nAjouter 500 ml d'eau chaude ou l'équivalent en volume du couscous aux fleurs.\nCouvrir et laisser reposer quelques minutes. Lorsque la semoule est bien gonflée, aérer avec une fourchette.\nPour une utilisation en salade, ajouter éventuellement des petits cubes de concombre ou d'avocats suivant la saison et des fleurs fraîches comestibles !\nEgalement plat d'accompagnement raffiné pour protéines végétales, poisson ou volaille.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "cereales-petit-epeautre-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÉRÉALES PETIT ÉPEAUTRE 500G BIO",
+                "desc": "Céréales de petit épeautre 500G Bio\nAu travers de la mention \"Petit Epeautre de Haute Provence\", vous avez la garantie d'avoir acheté une céréale locale et authentique.\nSon grain est tendre et sa saveur et très fine.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329482231205_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cereales-petit-epeautre-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:20",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 120
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 11.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 10.6
+                    }
+                },
+                "ingredients": "Petit épeautre* (tritcum monococcum) de Haute Provence.\n*Issu de l’Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 7.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se cuisine aussi bien en salades qu'en plat d'accompagnement comme le riz.\nPréparation : laver et cuire 1 volume de grains dans 2 volumes d'eau à couvert pendant 45minutes.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "quinoa-etui-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "QUINOA REAL DE BOLIVIE 500G BIO",
+                "desc": "Quinoa Real de Bolivie 500G Bio\nCultivé avant l'époque des Incas (il y a près de 6000 ans) jusqu'à nos jours, dans les montagnes de la Cordillère des Andes à plus de 3000 mètres d'altitude, le quinoa appartient à la famille des chénopodiacées (comme les épinards) tout en étant assimilé à une céréale grâce à sa composition et à son utilisation très similaires.\nC'est un aliment trés équilibré : richesse quantitative en protéines, en acides aminés essentiels et en minéraux surtout le fer, présent sous une forme assimilable.\nLes + produit :\n- Produit issu de l'agriculture biologique\n- Son emballage en carton recyclé et conditionnement en France\n- Sa cuison rapide 12 minutes\n- Sa texture moelleuse",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329482611205.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/quinoa-etui-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 5.1
+                    },
+                    "proteins": {
+                        "proteins": 12.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67.5,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 6.3
+                    }
+                },
+                "ingredients": "Quinoa Real blanc* (chenopodium quinoa).\n*issu de l'agriculture biologique.\n100% du total des ingrédients d'origine agricole sont issus du commerce équitable contrôlé selon le référentiel FIABLE.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation de base : 2 volumes d'eau pour 1 volume de quinoa lavé. Cuisson à couvert 10 à 15 minutes. Servir chaud, nature, en accompagnement, ou laisser refroidir pour l'apprêter en salade. Les préparations sucrées donnent des résultat originaux et exquis ! Prévoir 1 verre de quinoa cru (soit 150 g) pour 2 personnes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "haricots-rouges-france-750g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS ROUGES FRANCE 750G BIO",
+                "desc": "Haricots rouges france 750g Bio\nUn incontournable en cuisine, ces haricots se dégustent chaud ou froid dans vos salades ou encore vos chilis et plats mijotés.\nAccompagnez-les d'une céréale pour constituer une alternative végétales aux protéines animales.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/4/8436041493648.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricots-rouges-france-750g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "750G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 21
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 21
+                    }
+                },
+                "ingredients": "Haricots rouges* (origine France).\nTraces éventuelles de GLUTEN  et de SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 6.9,
+                "price_per_unit": 9.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire tremper 1 nuit puis amener à ebullition 2min. Egoutter et cuire à feux doux 40 à 60min dans de l'eau avec des aromates.\nVous pouvez également y ajouter de l'algue Kombu.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "6666128",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES CORAIL 750G BIO",
+                "desc": "Lentilles corail 750g Bio\nLentilles corail décortiquées issues de l'agriculture biologique.\nElles seront parfaites pour la réalisation de vos dhals ou pour accompagner vos plats de poisson, viandes et légumes. Riche en protéines, elles sont rapide à cuisiner et ont une texture tendre et fondante.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484611203_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-corail-750g-6666128"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "750G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Lentilles corail* (origine Turquie).\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles de GLUTEN.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 5.53,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de lentilles corail dans 2 volumes d'eau (ou bouillon) pendant 10 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "pois-chiches-fr-750g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CHICHES FRANCE 750G BIO",
+                "desc": "Pois chiches France 750g Bio\nPois chiches issus de l'agriculture biologique. Les pois chiches sont utilisés dans de nombreuses recettes du monde : couscous, houmous, falafels. Vous pouvez aussi les consommer chaud ou froid dans une salade par exemple.\nRiche en fibres et en protéines.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329484291207.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-chiches-fr-750g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "750G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 170
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 6.2
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 37,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 22
+                    }
+                },
+                "ingredients": "Pois chiches* (Origine France).\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles de GLUTEN et de SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 5.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre à tremper les pois chiches toute une nuit dans une casserole d'eau froide, puis amener à ébullition 2 minutes et égoutter (cette étape contribue à assurer une bonne digestion des pois). Poursuivre la cuisson dans un grand volume d'eau à feu doux pendant 40 à 60 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "quinoa-issu-commerce-equi-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "QUINOA BLANC 500G BIO",
+                "desc": "Quinoa blanc 500g Bio\nDécouvrez ce quinoa blanc issu de l'agriculture biologique et du commerce équitable.\nOrigine Bolivie.\n\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380021671.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/quinoa-issu-commerce-equi-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 5.1
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 6.3
+                    }
+                },
+                "ingredients": "Qunoa blanc (Bolivie) issu de l'agriculture biologique et du commerce équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de quinoa dans 2 volumes d'eau à couvert pendant 12 à 15 minutes à feu doux puis saler.",
+                "conservation": "Conditionné sous atmosphère protectrice. \nA conserver dans un endroit sec, tempéré et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "trio-quinoa-boulgour-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE DE QUINOA & BOULGOUR 500G BIO",
+                "desc": "Mélange de Quinoa & Boulgour 500G Bio\nMélange de boulgour et trio de quinoa issu de l'agriculture biologique.\n50% Bolivie, 50% Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329484711200.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/trio-quinoa-boulgour-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 8.1
+                    }
+                },
+                "ingredients": "Boulgour de blé dur* 50% (Italie), quinoa blanc* 25% (Bolivie), quinoa rouge* 15% (Bolivie), quinoa noir* 10% (Bolivie).\n*Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 8.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincer et cuire 1 volume de mélange dans 2  volumes d'eau à couvert pendant 12 à 15 minutes à feu doux, puis saler.",
+                "conservation": "A conserver dans un endroit frais et sec à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "6810137",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TRIO QUINOA 500G BIO",
+                "desc": "Trio quinoa 500g Bio\nRiche en protéines végétales, ce trio de quinoa se distingue par ses grains généreux et moelleux, aux délicates notes d’amande. Sans gluten, il apporte une touche de fraîcheur et de couleur à vos salades ou accompagne parfaitement vos plats favoris. Originaire du Pérou, d’Équateur et de Bolivie, découvrez notre quinoa équitable, un mélange de quinoa rouge, blanc et noir au goût unique et authentique.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329482811209.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/trio-quinoa-500g-6810137"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 6.5
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 13
+                    }
+                },
+                "ingredients": "Quinoa blanc**, quinoa rouge**, quinoa noir**.\n**Issu de l'agriculture biologique et du commerce équitable.\n\nAllergènes : Non applicable\nTraces de : Fruits à coque, sésame, soja, gluten.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.59,
+                "price_per_unit": 15.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Porter à ébullition pendant 12 à 15 minutes dans 2 fois son volume d’eau. Saler en fin de cuisson.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "solmon-fume-100-vegetal-75g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOLMON FUMÉ 100% VÉGÉTAL 75G BIO",
+                "desc": "Solmon fumé 100% Végétal 75g Bio\nLa 1e alternative 100% végétale, française et BIO au saumon fumé ! A base d’algues et de plantes et traditionnellement fumée au bois de hêtre, SOLMON reproduit naturellement tout ce qu’on aime dans le saumon fumé, sans le saumon. On a gardé que le meilleur pour que vous puissiez en consommer sans modération. C’est quand même pas la mer à boire !\nVegan. Riche en Oméga 3. Source de protéines. Sans antibiotiques. Sans pesticides. Sans mercure. Sans plomb. \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329480002241.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/solmon-fume-100-vegetal-75g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "75G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 8.3
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.1,
+                        "of_which_sugars": 2.4
+                    }
+                },
+                "ingredients": "Eau, maltodextrine de maïs*, protéines de pois*, huiles végétales (colza*, lin*), extrait d'algues marines (Ascophyllum nodosum*, Agar-agar*) 0,5%, fibres d'agrumes*, farine de konjac*, extrait de carotte*, amidon de riz*, épaississant : gomme xanthane, sel de mer.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 66.53,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster comme du saumon, sur des blinis par exemple.",
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "graine-courge-gril-sal-fr200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRAINES DE COURGES GRILLÉES SALÉES 150G BIO",
+                "desc": "Graines de courges grillées salées 150g Bio\nDe croquantes graines de courges grillées et légérement salées, cultivées en lot-et-garonne. Vous pouvez les picorer à l'apéritif ou les saupoudrer sur vos salades.\nEn sachet recyclable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760137110115.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/graine-courge-gril-sal-fr200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:21",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "graines de courges bio, sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 39.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à déguster à l'apéritif ou à saupoudrer dans vos salades.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "pois-chiche-scht-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CHICHE EN SACHET 500G BIO",
+                "desc": "Pois Chiche en sachet 500g Bio\nCes petits joyaux végétaux sont une source riche en protéines végétales, et ils sont tout simplement incontournables dans votre cuisine.\nQue ce soit en accompagnement de salades fraîches et colorées pour une dose supplémentaire de protéines et de croquant, ou cuisinés en plats chauds et savoureux comme des curry, des houmous maison ou des ragoûts délicieusement épicés, nos pois chiches bio sauront satisfaire vos papilles tout en vous apportant des bienfaits nutritionnels !\nPois chiche cultivé dans le sud-ouest de la France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484611203_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-chiche-scht-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 80
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.55
+                    },
+                    "fats": {
+                        "fats": 5.85
+                    },
+                    "proteins": {
+                        "proteins": 20.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47.5,
+                        "of_which_sugars": 6.5,
+                        "dietary_fiber": 13.2
+                    }
+                },
+                "ingredients": "Pois Chiche*.\n*Issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 7.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour cuire les pois chiches, portez une grande casserole d'eau à ébullition, ajoutez les pois chiches égouttés et laissez mijoter pendant environ 60 à 90 minutes jusqu'à ce qu'ils soient tendres. Égouttez-les.\nDans une poêle, faites chauffer de l'huile d'olive ou d'autres graisses (comme du beurre ou du ghee) à feu moyen.\nSi vous le souhaitez, faites revenir des légumes comme des oignons et de l'ail jusqu'à ce qu'ils deviennent tendres et parfumés.\nAjoutez les pois chiches à la poêle et faites-les sauter pendant quelques minutes pour les réchauffer.",
+                "conservation": "Produit à conserver à l'abri de la chaleur, de l'humidité et de la lumière. Rincer et ou tremper avant cuisson.\nProduit pouvant être utilisé comme matière première destinée à l'alimentation animale."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "haricot-rouge-fce-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOT ROUGE EN SACHET 500G BIO",
+                "desc": "Haricots Rouges en sachet 500g Bio\nRiches en protéines, fibres, vitamines et minéraux, ces haricots rouges deviendront un élément essentiel de votre placard à légumineuses !\nCultivé dans le Sud-Ouest de la France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484441206_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricot-rouge-fce-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.15
+                    },
+                    "fats": {
+                        "fats": 1.03
+                    },
+                    "proteins": {
+                        "proteins": 22.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46.1,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 15.2
+                    }
+                },
+                "ingredients": "Haricots rouges Bio*",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 11.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Avant de les utiliser, rincez les haricots rouges sous l'eau froide pour éliminer l'excès de sel et de saumure du sachet. Cela permet également de réduire leur teneur en sodium.\nÀ la casserole : Versez les haricots rincés dans une casserole, ajoutez un peu d'eau ou de bouillon si nécessaire pour les réchauffer, et faites chauffer à feu doux pendant quelques minutes.\nAu micro-ondes : Placez les haricots rincés dans un récipient adapté au micro-ondes, ajoutez un peu d'eau si nécessaire, couvrez et chauffez par tranches de 30 secondes jusqu'à ce qu'ils soient chauds.",
+                "conservation": "Produit à conserver à l'abri de la chaleur, de l'humidité et de la lumière. Rincer et ou tremper avant cuisson.\nProduit pouvant être utilisé comme matière première destinée à l'alimentation animale."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "flocon-pdt-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES DE TERRE EN FLOCONS 250G BIO",
+                "desc": "Purée de pommes de terre en flocons 250G Bio\nLes flocons de pommes de terre seront l’astuce idéale pour réaliser de savoureuses et onctueuses purées en quelques minutes.\nUltra simple et rapide. Produit déshydraté. Fine et onctueuse, Savoureux. \nCuisson en 5 minutes.\nCompter environ 125g de flocons pour 4 personnes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484635001_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/flocon-pdt-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:22",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 7.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.5,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 10.4
+                    }
+                },
+                "ingredients": "Pommes de terre*, antioxydant : extrait de romarin* (<0.1%).",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 13.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire chauffer 1/2 litre d'eau. A ébullition, retirer du feu, ajouter 250ml de lait froid, puis verser les flocons jusqu'à ce que le mélange soit homogène. Laisser reposer 1 minute, puis remuer délicatement à l'aide d'une spatule. Assaisonner selon vore goût.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "6634201",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CASSÉ EN SACHET 500G BIO",
+                "desc": "Pois cassé en sachet 500g Bio\nRiches en protéines, fibres, vitamines et minéraux, ces haricots rouges deviendront un élément essentiel de votre placard à légumineuses !\nPois cassé cultivé dans le Sud-Ouest de la France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329484711200.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-casses-500g-6634201"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:22",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Pois cassés Bio*",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 7.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Rincez les pois cassés à l'eau froide pour éliminer toute saleté ou impureté. Vous pouvez également faire tremper les pois cassés dans de l'eau pendant quelques heures ou toute une nuit pour réduire le temps de cuisson.\nDans une casserole, ajoutez les pois cassés rincés (et égouttés s'ils ont été trempés) ainsi que de l'eau. La quantité d'eau dépendra de la texture que vous souhaitez obtenir. En général, utilisez environ 3 à 4 tasses d'eau par tasse de pois cassés pour une texture épaisse.\nSi vous le souhaitez, ajoutez des légumes comme des carottes, des oignons et du céleri pour plus de saveur. Coupez-les en petits morceaux et ajoutez-les à la casserole.",
+                "conservation": "Produit à conserver à l'abri de la chaleur, de l'humidité et de la lumière. Rincer et ou tremper avant cuisson.\nProduit pouvant être utilisé comme matière première destinée à l'alimentation animale"
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "lentilles-noires-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES NOIRES 500G BIO",
+                "desc": "Lentilles noires 500g Bio\nSource de protéines végétales, les lentilles noires sont une excellente source de protéines végétales. En accompagnement de salades, ou cuisinées en plat chaud, ces délicieuses lentilles deviendront un indispensable ! \nCultivé dans le Sud-Ouest de la France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484611203_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-noires-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 28.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 14.9
+                    }
+                },
+                "ingredients": "Lentilles noires*\n*Issues de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole moyenne, mettez 1 tasse de lentilles noires. Pour une saveur additionnelle, vous pouvez ajouter des épices, de l'ail ou d'autres aromates à ce stade.\nVersez 3 tasses d'eau dans la casserole avec les lentilles. Si vous le souhaitez, ajoutez une pincée de sel pour relever la saveur.\nPortez l'eau à ébullition, puis réduisez le feu à moyen-doux pour maintenir un léger frémissement. Couvrez la casserole avec un couvercle partiellement incliné, puis laissez mijoter pendant environ 25 à 30 minutes. Les lentilles doivent être tendres, mais pas trop molles.\nUne fois cuites, égouttez les lentilles si nécessaire. Vous pouvez également les servir avec une partie du liquide de cuisson si vous préférez une texture plus soupeuse.  Ajoutez des épices, des herbes ou d'autres assaisonnements de votre choix pour personnaliser le goût de vos lentilles noires.\nServez chaud en accompagnement de plats principaux ou en salade. Les lentilles noires sont polyvalentes et se marient bien avec de nombreuses préparations.",
+                "conservation": "Produit à conserver à l'abri de la chaleur, de l'humidité et de la lumière. Rincer et ou tremper avant cuisson. Produit pouvant être utilisé comme matière première destinée à l'alimentation animale"
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "couscous-demi-complet-fr-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUSCOUS DEMI-COMPLET 1KG BIO",
+                "desc": "Couscous demi-complet 1kg Bio\nCouscous demi-complet de blé élaboré à partir de semoule de blé dur. Dégustez ce couscous avec des légumes, de la viande, des épices ou en taboulé frais en été. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486341207_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/couscous-demi-complet-fr-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:23",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 5
+                    }
+                },
+                "ingredients": "Semoule de BLÉ dur*\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 5.55,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser un volume d'eau bouillante salée sur un volume de couscous. Couvrir le bol, laisser gonfler 5 minutes. Egrener avec une fourchette.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "couscous-sarrasin-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUSCOUS SARRASIN 375G BIO",
+                "desc": "Couscous sarrasin 375g Bio\nDécouvrez le couscous au sarrasin idéal pour un régime sans gluten. \nSimple de préparation, ce couscous est à aissaisonner selon vos goûts. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390108409_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/couscous-sarrasin-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:23",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 6.1
+                    }
+                },
+                "ingredients": "Farine de sarrasin.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 5.19,
+                "price_per_unit": 13.84,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La préparation est simples et rapide : \nVerser 1 volume et demi d'eau bouillante sur un volume de couscous, couvrir et laisser gonfler 5 minutes. Egrainer à la fourchette. Assaisonner selons vos goûts.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    },
+    {
+        "ean": "proteines-soja-gros-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Céréales, Légumes secs, Graines"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROTÉINES DE SOJA GROS MORCEAUX 150G BIO",
+                "desc": "Protéines de soja gros morceaux 150g Bio\nLe soja jaune est dépelliculé et partiellement dégraissé par pression à froid. Le tourteau de soja est ensuite moulu et extrudé à 140-160°C et trié.\nIdéal pour vos plats de ragoûts, risottos, dhals...\nOrigine UE.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031743.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/proteines-soja-gros-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:23",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 48.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.2,
+                        "of_which_sugars": 5.4,
+                        "dietary_fiber": 16
+                    }
+                },
+                "ingredients": "Farine de soja déshuilée*.\n* Ingrédient issu d'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.25,
+                "price_per_unit": 15.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser 1 à 2 volume de liquide bouillant sur 1 volume de protéines de soja. Laissez gonfler 5 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:18",
+        "updated_at": "2025-06-15T21:18"
+    }
+]

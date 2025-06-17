@@ -1,0 +1,1578 @@
+[
+    {
+        "ean": "jus-pomme-gingembre-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE POMMES ET DE GINGEMBRE DEMETER 75CL BIO",
+                "desc": "Jus de pommes et de gingembre Demeter 75Cl Bio\n94% de pomme et 6% de gingembre.\nLe gingembre, racine tropicale épicée et citronnée donne tonicité et gaité à la pomme douce et parfumée.\nChez Côteaux Nantais, nous ne disons qu'un seul mot : EXCELLENT !\nA consommer sans modération en jus ou en apibul.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760085560505.1-0003.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-pomme-gingembre-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:57",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 11
+                    }
+                },
+                "ingredients": "Jus de pommes Demeter (94 %), jus de gingembre * (6%) (gingembre *, jus concentré de citron *).",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.89,
+                "price_per_unit": 6.52,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant emploi. Servir frais.",
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-d-orange-frais-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS D'ORANGE AVEC PULPE 1L BIO",
+                "desc": "Jus d'orange avec pulpe 1L Bio\nDécouvrez le jus d'orange avec pulpe de Planète Bio ! Naturellement riche en vitamine C.\nFlash pasteurisation réfrigérée.\nJus sans sucre ajouté et sans additif.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3289196400130.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-d-orange-frais-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus d'orange avec pulpe* (3%).\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 4.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur.\nAprès ouverture, à consommer dans les 5 jours pour une saveur optimale."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-oranges-tetra-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS ORANGES TETRA 1L BIO",
+                "desc": "Jus Oranges Tetra 1L Bio\nFabriqué à partir d'oranges issues de l'agriculture biologique.\nLe jus est obtenu à partir de fruits cueillis au meilleur moment de leur maturité sous le soleil des pays producteurs. Cette maturité confère au jus son arôme délicat. Son acidité équilibrée en fait un véritable délice.\nIl a été fabriqué et embouteillé sans adjonction de sucre, sans conservateur, sans colorant.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3289196470058_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-oranges-tetra-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.6,
+                        "of_which_sugars": 8.6
+                    }
+                },
+                "ingredients": "Pur jus d'oranges Bio",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.7,
+                "price_per_unit": 4.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Après ouverture, se conserve environ une semaine au réfrigérateur.\nLa qualité du produit est garantie par le clac de la capsule à l'ouverture.\nServir frais.\nRecommandé à tout moment de la journée.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "mix-de-legumes-75cl-elopack",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COCKTAIL DE LÉGUMES 75CL BIO",
+                "desc": "Cocktail de légumes 75Cl Bio\nQuand les ingrédients de nos jus sont pressés, nous les préservons en ajoutant des ferments lactiques de culture. Conséquences : les ingrédients fermentent. Il en résulte des lactobacilles dextrogyres et lévogyres. Dans les jus VOELKEL lacto-fermentés la part des lactobacilles dextrogyres est particulièrement élevée.\nLa particularité des dextrogyres appelés aussi ferments lactiques L(+) est d'être au corps pour l'assimilation des substances nutritives. Il préserve les vitamines et les minéraux qui seraient détruits par d'autres moyens de conservation. Il améliore la digestion des protéines dans l'estomac et a une incidence favorable sur la flore intestinale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/vitamont-jus-de-legumes-bio-mini-25cl.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mix-de-legumes-75cl-elopack"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.5,
+                        "of_which_sugars": 5.5
+                    }
+                },
+                "ingredients": "Jus de tomates*, jus de carottes*, jus de cèleri*, jus de betteraves rouges*, jus de choucroute*, purée de poivrons*, jus de concombre*, jus de haricots*, jus d'oignon*, jus d'artichauts*, sel de mer, jus de citron*.\n*Issu de l'Agriculture Biologique et Biodynamique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.95,
+                "price_per_unit": 3.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant ouverture.",
+                "conservation": "Aprés ouverture conserver au frais et consommer dans un délai de 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "bag-in-box-3l-demeter",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE POMMES DEMETER BAG IN BOX 3L BIO",
+                "desc": "Jus de pommes Demeter Bag In Box 3L Bio\nJus élaboré avec un mélange de variétés de pommes provenant tout droit des vergers des Coteaux Nantais.\nUn classique à la fois doux et parfumé, à servir frais à tout moment de la journée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760048260121.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bag-in-box-3l-demeter"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "3L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.4
+                    }
+                },
+                "ingredients": "100% pommes*.",
+                "on_discount": false,
+                "weight_per_packaging": 3.0,
+                "price_per_packaging": 8.79,
+                "price_per_unit": 2.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "1) Enfoncer l'onglet. Soulever le rabat prédécoupé et détacher l'opercule circulaire.\n2) Sortir le robinet. Le caler en rabattant la prédécoupe.\n3) Enlever la capsule de sécurité.\n4) Pour verser, soulever le piston à ailettes.",
+                "conservation": "A conserver 1 mois au réfrigérateur après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "charitea-green",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "THÉ GLACÉ GINGEMBRE CHARITEA GREEN 330ML BIO",
+                "desc": "Thé vert glacé au gingembre 33Cl Bio\nUn thé naturellement rafraîchissant bio et équitable, avec 100% jus de fruits pressés sans édulcorants, conservateurs, colorants ni arômes artificiels.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3350504000394.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/charitea-green"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "330ML",
+                "availability": true,
+                "ingredients": "Infusion de thé vert bio et de gingembre bio (94%), jus d’agave bio, miel bio, jus de citron bio.",
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 2.39,
+                "price_per_unit": 7.24,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-pomme-filtre-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS POMME FILTRE 75CL BIO",
+                "desc": "Jus Pomme Filtre 75Cl Bio\nC'est l'heure de la pause! savourez une parenthèse légère et fruitée avec notre jus délicatement filtré. Flirté avec le meilleur de la pomme!",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3301591000774.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-pomme-filtre-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:58",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.5,
+                        "of_which_sugars": 10,
+                        "dietary_fiber": 0.4
+                    }
+                },
+                "ingredients": "Pur jus de pommes issues de l'agriculture biologique.\nElaboré à partir de fruits frais.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.76,
+                "price_per_unit": 5.01,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.76 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant ouverture. Servir frais.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Servir bien frais.\nA consommer dans les 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-pamplemousse-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PUR JUS DE PAMPLEMOUSSE 75CL BIO",
+                "desc": "Pur jus de pamplemousse 75Cl Bio.\nLa sélection des meilleures variétés et un assemblage rigoureux offrent à ce Pur Jus de Pamplemousses Roses Bio une saveur acidulée et fruitée.\nSans sucres ajoutés : contient les sucres naturellement présents dans les fruits.\nFabrication française.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490971844.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-pamplemousse-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Jus de pamplemousses roses*.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 6.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à température ambiante.\nConservation après ouverture : 8 jours au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "pur-jus-d-orange-grece-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PUR JUS D'ORANGE DE GRÈCE 75CL BIO",
+                "desc": "Pur jus d'orange de Grèce 75Cl Bio\nCes oranges, récoltées à maturité, sont pressées sur le lieu de récolte pour en préserver tous les arômes.\nLe jus Vitamont, issu de la sélection des meilleures origines d'oranges, vous garantit un jus à la saveur douce et équilibrée tout au long de l'année.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490971844.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pur-jus-d-orange-grece-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "100% pur jus d'oranges bio.\nOrigine Grèce.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 5.32,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au réfrégirateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "3330366",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NECTAR DE MANGUE 75CL BIO",
+                "desc": "Nectar de mangue 75Cl Bio.\nSuccombez à l'onctuosité et au velours de la Mangue avec ce Nectar Bio et Équitable Vitamont !\nRiche en saveurs, il peut être dégusté à n'importe quelle heure de la journée, mais conviendra parfaitement pour réaliser de bons cocktails.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4015533015328.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nectar-d-abricot-pyrenees-75cl-3330366"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Eau, purée de mangue* (50%), sucre de canne roux*, jus de citron* concentré.\n*Ingrédients issus de l'agriculture biologique.\nIngrédients conformes aux standards du commerce équitable Fairtrade/Max Havelaar : purée de mangue, sucre de canne roux (98% du poids total hors eau ajoutée)\nOrigines Mangues (Pérou), Sucre (Inde), Citrons (Italie).",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 6.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Stocker à température ambiante.\nAprès ouverture mettre au frais et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "nectar-d-abricot-pyrenees-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NECTAR D'ABRICOT DES PYRÉNÉES ORIENTALES 75CL BIO",
+                "desc": "Nectar d'abricot des Pyrénées Orientales 75Cl Bio.\nElaboré avec des fruits en pleine maturité, de manière artisanale à partir de la production fruitière locale.\nIl restitue les arômes suaves de l'abricot, son fondant et sa douceur. Vous apprécierez ses parfums particulièrement longs en bouche.\nOrigines Abricots (France : Pyrénées Orientales), Sucre de canne brut (Paraguay, Cuba).",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3526950000053.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nectar-d-abricot-pyrenees-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Eau, purée d'abricot* (40%), sucre*.\n*Ingrédients issus de l'agriculture biologique. \n\nOrigines Abricots (France : Pyrénées Orientales), Sucre de canne brut (Paraguay, Cuba).",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 5.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant ouverture et servir frais.",
+                "conservation": "Après ouverture, conserver au frais et consommer rapidement (sous 4 jours)."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "orange-carotte-citron-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS D'ORANGE, CAROTTE ET CITRON 75CL BIO",
+                "desc": "Jus d'orange, carotte et citron 75Cl Bio\nDécouvrez le Jus d'Orange Carotte Citron de la marque Vitamont. Original et riche en saveurs, ce jus de fruit biologique, de fabrication française, accompagnera à merveille vos petits déjeuners ou vos pauses \"plaisir\".\nIl est naturellement riche en bêta carotène avec 52.7% des apports journaliers recommandés. Il est réalisé sans sucres ajoutés.\nVitamont est un spécialiste en jus de fruits et jus de légumes biologiques, sélectionne des produits cultivés dans le respect de l'agriculture Bio et cueillis à maturité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3289196400130.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/orange-carotte-citron-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.5,
+                        "of_which_sugars": 7.5
+                    }
+                },
+                "ingredients": "Jus d'oranges* 62% (Bassin Méditerranéen, Amérique Latine), jus de carottes* 38% (France, Espagne), jus de citrons* concentré 0.5% (Italie).",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 5.39,
+                "price_per_unit": 7.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À déguster à tout moment de la journée, avec ou sans aromate.",
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "3330361",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PUR JUS DE CLÉMENTINE 75CL BIO",
+                "desc": "Pur jus de clémentine 75Cl Bio\nLes clémentines sont plus petites et ne contiennent pas de pépins contrairement à la mandarine.\nCultivées dans les vergers ensoleillés, le pur jus de clémentines vous restitue toutes les saveurs douces et acidulées de ces fruits appréciés par petits et grands !\nOrigine Espagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4015533015328.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-clementine-75cl-3330361"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Jus de clémentines issues de l'agriculture biologique.\nOrigine Espagne.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 6.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant ouverture et servir frais.",
+                "conservation": "Après ouverture mettre au frais et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "2850449",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS ANANAS 1L BIO",
+                "desc": "Jus Ananas 1L Bio\nOffrez-vous une dose de fraîcheur à tous moments de la journée avec le Pur Jus d'Ananas 1L de Vitamont !\n100% pur jus sans sucres ajoutés.\nSa bouteille en brique permet des activités plus nomades qu'une bouteille traditionnelle en verre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4015533015328.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-ananas-1l-2850449"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T19:59",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus d'ananas* (100%).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.25,
+                "price_per_unit": 6.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant d'ouvrir et servir frais.",
+                "conservation": "Après ouverture, mettre au frais et consommer sous 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-citron-vert-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE CITRON VERT 25CL BIO",
+                "desc": "Jus De Citron Vert 25Cl Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03289196260314_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-citron-vert-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "100% jus de citron vert issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 9.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-grenade-700ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE GRENADE 700ML BIO",
+                "desc": "Jus De Grenade 700Ml Bio\nJus de grenade fait à partir de grenades fraîches cultivées dans les campagnes fertiles d'Antalya en Turquie méridionale. Le jus de grenade est obtenu à partir de la pulpe qui entoure les graines du fruit.\nLe jus de grenade Elite est un 100% pur jus biologique. La première extraction (1re pression à froid) donne un jus pur et véritable, ce qui exclut la séparation des essences en ne nécessitant aucun additif. Il possède une douce saveur fruitée, et une magnifique robe pourpre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490971271.p1-1200.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-grenade-700ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "700ML",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.6,
+                        "of_which_sugars": 13.2
+                    }
+                },
+                "ingredients": "100% Jus de grenade. \n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 6.8,
+                "price_per_unit": 9.71,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Réfrigérer et consommer dans les 5 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-tomates-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE TOMATES DE MARMANDE 25CL BIO",
+                "desc": "Jus de tomates de Marmande 25CL Bio\nLes tomates, cueillies à maturité, sont pressées à proximité du lieu de récolte. \nSa richesse reconnue en lycopène et sa faible teneur en sucres font du jus de tomate l'allié de votre santé et de votre beauté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4015533013935.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-tomates-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Pur Jus de Tomates* de Marmande (Lot & Garonne).\n*Issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 10.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour un apéritif léger, ce jus peut être consommé nature ou additionné de diverses épices : sel, céleri, curcuma, piment..."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-pruneaux-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE PRUNEAUX 25CL BIO",
+                "desc": "Jus de Pruneaux 25cl Bio\nCe jus est extrait dans notre atelier de Monflanquin, à partir de la prune d'ente séchée, variété traditionnelle du pruneau d'agen.\nConnue dès la plus Haute Antiquité, les vertus naturelles du pruneau vous sont restituées dans ce jus.\nSource d'énergie, de fibres et de minéraux, le jus de pruneaux est votre partenaire idéal pour une alimentation saine et équilibrée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490975880.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-pruneaux-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.8,
+                        "of_which_sugars": 12.8,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Jus de pruneaux* obtenu par extraction hydrique.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.55,
+                "price_per_unit": 10.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant d'ouvrir et servir frais.",
+                "conservation": "A conserver au frais après ouverture, et à consommer dans les 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-legume-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE LÉGUMES 25CL BIO",
+                "desc": "Jus de Légumes 25Cl Bio\nLégumes sauf carottes : France\nLes légumes, fraîchement cueillis, sont pressés dans notre atelier de Monflanquin.\nCe jus représente une source équilibrée et variée de légumes.\nRevitalisant, ce jus peut être consommé à tout moment de la journée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/3/4310858-pur_jus_de_tomate-25cl_3289196400093.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-legume-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Jus de tomates*, carottes*, céleris*, betteraves*, radis noirs*, fenouils*, persil*, sel, jus de citron concentré*.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 10.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour un apéritif léger, vous pouvez le déguster nature ou additionné d'épices : curcuma, piment, poivre...\nL'ajout de citron participe naturellement à la bonne conservation de ce jus.\nA consommer froid ou chaud.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-carotte-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE CAROTTE 25CL BIO",
+                "desc": "Jus de Carotte 25cl Bio\nCarottes fraîchement cueillies et pressées dans notre atelier de Montflanquin.\nNos approvisionnements résultent de contrats sur le long terme avec nos partenaires agrobiologistes.\nL'ajout de citron participe naturellement à la bonne conservation de ce jus.\nSa richesse en béta carotène et sa faible teneur en sucres font du jus de carottes l'allié de votre beauté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/vitamont-jus-de-legumes-bio-mini-25cl.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-carotte-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:00",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 110
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.5,
+                        "of_which_sugars": 5.5,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Jus de carottes*, jus de concentré de citron*\n*Issu de l'agriculture biologique.\nContient des sucres naturellement présents dans les fruits.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 9.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant d'ouvrir et servir frais.",
+                "conservation": "A conserver au frais après ouverture et à consommer dans les 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "smoothie-mangue-orange-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SMOOTHIE MANGUE ORANGE 25CL BIO",
+                "desc": "Smoothie Mangue Orange 25Cl Bio.\nLe fruité de l’orange se marie à la douceur de la mangue dans ce smoothie riche en saveurs exotiques. Ce smoothie est composé à 100% d’ingrédients issus du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3289196400277.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/smoothie-mangue-orange-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:01",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 11.8,
+                        "of_which_sugars": 11.8,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Purée de mangue* 51% (Pérou, Colombie, Inde, Mexique), jus d’orange* 49% (Bassin Méditerranéen).\n*Ingrédients issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "smoothie-mangue-coco-25-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SMOOTHIE MANGUE & COCO 25CL BIO",
+                "desc": "Smoothie Mangue & Coco 25Cl Bio\nVitamont vous propose de découvrir un large choix de cocktails originaux et riches en saveurs, qui accompagnera à merveille vos soirées entre amis et vos pauses \"plaisir\".\nDécouvrez le Smoothie Mangue Coco de Vitamont!",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3289196400246.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/smoothie-mangue-coco-25-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:01",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Jus d'oranges*, purées de bananes*, purée de mangues*, lait de coco*, jus de fruits de la passion*.\n*Issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant d'ouvrir et servir frais.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Servir bien frais."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-pomme-frais-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE POMME FRAIS 1L BIO",
+                "desc": "Jus de pomme frais 1L Bio\nJus de pomme naturellement trouble\n100% pur jus.\nFlash pasteurisé réfrigéré.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3489490000016.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-pomme-frais-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:01",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus de pomme issu de l'agriculture biologique.\nCe jus est sans conservateur et sans additif conformément à la réglementation.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.59,
+                "price_per_unit": 4.59,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant de servir.",
+                "conservation": "A conserver au réfrigérateur et à consommer dans les 5 jours suivant l'ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-pomme-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE POMME BAUDRIÈRE1L BIO",
+                "desc": "Jus De Pomme Baudrière1L Bio\nLe jus de pomme pasteurisé est un cidre que l'on fait chauffer à 65°C juste après le soutirage sous chapeau et avant fermentation.\nLa particularité du jus de pomme pasteurisé c'est qu'il est produit à partir des pommes à cidres et des variétés acidulées donnant un jus pauvre en sucre et acidulé pour donner de la fraîcheur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3489490000016.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-pomme-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:01",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Pommes issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 4.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Servir frais.\nCe produit non alcoolisé est utilisé comme boisson et peut-être consommé par toute la famille.\nIl peut également être utilisé sous forme de glaçon pour rafraîchir un verre de Calvados à l'apéritif.\nLe dépôt eventuel n'est que la pulpe de fruit et ne nuit pas à sa qualité.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrégirateur entre 0°C et +4°C et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-pomme-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS POMME 1L BIO",
+                "desc": "Jus Pomme 1L Bio\nCe pur jus de pommes au trouble naturel est issu de l'agriculture biologique dont nous sommes les pionniers depuis plus de trente ans.\nSans colorants ni conservateurs, conformément à la règle en vigueur.\nSans sucre ajouté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490975996.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-pomme-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:02",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 9.3
+                    }
+                },
+                "ingredients": "Pommes fraîches, cueillies sur des pommiers \"Plein vent\" de la Thiérache, pressées, au trouble naturel.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 3.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec. Après ouverture, à conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-poire-1-l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE POIRES 1L BIO",
+                "desc": "Jus de poires 1L Bio\nNotre jus de poires est obtenu à partir d'anciennes variétés de poires, dont certaines servent à la fabrication du poiré.\nUne légère pasteurisation, sans aucune autre adjonction, permet de préserver le goût originel.\nSans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490975880.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-poire-1-l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:02",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus de poire*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 4.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se sert frais au petit-déjeuner et à tout moment de la journée.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    },
+    {
+        "ean": "jus-de-canneberge-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Jus de fruits, Jus de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE CANNEBERGE 1L BIO",
+                "desc": "Jus de canneberge 1L Bio\nLa Canneberge est riche en vitamine C, polyphénols et proanthocyanidine. Le jus de canneberge a un pouvoir protecteur des voies urinaires.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760258250677.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-de-canneberge-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:02",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Jus de Canneberge*.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 11.0,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T19:57",
+        "updated_at": "2025-06-15T19:57"
+    }
+]

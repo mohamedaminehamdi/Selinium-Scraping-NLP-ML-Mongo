@@ -1,0 +1,175 @@
+[
+    {
+        "ean": "000000000000086653",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Au micro-ondes",
+                "desc": "Préparation précuite à base de pois chiche, oignon, courgette et carotte, sauce 35% au basilic Surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3d23c2ab/produits/000000000000086477_2f.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/falafels-basilic-mix-miam-000000000000086653.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-25T02:31",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 679.0,
+                        "kcal": 162.0
+                    },
+                    "fats": {
+                        "fats": 6.6,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 7.3
+                    }
+                },
+                "ingredients": "Préparation précuite 64,9% à base de pois chiche, oignon, courgette et carotte [eau, pois chiche 15,2%, pois chiche cuit 5,5%, oignon 5,5%, persil, courgette 3,9%, carotte 3,9%, huile de tournesol, farine de BLÉ (GLUTEN), coriandre, oignon en poudre, fibre de psyllium, vinaigre d'alcool, sel, poivre, piment de cayenne], eau, lait de coco (extrait de noix de coco, eau), bouillon de légumes (eau, tomate, carotte, poireau, CÉLERI, oignon, échalote, fenouil, huile d'olive vierge extra, purée d'ail, thym), basilic 2,2%, pâte d'AMANDE blanchie grillée, échalote, farine de riz, jus de citron, huiles végétales (contient tournesol et/ou colza), sel.",
+                "allergens": [
+                    "Céleri",
+                    "Blé",
+                    "Amande",
+                    "Noix",
+                    "Lait",
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 1.99,
+                "preparation": "Au micro-ondes\nCUISSON\nCuisson au microondes pendant\n2 min\n- Pour 1 sachet : versez le contenu du sachet dans un bol adapté et laissez cuire pendant 2 min à 900W - Dans le cas d’une utilisation simultanée avec 2 autres sachets de la gamme : versez le contenu des 3 sachets les uns à côté des autres dans un bol adapté, et laissez cuire 6 min à 6min30 à 900W. Ce produit doit être cuit avant consommation",
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089552",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Au four",
+                "desc": "Sauce 40,1% à la tomate, lait de coco et curry, légumes 21,1%, riz long, pois chiche et spécialité à base de lentille corail, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/curry-leg%2Fpois-chiches-fe-000000000000089552.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-25T02:31",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 400.0,
+                        "kcal": 95.0
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Riz long cuit 21% (eau, riz long 6,3%), pulpe de tomate au jus 14,7% (tomate, jus de tomate), oignon, pois chiche cuit 12% (eau, pois chiche 4,5%), chou-fleur 10%, patate douce 8%, spécialité à base de lentille corail cuite 5,2% (eau, farine de lentille corail 2,3%), pois doux garden peas 3%, lait de coco 2,9% (extrait de coco, eau), LAIT fermenté concentré, huile de colza, ail, eau, gingembre, sel, curry 0,3% [épices, plantes aromatiques (contient MOUTARDE), sel], coriandre, farine de riz, curcuma, coriandre en poudre, cardamome, cannelle, laurier, girofle.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 2.0,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATION\nCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nCUISSON SANS DÉCONGÉLATION\nCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes - Four à chaleur tournante : 35 minutes.",
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089513",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Au micro-ondes",
+                "desc": "Pain spécial 60,4% garni de pastrami (viande de bœuf barattée cuite), cheddar, épinard et sauce 6,9% - surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8297b313/produits/000000000000058797_E.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-sandwich-bretzel-90g-000000000000089513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-25T02:32",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 1160.0,
+                        "kcal": 276.0
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 4.0,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, viande de bœuf barattée cuite 13,9% [viande de bœuf (origine : France*) 12,5%, eau, dextrose, bouillon de légumes (blette, carotte, oignon), extrait d'acérola, sel, épices, plante aromatique, sucre, arôme naturel, ferments], cheddar blanc 11,2% (contient LAIT), pousse d'épinard 7,4%, mayonnaise [huile de colza, eau, MOUTARDE (eau, graine de MOUTARDE, vinaigre d'alcool, sel), jaune d’ŒUF de poule élevée en plein air (liquide, pasteurisé), vinaigre d’alcool, sucre, jaune d’ŒUF en poudre de poule élevée en plein air, sel, jus de citron concentré], huile de colza, ketchup [tomate, vinaigre d'alcool, sucre, sel, extrait d'épices, extrait de plantes aromatiques (CÉLERI), épices], cornichon au vinaigre (cornichon, eau, vinaigre d'alcool, sel), levure, oignon, sel, MOUTARDE (eau, graine de MOUTARDE, vinaigre d'alcool, sel, épices), GLUTEN de BLÉ, correcteur d'acidité : hydroxyde de sodium, ail, enzymes, agent de traitement de la farine : acide ascorbique.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Céleri",
+                    "Blé",
+                    "Lait",
+                    "Œuf",
+                    "Moutarde",
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGE\nCuisson au microondes pendant\n1 min 20 s\nOuvrez l'étui via la languette d'ouverture. Retirez l'emballage plastique et remettez le sandwich dans l'étui. Refermez-le et laissez réchauffer le temps indiqué. Laissez reposer 2 minutes avant de déguster.",
+                "requires_loyalty_card": false
+            }
+        ]
+    }
+]

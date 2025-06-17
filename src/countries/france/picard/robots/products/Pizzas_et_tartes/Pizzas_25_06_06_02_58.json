@@ -1,0 +1,278 @@
+[
+    {
+        "ean": "000000000000089417",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pizzas"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini pizzas margherita",
+                "desc": "Mini-pizzas à base d’une pâte 52%, garniture 48% tomate, mozzarella et origan, précuites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4b787b14/produits/000000000000083390_E4.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-pizza-margherita-000000000000089417.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:58",
+                "format": "LE SACHET DE 270 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 33,1%, purée de tomate mi-réduite 27,3%, mozzarella 19,5% [LAIT, sel, ferments lactiques (LAIT), coagulant microbien, correcteur d’acidité : acide citrique], eau, huile de tournesol, flocon de pomme de terre, levure, huile d’olive vierge extra, extrait de malt d’ORGE (GLUTEN), levain en poudre [farine de BLÉ (GLUTEN)], farine de BLÉ maltée (GLUTEN), sel, LAIT écrémé en poudre, basilic 0,09%, origan 0,02%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 3.3,
+                "preparation": [
+                    "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n5 à 6 min\nPréchauffez votre four à 210°C (th.7). Retirez les emballages et déposez les mini pizzas sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire 5 à 6 min."
+                ],
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,71 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,22 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.4,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000089431",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pizzas"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Margherita, mozzarella, tomate, origan",
+                "desc": "Pizza surgelée garniture 52,5% mozzarella, sauce tomate, basilic et origan, pâte précuite 47,5%.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pizza-margherita-400g-000000000000089431.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:58",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), mozzarella 30% (contient LAIT), purée de tomate 17,9%, eau, huile de tournesol, huile d'olive, sel, levure, amidon de maïs, basilic 0,02%, origan 0,01%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.99,
+                "preparation": "\n\n",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,71 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,22 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.18,
+            "total_reviews": 17
+        }
+    },
+    {
+        "ean": "000000000000089440",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pizzas"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza houmous basilic stracciatella, sce framboise",
+                "desc": "Pizza composée d’une pâte 52,5% garnie de sauce 18% au fromage stracciatella di burrata, d’une préparation 15% à base de pois chiche et de basilic, d’épinard, de fromage râpé, de fève de soja, de sauce 2,5% au vinaigre et à la purée de framboise et de cranberry séchée, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdfbca38e/produits/entrees-tartes-salades/edition/000000000000089113_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pizza-houmous-sce-framb-000000000000089440.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:58",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, fromage stracciatella di burrata 12,6% [LAIT, crème (LAIT), sel, correcteur d'acidité : acide lactique, coagulant microbien], pois chiche précuit (pois chiche séché réhydraté 2,6%, sel, eau), crème fraîche liquide (LAIT), épinard 4%, huile de tournesol, fromage râpé 3% (contient LAIT), fève de SOJA 3%, cranberry séchée 2% (cranberry, sucre de canne, huile de tournesol), amidon de riz, préparation à base de basilic et d'huile d'olive vierge extra (Basilico Genovese AOP* 1%, huile d’olive vierge extra, sel, antioxydant : acide ascorbique), concentré (betterave, carotte)**, purée de SÉSAME, sel, vinaigre de vin blanc 0,7%, huile d'olive vierge extra, purée de framboise 0,3%, Vinaigre Balsamique de Modène 0,3% [Aceto Balsamico di Modena IGP*** (vinaigre de vin, moût de raisin cuit)], sirop d’agave, farine de BLÉ (GLUTEN) malté, jus de citron concentré, levure, ail, levure inactive (contient GLUTEN), enzymes (contient GLUTEN). **Ingrédient ayant des propriétés colorantes.\n*IGP : Indication Géographique Protégée\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n12 min\nPréchauffez votre four à 210°C (th.7). Sortez la pizza de l'étui carton et retirez le film plastique. Déposez la pizza sur une plaque recouverte de papier cuisson, laissez 15 min à température ambiante et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué. - Four à chaleur tournante : 12 min - Four traditionnel : 14 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,71 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,22 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.77,
+            "total_reviews": 69
+        }
+    }
+]

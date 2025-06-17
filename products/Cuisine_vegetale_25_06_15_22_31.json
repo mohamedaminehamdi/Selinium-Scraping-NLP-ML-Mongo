@@ -1,0 +1,1770 @@
+[
+    {
+        "ean": "lait-coco-cuisine-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO CUISINE 200ML BIO",
+                "desc": "Lait de coco Cuisine 200Ml Bio\nCuisiner sans produits laitiers tout en se faisant plaisir, c'est maintenant possible avec cette crème fluide à base de Noix de Coco !\nLaissez-vous tentez par les Aides Culinaires Bonneterre. Pour vos recettes sucrées ou salées, succombez pour ce lait biologique 100% végétal* au délicat goût de Noix de Coco !\n* 100% des ingrédients agricoles sont d’origine végétale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-cuisine-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:28",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Lait de coco* (60%), eau, épaissisant : gomme du guar*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 12.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il s'utilise comme lait classique dans vos recettes sucrées ou salées.\nBien agiter avant ouverture.",
+                "conservation": "A conserver dans un endroit frais et tempéré, à l'abri de la lumière.\nAprès ouverture, à conserver au frais et à consommer sous 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "lait-de-coco-330ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO 330ML BIO",
+                "desc": "Lait de coco 330Ml Bio\nDécouvrez le Lait de coco du Sri Lanka en Tétra Pak Bio :\nIl est produit à partir de noix de coco particulièrement aromatiques, originaires du « Coconut Triangle » au Sri Lanka.\n  Direct producteurs Fruit secs - Agro Sourcing  est une société spécialisée dans l'importation et la distribution de produits biologiques en provenance du monde entier. La marque propose Une impréssionnante gamme de plus de 100 références de fruits secs biologiques.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705609_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-de-coco-330ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:28",
+                "format": "330ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 35
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14.5
+                    },
+                    "fats": {
+                        "fats": 17.6
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.2
+                    }
+                },
+                "ingredients": "Noix de coco*60%, eau, épaississant: gomme de guar.\n*Produit issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 6.21,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant utilisation. Ouverture par découpe manuelle sur haut de l'emballage.",
+                "conservation": "Se conserve 4 jours au réfrigérateur après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-coco-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME COCO CUISINE 25CL BIO",
+                "desc": "Crème coco cuisine 25Cl Bio\nCoco cuisine est une préparation culinaire à la noix de coco qui ne contient que 6% de matières grasses. Elle s'utilise facilement comme une crème liquide, en simple nappage, en sauce... pour des recettes légères et toujours gourmandes.\nUne recette sans lactose, sans gluten et sans soja.\nFabrication française.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_poc_3d_cap_bleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-coco-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:28",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Eau de source, crème de coco* 25% (Sri-Lanka), épaississant: gomme de guar*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.25,
+                "price_per_unit": 9.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant l'emploi. Le déphasage éventuel est lié à la composition totalement naturelle du produit.\nAprès ouverture, conserver au frais et consommer dans les 3 jours.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-cuisine-amande-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME CUISINE AMANDE 20CL BIO",
+                "desc": "Crème cuisine amande 20CL Bio\nPréparation culinaire aux amandes naturellement sans lactose et gluten comme les autres préparations culinaires aux amandes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-cuisine-amande-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:28",
+                "format": "20CL",
+                "availability": true,
+                "ingredients": "Eau, AMANDES* (7%), huile de tournesol*, sirop d’agave*, stabilisants: gomme arabique, gomme xanthane, émulsifiant: lécithine de tournesol, sel marin, arôme naturel d’amande*.\n* Ingrédients issus de l’agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.7,
+                "price_per_unit": 8.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A concerver au frais après ouverture et à consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "amande-cuisine-25-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME D'AMANDE POUR LA CUISINE 25CL BIO",
+                "desc": "Crème d'amande pour la cuisine 25Cl Bio\nAmande Cuisine convient particulièrement aux régimes diététiques et se présente comme une alternative de choix face aux classiques préparations culinaires au soja ou au lait animal.\nElle se consomme à tous les âges : enfants, adolescents, adultes et seniors. Partenaire idéal de votre cuisine santé, Amande Cuisine est source de protéines et de minéraux. \nElle est sans lactose, sans gluten ni soja, sans sucre ni sel ajoutés, sans conservateur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3259010600015_3d.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amande-cuisine-25-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:28",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.27
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Eau de source, amandes* partiellement dégraissées (6%), carraghénane, xanthane.\n*Ingrédients issus de l'Agriculture Biologique.\nUne brique apporte 4 fois moins de lipides qu’une crème laitière allégée classique et 0 % de cholestérol.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.3,
+                "price_per_unit": 9.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant l'emploi.\nAmande Cuisine est une préparation aux amandes douces dégraissées partiellement et émondées. Onctueuse et subtile en goût, Amande Cuisine s'utilise comme une crème liquide, en simple nappage, en incoporation pour texturer une sauce ... \nLa décantation éventuelle est liée à la composition totalement naturelle du produit.",
+                "conservation": "Après ouverture, conserver au frais et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-avoine-cuisine-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME AVOINE CUISINE 20CL BIO",
+                "desc": "Crème Avoine Cuisine 20Cl Bio\n- Alternative végétale à la crème fraîche.\n- Sa texture est très épaisse et crémeuse, le goût est léger et assez proche des crèmes végétales de soja.\n- En cuisine, elle réduit bien et n’accroche pas à la poêle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396413712249.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-avoine-cuisine-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fats": {
+                        "fats": 7.7
+                    },
+                    "carbohydrates": {
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Eau, avoine* (10%), huile bio de tournesol* pressée à froid, amidon de tapioca*, lécithine de tournesol, épaississants (carraghénane, farine de caroube*), sel marin*.\n*issu de l'agriculture biologique.\nSans cholestérol et sans lactose.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.35,
+                "price_per_unit": 6.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-cuisine-riz-20-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE RIZ POUR LA CUISINE SANS GLUTEN 20CL BIO",
+                "desc": "Crème de riz pour la cuisine sans gluten 20Cl Bio\nLe Rice Cuisine est une petite révolution en matière de cuisine bio et végétarienne. Il s'agit d'une alternative à la crème fraîche, sans gluten, faible en sel, sans lactose et que l'on peut cuisiner.\nCette crème à la même texture que la crème fraîche mais est élaborée à base de riz, donc très faible en graisses saturées et qui convient à de nombreux régimes mais aussi qui vient en aide à de nombreux allergies.\nOrigine du produit: Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/8/08019428005001_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-cuisine-riz-20-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "20CL",
+                "availability": true,
+                "ingredients": "Eau de source, riz italien* (30%), huile de tournesol*, épaississants (farine de grains de caroube*, carraghénane), sel marin.\n*Ingrédients issus d'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.35,
+                "price_per_unit": 6.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant usage.",
+                "conservation": "Conserver au frais et au sec.\nAprès l'ouverture se conserve au réfrigérateur pour 3/4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "soya-cuisine-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOYA CUISINE 20CL BIO",
+                "desc": "Soya Cuisine 20cl Bio\nLa Soya Cuisine est une aide culinaire 100% végétale à base de soja bio issu du Sud-Ouest de la France. Onctueuse, légère et deux fois moins grasse qu’une crème cuisine classique, elle est l’alliée parfaite des préparations salées et sucrées.\nSes atouts :\n2 x moins de calories\n2 x moins de matières grasses\n1/3 de sel en moins\nSoja équitable cultivé en France. Fabriqué en France",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/l/1lima0106_0.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soya-cuisine-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Jus de soja* 87% (eau, graines de soja* (1)), huile de tournesol* désodorisée, émulsifiant : gomme arabique*, sucre de canne* non raffiné, épaississants : gomme xanthane, carraghénanes.\n*Ingrédients issus de l'Agriculture Biologique.\n(1)Soja français sans OGM issu d'une filière Bio Solidaire contrôlée par Ecocert Environnement.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.35,
+                "price_per_unit": 6.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant emploi.\nUtilisation dans de nombreuses préparations (sauces, quiches, gâteaux...)\nA utiliser en remplacement de la crème pour les besoins de vos recettes de sauces, soupes, gratins, quiches, gâteaux, flans et entremets etc.",
+                "conservation": "A conserver à température ambiante.\nAprès ouverture, à conserver au frais et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-soja-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOYA CUISINE 50CL BIO",
+                "desc": "Soya cuisine 50cl Bio\nLa Soya Cuisine est une aide culinaire 100% végétale à base de soja bio issu du Sud-Ouest de la France. Onctueuse, légère et deux fois moins grasse qu’une crème cuisine classique, elle est l’alliée parfaite des préparations salées et sucrées.\nSes atouts :\n2 x moins de calories\n2 x moins de matières grasses\n1/3 de sel en moins\nSoja équitable cultivé en France. Fabriqué en France",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/d/oda_sans_litho.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-soja-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "50CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Jus de soja* (1) 87% (eau, graines de soja* (1)), huile de tournesol* désodorisée, émulsifiant : gomme arabique*, sucre de canne* non raffiné, épaississants : gomme xanthane, carraghénanes.\n*Ingrédients issus de l'Agriculture Biologique.\n(1)Soja français sans OGM issu d'une filière Bio Solidaire contrôlée par Ecocert Environnement.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pensez à l'incorporer à toutes vos préparations sucrées et salées : légumes, sauces, quiches, gratins, gâteaux...",
+                "conservation": "A conserver à température ambiante Après ouverture, à conserver au frais et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "soya-cuisine-5-mg-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOYA CUISINE ALLÉGÉE 5%MG 20CL BIO",
+                "desc": "Soya cuisine allégée 5%mg 20Cl Bio\n100% végétale, sans lactose, et avec seulement 5% de matière grasse, soya cuisine allégée égayera tous vos plats (sauces, quiches, pâtes, gâteaux...) en toute légèreté.\nLa Soya Cuisine allégée est une aide culinaire 100% végétale à base de soja bio issu du Sud-Ouest de la France. Onctueuse, légère et pauvre en matières grasses, elle est l’alliée parfaite des préparations équilibrées, salées et sucrées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soya-cuisine-5-mg-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "20CL",
+                "availability": true,
+                "ingredients": "Jus de soja 95,5% , huile de tournesol* désodorisée, stabilisants : gomme arabique*, gomme xanthane, carraghénanes, sucre de canne* non raffiné.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.65,
+                "price_per_unit": 8.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser en remplacement d'une crème cuisine classique, dans toutes vos préparations salées et sucrées (sauces, soupes, gratins, quiches, gateaux, etc)."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-poivron-ho-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE POIVRONS 90G BIO",
+                "desc": "Crème de poivrons 90g Bio \nCrème de poivron onctueuse à l'huile d'olive vierge extra\nRecette sans additifs\nDouceur unique et sans amertume, grâce à la présence de noix de cajou et de poivrons particulièrement doux\nPoivron espagnols : filière de partenariats long terme avec les agriculteurs\nNoix de cajou équitables, cultivées et décortiquées au Vietnam & labellisées Forest Garden (en faveur de la biodiversité)",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489119162_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-poivron-ho-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "90G",
+                "availability": true,
+                "ingredients": "Poivron* (65%), tomate*, noix de cajou*, huile d’olive vierge extra*, farine de riz*, vinaigre de cidre*, sel, épices*.\n* Produit issu de l’agriculture biologique",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.7,
+                "price_per_unit": 41.11,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On la déguste à l'apéritif, sur des toasts ou sur une tartine en cas de creux. Sa texture crémeuse et son goût généreux grâce aux noix de cajou est un délice, et vous ?",
+                "conservation": "Avant ouverture : Conserver dans un endroit frais et sec, à températureinférieure à 25°C et à l'abri de la lumière.\nAprès ouverture : Se conserve 4-5 jours après ouverture au réfrigérateur entre 0 et 4°C."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "lait-de-coco-nature-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO NATURE 500ML BIO",
+                "desc": "Lait de coco nature 500ml Bio\nCe lait de coco sans sucres est à consommé dans vos cafés, thés, chaud ou froid. Il peut également être utilisé dans vos préparations : sauces, gâteaux, flans... \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/0/7061257574709.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-de-coco-nature-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "500ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "Eau, lait de coco*, amidon de tapioca*, arôme naturel de coco*, sel marin.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 4.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, à conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "lait-coco-17-mg-200ml-base-org",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO NATURE 17% 200ML BIO",
+                "desc": "Lait de coco nature 17% 200ml Bio\nTrès populaire en Asie, le lait de coco est devenu un produit incontournable dans nos cuisines. Apportant sa texture onctueuse et crèmeuse le lait de coco est l'un des symboles de la cuisine exotique. Grâce à ses valeurs nutritionnelles, le lait de coco est une très bonne alternative au lait d'origine animale. \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012359144003_japanische_bratfilets_fr_0120.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-17-mg-200ml-base-org"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Lait de chair de coco*, eau.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.49,
+                "price_per_unit": 7.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour cuisiner.\nBien agiter avant utilisation.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-coco-22-mg-400ml-base-or",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE COCO À CUISINER 22% 400ML BIO",
+                "desc": "Crème de coco à cuisiner 22% 400ml Bio\nL'alternative vegan à la crème à cuisiner classique :  la crème coco à cuisiner Base Organic Food !\nLa crème coco à cuisiner est la nouveauté Base Organic Food qui va te faire succomber. Elle saura s'imposer dans tes recettes sucrées et salées en y apportant sa texture onctueuse et crèmeuse.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760275574640.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-coco-22-mg-400ml-base-or"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:29",
+                "format": "400ML",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 20.6
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 2.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.6,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Extrait de chair de coco*, eau.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 6.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour cuisiner.\nBien secouer la canette avant utilisation.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "400",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO NATURE 17% 400ML BIO",
+                "desc": "Lait de coco nature 17% 400ml Bio\nTrès populaire en Asie, le lait de coco est devenu un produit incontournable dans nos cuisines. Apportant sa texture onctueuse et crèmeuse le lait de coco est l'un des symboles de la cuisine exotique. Grâce à ses valeurs nutritionnelles, le lait de coco est une très bonne alternative au lait d'origine animale. \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760275574640.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-equitable-17-mg-400"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "400ML",
+                "availability": true,
+                "ingredients": "Lait de chair de coco*, eau.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 4.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour cuisiner.\nBien agiter avant utilisation.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "riz-cuisine-200ml-lima",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ CUISINE 200ML BIO",
+                "desc": "Riz cuisine 200ml Bio\nPréparation végétale de riz cuisine, une délicieuse alternative à la crème classique, idéale pour vos préparations salées et sucrées.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/d/oda_sans_litho.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-cuisine-200ml-lima"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "200ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 110
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.2,
+                        "of_which_sugars": 4.1,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Eau, riz*, huile de tournesol*, stabilisants : farine de graines de caroube*, gomme guar*, gomme gellane, sel marin.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 7.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Utiliser en remplacement d'une crème cuisine classique, dans toutes vos préparations salées et sucrées (sauces, soupes, gratins, quiches, gateaux, etc).",
+                "conservation": "Après ouverture conservez au frais et consomez dans les 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "avoine-cuisine-200ml-lima",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE CUISINE AVOINE 200ML BIO",
+                "desc": "Crème de cuisine avoine 200ml Bio\nDécouvrez cette crème d'avoine idéale pour vos préparations culinaires. Une parfaite alternative 100% végétale. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_poc_3d_cap_bleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/avoine-cuisine-200ml-lima"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Eau, huile de tournesol*, farine complet d'avoine*, épaississant : xanthane, sel marin, arôme naturelle*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 7.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser dans toutes vos préparations culinaires.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.\nAprès ouverture, à conserver au réfrigérateur entre +4°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-coco-cuisine-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO CUISINE 200ML BIO",
+                "desc": "Lait de coco cuisine 200ml Bio\nVous pouvez le porter à ébullition et le mélanger avec des ingrédients acides (citron, vin, moutarde..). Une véritable alternative aux crèmes liquides à base de lait ou de soja, Tetra Brik 200 ml. Produit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/a/c/acu_face_20_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-coco-cuisine-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Lait de coco* (60%), eau, gomme guar, arôme naturel de coco.\n*Ingrédients issus de l'Agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.79,
+                "price_per_unit": 8.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant d'ouvrir.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "bento-quinoa-legs-coco-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO DE QUINOA LÉGUMES ET LAIT DE COCO 360G BIO",
+                "desc": "Bento de Quinoa Légumes et lait de Coco 360g Bio\nPour ce bento, nous avons préparé de belles aubergines (légume de saison), poêlées et agrémentées de lait de coco, et nous les avons accompagnées de quinoa et de pois chiches (légumineuse) – un assortiment qui, par la variété de ses saveurs, évoque les mezze du Moyen-Orient.\nAvec le bento boulgour et aubergines, Karine & Jeff associe légumes de saison, légumineuses et céréales pour composer des repas complets originaux et savoureux, 100 % bio, disponibles en édition limitée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_poc_3d_cap_bleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-quinoa-legs-coco-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 540
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Eau pure du parc régional du Haut-Languedoc, carottes* (13% / Origine France), courgettes* (13%), quinoa* (13%), tomates* (13% / Origine France), poireaux* (7,5% / Origine France), lait de coco* (6,3% / Extrait de noix de coco*, eau), pois chiches* (3,8% / Origine Sud-Ouest), huile de tournesol première pression à froid* (Origine Sud-Ouest), sel de Guérande garanti Nature & Progrès, jus de citron*, coriandre* (0,1%), curcuma* (0,1%), gingembre*, poivre*.\n*Ingrédients issu de l'agriculture biologique.\nFabriqué dans un atelier utilisant des céréales contenant du gluten, du soja, du céleri, du sésame, de la moutade, du lait et des fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque",
+                    "Céleri",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 8.99,
+                "price_per_unit": 24.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se concomme tel quel, idéal pour le déjeuner.",
+                "conservation": "Après ouverture, tenir au frais et consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "lait-coco-cuisine-3x20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO 3X20CL BIO",
+                "desc": "Lait de Coco 3x20cl Bio\nAvec ce format familial, nous vous proposons de partager des moments conviviaux autour de délicieuses recettes aussi bien sucrées que salées. Grâce à sa forte teneur en noix de coco, notre Lait de Coco Cuisine saura sublimer vos recettes et épater tous vos convives.\n100 % végétal.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705609_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-cuisine-3x20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 7.5
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.2,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Noix de coco* (59%), eau, épaississant : gomme guar*.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 6.49,
+                "price_per_unit": 10.82,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant ouverture.",
+                "conservation": "Après ouverture, à conserver au frais et à consommer sous 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "cajou-cuisine-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME CUISINE VÉGÉTALE À LA NOIX DE CAJOU 20CL BIO",
+                "desc": "Crème cuisine végétale à la Noix de Cajou 20cl Bio\nDécouvrez cette crème végétale bio à la noix de cajou sans sucres.\nIdéal comme alternative aux crème liquides à base de lait ou de soja, sans une once de gluten.\nConvient à l'alimentation vegan\nCertifié Agriculture Biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cajou-cuisine-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 8.3
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Eau, noix de cajou* (7%), huile de tournesol*, stabilisant (gomme arabique*, gomme xanthane), sel marin.\n*Issus de l’agriculture biologique. \nPeut contenir des traces de fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 1.79,
+                "price_per_unit": 8.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien secouer avant d’ouvrir. A conserver au frais après ouverture et consommer dans les 5 jours.\nCette crème à la noix de cajou ne caille pas à la cuisson. Vous pouvez la porter à ébullition et la mélanger avec des ingrédients acides (citron, vin, moutarde..). Tentez l'expérience et essayez-là dans vos sauces, soupes, gratins, légumes, pâtes, gâteaux, et desserts, ainsi que dans le thé ou le café. Délicieuse, onctueuse, prête à l’emploi, elle accompagnera vos recettes salées ou sucrées.",
+                "conservation": "A conserver au réfrigérateur après ouverture et consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-cuisine-thai-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE COCO CUISINE THAÏ 200ML BIO",
+                "desc": "Crème de coco cuisine Thaï 200Ml Bio\nCette préparation cuisine Thaï 200 mL  est une alternative aux crèmes liquides à base de lait ou de soja. \nPréparation 100% végétale, inspirée des saveurs de la cuisine thaïlandaise. A essayer dans les sauces, soupes, gratin, légumes et pâtes.\nSans lactose, sans gluten, sans soja.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/d/oda_sans_litho.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-cuisine-thai-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "200ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 230
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13
+                    },
+                    "fats": {
+                        "fats": 14
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Lait de coco* (60%), eau, curry rouge* (piment* (0,28%), ail*, sel marin, gingembre*, jus concentré de citron vert* (0,08%), coriandre*, citronnelle* (0,025%), poivre noir*), stabilisants (gomme xanthane, gomme guar), sel marin, paprika*, arôme naturel de coco*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 10.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Délicieuse, onctueuse, prête à l’emploi, elle accompagnera vos recettes salées ou sucrées, de façon équilibrée !",
+                "conservation": "A conserver à température ambiante.\nAprès ouverture, conserver au frais et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-bechamel-vegetal-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME CUISINE BÉCHAMEL AMANDES 200ML BIO",
+                "desc": "Crème cuisine béchamel amandes 200Ml Bio\nCette Préparation cuisine végétale béchamel aux amandes est une alternative aux crèmes liquides à base de lait ou de soja. \nPréparation 100% végétale,à essayer dans les sauces, soupes, gratin, légumes et pâtes.\nSans colorant ni conservateur.\nSans lactose, sans gluten, sans soja.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_poc_3d_cap_bleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-bechamel-vegetal-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "200ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 450
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 8.9
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.1,
+                        "of_which_sugars": 1.3
+                    }
+                },
+                "ingredients": "Eau, amandes* (7%), huile de tournesol*, sucre de canne*, fibre d’acacia*, stabilisant (gomme xanthane, gomme de caroube*), sel marin, noix de muscade* (0,075%), arôme naturel de noix de muscade*, poivre noir* (0,007%).",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.15,
+                "price_per_unit": 10.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Délicieuse, onctueuse, prête à l’emploi, elle accompagnera vos recettes salées ou sucrées, de façon équilibrée !",
+                "conservation": "A conserver à température ambiante.\nAprès ouverture, conserver au frais et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "creme-coco-cuisine-20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE COCO CUISINE 20CL BIO",
+                "desc": "Crème coco cuisine 20Cl Bio\nFaites-vous plaisir en cuisinant de succulentes recettes bio, grâce à notre aide culinaire à la noix de coco bio. Sa texture épaisse et oncteuse lui permet d'être une très bonne alternative à la crème pour une cuisine bio et sans lactose.\nEt en plus notre recette est sans lécithine ni arômes ajoutés. Alors épatez vos convives grâce à son délicieux goût de noix de coco qui saura sublimer vos recettes sucrées et salées ! \nSans lactose.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/d/oda_sans_litho.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-coco-cuisine-20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:30",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 80
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 16
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.9,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Noix de coco* (57,7%), eau, matodextrine de maïs*, épaississants : gomme de guar, gomme xanthane, carraghénanes.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 2.55,
+                "price_per_unit": 12.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au frais et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    },
+    {
+        "ean": "cuisine-riz-complet-3x20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine végétale"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ CUISINE AU RIZ DE CAMARGUE 3X20CL BIO",
+                "desc": "Riz cuisine au riz de Camargue 3X20Cl Bio\nPrécieuse aide culinaire au riz bio de Camargue, alternative végétale à la crème animale liquide, qui s'utilise à la place de la crème dans toutes vos recettes sucrées et salées. Onctueuse et légère, la crème de soja est 2 fois moins grasse que la crème classique.\nSes atouts :\nSans lactose ni aucun produits laitiers, sans gluten naturellement et 100% végétal. Très faible teneur en matières grasses saturées (-93 % par rapport à une crème cuisine classique). Pauvre en sel.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705609_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cuisine-riz-complet-3x20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:31",
+                "format": "20CL",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 6.2
+                    }
+                },
+                "ingredients": "Eau, riz complet de Camargue* 11,6%, huile de tournesol* désodorisée, épaississant : farine de graines de caroube*, sel de mer.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 5.35,
+                "price_per_unit": 8.92,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant l'emploi\nA utiliser en remplacement d'une crème cuisine classique, dans toutes vos préparations salées et sucrées (sauces, soupes, gratins, quiches, gateaux, etc).",
+                "conservation": "A conserver à température ambiante. Après ouverture, à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:28",
+        "updated_at": "2025-06-15T22:28"
+    }
+]

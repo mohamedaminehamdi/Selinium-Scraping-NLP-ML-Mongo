@@ -1,0 +1,1719 @@
+[
+    {
+        "ean": "moutarde-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOUTARDE DE DIJON 350G BIO",
+                "desc": "Moutarde de Dijon 350G Bio.\nMoutarde de Dijon issue de l'agriculture biologique, produite par Delouis.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960011862_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/moutarde-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 6200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.4,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Graines de moutarde* 35%,vinaigre d'alcool*, eau, sel.\n* Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 10.54,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "gomasio-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GOMASIO 200G BIO",
+                "desc": "Gomasio 200G Bio\nOui au sésame bien moulu pour saler autrement !\nCondiment au sel à base de sésame issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3305044000793.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gomasio-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 8200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 52
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.2,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 12
+                    }
+                },
+                "ingredients": "Sésame complet toasté* (Ouganda), sel marin.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.5,
+                "price_per_unit": 17.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A saupoudrer sur toutes vos préparations, poisson, viandes, légumes, plats, salades.\nS'utilise comme du sel à raison d'une cuillère à café par repas.",
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière.\nBien refermer après usage.\nAprès ouverture, consommer sous 6 mois."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "squeeze-ketchup-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SQUEEZE KETCHUP 270G BIO",
+                "desc": "Squeeze Ketchup 350g Bio\nDepuis 1920, la signature du Maître Moulinier vous garantit le sérieux et l'authenticité de ses produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960010582-moutarde_mi_forte_colza_olive-190g-1058.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/squeeze-ketchup-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "270G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.4
+                    }
+                },
+                "ingredients": "Purée de tomates* (30%), sirop d'agave*, vinaigre*, farine de riz*, sel de mer, pectine, oignon en poudre*, ail*, paprika*.\n*Produits issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 17.59,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au réfrégirateur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "bouillon-legumes-sans-sel-72g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUILLON DE LÉGUMES SANS SEL 72G BIO",
+                "desc": "Bouillon de légumes sans sel 72g Bio\nDécouvrez Bouillon de légumes sans sel bio en cube  : un petit cube pratique pour relever votre cuisine sans ajouter de sel !\nIl concentre une richesse de saveurs végétales et il se dilue rapidement en contact avec un liquide chaud. Sans huile de palme.\nUne alternative végétale complète pour toutes celles et ceux qui souhaitent varier leur alimentation et déguster des produits sains, à tout moment de la journée !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03609060002701_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bouillon-legumes-sans-sel-72g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "72G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14.4
+                    },
+                    "fats": {
+                        "fats": 31.1
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 21.1,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Beurre de karité*, légumes 20% (tomates*, céleri*, oignons*, poireaux*, panais*), amidon de maïs*, sirop de glucose*, sucre de canne blond*, extrait de levure, épices* et aromates* (ail*, livèche*, macis*, persil*, feuilles de céleri*, curcuma*, origan*, romarin*, thym*, gingembre*), jus de légumes* concentré (céleri*, carottes*, oignons*), huile d'olive*, caramel*, huile de tournesol*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 72.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 39.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dissoudre un cube dans ½ litre d’eau bouillante.\nA utiliser aussi bien pour réaliser des bouillons que comme aide culinaire pour parfumer l’eau de cuisson des céréales ou des pâtes, pour renforcer le goût de vos plats en sauce (ragoûts de légumes...).",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "bicarbonate-de-soude-ali-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BICARBONATE DE SOUDE ALIMENTAIRE 500G",
+                "desc": "Bicarbonate de soude alimentaire 500G\nLe Bicarbonate de Soude est un produit multi-usages, élaboré à partir de matières premières naturelles.\nCette poudre blanche, sous forme de très petits cristaux, est obtenue à partir d'un minerai, le Natron ou à travers des réactions chimiques associant du sel et de la craie (Nahco).\nLe bicarbonate de soude dit \"technique\" est utilisé en droguerie traditionnelle pour son pouvoir abrasif. Le bicarbonate de soude dit \"alimentaire\" est utilisé pour l'hygiène et l'alimentation (nettoyer les légumes, faire monter les gâteaux, déodorant, brossage de dents...)\nBlanchir les dents, rendre la peau douce, nettoyer la maison de fond en combles... le Bicarbonate de soude sera votre meilleur allié au quotidien.\nSoluble dans l'eau et entièrement biodégradable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03035626803558_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bicarbonate-de-soude-ali-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Bicarbonate de soude ou de sodium, obtenu à partir d'un minerai, le Natron.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Bicarbonate de Soude possède plus d'une cinquantaine d'utilisations beauté et domestiques : neutralisateur d'acidité, adoucit la peau, utilisé pour dissoudre les graisses, les sucres, récurer la cuisine, la salle de bain, agent blanchissant pour le linge, fongicide pour le jardin...\nVoici quelques exemples d'utilisation :\nPour garder les dents blanches : plusieurs fois par semaine, déposez du bicarbonate de soude sur votre brosse à dents humidifiée et brossez en complément de votre brossage habituel au dentifrice.\nPour un bain qui rend la peau douce : déposez une cuillère à soupe de bicarbonate de soude dans votre bain\nPoudre à récurer : Pour lavabos, WC, baignoires, carrelages, etc... Saupoudrez simplement votre éponge.\nNettoyage du four : Faites une pâte avec de l'eau et du bicarbonate, laissez agir une nuit, réhumidifiez si nécessaire et frottez ensuite.\nDésodorisant : Pour la litière, les tapis, la moquette, la voiture... Saupoudrez, laissez agir 2 heures et aspirez.\nAdoucissant pour le linge : Versez 2 cuillères à soupe dans la machine.\nFongicide pour le jardin : Efficace contre le mildiou de la rose, des courges, potimarrons, contre les moisissures grises. Préparation : 10g de bicarbonate, 40 ml de savon noir, 4 litres d'eau.\nPrécautions d'emploi :\nTenir hors de la portée des enfants.\nPeut être toxique en cas d'ingestion massive."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-fin-sachet-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SEL DE GUÉRANDE MOULU 500G",
+                "desc": "Sel de Guérande moulu 500g\nFruit de l'océan du soleil et du vent, Le sel marin \"Le Paludier\" est récolté à la main sur les marais salants de Guérande, selon une méthode ancestrale. Il est égoutté au soleil. Le sel fin séché est obtenu par simple séchage et broyage.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/6/7610313391264.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-fin-sachet-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Sel de Guérande.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 5.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour l'assaisonnement de vos plats.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "mayonnaise-245g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAYONNAISE À L'HUILE DE TOURNESOL 245G BIO",
+                "desc": "Mayonnaise à l'huile de tournesol 245g Bio\nDelouis produit des vinaigres, moutardes, vinaigrettes, sauces et mayonnaises.\nInnovation et Respect des Traditions gastronomiques françaises sont aujourd’hui comme hier les deux principes directeurs de la maison.\nFidèle à sa devise \"la qualité par le naturel\", Delouis s’inscrit dans les démarches \"Qualité et Environnement\" les plus exigeantes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3258831001018.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mayonnaise-245g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:35",
+                "format": "245G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.4
+                    },
+                    "fats": {
+                        "fats": 82
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Huile de tournesol désodorisée*, jaune d'OEUF*, MOUTARDE de Dijon*, (graines de MOUTARDE*, vinaigre*, eau, sel marin), vinaigre de cidre*, sel marin, citron frais*.\n*Issus de l'agricole biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Œuf",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 245.0,
+                "price_per_packaging": 4.59,
+                "price_per_unit": 18.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour vos crudités, vos plats de fruits de mer ou encore pour accompagner vos frites.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "cornichons-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CORNICHONS 180G BIO",
+                "desc": "Cornichons 180G Bio\nDélicieux et croquants cornichons tempés dans du vinaigre. \nCe produit est sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/8/08029689023362_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cornichons-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 950
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.7,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Cornichons*, vinaigre de vin*, poivre noir*, eau, sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 26.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais après l'ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "basilic-feuilles-15g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BASILIC EN FEUILLES 15G BIO",
+                "desc": "Basilic en feuilles 15g Bio\nC’est vraisemblablement en Inde qu’il a été cultivé pour la première fois, en Inde où une variété portant le nom de basilic sacré est utilisé dans les rituels religieux consacrés au dieu Vishnou.\nLa médecine ayurvédique l’utilise comme antivenimeux, ce qui est peut-être à l’origine de son nom, “Basilic”, qui est aussi celui du dragon mythologique, cet être fabuleux, incarnation du pouvoir royal qui foudroie ceux qui lui manquent d'égards, symbole du démon.\nLa vision de sa propre image le tue, voila pourquoi Alexandre le Grand, avait fait polir son bouclier comme un miroir, pour se protéger d’une rencontre possible avec un Basilic. Cela n’a pas suffit à lui éviter la mort dans son long voyage vers l’Inde.\n  Pour le conserver, les italiens ont inventé le pesto, qui transforme un banal plat de nouilles en un véritable régal. Il est stimulant, antidépresseur, tonique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329484711200.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/basilic-feuilles-15g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "15G",
+                "availability": true,
+                "ingredients": "Feuilles de basilic bio.",
+                "on_discount": false,
+                "weight_per_packaging": 15.0,
+                "price_per_packaging": 2.15,
+                "price_per_unit": 143.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisine provençale (pistou), salades, fromages, potages. \nUtiliser en fin de cuisson.",
+                "conservation": "À conserver dans un endroit sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "poivre-vert-grain-15g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRE VERT LYOPHILISÉ 15G BIO",
+                "desc": "Poivre vert lyophilisé 15g Bio\nDécouvrez ce poivre vert lyophilisé bio, idéal pour la préparation de marinades, sauces, viandes, poissons, gibiers, terrines...\nGaranti sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-l-atlantique-500g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poivre-vert-grain-15g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "15G",
+                "availability": true,
+                "ingredients": "Poivre vert*, eau, sel, vinaigre\n*Issu de l'agriculture biologique\n\nMarinades, sauces, viandes, poissons, gibiers, terrines.",
+                "on_discount": false,
+                "weight_per_packaging": 15.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 263.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "poivre-kampot-equit-45g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRE NOIR DE KAMPOT MOULIN 45G BIO",
+                "desc": "Poivre Noir de Kampot du Cambodge 45g Bio\nLe Poivre de Kampot est un poivre de grande qualité cultivé depuis des siècles au Cambodge, exclusivement dans la région dite de Kampot. Connu comme l’un des meilleurs poivres au monde, il a obtenu ses lettres de noblesse lorsque qu’il fut introduit auprès des plus grandes tables au cours du 18ème siècle.\nRécemment il est devenu le premier produit cambodgien à bénéficier d’une Indication Géographique (GI). Le nom et la qualité de ce poivre sont désormais protégés.\nIssu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360158.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poivre-kampot-equit-45g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "45G",
+                "availability": true,
+                "ingredients": "Poivre noir de Kampot*\n*Produit bio-équitable",
+                "on_discount": false,
+                "weight_per_packaging": 45.0,
+                "price_per_packaging": 7.09,
+                "price_per_unit": 157.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour libérer ses arômes, à concasser au dernier moment avant de l’incorporer dans tous vos plats en sauce ou grillades. Excellent sur les tartes, confitures ou compotes de poires ou de mirabelles. Il développe ainsi des arômes forts et délicats : son goût très intense et doux à la fois révèle des notes fleuries d’eucalyptus et de menthe fraîche.",
+                "conservation": "A conserver dans un endroit sec, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "moulin-melange-5-baies-40g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE POIVRE & 5 BAIES 40G BIO",
+                "desc": "Mélange poivre & 5 baies 40G Bio.\nPoivres noir, blanc et vert, baies roses et coriandre constituent ce Mélange Cinq Baies dont les différents arômes du poivre associé à la fraîcheur de la coriandre\nrelèvent tous les plats, aussi bien salés que sucrés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-l-atlantique-500g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/moulin-melange-5-baies-40g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "40G",
+                "availability": true,
+                "ingredients": "Poivre noir*, poivre vert*, poivre blanc*, coriandre*, baies roses*.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 7.55,
+                "price_per_unit": 188.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Classique : pour les assaisonnements et relever les plats en fin de cuisson.\nPlus originale : quelques tours de moulin sur une grillade avant de servir.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "moulin-poivre-noir-malabar-50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRE NOIR DE MALABAR 50G BIO",
+                "desc": "Poivre Noir de Malabar 50g Bio\nLa région de Malabar, au Sud de l'Inde, est le berceau historique du poivre.\nCe poivre noir biologique, fort et épicé, relèvera tous les plats.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-l-atlantique-500g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/moulin-poivre-noir-malabar-50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "50G",
+                "availability": true,
+                "ingredients": "Poivre noir de Malabar*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 8.4,
+                "price_per_unit": 168.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le poivre noir, plus fort que le poivre blanc, assaisonnera à merveille vos steaks et grillades.",
+                "conservation": "A conserver dans un endroit sec et à l'abris de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "recharge-pvr-noir-malabar-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RECHARGE POUR POIVRE NOIR DE MALABAR 150G BIO",
+                "desc": "Recharge pour Poivre Noir de Malabar 150g Bio\nLa région de Malabar, au Sud de l'Inde, est le berceau historique du poivre.\nCe poivre noir biologique, fort et épicé, relèvera tous les plats.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/i/m/image_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/recharge-pvr-noir-malabar-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:36",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "Poivre noir de Malabar*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 10.95,
+                "price_per_unit": 73.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le poivre noir, plus fort que le poivre blanc, assaisonnera à merveille vos steaks et grillades.",
+                "conservation": "A conserver dans un endroit sec et à l'abris de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "recharge-melange-5-baies-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RECHARGE POUR MÉLANGE POIVRE & 5 BAIES 150G BIO",
+                "desc": "Recharge mélange Poivre & 5 Baies 150g Bio\nPoivres noir, blanc et vert, baies roses et coriandre constituent ce Mélange Cinq Baies dont les différents arômes du poivre associé à la fraîcheur de la coriandre.\nRelèvent tous les plats, aussi bien salés que sucrés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/l/fleur-sel-guerande-paludier.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/recharge-melange-5-baies-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "150G",
+                "availability": true,
+                "ingredients": "Poivre noir*, poivre vert*, poivre blanc*, coriandre*, baies roses*.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 14.89,
+                "price_per_unit": 99.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 14.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Classique : pour les assaisonnements et relever les plats en fin de cuisson.\nPlus originale : quelques tours de moulin sur une grillade avant de servir.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "gros-sel-himalaya-moulin-45g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GROS SEL D'HIMALAYA 100G BIO",
+                "desc": "Gros Sel d'Himalaya 100g Bio\nLe Sel de l’Himalaya est considéré comme l’un des meilleurs au monde, sa forme de sel naturelle est la plus rare et plus précieuse.\n\nSa composition minérale idéale de la mer préhistorique a été préservée : il a toutes les qualités du sel indispensable à la vie. Le chlorure de sodium n’y est pas séparé des autres éléments nécessaires à son assimilation.\nSes bienfaits s’accompagnent d’une saveur étonnante : ceux qui l’ont goûté l’ont aussitôt adopté !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360158.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gros-sel-himalaya-moulin-45g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Gros Sel d'Himalaya",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 39.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-minereaux-hdp-70-170g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SELS MINÉRAUX AUX HERBES DE PROVENCE 170G",
+                "desc": "Sels minéraux aux herbes de Provence 170G.\nSels minéraux de mer aux herbes de Provence.\n-70% de sodium.\nRiche en calcium, source de magnésium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/l/fleur-sel-guerande-paludier.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-minereaux-hdp-70-170g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "170G",
+                "availability": true,
+                "ingredients": "Minéraux de mer (60%) (calcium, magnésium), sel de mer (30%), herbes de Provence (10%) (thym, sauge, sarriette, estragon).",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 5.8,
+                "price_per_unit": 34.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sels-minereaux-50-170g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SELS MINÉRAUX DE MER 170G",
+                "desc": "Sels minéraux de mer 170G\nSels minéraux de mer, -50% de sodium.\nRiche en calcium, source de magnésium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-guerande-250-g-paludier.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sels-minereaux-50-170g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "170G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 49000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Sel de mer (50%), minéraux de mer (49%) (potassium, magnésium, calcium), antiagglomérants : oxyde de magnésium, E535, carbonates de magnésium.",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 22.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "fleur-de-sel-truffe-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FLEUR DE SEL À LA TRUFFE 125G",
+                "desc": "Fleur de sel à la truffe 125G.\nFleur de sel de Camargue avec de la truffe séchée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/6/7610313391264.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fleur-de-sel-truffe-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "125G",
+                "availability": true,
+                "ingredients": "Fleur de sel de Camargue (98%), truffe d'été séchée (1%), arômes (1%).",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 9.8,
+                "price_per_unit": 78.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A incorporer à vos préparation salées.\nIdéal pour les recette festives.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "fleur-de-sel-camargue-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FLEUR DE SEL CAMARGUE 125G",
+                "desc": "Fleur De Sel Camargue 125g\nDécouvrez un sel unique, délicat et croustillant, la fleur de sel de Camargue 100% naturel. Ce sel d'exception est cueilli à la main depuis 2000 ans. La fleur de sel de Camargue est depuis toujours l'ingrédient indispensable à la cuisine méditerranéenne.\nDans votre assiette, une simple pincée de fleur de sel révèlera la saveur des plats qu'elle accompagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/l/fleur-sel-guerande-paludier.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fleur-de-sel-camargue-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:37",
+                "format": "125G",
+                "availability": true,
+                "ingredients": "La fleur de sel de Camargue est constituée de paillettes nées d'une cristallisation éphémère à la surface de l'eau.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 34.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Utilisée à table ou en fin de cuisson, elle est idéale pour accommoder les grillades, les poissons et les salades.",
+                "conservation": "A conserver dans un endroit sec et tempéré."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-gros-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GROS SEL DE GUÉRANDE 1KG",
+                "desc": "Gros sel de Guérande 1Kg\nRécolté à la main par nos paludiers, le gros sel Le Paludier de Guérande est naturel, gris et sans additif.\nConforme aux exigences du cahier des charges IGP, il est simplement égoutté au soleil après sa récolte. \nLe gros sel Le Paludier de Guérande est parfait pour une utilisation quotidienne en cuisine, pour la cuisson des légumes etc.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3305044000793.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-gros-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:38",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Sel de Guérande.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.6,
+                "price_per_unit": 2.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "poivre-noir-poudre-45g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRE NOIR MOULU 45G BIO",
+                "desc": "Poivre noir moulu 45g Bio\nParfum boisé, frais, piquant et agréablement aromatique. Les baies de poivre noir sont cueillies vertes, puis elles sont soumises à la fermentation pendant quelques jours et sont séchées au soleil, sous l'action duquel elles se rident et noircissent.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3305040000742.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poivre-noir-poudre-45g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:38",
+                "format": "45G",
+                "availability": true,
+                "ingredients": "Poivre noir*.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 45.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 110.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour sauces, viandes, œufs, farces, pâtés, légumes, etc...\nNB: Le poivre relève traditionnellement le goût de tous les aliments salés. Utiliser de préférence des grains entiers pour épicer les bouillons de viande. Pour que le poivre ne perde pas son arôme et ne confère pas d'âcreté à la préparation, il vaut mieux l'introduire en fin de cuisson.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "poivre-noir-grain-50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRE NOIR EN GRAINS 50G BIO",
+                "desc": "Poivre noir en grains 50G Bio\nParfum boisé, frais, piquant et agréablement aromatique. Les baies de poivre noir sont cueillies vertes, puis elles sont soumises à la fermentation pendant quelques jours et sont séchées au soleil, sous l'action duquel elles se rident et noircissent.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-guerande-250-g-paludier.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poivre-noir-grain-50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:38",
+                "format": "50G",
+                "availability": true,
+                "ingredients": "Poivre noir*.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 99.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour Sauces, viandes, œufs, farces, pâtés, légumes, etc..\nNB: Le poivre relève traditionnellement le goût de tous les aliments salés. Utiliser de préférence des grains entiers pour épicer les bouillons de viande. Pour que le poivre ne perde pas son arôme et ne confère pas d'âcreté à la préparation, il vaut mieux l'introduire en fin de cuisson.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "baies-roses-20g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BAIES ROSES 20G BIO",
+                "desc": "Baies roses 20g Bio\nAussi appelé poivre rose, les baies roses sont issus d’un arbre tropical quelque peu envahissant. Leur couleur vive réjouit les yeux, et leur saveur unique étonne les papilles…\nBaies à moudre ou à utiliser entières pour les garnitures, salades composées, fromages frais et poissons.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-guerande-250-g-paludier.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/baies-roses-20g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:38",
+                "format": "20G",
+                "availability": true,
+                "ingredients": "Baies roses*\n(* : produit issu de l'agriculture biologique certifiée par FR-BIO-01).",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 5.05,
+                "price_per_unit": 252.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Garnitures, salades composées, fromages frais, poissons.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "250g-sel-bte-herbamare-leg-her",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HERBAMARE SEL MARIN PLANTES & LÉGUMES FRAIS 250G BI...",
+                "desc": "Herbamare Sel marin plantes & légumes frais 250g Bio\nGrâce à ses arômes, Herbamare parfume vos riz, pâtes, légumes, sauces, assaisonnements et aussi tous vos poissons et viandes.\nQualité et savoir-faire : Herbamare est un mélange finement dosé de sel marin, de légumes, d'herbes aromatiques et d'une algue marine, le kelp.\nLes plantes sont mélangées au sel aussitôt après leur récolte. Pendant la macération, le sel est imprégné de la saveur des légumes. Le mélange est ensuite séché à faible température, sous vide.\nCette méthode préserve les principes actifs, les arômes et sels minéraux des ingrédients d'Herbamare.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087362343.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/250g-sel-bte-herbamare-leg-her"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 93600
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5
+                    }
+                },
+                "ingredients": "Sel marin, légumes* et herbes aromatiques* (33% à la mise en oeuvre), kelp.\nLégumes et herbes : céleri*, poireau*, cresson*, oignon*, ciboulette*, persil*, livèche*, ail*, basilic*, marjolaine*, romarin* et thym*.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.45,
+                "price_per_unit": 21.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "herbamare-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HERBAMARE SEL MARIN PLANTES & LÉGUMES FRAIS 500G BI...",
+                "desc": "Herbamare Sel marin Plantes & Légumes frais 500g Bio\nDécouvrez ce sel marin aux légumes et herbes aromatiques de culture biologique. Herbamare est un mélange finement dosé de sel marin, de légumes, d'herbes aromatiques et d'une algue marine, le kelp.\nPendant la macération le sel est imprégné de la saveur des légumes. Le mélange est ensuite séché à faible température, sous vide. Cette méthode préserve les principes actifs, les arômes et sels minéraux des ingrédients d'herbamare.\nNous nous assurons que tous nos fournisseurs de légumes et d'herbes aromatiques cultivent de façon traditionnelle et biologique, sans apport de pesticides de synthèse ni d'engrais chimiques. Les plantes sont mélangées au sel aussitôt après leur récolte.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087362343.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/herbamare-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 93600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Sel marin, plantes et légumes frais*, algue marine kelp.\nPlantes et légumes frais (33% à la mise en oeuvre) : céleri*, poireau, cresson*, oignon*, ciboulette*, persil*, livèche*, ail*, basilic*, marjolaine*, romarin* et thym*.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.55,
+                "price_per_unit": 17.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À conserver au sec.\nAvec Herbamare, salez tous vos plats, à table ou en cuisine. Grâce à ses arômes, Herbamare parfume vos riz, pâtes, légumes, sauces, assaisonnements et aussi tous vos poissons et viandes.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-fin-sachet-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SEL MARIN FIN 1KG",
+                "desc": "Sel marin fin 1Kg\nSitués au coeur d'un parc naturel, les marais salants de l'Atlantique produisent un sel légèrement gris, récoltés manuellement selon la méthode traditionnelle.\nIl est le fruit d'un savoir-faire ancestral que notre paludier partenaire perpétue depuis 3 génétations.\nUne fois récolté, le sel de l'Atlantique est séché au soleil puis broyé dans nos ateliers du Moulin d'Andiran.\nNaturellement pauvre en plomb et en métaux lourds, il est non raffiné, non traité aux additifs.\nIl conserve ainsi ses sels minéraux et oligo-éléments.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360158.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-fin-sachet-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "1KG",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.6,
+                "price_per_unit": 2.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le sel de l'Atlantique est idéal pour la cuisine quotidienne et les cuissons en \"croûte de sel\".",
+                "conservation": "A conserver dans un endroit sec et tempéré."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "fleur-de-sel-guerande-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FLEUR DE SEL DE GUÉRANDE 250G",
+                "desc": "Fleur de Sel de Guérande 250g\nCueillie délicatement à la main, la saveur et la texture de la Fleur de Sel Le Paludier de Guérande sublimeront tous vos plats.\nSel de table.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/i/m/image_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fleur-de-sel-guerande-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Fleur de sel de Guérande.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.3,
+                "price_per_unit": 29.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-himalaya-natur-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SEL DE L'HIMALAYA NATURE 250G",
+                "desc": "Sel de l'Himalaya Nature 250g\nLe sel de l'Hymalaya est considéré comme le meilleur du monde. Sel complet par excellence, il a conservé tous les minéraux de la mer originelle. En art culinaire, il est à découvrir ou agrémenté d'herbes ou épices.\nSans additifs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/e/sel-marin-fin-de-l-atlantique-500g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-himalaya-natur-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Sel cristallin de l'Hymalaya, sans additifs.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour assaisonner vos plats.",
+                "conservation": "A conserver au sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    },
+    {
+        "ean": "sel-fin-gris-bte-verseuse250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SEL DE GUÉRANDE MOULU 250G",
+                "desc": "Sel de Guérande moulu 250G\nLe sel moulu Le Paludier de Guérande est récolté à la main sur les marais salants de Guérande selon une méthode ancestrale. Naturel, gris et sans sadditif, il est l'héritage d'un savoir-faire artisanal.\nAprès la récolte, le sel moulu Le Paludier de Guérande est égoutté au soleil, juste séché et moulu. Sur la table ou en cuisine, ce sel moulu conviendra à tous les usages.\nSel fin gris de table.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760123181068_-_recto.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sel-fin-gris-bte-verseuse250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:39",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Sel de Guérande.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:34",
+        "updated_at": "2025-06-15T21:34"
+    }
+]

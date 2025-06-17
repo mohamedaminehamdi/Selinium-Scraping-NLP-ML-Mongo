@@ -1,0 +1,974 @@
+[
+    {
+        "ean": "yaourt-mangue-ss-lactose-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT MANGUE SANS LACTOSE 200G BIO",
+                "desc": "Yaourt mangue sans lactose 200g Bio\nDégustez ce délicieux yaourt au bon goût de mangue. Une recette sans lactose à base de lait de vache suisse.\nTrès digeste, sa texture onctueuse séduira les petits comme les grands.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220133989_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yaourt-mangue-ss-lactose-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:08",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.3,
+                        "of_which_sugars": 13.6
+                    }
+                },
+                "ingredients": "Yogourt* léger sans lactose (lait pasteurisé et homogénéisé (CH), protéines lactiques, cultures, lactase), sucre de canne brut*, mangue* 6% (Asie, Amérique du Sud), amidon de riz*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.59,
+                "price_per_unit": 7.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un dessert lacté à consommer à tout moment de la journée pour une pause fruitée.",
+                "conservation": "A conserver à +2°C/+6°C."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "lait-1-2-ecr-sans-lactose-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ SANS LACTOSE 1L BIO",
+                "desc": "Lait demi-écrémé sans lactose 1L Bio\nLait sans lactose (avec moins de 0,1 % de lactose)",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860002082.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecr-sans-lactose-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:08",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "lait* demi-écrémé, lactase.\n*issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 2.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Avant ouverture à conserver à température ambiante, dans un endroit sec et à labri de la chaleur et de la lumière.\nBien agiter avant dégustation.\nAprès ouverture, à conserver au frais à +6°C maximum et à consommer dans les 5 jours.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "lait-d-amande-coco-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON D'AMANDE COCO 1L BIO",
+                "desc": "Boisson D'Amande Coco 1L Bio\nLégèrement velouté et délicatement parfumé, ce LAIT d'AMANDE COCO concilie à la fois la douceur de l'amande et la fraîcheur du coco pour une harmonie des plus surprenantes.\nObtenue à partir de lait de coco et d'amande, cette nouvelle boisson offre un complexe nutritif très intéressant associant deux pilliers des régimes méditerranéens et asiatiques. D'un côté, l'amande avec sa richesse en protéines et minéraux, de l'autre la coco avec ses éléments bénéfiques. L'algue Lithothamne vient enrichir cette préparation grâce à sa teneur élevée en calcium.\nFormulé volontairement sans sucre, ce LAIT d'AMANDE COCO préserve ainsi toute sa naturalité pour révéler les notes subtiles de l'amande et du coco. Libre à chacun de sucrer ou non sa boisson et de l'adapter selon ses envies.\nSource de calcium, nécessaire au maintien de l'ossature et de la dentition normale, ce LAIT d'AMANDE COCO, naturellement sans lait et sans gluten, représente une alternative végétale unique.\nA déguster en boisson à tout instant de la journée, et également en cuisine, pour des recettes raffinées et gourmandes !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-d-amande-coco-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:08",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "eau de source, poudre de noix de coco* (Sri Lanka/Philippines) 4%, amandes* 2% (Sicile et/ou Espagne), huile de tournesol*, algues marines Lithothamnium calcareum** 0,35%, épaississant : gomme de guar*, carraghénane.\n*Ingrédients issus de l'agriculture biologique.\n**L'algue Lithothamne est naturellement riche en calcium.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.75,
+                "price_per_unit": 5.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer en boisson, en smoothie et également en cuisine créative. Bien agiter avant emploi. Après ouverture, conserver au frais et consommer dans les 3 jours.\nUn léger déphasage peut se produire : il est lié à la composition totalement naturelle de la boisson.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "fleur-d-amandes-bio-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON À L'AMANDE EN POUDRE 400G BIO",
+                "desc": "Boisson à l'amande en poudre 400G Bio\nPréparation instantanée pour lait d'amande, aux amandes douce de Sicile, naturellement riche en protéines, calcium et magnésium de haute qualité.\nObtenue à partir de fruits émondés et déshuilés partiellement, elle concentre tous les bienfaits de la pulpe nutritive et révèle une onctuosité parfumée et légère. fruit complice ancestral de l'homme, l'amande offre une boisson noble de haute valeur nutritionnelle, dont les bienfaits sont reconnus depuis l'antiquité.\ngrâce à son procédé d'otention breveté, une quantité exceptionnelle d'amandes est incorporée, la digestibilité est optimisée par précuisson et les nutriments naturels sont préservés.\n100% végétale, cette boisson, naturellement sans lactose, sans gluten et sans choléstérol est une alternative idéale au lait animal, de soja et de céréales à gluten. Sans saccharose ajouté, elle représente une boisson saine et nutritive interessante à tout âge, jeunes et moins jeunes, pour tout instant de la journée.\nSans lactose-Sans Gluten- Sans saccharose ajouté.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/4/8428532230153.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fleur-d-amandes-bio-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:08",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.08
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 32
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30,
+                        "of_which_sugars": 6
+                    }
+                },
+                "ingredients": "Amandes* dégraissées partiellement 65% (obtenues à partir de 130% d'amandes* entières (Sicile ou Espagne)), sirop de riz* déshydraté, fibre d'acacia*, arôme naturel de vanille*.\n* Ingrédients issus d'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 21.25,
+                "price_per_unit": 53.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour les enfants, de préférence 2 doses par 100ml, soit 5 doses pour 250ml.\nDemander conseil à votre médecin ou professionnel de santé pour le jeune enfant.\nEn cuisine, préparer le lait d'amande avant et utilisez-le comme un lait classique en suivant la recette.\nEn boisson, préparation rapide et simple n'importe où, juste avec de l'eau !\nOu selon toutes vos fantaisies gourmandes, associé à du sirop d'agave ou de céréales, du sucre, un yaourt, dans du lait... !\nA conserver dans un endroit frais et sec.\nEnfant: 2 doses pour 100ml d'eau chaude ou froide à adapter au volume du biberon ou du bol.Demander l'avis de votre médecin ou d'un thérapeute avisé pour le nourrisson.\nAdulte: 2 à 3 doses pour 200ml ou un bol de liquide chaud ou froid. Se consomme également en crème, en simple saupoudrage ou en cuisine..\nDélayer la poudre avec peu d'eau jusqu'à obtenir une crème bien homogène. Verser petit à petit le complément d'eau tout en remuant.",
+                "conservation": "A conserver à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "6666170",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT FRAMBOISE SANS LACTOSE 200G BIO",
+                "desc": "Yaourt framboise sans lactose 200g Bio\nDégustez ce délicieux yaourt au bon goût de framboise. Une recette sans lactose à base de lait de vache suisse.\nTrès digeste, sa texture onctueuse séduira les petits comme les grands.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860001184.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yaourt-framboi-ss-lactose-200g-6666170"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:08",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.8
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 13.4
+                    }
+                },
+                "ingredients": "yaourt sans lactose*, framboises* 9 %, sucre de canne brut*, lactase.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.59,
+                "price_per_unit": 7.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un dessert lacté à consommer à tout moment de la journée pour une pause fruitée.",
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "6666169",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT VANILLE SANS LACTOSE 200G BIO",
+                "desc": "Yaourt vanille sans lactose 200g Bio\nDégustez ce délicieux yaourt au bon goût de vanille. Une recette sans lactose à base de lait de vache suisse.\nTrès digeste, sa texture onctueuse séduira les petits comme les grands.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860002068.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yaourt-vanill-ss-lactose-200g-6666169"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 90
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 11
+                    }
+                },
+                "ingredients": "Yogourt doux sans lactose (au lait pasteurisé, homogénéisé (CH), protéine de lait, cultures, lactase), sucre de canne brut eau, extrait de vanille , gousses de vanille (Afrique), amidon de riz, Tous les ingrédients agricoles sont issus de l'agriculture biologique, Lactose: ,lt,0,1 g/l oog.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.59,
+                "price_per_unit": 7.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un dessert lacté à consommer à tout moment de la journée pour une pause gourmande.",
+                "conservation": "A conserver à +2°C/+6°C."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "spe-delactosee-4x125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT SANS LACTOSE AU CITRON 4X125G BIO",
+                "desc": "Yaourt sans lactose au citron 4X125g Bio\nDécouvrez cette nouvelle spécialité laitière délactosée au citron. Une alternative idéale saine et gourmande pour les personnes intolérantes au lacoste. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3576560400002_tartimi-cumin.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spe-delactosee-4x125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 110
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.1
+                    },
+                    "fats": {
+                        "fats": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 3.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 13
+                    }
+                },
+                "ingredients": "Lait entier pasteurisé* 88%, sucre* 8%, lait concentré écrémé*, extraits de citron*, ferments lactiques\n  Les informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Issu de l’agriculture biologique",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 4.05,
+                "price_per_unit": 8.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le dessert.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "chokenut-700g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE À TARTINER CHOKENUT 700G BIO",
+                "desc": "Pâte à tartiner Chokenut 700g Bio\nDécouvrez cette délicieuse pâte à tartiner bio sans lait, Chokenut revisite les grands classiques grâce à une recette riche en fruits secs. Assurément, l’un des produits phares de Noiseraie !\nAncrée dans un terroir, Noiseraie est une entreprise familiale qui élabore des pâtes à tartiner onctueuses et riches en fruits secs. Le savoir-faire de l'équipe est le véritable secret de fabrication : sélection rigoureuse des ingrédients, cuisson au poêlon, affinage au fondoir à basse température pendant de longues heures pour exhaler les arômes.\nConvient à l'alimentation vegan.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380037085.1-0001_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chokenut-700g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "700G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.9
+                    },
+                    "fats": {
+                        "fats": 41.4
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.2,
+                        "of_which_sugars": 42.5,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Sucre roux de canne* (1) du Brésil 41,3%, noisettes* 27%, matières grasses végétales* (huile de tournesol*, huile de coco*, beurre de cacao*), poudre de cacao*(1) 7,7%, extrait de vanille*.\n\n*Ingrédient issu de l'agriculture biologique.\n(1) Commerce Equitable contrôlé selon le référentiel Fair For Life.\nTraces éventuelles d'autres fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 17.95,
+                "price_per_unit": 25.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 17.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "S'utilise pour accompagner vos tartines de pain, pancakes, galettes de riz...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "ghee-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GHEE SANS LACTOSE 180G BIO",
+                "desc": "Ghee sans lactose 180G Bio\nLe Ghee Bio Planète est un beurre clarifié, ingrédient phase de la cuisine ayurvédique. Il est issu d'un beurre biologique de qualité dont on a éliminé l'eau, le lactose et les protéines.\nChauffés longtemps à basse température, les composants du beurre sont dissociés, puis filtrés, seule est conservée la matière grasse pure : le ghee.\nLe ghee ne brûle pas à la cuisson. Source de vitamine A et E, il est utilisé en cuisine aussi bien pour cuire que pour frire.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03291960007957_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ghee-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 65
+                    },
+                    "fats": {
+                        "fats": 99
+                    }
+                },
+                "ingredients": "Ghee composé de 100 % BEURRE* clarifié.\n*Ingrédient issu de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 11.99,
+                "price_per_unit": 66.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Utilisé dans la cuisine au quotidien, il permet de réaliser des plats typiques indiens, comme de dorer et donner du croquant aux préparations classiques.\nPour la friture ne pas dépasser 210°C. Ne pas faire fumer.\nPour faire sauter pommes de terre et légumes.\nPour faire revenir riz et lentilles.\nA tartiner sur des toasts grillés ou des crêpes.",
+                "conservation": "Le Ghee Bio planète se conserve à température ambiante. Il a même la particularité de se conserver bien plus longtemps qu'un beurre classique."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "chokenut-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE À TARTINER CHOKENUT 300G BIO",
+                "desc": "Pâte à tartiner Chokenut 300g Bio\nDécouvrez cette délicieuse pâte à tartiner bio sans lait, Chokenut revisite les grands classiques grâce à une recette riche en fruits secs. Assurément, l’un des produits phares de Noiseraie !\nAncrée dans un terroir, Noiseraie est une entreprise familiale qui élabore des pâtes à tartiner onctueuses et riches en fruits secs. Le savoir-faire de l'équipe est le véritable secret de fabrication : sélection rigoureuse des ingrédients, cuisson au poêlon, affinage au fondoir à basse température pendant de longues heures pour exhaler les arômes.\nConvient à l'alimentation vegan.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000306.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chokenut-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.9
+                    },
+                    "fats": {
+                        "fats": 41.4
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.2,
+                        "of_which_sugars": 42.5,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Sucre roux de canne* (1) du Brésil 41,3%, noisettes* 27%, matières grasses végétales* (huile de tournesol*, huile de coco*, beurre de cacao*), poudre de cacao*(1) 7,7%, extrait de vanille*.\n\n*Ingrédient issu de l'agriculture biologique.\n(1) Commerce Equitable contrôlé selon le référentiel Fair For Life.\nTraces éventuelles d'autres fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.95,
+                "price_per_unit": 29.83,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour les petits déjeuners et gôuters, sur les crêpes, le pain ou dans la pâtisserie.",
+                "conservation": "Conserver à l'abri de la lumière et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "yaourt-myrtille-ss-lactos-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT AUX MYRTILLES SANS LACTOSE 200G BIO",
+                "desc": "Yaourt aux myrtilles sans lactose 200g Bio\nDégustez ce délicieux yaourt au bon goût de myrtilles. Une recette sans lactose à base de lait de vache suisse.\nTrès digeste, sa texture onctueuse séduira les petits comme les grands.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410035242.1-0005.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yaourt-myrtille-ss-lactos-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 13
+                    }
+                },
+                "ingredients": "3,5% de matière grasse dans la partie lactique.\nYogourt* sans lactose, sucre de canne brut*, 7% de myrtilles*, eau, amidon de riz*, lactase*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.59,
+                "price_per_unit": 7.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un dessert lacté à consommer à tout moment de la journée pour une pause fruitée.",
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "soupe-patate-douce-ging-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE À LA PATATE DOUCE & GINGEMBRE 50CL BIO",
+                "desc": "Soupe à la patate douce & gingembre 50Cl Bio.\nLes cuisiniers de Danival voulaient vous faire découvrir (ou re-découvrir) la note délicate et la rondeur de le patate douce qu’ils ont relevé avec une purée de gingembre frais.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920048908.jpeg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-patate-douce-ging-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "50CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.7,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Eau, patate douce* (16,5%), lentilles corail*, carotte*, oignon*, huile de tournesol désodorisée*, gingembre* (0,6%), sel marin non raffiné de l’Atlantique, ail*, cumin* (0,2%), poivre* (0,02%).\n*Ingrédients biologiques.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 7.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Soupe prête à consommer.\nSe consomme chaude de préférence :\n- réchauffer 5 minutes au bain-marie, sachet ouvert, - ou 2 minutes au micro-ondes, sachet ouvert,\n- ou 3 minutes dans une casserole : y verser la soupe et la réchauffer à feu doux, sans porter à ébullition, en remuant de temps en temps.\nAgitez bien avant de l'ouvrir. Conseils du Chef: Dégustez cette soupe chaude en y ajoutant une cuillère de crème fraîche pour apporter douceur et originalité !"
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "yaourt-cafe-ss-lactose-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "YAOURT AU CAFÉ SANS LACTOSE 200G BIO",
+                "desc": "Yaourt au café sans lactose 200G Bio\nUn délicieux yaourt onctueux au bon goût de café, pour un moment de gourmandise intense.\nConvient au régime sans lactose.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273220135464_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/yaourt-cafe-ss-lactose-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 90
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 14
+                    }
+                },
+                "ingredients": "YOGOURT sans lactose*, sucre de canne brut*, eau, café soluble* 0.8%, amidon de maïs*, poudre de cacao*, lactase.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 1.49,
+                "price_per_unit": 7.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster en fin de repas ou à tout moment de la journée, pour une pause lactée.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +8°C."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    },
+    {
+        "ean": "mozzarella-sans-lactose-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans lactose"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOZZARELLA SANS LACTOSE 100G BIO",
+                "desc": "Mozzarella sans lactose 100G Bio.\nLégèrement sucrés et irrésistibles : les boules de mozzarella Züger sans lactose sont fabriquées à partir de lait de vache pasteurisé sans lactose. Un goût extra et léger qui donne envie de plus.\nGarantie sans lactose.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760019710204.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mozzarella-sans-lactose-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:09",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 12.3
+                    },
+                    "fats": {
+                        "fats": 18.5
+                    },
+                    "proteins": {
+                        "proteins": 18.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Lait, sel de mer, lactase, présure microbienne, acidifiant (acide lactique) issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.89,
+                "price_per_unit": 18.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:08",
+        "updated_at": "2025-06-16T04:08"
+    }
+]

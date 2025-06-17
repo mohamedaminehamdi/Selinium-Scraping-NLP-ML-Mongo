@@ -1,0 +1,1743 @@
+[
+    {
+        "ean": "lait-d-amande-coco-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON D'AMANDE COCO 1L BIO",
+                "desc": "Boisson D'Amande Coco 1L Bio\nLégèrement velouté et délicatement parfumé, ce LAIT d'AMANDE COCO concilie à la fois la douceur de l'amande et la fraîcheur du coco pour une harmonie des plus surprenantes.\nObtenue à partir de lait de coco et d'amande, cette nouvelle boisson offre un complexe nutritif très intéressant associant deux pilliers des régimes méditerranéens et asiatiques. D'un côté, l'amande avec sa richesse en protéines et minéraux, de l'autre la coco avec ses éléments bénéfiques. L'algue Lithothamne vient enrichir cette préparation grâce à sa teneur élevée en calcium.\nFormulé volontairement sans sucre, ce LAIT d'AMANDE COCO préserve ainsi toute sa naturalité pour révéler les notes subtiles de l'amande et du coco. Libre à chacun de sucrer ou non sa boisson et de l'adapter selon ses envies.\nSource de calcium, nécessaire au maintien de l'ossature et de la dentition normale, ce LAIT d'AMANDE COCO, naturellement sans lait et sans gluten, représente une alternative végétale unique.\nA déguster en boisson à tout instant de la journée, et également en cuisine, pour des recettes raffinées et gourmandes !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-d-amande-coco-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "eau de source, poudre de noix de coco* (Sri Lanka/Philippines) 4%, amandes* 2% (Sicile et/ou Espagne), huile de tournesol*, algues marines Lithothamnium calcareum** 0,35%, épaississant : gomme de guar*, carraghénane.\n*Ingrédients issus de l'agriculture biologique.\n**L'algue Lithothamne est naturellement riche en calcium.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.75,
+                "price_per_unit": 5.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer en boisson, en smoothie et également en cuisine créative. Bien agiter avant emploi. Après ouverture, conserver au frais et consommer dans les 3 jours.\nUn léger déphasage peut se produire : il est lié à la composition totalement naturelle de la boisson.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "lait-coco-sans-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON COCO NATURE SANS SUCRES ET SANS GLUTEN 1L BIO",
+                "desc": "Boisson coco nature sans sucres et sans gluten 1L Bio\nRice Drink Coco: Harmonie parfaite entre la douceur du riz et le goût envoutant de la noix de coco. Une recette rêvée pour les adaptes du végétarisme qui se distingue par sa fonctionnalité dans la cuisine quotidienne. Boisson 100% plaisir au délicat goût de noix de coco, obtenu par des noix de coco soigneusement sélectionnées. En plus, sans gluten, sans sucres et faible teneur en matières grasses!\n  Origine du produit: Espagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411242502-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-sans-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2
+                    }
+                },
+                "ingredients": "Eau, riz* 14%, lait de coco* 6%, sel marin, arôme naturel*.\n*Ingrédients issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 3.49,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Convient à l’alimentation quotidienne de toute la famille. Comme boisson, dans le muesli, pour parfumer les smoothies ou pour réaliser de délicieux plats et desserts exotiques : riz au lait, flans, …\nNe convient pas aux nourrissons en tant qu'alimentation exclusive.",
+                "conservation": "Après ouverture, conserver au frais et consommer dans les 4-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "boisson-noisette-ss-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON À LA NOISETTE SANS SUCRES ET SANS GLUTEN 1L BIO",
+                "desc": "Boisson à la noisette sans sucres et sans gluten 1L Bio\nBoisson végétale aux noisettes bio sans sucres*, Tetra Brik 1 L \nFabriqué en Espagne - SANS gluten - SANS sucres",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/0/1006570_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boisson-noisette-ss-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Eau, noisettes* (5,5%), amidon de tapioca*, épaississant: farine de graine de caroube*, sel marin, arôme naturel de noisettes*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédients issus de l’Agriculture Biologique.\nNaturellement sans lactose.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 4.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant d’ouvrir. Les boissons végétales bio sans sucres EcoMil se consomment tel que à tout moment de la journée, froids ou chauds, dans le thé ou le café; et peuvent être aussi utilisés dans la préparation de vos recettes: sauces, gâteaux, crêpes, flans.",
+                "conservation": "A conserver au réfrigérateur après ouverture et consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "lait-amand-ss-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON D'AMANDE NATURE SANS SUCRES 1L BIO",
+                "desc": "Boisson d'amande nature sans sucres 1L Bio\nCe Lait d'Amandes Bio est 100% végétal et garanti sans sucres ajoutés !\nSaine et nutritive, il convient aux personnes qui doivent surveiller leur apport en sucre.\nLes produits EcoMil sont recommandés pour les personnes qui intolérantes et/ou allergiques ou pour celles et ceux qui souhaitent remplacer les produits laitiers dans leur régime alimentaire ! 100% végétales, les boissons EcoMil peuvent constituer une alternative saine aux laits d'animaux et autres boissons végétales.\nGaranti sans gluten, sans sucres et convient au régime alimentaire vegan.\nFabriqué en Espagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-amand-ss-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 140
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.2,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "Eau, amandes* (7%), amidon de tapioca*, arôme naturel d´amande*.\n\n*Issus de l’agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 4.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter le lait d’amande bio avant d’ouvrir. \nLes laits d’amande bio EcoMil se consomment tel que à tout moment de la journée, froids ou chauds, dans le thé ou le café. et peuvent être aussi utilisés dans la préparation de vos recettes: sauces, gâteaux, crêpes, flans…",
+                "conservation": "A conserver au réfrigérateur après ouverture et consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "douceur-amande-ss-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON DOUCEUR AMANDE SANS SUCRES 1L BIO",
+                "desc": "Boisson Douceur Amande sans sucres 1L Bio\nBoisson à base d'amandes sans sucres ajoutés; pauvre en acides gras saturés.\nCette boisson peut être utilisée pour la confection de vos smoothies ou vos desserts (riz au lait, semoule au lait...).",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/douceur-amande-ss-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Eau, amande* (3%), amidon de riz*, arôme naturel*, sel marin. \n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.69,
+                "price_per_unit": 2.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant chaque utilisation.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "quinoa-souffle-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "QUINOA SOUFFLÉ 100G BIO",
+                "desc": "Quinoa Soufflé 100G Bio\nProduit nature sans sucre ajouté ni aucun autre ingrédient.\nLes grains de quinoa sont hydratés puis soumis à une pression qui les expanse. Un produit source de protéines.\nCes grains de quinoa apportent une touche de légereté à de nombreuses préparations cullinairessalées ou sucrées (pains, müeslis, gâteaux,...).\nIls peut également être saupoudrés sur des plats de crudités ou être caramélisés façon pop corn.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3421557111105.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/quinoa-souffle-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:14",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.4
+                    },
+                    "proteins": {
+                        "proteins": 11.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Quinoa soufflé issu de l'agriculture biologique.\nContient des sucres naturellement présents.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 39.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A incorporer dans de multiples préparations sucrées ou salées : muëslis, pâtes à pain, gâteaux, etc. auxquelles le quinoa apportera de la légèreté.\nPeut également être saupoudré sur des plats de crudités ou être caramélisé façon pop corn.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-amande-blanc-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDE BLANCHE 350G BIO",
+                "desc": "Purée d'Amande Blanche 350G Bio\nL’amande blanche ou amande mondée, est l’amande sans la peau. L’ émondage est effectué grâce à une opération purement physique, qui consiste à enlever la peau de l’amande complète, par humidification à la vapeur. Les amandes blanches sont séchées à l’air chaud.\nCe séchage doux et naturel améliore leur digestibilité, développe leur arôme, tout en préservant leurs précieux acides gras insaturés. Elles sont ensuite broyées à la meule et mises en pot. \nLa purée d’amandes est indispensable pour la cuisine en remplacement des matières grasses animales.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3770008500310_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-blanc-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.9
+                    },
+                    "fats": {
+                        "fats": 58.5
+                    },
+                    "proteins": {
+                        "proteins": 25.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.6,
+                        "of_which_sugars": 4.7,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "AMANDES pelées de Italie et/ou Espagne.\n*Issues de l'Agriculture Biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 16.39,
+                "price_per_unit": 46.83,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 16.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle peut s’incorporer en fin de cuisson de légumes par exemple, et remplace avantageusement la crème fraîche. Elle sert aussi à compléter l’alimentation des jeunes enfants.\n\nIdée recette : Lait d’amande. Mélanger au fouet deux cuillères à soupe de purée d’amande blanche avec un peu d’eau, lorsque vous avez la consistance d’une crème fraîche ajouter le reste de l’eau jusqu’à l’obtention de la consistance du lait.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-amande-blanc-700g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDE BLANCHE 700G BIO",
+                "desc": "Purée d'Amande Blanche 700g Bio\nL’amande blanche ou amande mondée, est l’amande sans la peau. L’ émondage est effectué grâce à une opération purement physique, qui consiste à enlever la peau de l’amande complète, par humidification à la vapeur. Les amandes blanches sont séchées à l’air chaud.\nCe séchage doux et naturel améliore leur digestibilité, développe leur arôme, tout en préservant leurs précieux acides gras insaturés. Elles sont ensuite broyées à la meule et mises en pot. \nLa purée d’amandes est indispensable pour la cuisine en remplacement des matières grasses animales.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3267110002646.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-blanc-700g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "700G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.9
+                    },
+                    "fats": {
+                        "fats": 58.5
+                    },
+                    "proteins": {
+                        "proteins": 25.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.6,
+                        "of_which_sugars": 4.7,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "Amandes pelées de Italie et/ou Espagne.\n*Issues de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 28.65,
+                "price_per_unit": 40.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 28.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle peut s’incorporer en fin de cuisson de légumes par exemple, et remplace avantageusement la crème fraîche. Elle sert aussi à compléter l’alimentation des jeunes enfants.\n\nIdée recette : Lait d’amande. Mélanger au fouet deux cuillères à soupe de purée d’amande blanche avec un peu d’eau, lorsque vous avez la consistance d’une crème fraîche ajouter le reste de l’eau jusqu’à l’obtention de la consistance du lait.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "bioflan-noix-coco-2x1-4l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BIOFLAN NOIX DE COCO 2X1/4L BIO",
+                "desc": "Bio-flan saveur Noix Coco 2x1/4L Bio\nLe bio flan permet de faire un entremet avec du lait ou du jus de soja.\nNon sucrées, à base d'agar-agar, les recettes de nos entremets s'adaptent pour toutes les personnes, tous les régimes et tous les goûts. Ils permettent d'allier plaisir et bienfaits : une délicieuse façon de contribuer à l'équilibre alimentaire en associant atout santé et gourmandise.\nTous nos entremets sont non sucré ou sans sucres ajoutés. Confectionné à partir de lait de vache, l'Entremets constituera un produit laitier de qualité, vous apportant minéraux (calcium, phosphore) et vitamines.\nL'entremets ne modifie en rien les propriétés nutritionnelles du lait ou du jus végétal avec lequel il est préparé. Il ne fait qu'en changer la texture et l'arôme.\nQuelque soit votre régime alimentaire, choisi ou imposé, que vous soyez végétarien, végétalien, omnivore, diabétique ou bien d'autre encore, l'entremets sans sucre a une place dans votre menu.\nIl est garanti sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800033467.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bioflan-noix-coco-2x1-4l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "4L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 29
+                    },
+                    "fats": {
+                        "fats": 34
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 6.4
+                    }
+                },
+                "ingredients": "Amidon de maïs*, extrait d'algues marines (carraghénane, agar-agar), noix de coco rapée*.\n*Issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 4.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 187.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre la poudre dans une casserole. Ajouter le sucre en poudre choisi. Vous pouvez vous même choisir la quantité de sucre à y ajouter selon bos besoins et votre goût. Bien mélanger à sec.\nDélayer progressivement en ajoutant le lait ou le jus de soja. Mettre sur le feu. Remuer jusqu'à ébullition complète. Ajouter l'édulcorant si nécessaire. Verser dans les récipients choisis.\nLaisser refroidir.\nVous pouvez démouler et décorer au moment de servir.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pommes-705g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES SANS SUCRES AJOUTÉS 705G BIO",
+                "desc": "Purée de pommes 705G Bio\nPurée de pommes biologiques, sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pommes-705g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "705G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 13,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Pommes*.\n*Issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 705.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 4.24,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La purée de pommes Naturalia convient pour agrémenter petit déjeuner, dessert ou goûter.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-myrtill-ssuc-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE MYRTILLES SAUVAGES 280G BIO",
+                "desc": "Purée de Myrtilles sauvages 280g Bio\nLes myrtilles sont travaillées en bassine, pour une légère cuisson et un travail de la texture par mixage. C'est ce mode de fabrication au plus près du fruit qui permet d'obtenir une purée avec des morceaux, en restant exclusivement sur de la Myrtille sauvage.\nUne stérilisation permet la conservation du produit.\nUne purée 100% myrtilles sauvages sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908307-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-myrtill-ssuc-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 9.78,
+                        "of_which_sugars": 7.99,
+                        "dietary_fiber": 4.43
+                    }
+                },
+                "ingredients": "Myrtilles sauvages* (100%).\n*Ingrédients agricoles issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 9.25,
+                "price_per_unit": 33.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle peut se tartiner ou accompagner vos desserts (yaourts, sorbets..).\nA remuer avant utilisation.",
+                "conservation": "Conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pomme-pruneau-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES & PRUNEAUX SANS SUCRES AJOUTÉS 630G...",
+                "desc": "Purée de Pommes & Pruneaux 630G Bio\nLa pomme associée au pruneau,  variété de prune séchée  très gouteuse à la saveur légèrement  caramélisée couronnée d'une petite note de réglisse. \nPurée élaborée avec 100% de fruits purs, cuite à l’étouffée au chaudron, sans sucres ajoutés. Laissez-vous adopter.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-pruneau-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "of_which_sugars": 17.5
+                    }
+                },
+                "ingredients": "Pommes* (70%), pruneaux* (30%).\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 5.2,
+                "price_per_unit": 8.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette compote peut être consommée froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumbles.",
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pomme-framboise-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES FRAMBOISES SANS SUCRES AJOUTÉS 630G BIO",
+                "desc": "Purée de pommes framboises sans sucres ajoutés 630G Bio\nAlliage surprenant de la pomme et de la pulpeuse framboise.  Un note douce-acidulée pour ce duo.\nPurée 100% fruits purs et entiers cueillis à maturité, sans sucres ajoutés, elle est cuite doucement à l’étouffée au chaudron.\nLaissez-vous envahir par sa saveur ambivalente.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301594000887_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-framboise-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 11
+                    }
+                },
+                "ingredients": "Pommes* (80%), framboises* (20%).\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 9.51,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette compote peut être consommée froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumbles.",
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pomme-cannelle-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES CANNELLE DEMETER SANS SUCRES 360G BIO",
+                "desc": "Purée de pommes aromatisée à la cannelle Demeter 360G Bio\nLe mariage incontournable de la pomme et de la cannelle. \nPurée 100% purs fruits cultivés dans le respect de la nature et de la biodiversité, cuite doucement à l’étouffée au chaudron, sans sucres ajoutées.\nA avoir absolument dans votre desserte.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits\n.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-cannelle-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.9,
+                        "of_which_sugars": 10.6
+                    }
+                },
+                "ingredients": "Pomme* 99,1%, extrait de cannelle 0,9%*.\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 10.81,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette compote peut être consommée froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumbles.",
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pomme-mangue-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMME MANGUE DEMETER SANS SUCRES AJOUTÉS 630G BIO",
+                "desc": "Purée Pomme Mangue Demeter sans sucres ajoutés 630g Bio\nLa douceur de la pomme alliée à l’exotisme de la mangue. Cette purée 100% purs fruits, cuite lentement à l'étouffée, sans sucres  ajoutés vous fera voyager malgré vous.\nVous goûterez, testerez et referez le voyage.\nA consommer  sans modération.\n\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301594000887_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-mangue-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 13
+                    }
+                },
+                "ingredients": "Pommes* demeter 73%, mangues* 27%.\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 5.45,
+                "price_per_unit": 8.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée de pommes peut être consommee froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumble.",
+                "conservation": "Se conserve au réfrigérateur après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pom-myrtill-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMMES MYRTILLE SANS SUCRES AJOUTÉS 360G BIO",
+                "desc": "Purée Pommes Myrtille sans sucres ajoutés 360g Bio\nLa douceur de la pomme réhaussée par le parfum suave et sauvage de la myrtille vous captivera.\nCette purée 100% purs fruits, sans sucres  ajoutés, cuite doucement à l’étouffée vous donnera le goût de l’aventure. A consommer toute la journée.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3301597004783.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pom-myrtill-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:15",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.5,
+                        "of_which_sugars": 9.1
+                    }
+                },
+                "ingredients": "Pommes bio (80%), Myrtilles bio (20%).\n*Issus de l’Agriculture Biologique.\nLes sucres présents sont les sucres naturellement présents dans les fruits.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.35,
+                "price_per_unit": 12.08,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée de pommes peut être consommee froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumble.",
+                "conservation": "Après ouverture conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pom-mangue-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMME MANGUE DEMETER SANS SUCRES AJOUTÉS 360G BIO",
+                "desc": "Purée Pomme Mangue Demeter sans sucres ajoutés 360g Bio\nLa douceur de la pomme alliée à l’exotisme de la mangue. Cette purée 100% purs fruits, cuite lentement à l'étouffée, sans sucres  ajoutés vous fera voyager malgré vous. \nVous goûterez, testerez et referez le voyage.\nA consommer  sans modération.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pom-mangue-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 13
+                    }
+                },
+                "ingredients": "Pommes* 73%, mangues* 27%.\nSans sucres ajoutés. Contient des sucres naturellement présents.\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 11.81,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée de pommes peut être consommee froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumble.",
+                "conservation": "Se conserve au réfrigérateur après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pom-vanille-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMME VANILLE SANS SUCRES AJOUTÉS 360G BIO",
+                "desc": "Purée Pomme Vanille sans sucres ajoutés 360g Bio\nPurée élaborée avec plusieurs variétés de pommes Coteaux nantais minutieusement sélectionnées et cultivées en biodynamie dans le respect de la nature et de la biodiversité.\nLa purée est cuite doucement à l’étouffée, un soupçon de vanille y est ajouté, juste ce qu’il faut pour rehausser la pomme d’une note épicée.\nPurée sans sucres ajoutés à déguster sans modération.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pom-vanille-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.9,
+                        "of_which_sugars": 10.6
+                    }
+                },
+                "ingredients": "Pommes* (demeter**) (99,1%), extrait de vanille* (0,9%).\n*Issu de l’Agriculture Biologique. \n**Issu de l’Agriculture Bio-dynamique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 11.08,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée de pommes peut être consommee froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumble.",
+                "conservation": "Après ouverture conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-poires-family-910g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POIRES SANS SUCRES FORMAT FAMILY 910G BIO",
+                "desc": "Purée de poires sans sucres format Family 910g\nDélicatement granuleuse et somptueusement gouteuse, la purée 100% poires des Coteaux Nantais saura vous séduire par sa simplicité et son authenticité.\nCette purée de poires est un mélange de plusieurs variétés de poires, cuites en marmite, à l'étouffée, sans sucres ajoutés.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3301597004783.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-poires-family-910g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "910G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10,
+                        "of_which_sugars": 10,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Poires*(100%).\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 910.0,
+                "price_per_packaging": 7.25,
+                "price_per_unit": 7.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée peut être consommée froide, en dessert, ou chaude, en accompagnement de viandes, fond de tarte ou crumbles.",
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pommes-family-915g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMMES DEMETER SANS SUCRES FORMAT FAMILY 915G BIO",
+                "desc": "Purée Pommes Demeter sans sucres format Family 915g Bio\nUne purée de  pommes 100% fruits bio de France, sans sucres ajoutés. \nElaborée à partir d’un mélange de pommes Coteaux Nantais  fraichement cueillies, elle est cuite à l’étouffée. Elle saura vous convaincre par sa douceur, son authenticité ainsi que par son atout diététique. \nA consommer sans modération.\nCertifié culture en biodynamie, Demeter.\nTous les produits Côteaux Nantais sont élaborés à partir de recettes traditionnelles, sans colorant, sans conservateur ni additif, préservant ainsi la saveur naturelle des fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pommes-family-915g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "915G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.9,
+                        "of_which_sugars": 10.6
+                    }
+                },
+                "ingredients": "Pommes françaises  demeter(100%)*.\n*Issues de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 915.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 5.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette purée de pommes peut être consommee froide, en dessert ou chaude, en accompagnement de viandes, fonds de tarte ou crumble.",
+                "conservation": "A conserver au frais après ouverture et à consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "puree-pomme-framb-4x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE POMME FRAMBOISE SANS SUCRES AJOUTÉS 4X100G BIO",
+                "desc": "Purée de pomme framboise 4x100G Bio\nDanival a sélectionné pour vous le meilleur du fruit en associant une nouvelle purée de pomme bio française et des framboises dans une recette onctueuse et généreuse.\nDepuis 25 ans, Danival prépare des produits BIO dans le cadre protégé du Moulin d'Andiran, dans le Lot-et-Garonne.\n100% fruit, sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3431590013595.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-framb-4x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.6,
+                        "of_which_sugars": 9.7,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises (85%), purée de framboises* (15%).",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.2,
+                "price_per_unit": 13.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dessert à base de pomme bio française prêt à consommer. Meilleur frais. A consommer au petit-déjeuner, en dessert ou au goûter.\nPour un petit déjeuner équilibré, nous vous conseillons d'accompagner votre purée de fruit :\n- d'une boisson chaude.\n- et d’un fromage blanc saupoudré de muesli et sucré au miel ou au sirop d'agave.",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "dessert-pom-rhub-4x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NEO-POPOTE POMME RHUBARBE 4X100G BIO",
+                "desc": "Neo-Popote Pomme Rhubarbe 4x100g Bio\nDepuis 25 ans, Danival prépare des produits BIO dans le cadre protégé du Moulin d’Andiran, dans le Lot-et-Garonne.\nDanival a sélectionné pour vous le meilleur du fruit en associant une nouvelle purée de pommes bio française « Qualité supérieure » et de rhubarbe dans une recette onctueuse et généreuse.\n100% fruit, sans sucres ajoutés.\n100 g = 1 portion de fruit.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3431590013588.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-pom-rhub-4x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 9,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises (86%), purée de rhubarbe*(14%).\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 12.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer au petit-déjeuner, en dessert ou au goûter.\nPour un petit déjeuner équilibré, nous vous conseillons d'accompagner votre purée de fruit :\n- d'une boisson chaude\n- et d’un fromage blanc saupoudré de muesli et sucré au miel ou au sirop d'agave",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "dessert-pom-poire-4x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMME POIRE 4X100G BIO",
+                "desc": "Purée de Pomme Poire 4x100g Bio\nDepuis 25 ans, Danival prépare des produits BIO dans le cadre protégé du Moulin d’Andiran, dans le Lot-et-Garonne.\nDanival a sélectionné pour vous le meilleur du fruit en associant une nouvelle purée de pommes bio française « Qualité supérieure » et de poires dans une recette onctueuse et généreuse.\n100% fruit sans sucres ajoutés.\n100 g = 1 portion de fruit.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03431590013700_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-pom-poire-4x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 11,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises (84%), purée de poires* (16%).\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.45,
+                "price_per_unit": 11.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer au petit-déjeuner, en dessert ou au goûter.\nPour un petit déjeuner équilibré, nous vous conseillons d'accompagner votre purée de fruit :\n- d'une boisson chaude.\n- d’un fromage blanc saupoudré de muesli et sucré au miel ou au sirop d'agave.",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "dessert-pomme-4x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DESSERT POMME SANS SUCRES AJOUTÉS 4X100G BIO",
+                "desc": "Dessert Pomme sans sucres ajoutés 4x100g Bio\nDanival a sélectionné pour vous les meilleurs fruits auprès de ses producteurs français pour élaborer cette délicieuse purée de fruits.\nPomme bio française « Qualité supérieure », sans sucres ajoutés.\n100 g = 1 portion de fruit.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3431590013588.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-pomme-4x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.8,
+                        "of_which_sugars": 10.4,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises.\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 9.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer au petit-déjeuner, en dessert ou au goûter.\nPour un petit déjeuner équilibré, nous vous conseillons d'accompagner votre purée de fruit :\n- d'une boisson chaude.\n- et d’un fromage blanc saupoudré de muesli et sucré au miel ou au sirop d'agave.",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    },
+    {
+        "ean": "dessert-pom-myrtille-4x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sucres ajoutés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMME MYRTILLE 4X100G BIO",
+                "desc": "Purée de Pomme Myrtille 4x100g Bio\nDepuis 25 ans, Danival prépare des produits BIO dans le cadre protégé du Moulin d’Andiran, dans le Lot-et-Garonne.\nDanival a sélectionné pour vous le meilleur du fruit en associant une nouvelle purée de pomme bio française « Qualité supérieure » et de myrtille dans une recette onctueuse et généreuse.\n100% fruit sans sucres ajoutés.\n100 g = 1 portion de fruit.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03431590013700_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dessert-pom-myrtille-4x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:17",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 10,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises (89%), purée de myrtilles* (11%).\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 12.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer au petit-déjeuner, en dessert ou au goûter.\nPour un petit déjeuner équilibré, nous vous conseillons d'accompagner votre purée de fruit :\n- d'une boisson chaude.\n- d’un fromage blanc saupoudré de muesli et sucré au miel ou au sirop d'agave.",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:14",
+        "updated_at": "2025-06-16T04:14"
+    }
+]

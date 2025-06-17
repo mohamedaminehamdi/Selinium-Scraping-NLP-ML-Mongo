@@ -1,0 +1,146 @@
+[
+    {
+        "ean": "000000000000089552",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Curry de légumes et pois chiches, duo de riz",
+                "desc": "Sauce 40,1% à la tomate, lait de coco et curry, légumes 21,1%, riz long, pois chiche et spécialité à base de lentille corail, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=62"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/curry-leg%2Fpois-chiches-fe-000000000000089552.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-01T01:35",
+                "format": "BARQUETTE DE 300 G",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 400.0,
+                        "kcal": 95.0
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Riz long cuit 21% (eau, riz long 6,3%), pulpe de tomate au jus 14,7% (tomate, jus de tomate), oignon, pois chiche cuit 12% (eau, pois chiche 4,5%), chou-fleur 10%, patate douce 8%, spécialité à base de lentille corail cuite 5,2% (eau, farine de lentille corail 2,3%), pois doux garden peas 3%, lait de coco 2,9% (extrait de coco, eau), LAIT fermenté concentré, huile de colza, ail, eau, gingembre, sel, curry 0,3% [épices, plantes aromatiques (contient MOUTARDE), sel], coriandre, farine de riz, curcuma, coriandre en poudre, cardamome, cannelle, laurier, girofle.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.0,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes - Four à chaleur tournante : 35 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.37,
+            "total_reviews": 35
+        }
+    },
+    {
+        "ean": "000000000000086416",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Emincés de dinde sauce au citron, linguine complète et légumes verts",
+                "desc": "Pâtes linguines au blé complet cuites, légumes verts, sauce 24,8% au citron, émincés de dinde cuits traités en salaison, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4943c4b0/produits/000000000000072608_E.jpg?sw=300&sh=175&q=30&frz-v=62"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dinde-linguine%2Fleg-verts-000000000000086416.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-01T01:35",
+                "format": "BARQUETTE DE 350 G",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 392.0,
+                        "kcal": 93.0
+                    },
+                    "fats": {
+                        "fats": 2.0,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Pâte linguine au blé complet cuite 30% [eau, semoule de BLÉ (GLUTEN) complet], émincé de filet de dinde cuit traité en salaison 20% [filet de dinde 17% (origine : France*), eau, sel, fécule de pomme de terre], courgette grillée 12,5%, petit pois 12,5%, crème fraîche liquide légère (LAIT), bouillon de légumes (eau, tomate, carotte, poireau, CÉLERI, oignon, échalote, fenouil, huile d'olive vierge extra, ail, thym), eau, jus de citron 2,9%, échalote, farine de riz, huile d'olive vierge extra, ail, sel, basilic, persil, poivre, curcuma, laurier.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.6,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nNous vous recommandons une préparation au micro-ondes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.75,
+            "total_reviews": 32
+        }
+    }
+]

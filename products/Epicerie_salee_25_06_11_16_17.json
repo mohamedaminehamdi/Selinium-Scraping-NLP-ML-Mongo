@@ -1,0 +1,1842 @@
+[
+    {
+        "ean": "000000000000085513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Roulés feuilletés persillade",
+                "desc": "Biscuits feuilletés 75% pur beurre fourrés avec une préparation 25% à l’ail et au persil.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw0cb29eeb/produits/000000000000089231_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/roules-persillade-70g-000000000000085513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:12",
+                "format": "70.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 504.0
+                    },
+                    "minerals": {
+                        "salt": 2.8
+                    },
+                    "fats": {
+                        "fats": 27.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.0,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 25,5%, emmental râpé [emmental (contient LAIT ; origine UE), amidon de pomme de terre], huile de colza, ail en poudre 3,5%, sel, levure, persil 0,7%, poivre, colorant : norbixine de rocou",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 1.99,
+                "conservation": "chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085478",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chips de pomme de terre salées",
+                "desc": "Chips de pomme de terre au sel de Guérande",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-pdt-40g-000000000000085478.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:12",
+                "format": "40.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 536.0
+                    },
+                    "minerals": {
+                        "salt": 0.73
+                    },
+                    "fats": {
+                        "fats": 34.0,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 5.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 4.7
+                    }
+                },
+                "ingredients": "Pomme de terre 65,6%, huile de tournesol, sel de Guérande 0,8%. Conditionné sous atmosphère protectrice.",
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 0.9,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085493",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Mini tochetti, sel et romarin",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-tochetti-25g-000000000000085493.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:12",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 0.65,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085477",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Groix et Nature Rillettes de saumon d'Ecosse",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/rillettes-saumon-100g-000000000000085477.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:13",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085492",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Popcorn sel de guérande movies star",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/new-popcorn-au-sel-90g-000000000000085492.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:13",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 1.45,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085525",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Croutons natures",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/croutons-natures-80g-000000000000085525.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:13",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 1.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085440",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Noix de cajou, poivre et sel",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/noix-de-cajou-sel-et-poivre-000000000000085440.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:13",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.85,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085452",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Pur ketchup",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pur-ketchup-360g-000000000000085452.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:13",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085510",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tuiles goût barbecue",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tuiles-gout-barbecue-000000000000085510.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 2.45,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085571",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chips piment d'Espelette",
+                "desc": "Chips de pommes de terre au piment d'Espelette",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcceb0222/produits/000000000000039039.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-piment-espelette-000000000000085571.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "125.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 492.0
+                    },
+                    "minerals": {
+                        "salt": 0.36
+                    },
+                    "fats": {
+                        "fats": 28.0,
+                        "saturates": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 50.0,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 7.0
+                    }
+                },
+                "ingredients": "Pomme de terre 70%, huile de tournesol, piment d'Espelette 1,3%, sel de Camargue.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.4,
+                "conservation": "consommer-rapidement .chaleur-humidite-lumiere",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.7,
+            "total_reviews": 10
+        }
+    },
+    {
+        "ean": "000000000000085418",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-toasts apéritifs au sésame",
+                "desc": "Mini-toasts apéritifs sésame",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe8855637/000000000000089060_E_.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-toasts-sesame-100g-000000000000085418.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 400.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 5.8,
+                        "saturates": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 4.0
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), graine de SÉSAME 7,9%, levure, sel, farine de malt d’ORGE (GLUTEN), farine de malt de BLÉ (GLUTEN), agent de traitement de la farine : acide ascorbique, émulsifiant : lécithines de SOJA.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.95,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000085121",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Chips de pommes de terre bio",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-pommes-terre-bio-000000000000085121.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085976",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Billes de bretzel",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/billes-bretzel-000000000000085976.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000030921",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chips de manioc à la crevette",
+                "desc": "CHIPS DE MANIOC A LA CREVETTE",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwab6b92ab/produits/000000000000089782_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-manioc-crevette-000000000000030921.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 510.0
+                    },
+                    "minerals": {
+                        "salt": 1.8
+                    },
+                    "fats": {
+                        "fats": 27.0,
+                        "saturates": 3.0
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65.0,
+                        "of_which_sugars": 9.1,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de manioc 43,7%, huile de tournesol, crevette (CRUSTACÉS) 15%, sucre, sel, ail, acidifiant : acide citrique, poudre à lever : carbonates de sodium, poivre.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 0.99,
+                "conservation": "consommer-rapidement .20-chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.75,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085106",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Groix et Nature Rillettes de Noix de St Jacques",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/groix-nature-rillettes-noix-st-jacques-000000000000085106.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085450",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Foie gras canard, Terroir des Eleveurs Réunis",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fg-entier-eleveurs-reunis-000000000000085450.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 165.0,
+                "price_per_packaging": 18.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085866",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Moutarde au miel et au vinaigre balsamique, Fallot",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/moutarde-au-miel-fallot-000000000000085866.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "on_discount": false,
+                "weight_per_packaging": 210.0,
+                "price_per_packaging": 2.15,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085104",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-toast apéritif",
+                "desc": "Mini toasts apéritif",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbdbee749/89131.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-toast-aperitif-000000000000085104.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 394.0
+                    },
+                    "minerals": {
+                        "salt": 1.4
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79.0,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), levure, sel, farine de malt d’ORGE (GLUTEN), farine de malt de BLÉ (GLUTEN), agent de traitement de la farine : acide ascorbique, émulsifiant : lécithines de SOJA.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.95,
+                "conservation": "20-chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085074",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Croustillants à la cacahuète",
+                "desc": "Biscuits apéritifs soufflés à base de maïs, à la cacahuète",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/croustillants-cacahuete-000000000000085074.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "90.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 500.0
+                    },
+                    "minerals": {
+                        "salt": 0.96
+                    },
+                    "fats": {
+                        "fats": 23.0,
+                        "saturates": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Semoule de maïs 66%, cacahuète (ARACHIDE) grillée moulue 34%, huile de colza, sel, arômes naturels, farine de riz, fibre de pomme de terre.",
+                "allergens": [
+                    "Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 1.6,
+                "conservation": "consommer-rapidement .20-chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.71,
+            "total_reviews": 7
+        }
+    },
+    {
+        "ean": "000000000000030476",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tortilla chips 125 grs",
+                "desc": "Spécialité à base de maïs au goût de chili",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbf5ecb59/produits/000000000000086328_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tortilla-chips-000000000000030476.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:14",
+                "format": "125 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 483.0
+                    },
+                    "minerals": {
+                        "salt": 1.4
+                    },
+                    "fats": {
+                        "fats": 22.0,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 5.0
+                    }
+                },
+                "ingredients": "Farine de maïs 75%, huile de tournesol, sel, épices 1,3%, maltodextrine, oignon en poudre, arôme naturel.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 1.6,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.0,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000085730",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Gaufrettes apéritives au Maroilles",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gaufrette-apero-maroilles-000000000000085730.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 2.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000080088",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gressins au romarin",
+                "desc": "gressins au romarin",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe7c0cfeb/produits/000000000000089267_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gressins-romarin-000000000000080088.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "format": "125.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 431.0
+                    },
+                    "minerals": {
+                        "salt": 2.1
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 2.3
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68.0,
+                        "of_which_sugars": 3.7,
+                        "dietary_fiber": 4.7
+                    }
+                },
+                "ingredients": "Farine de blé (gluten) 94%, huile d'olive vierge extra, sel, romarin 1,3%, sucre, levure, farine de malt d'orge (gluten), agent de traitement de la farine : acide ascorbique",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 1.99,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085221",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Soupe de poisson, 35% de poisson, Gastromer",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/soupe-poisson-35-poisson-gastromer-000000000000085221.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085099",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Spécialité à la tomate séchée et au basilic",
+                "desc": "Spécialité à la tomate séchée et au basilic",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe7c0cfeb/produits/000000000000089267_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/specialite-tomate-sechee-basilic-000000000000085099.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "format": "110.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 207.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.3,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 4.0
+                    }
+                },
+                "ingredients": "Purée de tomate 37,1%, tomate séchée réhydratée (eau, tomate séchée 12,9%, sel), huile d'olive vierge extra, eau, basilic 5,9%, fromage Grana Padano AOP* (LAIT, sel, présure, conservateur : lysozyme d'OEUF), AMANDE en poudre, tomate en poudre 1%, ail déshydraté, sel.\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 110.0,
+                "price_per_packaging": 2.75,
+                "conservation": "endroit-frais .refrigateur-rapidement .voir-couvercle",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085277",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Petits pois goût wasabi",
+                "desc": "Petits pois séchés enrobés d'une préparation 25% aromatisée goût wasabi.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe33569ec/produits/000000000000039972.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/petits-pois-gout-wasabi-000000000000085277.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 430.0
+                    },
+                    "minerals": {
+                        "salt": 2.5
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 53.0,
+                        "of_which_sugars": 5.0,
+                        "dietary_fiber": 11.0
+                    }
+                },
+                "ingredients": "Petit pois séché 75%, amidon de pomme de terre, farine de BLÉ [farine de BLÉ (GLUTEN), carbonate de calcium, fer, niacine, thiamine], assaisonnement 5% (farine de riz, sel, sucre, arôme naturel, colorant : chlorophylles et chlorophyllines, raifort en poudre, wasabi en poudre), huile de colza, sucre.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.4,
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité.\nA consommer rapidement après ouverture.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.6,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000085222",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Chips à la truffe d'été Tuber aestivum 1,1% aromatisées",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-truffe-ete-tuber-aestivum-000000000000085222.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.7,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085018",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Torsades feuilletées aux olives",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/torsades-feuilletees-olives-000000000000085018.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085113",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange Apéritif",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-aperitif-000000000000085113.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:15",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085209",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Groix et Nature Rillettes de Sardine au Piment d'Espelette",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/groix-nature-rillettes-sardine-piment-000000000000085209.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.2,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085324",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Moutarde de Bourgogne IGP",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/moutarde-bourgogne-igp-000000000000085324.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "on_discount": false,
+                "weight_per_packaging": 210.0,
+                "price_per_packaging": 2.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085230",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange de noix",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-noix-000000000000085230.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.6,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085098",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tapenade aux olives noires",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tapenade-olives-noires-000000000000085098.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "on_discount": false,
+                "weight_per_packaging": 110.0,
+                "price_per_packaging": 2.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085710",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-crêpes au Roquefort",
+                "desc": "Crêpes 43% fourrées avec une préparation 57% à base de Roquefort",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-crepes-roquefort-000000000000085710.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "format": "65.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 560.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 37.0,
+                        "saturates": 15.0
+                    },
+                    "proteins": {
+                        "proteins": 8.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48.0,
+                        "of_which_sugars": 14.0,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Maltodextrine, farine de BLE (GLUTEN), huile de colza, crème en poudre (LAIT), Roquefort déshydraté 10% (contient LAIT), beurre concentré (LAIT), sirop de glucose, extrait de malt d'ORGE (GLUTEN), sel, émulsifiant : lécithine de colza, acidifiant : acide citrique, colorant : extrait de paprika.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 65.0,
+                "price_per_packaging": 2.7,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000080179",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Flûtes au sésame",
+                "desc": "Flutes au sésame",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa17345da/produits/000000000000047344_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/flutes-sesame-000000000000080179.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "format": "125.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 510.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 28.0,
+                        "saturates": 9.8
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47.0,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 6.8
+                    }
+                },
+                "ingredients": "Farine de blé (France; gluten) 67%, graine de sésame 27%, beurre (lait), lait écrémé en poudre, sel, levure, sucre, farine de malt d'orge (gluten), agent de traitement de la farine : acide ascorbique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 1.99,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000085112",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mix apéritif",
+                "desc": "Mélange de cacahuètes grillées et salées (55%), de graines de potiron (15%), de cranberries séchées (15%) et de noix de cajou grillées et salées (15%).",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwd069515b/produits/000000000000089790_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mix-aperitif-000000000000085112.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 569.0
+                    },
+                    "minerals": {
+                        "salt": 0.47
+                    },
+                    "fats": {
+                        "fats": 44.0,
+                        "saturates": 4.9
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 14.0,
+                        "dietary_fiber": 10.0
+                    }
+                },
+                "ingredients": "Cacahuète (ARACHIDE) 48,9%, graine de potiron 15%, cranberrie séchée 15% (cranberrie, sucre, huile de tournesol), NOIX DE CAJOU 13,3%, huile de colza, sel.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.8,
+                "conservation": "consommer-rapidement .chaleur-humidite",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085420",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sablés apéritifs Parmigiano Reggiano pavot",
+                "desc": "Sablés pur beurre au Parmigiano Reggiano et au pavot.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sables-apero-parmigiano-000000000000085420.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 499.0
+                    },
+                    "minerals": {
+                        "salt": 1.8
+                    },
+                    "fats": {
+                        "fats": 27.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48.0,
+                        "of_which_sugars": 5.0,
+                        "dietary_fiber": 7.8
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 56%, beurre (LAIT) 22,4%, Parmigiano Reggiano AOP* (contient LAIT) 15,8%, amidon de BLÉ (GLUTEN), graine de pavot 5,3%, sucre, jaune d'ŒUF en poudre issu de poule élevée en plein air, sel de Guérande, poudres à lever (carbonates d'ammonium, carbonates de sodium), poivre, LAIT écrémé en poudre.\n*A.O.P. : Appellation dOrigine Protégée.\n*AUTORISATION DU CONSORTIUM DU PARMIGIANO REGGIANO.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000085016",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Palmiers apéritifs fromage-oignon",
+                "desc": "Biscuits feuilletés pur beurre aux fromages et à l'oignon",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/palmiers-aperitifs-fromage-oignon-000000000000085016.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:16",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 546.0
+                    },
+                    "minerals": {
+                        "salt": 2.0
+                    },
+                    "fats": {
+                        "fats": 35.0,
+                        "saturates": 25.0
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.0,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de blé (gluten) 50,3%, beurre (lait) 27,9%, mélange de fromages râpés 15,7% [lait, sel, ferments lactiques, présure animale, colorant : caroténoïdes], oignon déshydraté 3%, sel, lait écrémé en poudre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Arachide",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "conservation": "chaleur-humidite .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000085015",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Assortiment de sticks feuilletés graines-fromages",
+                "desc": "Biscuits feuilletés pur beurre aux graines (4%) et aux fromages - Biscuits feuilletés pur beurre au sésame (4%) et au pavot (1,5%)",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe8855637/000000000000089060_E_.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/assortiment-sticks-feuilletes-graines-fromages-000000000000085015.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:17",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 562.0
+                    },
+                    "minerals": {
+                        "salt": 2.03
+                    },
+                    "fats": {
+                        "fats": 37.0,
+                        "saturates": 24.0
+                    },
+                    "proteins": {
+                        "proteins": 11.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.0,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 3.6
+                    }
+                },
+                "ingredients": "Farine de blé (gluten) 51,1%, beurre (lait) 30%, mélange de graines 9,5% (sésame, lin, pavot, tournesol, courge), mélange de fromages râpés 6,9% [lait, sel, amidon de pomme de terre, ferments lactiques, présure animale et coagulant microbien], sel, dorure (protéine de lait, dextrose, huile de colza).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "conservation": "consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.5,
+            "total_reviews": 2
+        }
+    },
+    {
+        "ean": "000000000000085326",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Rillettes de crabe",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/rillettes-de-crabe-000000000000085326.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:17",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.9,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085255",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chips de légumes bio",
+                "desc": "Chips de légumes à base de panais, patate douce, carotte et betterave, au Sel de Guérande, issues de l’agriculture biologique",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw372a8f89/produits/000000000000087461_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-de-legumes-bio-000000000000085255.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:17",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 463.0
+                    },
+                    "minerals": {
+                        "salt": 1.4
+                    },
+                    "fats": {
+                        "fats": 26.0,
+                        "saturates": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43.0,
+                        "of_which_sugars": 30.0,
+                        "dietary_fiber": 16.0
+                    }
+                },
+                "ingredients": "Mélange de légumes en proportion variable 72,5% (panais*, patate douce*, carotte*, betterave*), huile de tournesol*, Sel de Guérande IGP** 1,5%. Conditionné sous atmosphère protectrice\n*IGP : Indication Géographique Protégée\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.23,
+            "total_reviews": 13
+        }
+    }
+]

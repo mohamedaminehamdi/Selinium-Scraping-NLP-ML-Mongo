@@ -1,0 +1,1587 @@
+[
+    {
+        "ean": "sauce-cuisine-pauvre-sel-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE TOMATE AUTHENTIQUE PAUVRE EN SEL 190G BIO",
+                "desc": "Sauce tomate authentique pauvre en sel 190g Bio\nCette sauce tomate est idéale dans l'accompagnement des pâtes, du riz, des viandes du poisson et des pizzas.\nSans sel ajouté.\nL’Huilerie Emile Noël, une entreprise familiale et indépendante née en 1920 à Pont-Saint-Esprit (Gard), c'est la première en France à triturer des oléagineux issus de l’agriculture biologique. Transmise sur 4 générations, l’entreprise est aujourd'hui spécialiste des huiles végétales vierges biologiques en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908024.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-cuisine-pauvre-sel-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 42
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.44
+                    },
+                    "fats": {
+                        "fats": 4.6
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 3.5
+                    }
+                },
+                "ingredients": "Tomates*(40%), eau, concentré de tomates* (23%), oignons*(6%), huile de tournesol*, sucre*, persil* (0.5%), basilic*.\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 22.05,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Accompagne vos pâtes, votre riz, vos viandes, vos pizzas, et vos poissons.",
+                "conservation": "Consommer rapidement après ouverture et conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "lentilles-hyposodes-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES HYPOSODES 345G BIO",
+                "desc": "Lentilles Hyposodes 345g Bio\n•Lentilles vertes cultivées en France\n•Cuisinées aux petits oignons et carottes, sans sel ajouté\n•Recette cuisinée sans ajout de SEL ni de SUCRE\n•Teneur maximale en sodium : 40 mg / 100 g. La teneur en sel est due exclusivement à la présence naturelle de sodium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900548.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-hyposodes-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "345G",
+                "availability": true,
+                "ingredients": "Lentilles vertes*, eau, légumes* 1,5% minimum (oignon*, poireau*, carotte*), échalote* poudre, ail* poudre, poivre*, thym*.\n*Ingrédients issus de l'agriculture biologique. Peut contenir des traces de gluten.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 18.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces lentilles peuvent se cuisiner, se déguster chaudes en accompagnement ou froides en salade."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "haricots-vert-hyposode-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS VERTS EXTRA-FINS SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Haricots verts extra-fins sans sel ajouté 345g Bio\nHaricots verts extra fins bio cultivés en France, sélectionnés pour leur qualité et leur saveur.\nTeneur maximale en sodium : 40 mg / 100 g. La teneur en sel est due exclusivement à la présence naturelle de sodium.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900647.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricots-vert-hyposode-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 0.9
+                    }
+                },
+                "ingredients": "Haricots verts extra fins*, eau.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 23.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces haricots verts peuvent se déguster chauds en accompagnement ou froids en salade.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "ratatouille-hyposodee-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RATATOUILLE SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Ratatouille sans sel ajouté 345g Bio\n\nCette ratatouille aux aubergines et courgettes fraîches du Sud de la France sont cultivées en plein champs et cueillies à la main.\nRecette cuisinée sans ajout de SEL ni de SUCRE.\nLa teneur en sel est due exclusivement à la présence naturelle de sodium.\nCertifié Agriculture Biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685000010.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ratatouille-hyposodee-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 9.3
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6
+                    }
+                },
+                "ingredients": "Tomate* 28% (tomates*, pulpe*, concentré*), aubergines* 25%, courgettes* 17% , poivrons* rouges 10%, oignons* 7%, huile de tournesol* désodorisée, ail*, sel de mer, huile d’olive* vierge extra, plantes aromatiques*, miel*, jus concentré de citron*, poivre*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 14.46,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffée à feu doux, cette ratatouille se déguste en accompagnement ou peut servir de base de recette (tartes, gratins...).",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "mais-hyposode-388ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAÏS DOUX SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Maïs doux sans sel ajouté 345g Bio\nMaïs récolté à maturité, pour la qualité et le goût authentique de ses grains tendres et naturellement doux.\nSans sucres ajoutés, contient des sucres naturellement présents.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489900593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mais-hyposode-388ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18,
+                        "of_which_sugars": 3.5
+                    }
+                },
+                "ingredients": "Maïs*, eau.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 10.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une fois égoutté, ce maïs se déguste froid en salade ou chaud en accompagnement.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "filet-maquer-citron-hypo-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILETS DE MAQUEREAUX AU CITRON ET AU BASILIC 130G",
+                "desc": "Filets de Maquereaux au Citron et au Basilic 130g\nPour les personnes suivant un régime spécifique dit « sans sel », Phare d’Eckmühl propose une recette de filet de maquereaux marinés au citron et au basilic à teneur réduite en sel.\nLe maquereau constitue un met de choix au menu des Français : on estime sa consommation à 600 g par personne et par habitant par an.\nEn conserve, il se présente au naturel, à l’huile d’olive, à la moutarde, au vin blanc et aux aromates. \n  En savoir plus sur la marque...\nLe Phare d'Eckmühl, c'est de la pêche en conserve, pratique, rapide et économique !\nUne variété de poissons bio choisis depuis plus de 150 ans, pour vous apporter des conserves de poissons de haute qualité, en grande partie travaillées à la main. Elles sont reconnues pour leurs qualités nutritionnelles et gustatives, leurs recettes savoureuses, la marque s’appuie sur un savoir-faire ancestral pour innover tout en réfléchissant à l’avenir de la filière pêche.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263670041255.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/filet-maquer-citron-hypo-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 360
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.6
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.9
+                    }
+                },
+                "ingredients": "Filets de maquereaux60%, eau, vinaigre d'alcool*, citron*3%, vinaigre de vin blanc*, huile d'olive*vierge extra, sucre roux*, vin blanc*, basilic*0.6%, chlorure de potassium, levure désactivée, épaississant: farine de graines de guar, huile essentielle de citron*.\n*22% des ingrédients agricoles sont issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 33.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À consommer à la fourchette, dès la sortie de la boîte, ou à préparer en rillettes maison, salades, brick, quiches et flans, farce…",
+                "conservation": "A consommer deux jours après l'ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "bouillon-legumes-ss-sel-68g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUILLON DE LÉGUMES SANS SEL 68G BIO",
+                "desc": "Bouillon de Légumes sans sel 68G Bio\nLe bouillon de légumes pauvre en sel de Rapunzel est idéal pour aromatiser et relever les soupes, sauces, potages et d'autres plats chauds. Il peut aussi servir tel quel comme bouillon clair.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03609060002701_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bouillon-legumes-ss-sel-68g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "68G",
+                "availability": true,
+                "ingredients": "Huile de palme* non-hydrogénée, légumes 18% (carottes*, oignons*, céleri*, poireaux*, courge*), sel de mer, sirop de maïs, amidon de maïs*, extrait de levure*, jus concentré de légumes* (carotte*,oignon*), persil*, cèpes*, curcuma*, feuilles de livèche*, ail*, noix de muscade*, racine de livèche*, poivre*, huile de tournesol*, graines de fenouil*.",
+                "allergens": [
+                    "Fruits à coque",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 68.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 36.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dissoudre un cube de bouillon de légumes pauvre en sel pour 1/2 litre d'eau bouillante ou dans de l'eau de cuisson des pâtes et du riz.",
+                "conservation": "A conserver de préférence à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "bouillon-legumes-sans-sel-72g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUILLON DE LÉGUMES SANS SEL 72G BIO",
+                "desc": "Bouillon de légumes sans sel 72g Bio\nDécouvrez Bouillon de légumes sans sel bio en cube  : un petit cube pratique pour relever votre cuisine sans ajouter de sel !\nIl concentre une richesse de saveurs végétales et il se dilue rapidement en contact avec un liquide chaud. Sans huile de palme.\nUne alternative végétale complète pour toutes celles et ceux qui souhaitent varier leur alimentation et déguster des produits sains, à tout moment de la journée !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03609060002701_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bouillon-legumes-sans-sel-72g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:11",
+                "format": "72G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14.4
+                    },
+                    "fats": {
+                        "fats": 31.1
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 21.1,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Beurre de karité*, légumes 20% (tomates*, céleri*, oignons*, poireaux*, panais*), amidon de maïs*, sirop de glucose*, sucre de canne blond*, extrait de levure, épices* et aromates* (ail*, livèche*, macis*, persil*, feuilles de céleri*, curcuma*, origan*, romarin*, thym*, gingembre*), jus de légumes* concentré (céleri*, carottes*, oignons*), huile d'olive*, caramel*, huile de tournesol*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 72.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 39.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dissoudre un cube dans ½ litre d’eau bouillante.\nA utiliser aussi bien pour réaliser des bouillons que comme aide culinaire pour parfumer l’eau de cuisson des céréales ou des pâtes, pour renforcer le goût de vos plats en sauce (ragoûts de légumes...).",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "potage-tom-basilic-ss-sel-17g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POTAGE À LA TOMATE & BASILIC SANS SEL 17G BIO",
+                "desc": "Potage à la Tomate & Basilic sans sel 17g Bio\nPréparation en poudre pour potage instantané pauvre en sel à la tomate et au basilic.\nLe POTABIO se transporte facilement pour une consommation à tout moment dans la journée. Sans cuisson, il est idéal pour partir en vacances, pour les randonnées, au travail pour sa lunch box ou e en-cas à la maison en boisson chaude.\nLe sachet double dose permet de faire 2 tasses individuelles de 200ml.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920048922.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/potage-tom-basilic-ss-sel-17g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "17G",
+                "availability": true,
+                "ingredients": "Légumes* 69% (tomate* 38%, oignon*, carotte*, pomme de terre*, CÉLERI*), farine précuite de sarrasin*, sel de Guérande, épaississants : amidon de maïs précuit*, farine de graines de guar*, gomme de xanthane ; basilic* (1%), ail*, persil*, thym*, extrait de romarin*.\n* Produits issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 17.0,
+                "price_per_packaging": 1.7,
+                "price_per_unit": 100.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ingrédient à ajouter : 200ml d’eau bouillante.\nTemps de préparation : 2 min.\n\nVerser lentement la poudre sur 200ml d’eau bouillante, tout en remuant. Bien mélanger, c’est prêt !",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "biscotte-bises-ss-sel-270g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BISCOTTES À LA FARINE BISE SANS SEL SANS SUCRES 270G BI...",
+                "desc": "Biscottes à la farine Bise sans sel sans sucres 270G Bio.\nNos biscottes sont fabriquées à partir de blés issus de l'agriculture biologique, cultivés sans engrais chimiques ou insecticides de synthèse et fertilisés uniquement à l'aide d'engrais organiques.\nNous utilisons de l'huile d'olive vierge extra issue de l'agriculture biologique qui, par son procédé d'extraction mécanique, garantit sa richesse en antioxydants et en acides gras mono-insaturés.\nSélectionnée pour sa qualité et son goût neutre, elle confère à nos biscottes une saveur légère et une texture croustillante.\nSans sucre ajouté, pour une meilleure hygiène alimentaire, ces biscottes développent grâce à une recette exclusive toutes les qualités gustatives associées à l'utilisation d'une farine de qualité au goût traditionnel.\nSans huile de palme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3182180041268.jpeg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/biscotte-bises-ss-sel-270g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "270G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 4.6
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69.5,
+                        "of_which_sugars": 4,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Farine de blé T80*, gluten de blé*, huile olive vierge extra*, levure de boulangerie.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 16.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "tart-sarras-s-sel-suc-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TARTINES CRAQUANTES AU SARRASIN 150G BIO",
+                "desc": "Tartines craquantes au Sarrasin 150g Bio\nPour les gourmands ou les intolérants au gluten, du petit déjeuner au dîner, en tartine, en toasts ou nature, notre recette exclusive garantit un produit croustillant sans gluten.\nCes tartines sont élaborées sans levure, produit laitier, oeuf, matière grasse ou arôme.\n\nConvient à l'alimentation vegan.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/p/lpdf_4843_sarrasin_150g_france.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tart-sarras-s-sel-suc-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 13.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75.2,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Farine de sarrasin*.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 19.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les tartines craquantes Le Pain des Fleurs peuvent être dégustées nature ou avec un accompagnement sucré ou salé.\n- Nature : à tout moment de la journée, en en-cas ou en remplacement du pain, appréciez leurs saveurs originales et leur texture croustillante\n- Au petit déjeuner, accompagnées de confiture, de compote, de miel, pour commencer agréablement la journée.\n- A l’apéritif, profitez de leur légèreté pour confectionner des toasts originaux et délicats : Tomate / mozzarella, Saumon / oseille, Concombre / tzatziki, Sardine / tapenade, Fromage frais / fines herbes,Fromage de chèvre / anchois,Feta / olives, Guacamole, Roquefort et bien d’autres encore…",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "pain-azyme-petit-epeautre-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN AZYME PETIT EPEAUTRE 200G BIO",
+                "desc": "Pain Azyme Petit Epeautre 200g Bio\nDes farines rigoureusement sélectionnées, de l'eau, un savoir-faire ancestral allié aux technologies de pointe ont fait la réputation des spécliatés Paul Heumann dans le monde entier.\nLes pains azymes Paul Heumann se rconnaissent à leur texture extra fine, croustillante et dorée à point.\nLe pain azyme au petit épeautre, l'alliance du plaisir et d'une alimentation saine et équilibrée.\nUne recette riche en fibres, 100% végétal pour toutes vos recettes de tartines salées ou sucrées.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3268350120268.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-azyme-petit-epeautre-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.1
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.9,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 6
+                    }
+                },
+                "ingredients": "Farine complète de Petit EPEAUTRE biologique, eau.\nPeut contenir des traces de MOUTARDE, GRAINES DE SESAME.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.7,
+                "price_per_unit": 28.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à consommer, le pain azyme est adapté à nos modes de vie actuels!\nEn accompagnement à tous les repas, en en-cas, idéal pour élaborer des apéritifs équilibrés.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "pain-azyme-sarra-epeau-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN AZYME SARRASIN EPEAUTRE 200G BIO",
+                "desc": "Pain Azyme Sarrasin Epeautre 200g Bio\nDes farines rigoureusement sélectionnées, de l'eau, un savoir-faire ancestral allié aux technologies de pointe ont fait la réputation des spécliatés Paul Heumann dans le monde entier.\nLes pains azymes Paul Heumann se rconnaissent à leur texture extra fine, croustillante et dorée à point.\nUne recette aux céréales françaises riche en fibres et 100% végétal.\n12 tartines avec 0% : de sel, sucre, matière grasse, levure ajoutés.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3226980002026.5_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-azyme-sarra-epeau-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 15.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.4,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 9.8
+                    }
+                },
+                "ingredients": "Farine de sarrasin biologique 50%, farine d'épeautre biologique 50%, eau.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 6.25,
+                "price_per_unit": 31.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à consommer, le pain azyme est adapté à nos modes de vie actuels !\nEn accompagnement à tous les repas, en en-cas, idéal pour élaborer des apéritifs équilibrés.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "pain-azyme-froment-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN AZYME FROMENT 200G BIO",
+                "desc": "Pain Azyme Froment 200g Bio\nDes farines rigoureusement sélectionnées, de l'eau, un savoir-faire ancestral allié aux technologies de pointe ont fait la réputation des spécliatés Paul Heumann dans le monde entier.\nLes pains azymes Paul Heumann se rconnaissent à leur texture extra fine, croustillante et dorée à point.\n12 tartines de blé Français, source de fibres et 100% végétal.\nUne recette avec 0%: de sel, sucre, matière grasse et levure ajoutés.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340066029.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-azyme-froment-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 9.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.5,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Farine de froment (100%) issu de l'agriculture biologique, eau.\nContient du GLUTEN.\nPeut contenir des traces de MOUTARDE et de SÉSAME.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.55,
+                "price_per_unit": 17.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à consommer, le pain azyme est adapté à nos modes de vie actuels!\nEn accompagnement à tous les repas, en en-cas, idéal pour élaborer des apéritifs équilibrés.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "galette-riz-ssel-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ SANS SEL 100G BIO",
+                "desc": "Galettes de riz sans sel 100G Bio\nPauvre en calories (environ 30 kcal/galette) et très nutritive (grâce aux céréales complètes: riches en sels minéraux et en glucides lents), la galette de riz peut être consommée telle quelle ou tartinée à souhait comme une bonne tranche de pain. Elle se révèle d'une aide précieuse comme coupe faim en cas de régime hypocalorique ou de petits creux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060717.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-ssel-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Riz complet issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.45,
+                "price_per_unit": 14.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer tel quel ou a tartiner comme une bonne tranche de pain.Les galettes s'accommodent aussi bien de garnitures sucrées que salées",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "chips-pdt-ss-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS SANS SEL AJOUTÉ 100G BIO",
+                "desc": "Chips sans sel ajouté 100g Bio\nCraquantes, dorées à souhait et 100 % naturelles, ces chips sans sel ajouté sont idéales pour ceux qui veulent allier plaisir et équilibre. Élaborées à partir de pommes de terre bio soigneusement sélectionnées et cuites lentement à l'huile de tournesol, elles révèlent toute la richesse de leur goût authentique, sans artifice. Parfaites pour un apéritif sain ou une pause gourmande, elles raviront les amateurs de saveurs simples et naturelles.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380102479.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-pdt-ss-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.6
+                    },
+                    "fats": {
+                        "fats": 19
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68,
+                        "of_which_sugars": 0.8
+                    }
+                },
+                "ingredients": "Pommes de terre* (81%), Huile de tournesol * (19%).\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 29.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Savourez vos chips lors de vos apéritifs entre amis, accompagnées de tartinades, de fromages ou de légumes croquants. Elles sont également parfaites pour vos pique-niques : pratiques à emporter, elles ajoutent une touche gourmande et croustillante à tous vos en-cas en plein air. Un plaisir simple, à partager en toute convivialité.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "veloute-leg-verts-ss-sel-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VELOUTÉ DE LÉGUMES VERTS SANS SEL AJOUTÉ 1L BIO",
+                "desc": "Velouté légumes verts sans sel ajouté 1l\nPour ce velouté, Priméal a sélectionné des légumes plein champ cultivés  dans nos campagnes françaises.\nLe parfum de cette soupe est apporté uniquement par les légumes et les herbes aromatiques. Aucun arôme n’est ajoutéet vous offre une expérience gustative authentique. Il est préparé sans sel ajouté, ce qui permet aux saveurs des légumes de briller.\nAccompagnez votre velouté de croûtons croustillants ou d'un filet d'huile d'olive pour ajouter une touche de texture et de richesse. N'oubliez pas de le savourer chaud, en prenant le temps de goûter chaque cuillerée pour apprécier pleinement la douceur des légumes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/3/3380380102820.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/veloute-leg-verts-ss-sel-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:12",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.9,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Eau, légumes verts* 40% (courgettes* 18%, brocolis* 8%, épinards* 8%, poireaux* 4%, haricots verts*), oignons* 8%, carottes*, huile d'olive* vierge extra, farine de riz*, ail*, thym*.\n*issus de l’agriculture biologique.\nPeut contenir des traces de :Lait, gluten, céleri, crustacés, poisson, mollusques, moutarde, oeufs, soja et fruits à coque.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 3.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, réchauffez à feu doux en mélangeant régulièrement sans faire bouillir. Servir chaud.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer sous 48 heures."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "sardines-ho-50-sel-115g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SARDINES HUILE D'OLIVE RÉDUIT EN SEL 115G",
+                "desc": "Sardines huile d'olive réduit en sel 115g\nPréparées avec de l'huile d'olive vierge extra BIO, ces sardines sont issues d'une pêche responsable côtière en Atlantique Nord-Est. Elles contiennent 50% de sel en moins que la moyenne des conserves de sardines à l'huile d'olive du marché. Préparées à la main à Douarnenez en Bretagne, elles sont riches en oméga 3, calcium, vitamines D et B12.\nIdéal sur du pain ou accompagnées de céréales et légumes.\nAprès ouverture, à conserver au réfrigérateur et à consommer dans les deux jours.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/0/5034210521326-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sardines-ho-50-sel-115g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "115G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "SARDINES (Sardina Pilchardus), huile d'olive vierge extra* 20%.\n*20% des ingrédients d'origine agricole sont issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 115.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 34.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi. Ouvrez et dégustez !",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer dans les deux jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "tart-craquante-ssel-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TARTINES CRAQUANTES SARRASIN SANS SEL 300G BIO",
+                "desc": "Tartines craquantes sarrasin sans sel 300g Bio\nDe croquantes tartines 100% sarrasin, sans gluten et sans sel. Elles seront parfaites pour votre petit-déjeuner avec votre pâte à tartiner ou purée de fruits préférée.\nConvient au régime végétalien.\nFabriqué en France. \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380023521_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tart-craquante-ssel-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 13.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75.2,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Farine de sarrasin*.\n*issue de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.49,
+                "price_per_unit": 18.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster au petit-déjeuner ou au goûter avec votre tartinable préféré : beurre, confiture, pâte à tartiner...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "tomates-pelees-entieres-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOMATES PELÉES ENTIÈRES 400G BIO",
+                "desc": "Tomates pelées entières 400g Bio\n De savoureuses tomates mûries sous le soleil d'Italie pour vous faire profiter de leur goût authentique tout au long de l'année.\nIdéal pour toutes vos préparations: fonds de tarte, plats en sauce, coulis...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489901613.p1-1500j_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tomates-pelees-entieres-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 90
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.1,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Tomates* entières pelées, jus de tomates*, correcteur d'acidité: acide citrique.\n*Ingrédient issu de l'agriculture biologique.\nSans sel ajouté.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 4.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à l'emploi. Ces tomates peuvent se cuisiner entières ou concassées dans toutes vos préparations.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "galet-riz-camargue-ss-sel-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ DE CAMARGUE SANS SEL 130G BIO",
+                "desc": "Galettes de Riz de Camargue sans sel 130g Bio\nDécouvrez ces galettes de riz de Camargue bio, sans sel.\nPour Priméal, le riz de Camargue est un riz de proximité. Le maintenir de sa culture en bio grâce à un partenariat sur du long terme avec un groupe de riziculteurs camarguais préserve le patrimoine de cette vaste plaine sauvage. Dans le grand delta du Rhône, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé. Sans le riz, la Camargue n'aurait pas son charme actuel. Luminosité intense et Mistral s'ajoutent à la typicité de ce terroir qui s'exprime dans des riz de caractère.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439950313.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galet-riz-camargue-ss-sel-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82.3,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Riz rond complet* et riz rond ½ complet* de Camargue IGP(1)\n*issus de l’agriculture biologique (1)\nIGP : Indication Géographique protégée",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 1.75,
+                "price_per_unit": 13.46,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légères et très croustillantes, ces galettes s’utilisent en remplacement du pain pour le petit déjeuner, le goûter, etc... Refermez l’emballage après ouverture. Si besoin, un rapide passage au four chaud leur redonne du croustillant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "sardine-ss-sel-citron-115g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SARDINES MSC AU CITRON SANS SEL 115G",
+                "desc": "Sardines MSC au citron sans sel 115G\nSardines MSC en marinade sans huile au citron bio, teneur réduite en sel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3263670015157.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sardine-ss-sel-citron-115g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "115G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 8.7
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "SARDINES, eau, vinaigre* d'alcool, citron* 2%, sucre* de canne, chlorure de potassium, levure* désactivée, jus de citron concentré* 0.1%, épaississant: farine de graines de guar, persil*, huiles essentielles de citron*.\n*7.7% des ingrédients agricoles sont issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 115.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 36.52,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    },
+    {
+        "ean": "puree-pomme-de-terre-2x97g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sans sel ajouté"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMME DE TERRE EN FLOCONS 2X97G BIO",
+                "desc": "Purée de pomme de terre en flocons 2X97G Bio\nLa Purée de pomme de terre Bonneterre est fabriquée à partir de pommes de terre sélectionnés et issues de l'agriculture biologique. \nSans sel ajouté.\n2 sachets de 97grs.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/produit_primeal_1973_semoule_mais_precuite_2015_fr.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-de-terre-2x97g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:13",
+                "format": "97G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 84.5,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 6.7
+                    }
+                },
+                "ingredients": "Pomme de terre* (99.9%), extrait de romarin*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 97.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 23.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faites chauffer 400ml de lait avec une pincée de sel jusqu'à ébullition.\nRetirez du feu et ajoutez 20cl d'eau froide.\nVersez les flocons en pluie dans la casserole, laissez reposer 45secondes.\nRemuez délicatement avec une spatule puis laisser reposer 30 secondes afin de retrouver une texutre onctueuse.\nAJoutez une noix de beurre."
+            }
+        ],
+        "created_at": "2025-06-16T04:10",
+        "updated_at": "2025-06-16T04:10"
+    }
+]

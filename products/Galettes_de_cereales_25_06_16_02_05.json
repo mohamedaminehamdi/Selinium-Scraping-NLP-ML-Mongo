@@ -1,0 +1,1496 @@
+[
+    {
+        "ean": "galette-riz-cpt-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ COMPLET 100G BIO",
+                "desc": "Galettes de riz complet sans gluten 100G Bio\nPauvre en calories (environ 30 kcal/galette) et très nutritive (grâce aux céréales complètes: riches en sels minéraux et en glucides lents), la galette de riz peut être consommée telle quelle ou tartinée à souhait comme une bonne tranche de pain.\nElle se révèle d'une aide précieuse comme coupe faim en cas de régime hypocalorique ou de petits creux. \nLes galettes sont exemptes de gluten et 100% bio.\nSans sucre ajouté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002509.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-cpt-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 250
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Riz complet (98,7%), sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 19.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéales en tartine pour le petit-déjeuner ou en en-cas, comme substitut au pain pendant les repas ou comme snack léger (petite faim). Les galettes de riz peuvent être mangées sans ou avec une garniture (sucrée ou salée).",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-riz-ssel-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ SANS SEL 100G BIO",
+                "desc": "Galettes de riz sans sel 100G Bio\nPauvre en calories (environ 30 kcal/galette) et très nutritive (grâce aux céréales complètes: riches en sels minéraux et en glucides lents), la galette de riz peut être consommée telle quelle ou tartinée à souhait comme une bonne tranche de pain. Elle se révèle d'une aide précieuse comme coupe faim en cas de régime hypocalorique ou de petits creux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060717.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-ssel-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Riz complet issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.45,
+                "price_per_unit": 14.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer tel quel ou a tartiner comme une bonne tranche de pain.Les galettes s'accommodent aussi bien de garnitures sucrées que salées",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-mais-lin-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE MAÏS ET GRAINES DE LIN 130G BIO",
+                "desc": "Galettes de maïs et graines de lin 130G Bio\nCes galettes fines de maïs sont enrichie de 5% de graines de lin et ont le saveur agréable du maïs soufflé. Ils sont garanties sans OGM et sans gluten, et sont pauvres en graisses saturées et source de fibres.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002493.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-mais-lin-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 310
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Maïs*, graines de lin* 5%, sel marin.\n*issu de l'agriculture biologique.\n100 % des ingrédients agricoles sont issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 2.45,
+                "price_per_unit": 18.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Support à tartiner pour le petit déjeuner, délicieux également tel quel en remplacement du pain au cours du repas ou comme collation légère.",
+                "conservation": "A conserver à l'abri de la chaleur et de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galettes-pois-chiches-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE POIS CHICHES 100G BIO",
+                "desc": "Galettes de Pois Chiches 100g Bio\nUn nouveau profil de galettes à la fois légères et croustillantes, qui restitue toute la richesse des pois chiches, une légumineuse précieuse. Cette galette à haute valeur nutritionnelle a également une saveur très agréable. Enrichie de lentilles, quinoa et millet, elle répond aux besoins en protéines végétales d'une alimentation Vegan.\nSans gluten, sans sel, riche en fibres et avec 20% de protéines, elle a de nombreux atouts ajouté nutritionnels disponibles tout au long de la journée. Un snack sain et nutritif, parfait pour accompagner un repas, un goûter léger ou un petit-déjeuner.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439944312.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-pois-chiches-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 20
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62.5,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 8.6
+                    }
+                },
+                "ingredients": "Farine de pois chiches* 36,5%, farine de lentilles*, maïs*, amidon de tapioca*, quinoa*, millet*.\n*Ingrédient issu de l'agriculture biologique.\nPeut contenir des traces de soja, lait et sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.7,
+                "price_per_unit": 27.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéales en tartine pour le petit-déjeuner ou en en-cas, comme substitut au pain pendant les repas ou comme snack léger (petite faim). Les galettes de riz peuvent être mangées sans ou avec une garniture (sucrée ou salée).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galettes-lentilles-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE LENTILLES 100G BIO",
+                "desc": "Galettes de Lentilles 100g Bio\nUn nouveau profil de galettes à la fois légères et croustillantes, qui restitue toute la richesse des lentilles, une légumineuse précieuse. Cette galette à haute valeur nutritionnelle a également une saveur très agréable. Enrichie de sarrasin et de quinoa, elle répond aux besoins en protéines végétales d'une alimentation Vegan.\nSans gluten, riche en fibres et avec 22% de protéines, elle a de nombreux atouts nutritionnels disponibles tout au long de la journée. Un snack sain et nutritif, parfait pour accompagner un repas, un goûter léger ou un petit-déjeuner.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/produit_primeal_4951_galette_mais_120g_fr.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-lentilles-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 650
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.6
+                    },
+                    "fats": {
+                        "fats": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 61,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 6.3
+                    }
+                },
+                "ingredients": "Farine de lentilles* (82%), amidon de tapioca*, sarrasin*, quinoa*, sel marin.\n*issu de l'agriculture biologique.\nPeut contenir des traces de soja, lait et sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.89,
+                "price_per_unit": 28.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéales en tartine pour le petit-déjeuner ou en en-cas, comme substitut au pain pendant les repas ou comme snack léger (petite faim). Les galettes de riz peuvent être mangées sans ou avec une garniture (sucrée ou salée).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-sarrasin-lin-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES SARRASIN & GRAINES DE LIN 130G BIO",
+                "desc": "Galettes Sarrasin & Graines de Lin 130G Bio.\nCes galettes croustillantes avec 55% de sarrasin, enrichis de graines de lin et quinoa, ont beaucoup de saveur.\nUn peu de riz et la forme carré sert à garantir la structure de cette galette.\nLes galettes de sarrasin aux graines de lin sont riche en fibres, source de protéines et garantie sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439944312.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-sarrasin-lin-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:02",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 10
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 77,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "Sarrasin*55%, riz*, quinoa*, graines de lin*2%, sel marin.\n*Issu de l'agriculture biologique.\nRiche en fibres/ source de protéines.",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 2.7,
+                "price_per_unit": 20.77,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Support à tartiner pour le petit déjeuner, délicieux également tel quel en remplacement du pain au cours du repas ou comme collation légère.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galettes-pur-sarrasin-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES PUR SARRASIN 100G BIO",
+                "desc": "Galettes pur Sarrasin 100g Bio\nSans gluten et naturellement riche en fibres.Galettes fines et légères élaborées exclusivement avec du sarrasin et une pointe de sel. \nSans gluten et naturellement source de fibres, ces galettes fines, légères et croustillantes sont élaborées exclusivement avec du sarrasin et une pointe de sel. Excellentes nature, elles permettent également de préparer de délicieux toasts. Si besoin, un rapide passage au four chaud leur redonnera du croustillant.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439944312.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-pur-sarrasin-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.4,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 5.6
+                    }
+                },
+                "ingredients": "Sarrasin* 99.5%, sel marin\n*issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.09,
+                "price_per_unit": 30.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Excellentes nature, elles permettent également de préparer de délicieux toasts. Si besoin, unrapide passage au four leur redonnera du croustillant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galet-riz-camargue-ss-sel-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ DE CAMARGUE SANS SEL 130G BIO",
+                "desc": "Galettes de Riz de Camargue sans sel 130g Bio\nDécouvrez ces galettes de riz de Camargue bio, sans sel.\nPour Priméal, le riz de Camargue est un riz de proximité. Le maintenir de sa culture en bio grâce à un partenariat sur du long terme avec un groupe de riziculteurs camarguais préserve le patrimoine de cette vaste plaine sauvage. Dans le grand delta du Rhône, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé. Sans le riz, la Camargue n'aurait pas son charme actuel. Luminosité intense et Mistral s'ajoutent à la typicité de ce terroir qui s'exprime dans des riz de caractère.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439950313.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galet-riz-camargue-ss-sel-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82.3,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Riz rond complet* et riz rond ½ complet* de Camargue IGP(1)\n*issus de l’agriculture biologique (1)\nIGP : Indication Géographique protégée",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 1.75,
+                "price_per_unit": 13.46,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légères et très croustillantes, ces galettes s’utilisent en remplacement du pain pour le petit déjeuner, le goûter, etc... Refermez l’emballage après ouverture. Si besoin, un rapide passage au four chaud leur redonne du croustillant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-riz-de-camargue-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ DE CAMARGUE 130G BIO",
+                "desc": "Galettes de Riz de Camargue 130g Bio\nDécouvrez ces galettes de riz de Camargue bio, sans gluten.\nPour Priméal, le riz de Camargue est un riz de proximité. Le maintenir de sa culture en bio grâce à un partenariat sur du long terme avec un groupe de riziculteurs camarguais préserve le patrimoine de cette vaste plaine sauvage. Dans le grand delta du Rhône, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé. Sans le riz, la Camargue n'aurait pas son charme actuel. Luminosité intense et Mistral s'ajoutent à la typicité de ce terroir qui s'exprime dans des riz de caractère.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439950313.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-de-camargue-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79.5,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Riz rond complet* et riz rond ½ complet* de Camargue IGP(1), sel marin de Camargue\n*issus de l’agriculture biologique\n(1)IGP : Indication Géographique protégée \nSans gluten.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 1.69,
+                "price_per_unit": 13.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légères et très croustillantes, ces galettes s’utilisent en remplacement du pain pour le petit déjeuner, le goûter, etc... Refermez l’emballage après ouverture. Si besoin, un rapide passage au four chaud leur redonne du croustillant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-riz-camargu-sesam-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ DE CAMARGUE ET SÉSAME 130G BIO",
+                "desc": "Galettes de Riz de Camargue et Sésame 130g Bio\nDécouvrez ces galettes de riz de Camargue et de sésame. \nPour Priméal, le riz de Camargue est un riz de proximité. Le maintien de sa culture bio grâce à un partenariat sur du long terme avec un groupe de riziculteurs camarguais préserve le patrimoine de cette vaste plaine sauvage.\nDans le grand delta du Rhone, la riziculture joue un rôle écologique capital en apportant de l'eau douce dans un environnement d'ordinaire salé.\n100% de France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002493.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-camargu-sesam-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81.8,
+                        "of_which_sugars": 0.1,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Riz rond complet* (48%) et riz rond demi-complet* de Camargue IGP, sésame complet* (2%), sel marin de Camargue*.\nSans gluten.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 15.31,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légères et très croustillantes, ces galettes s'utilisent en remplacement du pain pour le petit déjeuner, le goûter...\nRefermer l'emballage après ouverture.\nSi besoin, un rapide passage au four chaud leur redonne du croustillant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "mini-galette-sarrasin-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI GALETTES DE SARRASIN NATURE 100G BIO",
+                "desc": "Mini galettes de sarrasin nature 100G Bio\nCes mini galettes Priméal s'apprécient en snacking pour une pause légère. Contrairement aux chips, qui nécessitent une friture, ces galettes de céréales ne sont pas plongées dans l'huile. Elles se dégustent aussi bien nature que tartinées ou trempées dans une sauce (guacamole, tzatziki,...) !\nGaranti sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439950313.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-galette-sarrasin-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 720
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75.4,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Sarrasin* (99.5%), sel marin.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.5,
+                "price_per_unit": 35.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "mini-galette-mais-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI GALETTES DE MAÏS NATURE 150G BIO",
+                "desc": "Mini galettes de maïs nature 150G Bio.\nGalette de maïs très fine et croustillantes, au bon goût de pop corn!\nMini format adapté à la réalisation de bouchées pour l'apéritif ou pour le snacking et qui plait particulièrement aux enfants car il faciliet la prise en main.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002493.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-galette-mais-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:03",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 84.8,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Maïs (99%), huile de germe de maïs, sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.59,
+                "price_per_unit": 17.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "fines-galettes-de-riz-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FINES GALETTES DE RIZ 130G BIO",
+                "desc": "Fines galettes de riz 130G Bio\nDe fines galettes de riz, sources de fibres, à déguster à tout moment de la journée.\nDélicieux avec votre confiture ou pâte à tartiner préférée mais également pour vos recettes de tartines salées.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/produit_primeal_4951_galette_mais_120g_fr.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fines-galettes-de-riz-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 8.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 3.6
+                    }
+                },
+                "ingredients": "Riz complet*(99%), sel marin.\n* Ingrédient issu de l'agriculture biologique.\nProduit en Belgique",
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 19.23,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galet-riz-camar-4-cere-sg-130g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTE DE RIZ DE CAMARGUE SANS GLUTEN 130G BIO",
+                "desc": "Galette de Riz de Camargue sans gluten 130G Bio\nLégères et très croustillantes, ces Galette de Riz aux Céréales Ma Vie Sans Gluten s'utilisent en remplacement du pain pour le petit déjeuner, le goûter ...\n\nPour leur redonner du croustillant, un passage rapide au four et le tour est joué !\n\nMa Vie Sans Gluten est une gamme garantie sans gluten, bio, savoureuse, équilibrée et créative, conçue avec l'expertise Priméal.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439950313.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galet-riz-camar-4-cere-sg-130g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 82.7,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Riz rond complet* et riz rond demi-complet* de Camargue, Céréales anciennes 6% (quinoa*, millet*, sarrasin*), sésame complet*, sel marin de Camargue.\n\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 2.65,
+                "price_per_unit": 20.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-ep-cacao-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTE À L'ÉPEAUTRE NAPPÉES DE CHOCOLAT 150G BIO",
+                "desc": "Galette à l'épeautre nappées de chocolat 150G Bio\nL'épeautre est très riche en protéines, en magnésium, en zinc, en fer et en cuivre.\nVous retrouverez ces bienfaits avec une touche de chocolat.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439961319.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-ep-cacao-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.85
+                    },
+                    "fats": {
+                        "fats": 17.44
+                    },
+                    "proteins": {
+                        "proteins": 11.16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55.47,
+                        "of_which_sugars": 12.62,
+                        "dietary_fiber": 7.83
+                    }
+                },
+                "ingredients": "EPEAUTRE *, chocolat* (sucre de canne*, beurre de cacao*, pâte de cacao*) Cacao* : 55% (35%).\nPeut contenir des FRUITS A COQUES, LAIT, SOJA, SESAME.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.55,
+                "price_per_unit": 23.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour goûters, petits déjeuners, repas légers.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-avoine-choco-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES AVOINE CHOCOLAT NOIR 150G BIO",
+                "desc": "Galettes avoine chocolat noir 150g Bio\nUne recette suédoise de galettes aux flocons d'avoine fourrées au chocolat. Une recette ultra gourmande pour un encas équilibré et réconfortant.\n  Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002509.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-avoine-choco-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 780
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63,
+                        "of_which_sugars": 37,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Sucre de canne roux*, chocolat noir* 23% (pâte de cacao*, scure*, beurre de cacao*), flocons d'AVOINE* 20%, farine de BLE*, BEURRE*, OEUFS*, poudres à lever (carbonates de sodium, carbonates d'ammonium), sel de mer.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.7,
+                "price_per_unit": 24.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Des galettes gourmandes à déguster à tout moment de la journée, au bureau, école, promenades.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galettes-riz-quinoa-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES SOUFFLÉES DE RIZ AU QUINOA 100G BIO",
+                "desc": "Galettes soufflées de riz au quinoa 100g Bio\nCroquez la légèreté, savourez la nature !\nDécouvrez nos galettes soufflées de riz au quinoa bio, une collation saine, gourmande et naturellement légère. Fabriquées à partir d’ingrédients 100 % biologiques, elles allient la douceur du riz soufflé à la richesse nutritive du quinoa, reconnue pour ses protéines complètes et ses fibres.\nCes galettes croustillantes sont parfaites pour une pause plaisir sans culpabilité : à déguster seules, en snack, ou accompagnées de vos tartinades favorites pour un encas équilibré et savoureux.\nSans additifs et riches en saveurs naturelles, nos galettes soufflées au quinoa bio apportent une touche de légèreté à votre quotidien, tout en soutenant une alimentation saine et respectueuse de l’environnement.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788002509.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-riz-quinoa-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.23
+                    },
+                    "fats": {
+                        "fats": 1.38
+                    },
+                    "proteins": {
+                        "proteins": 6.87
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78.48,
+                        "of_which_sugars": 0.35,
+                        "dietary_fiber": 0.92
+                    }
+                },
+                "ingredients": "Riz bio, quinoa bio.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 15.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces galettes sont parfaites pour votre petit-déjeuner, goûter ou repas légers. Natures mais également avec votre confiture préférée ou en version salée avec du fromage frais.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-riz-choc-lait-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE RIZ NAPPÉES CHOCOLAT LAIT EXTRA FINES 90G B...",
+                "desc": "Galettes de riz nappées chocolat lait extra fines 90g Bio\nDes galettes de riz extra-fines nappées au chocolat au lait, pour les goûters bio et gourmands de toute la famille.\n41% de riz complet.\nConvient au régime sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060700.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-riz-choc-lait-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14
+                    },
+                    "fats": {
+                        "fats": 22.8
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 58.5,
+                        "of_which_sugars": 21.6
+                    }
+                },
+                "ingredients": "Chocolat noir* (55%) (pâte de cacao*, sucre de canne*, beurre de cacao*), riz complet* (45%)\n*Ingédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 5.6,
+                "price_per_unit": 62.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Encas et goûter réussi avec ces galettes gourmandes ! Au bureau, à l'école ou en promenade, emportez-les partout.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galettes-mais-120g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE MAÏS SANS GLUTEN 120G BIO",
+                "desc": "Galettes de Maïs sans gluten 120g Bio\nCes galettes de maïs sont très nutritifs et contiennent de précieux éléments nutritifs à partir du maïs.\nIls sont une source de fibres et ont une faible teneur en graisses saturées. Ces galettes de maïs ont une saveur typique et différente des galettes de riz traditionnelles, pour lesquelles ils sont une bonne alternative.\nIls sont 100% bio et naturellement sans gluten et sans sucre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347439944312.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-mais-120g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:04",
+                "format": "120G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 86,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Maïs*, sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 16.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer tel quel ou a tartiner comme une bonne tranche de pain.\nLes galettes s'accommodent aussi bien de garnitures sucrées que salées.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galette-fine-mais-120g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTE FINE MAÏS 120G BIO",
+                "desc": "Galette Fine Maïs 120G Bio\nGalettes de maïs très fines et croustillantes, au bon goût de pop corn ! Elles sont légères et naturellement sans gluten.\nExcellentes natures avec leur agréable saveur de maïs grillé, elles permettent également de préparer de délicieux toasts.\nSeulement 20kcal par galette !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060700.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-fine-mais-120g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:05",
+                "format": "120G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 85.5,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Maïs*, huile de germe de maïs*, sel marin\n* issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 19.08,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    },
+    {
+        "ean": "galet-de-riz-cacao-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Galettes de céréales"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALET. DE RIZ CACAO 160G BIO",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060700.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galet-de-riz-cacao-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:05",
+                "format": "160G",
+                "availability": true,
+                "ingredients": "Riz complet, graisse végétale non hydrogénée, sucre de canne complet, cacao.",
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 19.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour goûters, petits déjeuners, repas légers."
+            }
+        ],
+        "created_at": "2025-06-16T02:01",
+        "updated_at": "2025-06-16T02:01"
+    }
+]

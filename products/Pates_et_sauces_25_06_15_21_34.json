@@ -1,0 +1,2182 @@
+[
+    {
+        "ean": "tortils-citron-safran-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TORTILS AU CITRON & SAFRAN 250G BIO",
+                "desc": "Tortils au Citron & Safran 250g Bio\nCes pâtes sont exclusivement colorées et parfumées par des épices et des huiles essentielles.\nElles apportent une touche colorée et gustative à vos assiettes.\nDéjà parfumées, elles peuvent se consommer telles quelles ou bien se suffire d'un simple filet d'huile d'olive ou d'une noix de beurre, et justifient ainsi leur titre de bienfaiteur pour l'équilibre nutritionnel de votre assiette.\nFabriqué en France dans nos ateliers.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390175524.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tortils-citron-safran-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:29",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.5,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur*, huile essentielle de citron*, curcuma*, safran*, poudre d'oeuf*\n*issu de l'agriculture biologique.\nContint du gluten et de l'oeuf.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 17.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson :\n- Al dente : 5 minutes\n- Fondante : 7 minutes",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spirales-quinoa-3-couleur-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPIRALES 3 COULEURS BLÉ & QUINOA 500G BIO",
+                "desc": "Spirales 3 couleurs Blé & Quinoa 500g Bio\nNaturellement parfumées avec du basilic et de la betterave rouge séchés puis broyés jusye au moment de leur incorporation à la semoule de blé dur, ces pâtes se consomment sans sauce, accompagnées d'un filet d'huile d'olive ou d'une noix de beurre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14380106553663png.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spirales-quinoa-3-couleur-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:29",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Semoule de blé dur*, quinoa*, basilic*, betterave rouge*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 7.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson al dente, 8 mn et fondante 9 mn.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coudes-dem-cplt-cuiss-rap-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUDES DEMI-COMPLETS CUISSON RAPIDE 500G BIO",
+                "desc": "Coudes demi-complets cuisson rapide 500G Bio\nDécouvrez les coudes demi-complets de Priméal !\n\nCes pâtes rapides à préparer, sont prêtes en seulement 3 minutes grâce à leurs formes. Même après cuisson, la saveur du blé est maintenue, et les pâtes gardent leur texture ferme et fondante.\nCes pâtes à la forme particulière, seront parfaites pour retenir les sauces. Elles se marieront donc merveilleusement bien avec un délicieux pesto, une sauce tomate onctueuse ou bien froides en salade. \nGrâce à leur fine épaisseur et leur cuisson rapide, elles seront idéales également pour la réalisation de gratin sans pré-cuisson. \nLes + produit :\n. Cuisson rapide \n. Forme en coudes\n. Blé dur demi-complet\n. Texture ferme et fondante\n. Contenance pour 5 personnes",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390180481.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coudes-dem-cplt-cuiss-rap-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 12.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 3.6
+                    }
+                },
+                "ingredients": "Semoule de BLÉ dur demi-complète*\nContient du GLUTEN et peut contenir des traces d'OEUF et de SOJA.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 3.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, faites bouillir 1 L. d'eau salée. Verser les pâtes (100g par personne).\nLaissez cuire 3 à 5 min. selon votre préférence pour des pâtes al dente ou fondantes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spirales-demi-comp-cr-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPIRALES DEMI-COMPLÈTES CUISSON RAPIDE 500G BIO",
+                "desc": "Spirales demi-complètes cuisson rapide 500G Bio.\nDécouvrez les spirales demi-complètes 500g : 100% France de la marque Priméal.\n\nDe la culture du blé dur à la fabrication, cette pâte fait appel au savoir-faire Français. Le blé dur est produit en Camargue et dans le Sud-Ouest par un groupe d'agriculteurs et de coopératives motivés par la pérennisation de cette culture adaptée au climat Méditérannéen. La particularité de ces pâtes, c'est aussi qu'elles cuisent plus vite, et cela est dû à leur épaisseur plus fine. Ces pâtes sont identiques à tout point de vue aux pâtes bio \"classiques\".\nDe plus, la saveur du blé est maintenue et la texture après cuisson est particulièrement fondante.\nLes + produit :\n. Ingrédients issus de l'agriculture biologique \n. Pâtes à la cuisson rapide en 3 minutes\n. Convient pour 5 personnes",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14588163379758png.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spirales-demi-comp-cr-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 12.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Semoule demi-complète de blé dur*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.8,
+                "price_per_unit": 3.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, faites bouillir 1L d'eau salée. Verser les pâtes (100g par personne). Laissez cuir 3 à 5 minutes, selon vos préférences pour des pâtes al dente ou fondantes.\nEgoutter les pâtes. A déguster de préférence avec une de nos sauces tomates Priméal ou selon vos envies. Grâce à leur fine épaisseur, ces pâtes se prêtent idéalement à la réalisation de gratins sans pré-cuisson (mode de préparation sur le sachet).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "rubanelle-demi-complet-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RUBANELLE DEMI-COMPLÈTES 400G BIO",
+                "desc": "Rubanelle demi-complètes 400G Bio\nLes Rubanelle demi-complètes sont façonnées à l'ancienne dans des moules en bronze, dans le respect de la tradition, et séchées à basse température, ces pâtes 100% France de qualité premium offrent une saveur incomparable ! Ce type de façonnage confère aux pâtes un aspect farineux et une texture rugueuse qui leur permet d'accrocher délicatement la sauce pour encore plus de saveurs !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390180481.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/rubanelle-demi-complet-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.6,
+                        "of_which_sugars": 4.5,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Semoule demi-complète de BLÉ dur issue de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.45,
+                "price_per_unit": 6.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il est recommandé de faire dans une casserole, faire bouillir de l'eau salée. Versez les pâtes (80g par personne). Laissez cuire 8 à 9 min selon votre préférence pour des pâtes Al dente ou fondantes. Égouttez les pâtes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "rigatelle-demi-complet-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIGATELLE DEMI-COMPLÈTES 400G BIO",
+                "desc": "Rigatelle demi-complètes 400G Bio\nDécouvrez les Rigatelle Priméal, les pâtes parfaites pour vos plats en sauce !\nCes Rigatelle demi-complètes sont façonnées à l'ancienne, dans le respect de la tradition.\nElles sont réalisées dans des moules en bronze puis séchées à basse température, leur donnant alors un goût et un aspect uniques.\nCertifiées bio, ces pâtes de qualité premium sont également fabriquées en France à base de blés durs 100% français.\nLeur formation particulière leur donne un aspect farineux et une texture qui leur permettent d'accrocher délicatement et retenir vos sauces. Idéales pour plus de saveurs et de gourmandises à vos plats !\nLes + produit :\n. Façonnage moule bronze\n. Séchage basse température\n. Pâtes de qualité premium\n. Forme permettant de retenir la sauce\n. Filière 100% France",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489903549.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/rigatelle-demi-complet-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.6,
+                        "of_which_sugars": 4.5
+                    }
+                },
+                "ingredients": "Semoule demi-complète de BLÉ  dur origine France*.\n*issue de l’agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.15,
+                "price_per_unit": 5.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une casserole, faites bouillir de l'eau salée. Versez les pâtes, 80g par personne environ.\nLaissez cuire 11 à 13 min selon votre préférence pour des pâtes Al dente ou fondantes. Egouttez les pâtes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spaghettis-demi-completes-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPAGHETTI DEMI-COMPLETS PRIMÉAL 500G BIO",
+                "desc": "Spaghetti demi-complets Priméal 500g Bio\nLa pâte demi-complète est un bon compromis entre la pâte blanche et la pâte complète.\nElle séduit par ses avantages nutritionnels et culinaires grâce à la saveur typique et préservée du blé.\nFabriqués en France dans les ateliers de Priméal.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14380084277799png.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spaghettis-demi-completes-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 11.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66.5,
+                        "of_which_sugars": 5.3,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Semoule de blé dur demi-complète*.\n*Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 3.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jeter les spaghetti dans un grand volume d'eau bouillante salée, cuire 5 minutes pour une cuisson « al dente » et 6 minutes pour une cuisson fondante.\nEgoutter et déguster ces pâtes chaudes simplement avec un filet d'huile d'olive ou accompagnées d'une sauce de votre choix.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spaghetti-quinoa-tomate-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPAGHETTI BLÉ & QUINOA TOMATE 500G BIO",
+                "desc": "Spaghetti Blé & Quinoa Tomate 500g Bio\nCes pâtes sont fabriquées en France dans nos ateliers. \nElles apportent une touche colorée et gustative à vos assiettes exclusivement obtenues par les légumes et les aromates.\nDéjà parfumées, elles peuvent se consommer telles quelles ou bien se suffire d'un filet d'huile d'olive ou d'une noix de beurre : l'équilibre nutritionnel de votre assiette.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03267460030047_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spaghetti-quinoa-tomate-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 11.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72,
+                        "of_which_sugars": 6.1,
+                        "dietary_fiber": 4.2
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur* (85.9%), quinoa* (10%), tomate* (3.8%), ail*.\n*Ingrédients issus de l'agriculture biologique.\nContient du gluten, peut contenir des traces d'œuf.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.8,
+                "price_per_unit": 7.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuire les pâtes dans de l'eau bouillante :\n- Pour des pâtes fermes : 5 minutes.\n- Pour des pâtes fondantes : 10 minutes.",
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spagetti-quinoa-ail-pers500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPAGHETTI QUINOA, AIL & PERSIL 500G BIO",
+                "desc": "Spaghetti quinoa, ail & persil 500G Bio\nCes pâtes sont fabriquées en France dans nos ateliers.\nElles apportent une touche colorée et gustative à vos assiettes. Elles sont exclusivement colorées et parfumées par des légumes et des aromates.\nDéjà parfumées, elles peuvent se consommer telles quelles ou bien se suffire d'un filet d'huile d'olive ou d'une noix de beurre : c'est l'équilibre nutritionnel de votre assiette.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3267460031273.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spagetti-quinoa-ail-pers500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 11.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70.9,
+                        "of_which_sugars": 3.7,
+                        "dietary_fiber": 4.2
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur*, quinoa* 10%, persil* 3%, ail*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jeter dans un grand volume d'eau bouillante salée.\nAprès 3-4 minutes égoutter, accommoder et déguster sans attendre.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spirales-epeautre-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPIRALES À L'ÉPEAUTRE COMPLET 500G BIO",
+                "desc": "Spirales à l'épeautre complet 500G Bio\nDécouvrez des céréales parmi les plus anciennes qu'ait consommées l'humanité!\nInvitez de nouvelles saveurs de céréales anciennes dans vos plats de pâtes... pour changer du blé.\n100% épeautre complet.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/r/u/ruban_au_petit_peautre_de_haute_provence_igp.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spirales-epeautre-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:30",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 13.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 58,
+                        "of_which_sugars": 3.8,
+                        "dietary_fiber": 10.8
+                    }
+                },
+                "ingredients": "Epeautre complet* (gluten).\n*Issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 7.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jeter les spirales dans un grand volume d'eau bouillante salée, cuisson \"al dente\" 7 mn et fondante 9 mn. \nEgoutter et déguster ces pâtes chaudes simplement avec un filet d'olive ou accompagnées d'une sauce de votre choix.",
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "tortil-petit-epeautre-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TORTILS PETIT ÉPEAUTRE 250G BIO",
+                "desc": "Tortils petit épeautre 250g Bio\nDécouvrez des céréales parmi les plus anciennes qu'ait consommées l'humanité! Grains rustiques de faible rendement, ces céréales ont longtemps été oubliées avant d'être relancées par des producteurs riches d'un savoir-faire ancéstral. Le petit épeautre est une céréale authentique appréciée pour sa haute valeur nutritionnelle et sa saveur fine légèrement sucrée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489701206.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tortil-petit-epeautre-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.1
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68.1,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "Petit épeaute* (GLUTEN).\n*Issue de l'agriculture biologique.\nPeut contenir des traces d'OEUFS.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\nFabriqué en France.\nRiche en fibres.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.05,
+                "price_per_unit": 16.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spirales-demi-completes-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPIRALES DEMI-COMPLÈTES 500G BIO",
+                "desc": "Spirales Demi-Complètes 500g Bio\nDe la culture du blé dur à la fabrication, cette pâte fait appel au savoir-faire français!\nLe blé dur est produit en Camargue et dans le Sud Ouest par un groupe d'agriculteurs et de coopératives motivés par la pérennisation de cette culture adaptée au climat méditerranéen.\nLe plus ancien semoulier français transforme ce grain en semoule 1/2 complète que nous valorisons ensuite dans notre atelier en Ardèche !\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390181402.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spirales-demi-completes-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.6,
+                        "of_which_sugars": 4.5,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Semoule de blé dur demi-complète*.\n*Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 3.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jeter les spirales dans un grand volume d'eau bouillante salée, cuire 7 mn pour une cuisson « al dente » et 9 mn pour une cuisson fondante. \nEgoutter et déguster ces pâtes chaudes simplement avec un filet d'huile d'olive ou accompagnées d'une sauce de votre choix.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "pennes-demi-complets-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PENNE DEMI-COMPLÈTES PRIMEAL 500G BIO",
+                "desc": "Penne demi-complètes Primeal 500g Bio\nLa pâte demi-complète est un bon compromis entre la pâte blanche et la pâte complète. Elle séduit par ses avantages nutritionnels et culinaires grâce à la saveur typique et préservée du blé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14380084277799png.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pennes-demi-complets-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 11.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66.5,
+                        "of_which_sugars": 5.3,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Semoule demi-complète de blé dur*.\n*Issue de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 3.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "macaronis-demi-complets-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MACARONIS DEMI-COMPLETS 500G BIO",
+                "desc": "Macaronis demi-complets 500g Bio\nDe la culture du blé dur à la fabrication, cette pâte fait appel au savoir-faire français!\nLe blé dur est produit en Camargue et dans le Sud Ouest par un groupe d'agriculteurs et de coopératives motivés par la pérennisation de cette culture adaptée au climat méditerranéen.\nLe plus ancien semoulier français transforme ce grain en semoule 1/2 complète que nous valorisons ensuite dans notre atelier en Ardèche !\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14588163379758png.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/macaronis-demi-complets-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.6,
+                        "of_which_sugars": 4.5,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Semoule de [b]blé[/b] dur demi-complète*.\n*Issue de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 3.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson :\n- al dente 7 minutes\n- fondante 9 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "vermicelles-demi-complets-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VERMICELLES DEMI-COMPLETS 500G BIO",
+                "desc": "Vermicelles demi-complets 500g Bio\nDans notre atelier en Ardèche, nous respectons la recette traditionnelle des pâtes : de la semoule de blé dur et de l'eau, c'es TOUT!\nPriméal enrichi cette simplicité en vous proposant de multiples formats déclinés en pâtes complètes, demi complètes ou blanches.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14588163379758png.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vermicelles-demi-complets-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 11.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 5.3,
+                        "dietary_fiber": 3.8
+                    }
+                },
+                "ingredients": "Semoule de blé* demi-complète.\n* Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 3.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson : Al dente 8 minutes, fondante 9 minutes.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coquillette-demi-complete-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COQUILLETTES DEMI-COMPLÈTES 500G BIO",
+                "desc": "Coquillettes demi-complètes 500g Bio\nDe la culture du blé dur à la fabrication, cette pâte fait appel au savoir-faire français!\nLe blé dur est produit en Camargue et dans le Sud Ouest par un groupe d'agriculteurs et de coopératives motivés par la pérennisation de cette culture adaptée au climat méditerranéen.\nLe plus ancien semoulier français transforme ce grain en semoule 1/2 complète que nous valorisons ensuite dans notre atelier en Ardèche !\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14588163379758png.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coquillette-demi-complete-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.6,
+                        "of_which_sugars": 4.5,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Semoule de blé dur demi-complète*.\n*Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 3.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson : al dente 9 minutes, fondante 11 minutes.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "ressorts-complets-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RESSORTS COMPLETS 500G BIO",
+                "desc": "Ressorts complets 500g Bio\nDans notre atelier en Ardèche, nous respectons la recette traditionnelle des pâtes : de la semoule de blé dur et de l'eau, c'est TOUT !\nPriméal enrichi cette simplicité en vous proposant de multiples formats déclinés en pâtes complètes, demi complètes ou blanches.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14380084277799png.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ressorts-complets-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 12.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67.5,
+                        "of_which_sugars": 4,
+                        "dietary_fiber": 8.8
+                    }
+                },
+                "ingredients": "Semoule complète de blé dur*\n*Issue de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 4.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson :\nAl dente 8 minutes\nFondante 9 minutes.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "macaronis-complets-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MACARONIS COMPLETS 500G BIO",
+                "desc": "Macaronis complets 500G Bio\nDe la culture du blé dur à la fabrication, cette pâte fait appel au savoir-faire français! Le blé dur est produit en Camargue et dans le sud-ouest par un groupe d'agriculteurs et de coopératives motivés par la pérennisation de cette culture adaptée au climat méditerranéen.\nLe plus ancien semoulier français transforme ce grain en semoule demi-complète que nous valorisons ensuite dans notre atelier en Ardèche.\nPriméal s'engage pour une agriculture bio française et pour le développement de filières de proximité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14588163379758png.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/macaronis-complets-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:31",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 12.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67.5,
+                        "of_which_sugars": 4,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Semoule de blé* complète.\n*Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 3.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jeter les macaroni dans un grand volume d'eau bouillante salée, cuire 7 mn pour une cuisson « al dente » et 9 mn pour une cuisson fondante.\nEgoutter et déguster ces pâtes chaudes simplement avec un filet d'huile d'olive ou accompagnées d'une sauce de votre choix.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coquillettes-completes-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COQUILLETTES COMPLÈTES 500G BIO",
+                "desc": "Coquillettes complètes 500G Bio\nDans notre atelier en Ardèche, nous respectons la recette traditionnelle des pâtes : de la semoule de blé dur et de l'eau, c'es TOUT!\nPriméal enrichi cette simplicité en vous proposant de multiples formats déclinés en pâtes complètes, demi complètes ou blanches.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/4/14380084898673png.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coquillettes-completes-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 12.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67.5,
+                        "of_which_sugars": 4,
+                        "dietary_fiber": 8.8
+                    }
+                },
+                "ingredients": "Semoule de blé* complète.\n* Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 3.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson : Al dente 9 minutes, fondante 11 minutes.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "alphabet-tricolore-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LES PÂTINETTES - ALPHABET TRICOLORE 250G BIO",
+                "desc": "Les Pâtinettes - alphabet tricolore 250G Bio\nPâtes fabriquées dans nos ateliers en France.\nLes petites pâtes de Priméal sont adaptées aux jeunes enfants avec des \"mini\" formats et des recettes colorées grâce aux légumes.\nPour un plat créatif, à décliner en salade.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/produit_primeal_410_spaghetti_quinoa_ail_persil_2015_fr.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/alphabet-tricolore-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 11.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur*, persil*, carotte*, amidon de maïs*.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson Al dente 6 minutes, fondantes 8 minutes.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coquillette-quinoa-car-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LES PÂTINETTES - COQUILLETTES BLÉ & QUINOA CAROTTE ...",
+                "desc": "Les Pâtinettes - coquillettes blé & quinoa carotte 250g Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390175524.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coquillette-quinoa-car-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.1
+                    }
+                },
+                "ingredients": "Semoule de blé dur*, quinoa*, carotte*, amidon de maïs*\n* issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 11.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les petites pâtes de Priméal adaptées aux jeunes enfants avec des \"mini\" formats et des recettes colorées grâce aix légumes!\nOsez décliner la recette de base en un plat créatif (mini gratin pour les tubulo, petite crêpe avec les vermicelles, salade d'alphabet, coquilettes en sauce de légumes...)\nCuisson 6 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "animaux-rigolos-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LES PÂTINETTES - ANIMAUX RIGOLOS 250G BIO",
+                "desc": "Les Pâtinettes - animaux rigolos 250G Bio\nPâtes fabriquées en France. Les petites pâtes de Priméal sont adaptées aux jeunes enfants avec des \"mini\" formats et des recettes colorées grâce aux légumes.\nPour un plat créatif, à décliner en salade",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340004762.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/animaux-rigolos-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 11.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.6,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur*.\n* Issue de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 8.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les petites pâtes de Priméal adaptées aux jeunes enfants avec des \"mini\" formats et des recettes colorées grâce aix légumes!\nOsez décliner la recette de base en un plat créatif (mini gratin pour les tubulo, petite crêpe avec les vermicelles, salade d'alphabet, coquilettes en sauce de légumes...)\nCuisson 7 minutes.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coudes-quinoa-tomates-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUDES BLÉ & QUINOA TOMATE 500G BIO",
+                "desc": "Coudes blé & quinoa tomate 500g Bio\nCes pâtes sont fabriquées en France dans nos ateliers.\nLeur gros format plait aux enfants car ils les attrapent facilement. Elles sont exclusivement colorées et parfumées par des légumes et des aromates.\nDéjà parfumées, elles peuvent se consommer telles quelles ou bien se suffire d'un filet d'huile d'olive ou d'une noix de beurre : équilibre nutritionnel de votre assiette.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/t/o/torsades_lentille_corail.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coudes-quinoa-tomates-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 11.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68,
+                        "of_which_sugars": 5.1,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Semoule supérieure de blé dur*, quinoa* 10%, tomate* 6%, ail*.\n*Issus de l’Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 7.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson \"al dente\" 8 mn et fondante 9 mn. Elles se prêtent bien aux salades.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "double-concentre-tomates-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DOUBLE CONCENTRÉ DE TOMATES 200G BIO",
+                "desc": "Double concentré de tomates 200g Bio\nDans son tube souple, le double concentré de tomates Priméal est un produit pratique et facile à doser.\nIl est élaboré à partir de tomates cultivées selon les exigences de l'agriculture biologique, soigneusement sélectionnées pour leurs qualités gustatives et récoltées à leur juste maturité.\nVous pourrez parfumer vos plats, garnir vos pizzas, créer vos sauces.\nConcentré à 28%. Ce concentré est sans sucres ajoutés**.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960002112-sauce_tomate_sans_sel_ajout_-190g-211.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/double-concentre-tomates-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:32",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.5,
+                        "of_which_sugars": 14.5,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Purée de tomates* double concentrée à 28%, sel marin.\n*Ingrédients issus de l'agriculture biologique.\n**Contient des sucres naturellement présents.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.45,
+                "price_per_unit": 12.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Son utilisation est multiple : parfumer des plats mijotés, colorer des mayonnaises, garnir des fonds de tartes, accompagner vos plats de pâtes et de riz, ...",
+                "conservation": "A conserver à température ambiante.\nAprès ouverture, à conserver au frais et à consommer dans les 2 semaines."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "coulis-de-tomates-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COULIS DE TOMATES 500G BIO",
+                "desc": "Coulis de Tomates 500g Bio\nSans matières grasses, pauvre en sel, tomates mûries sous le soleil d'Italie. Dans son emballage pratique, le coulis de tomates Priméal est un produit facile à stocker et indispensable pour la préparation de nombreuses recettes.\n\nSa texture veloutée convient bien pour garnir vos tartes et vos pizzas. Elle permet également d’élaborer les sauces pour vos plats de pâtes et de riz.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380060595-4.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coulis-de-tomates-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:33",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 250
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6,
+                        "of_which_sugars": 6,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Purée de tomates* mi-réduite à 11%, sel marin.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 3.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au frais et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "farfalle-riz-brun-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARFALLE RIZ BRUN SANS GLUTEN 250G BIO",
+                "desc": "Farfalle Riz Brun sans gluten 250g Bio\nDécouvrez tous les bienfaits nutritionnels du riz brun dans des farfalle bio et sans gluten !\nNous avons spécialement sélectionné pour ces farfalle une farine 100% riz brun bio sans gluten pour sa saveur et sa teneur en fibres. Les farfalle riz brun bio sont idéals pour toutes vos recettes de pâtes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380057823.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farfalle-riz-brun-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:33",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 3.1
+                    },
+                    "proteins": {
+                        "proteins": 8.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Farine de riz brun*\n*Issu de l'agriculture biologique\nFabriqué dans un atelier qui utilise le soja et le lupin.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 15.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "linguine-sarrasin-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LINGUINE AU SARRASIN 500G BIO",
+                "desc": "Linguine au sarrasin 500g Bio\nPâtes alimentaires issues de l'agriculture biologique, adaptées aux personnes intolérantes au gluten.\nPour ces linguine, Valpibio a spécialement sélectionné une farine bio 100% sarrasin, naturellement sans gluten, pour sa saveur typée de noisette.\nSource de fibres.\nFabriqué en Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380049682.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/linguine-sarrasin-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:33",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.4
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Farine de sarrasin*.\n*Issu de l'agriculture biologique.\nFabriqué dans un atelier qui utilise du soja et du lupin.",
+                "allergens": [
+                    "Soja",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "15min : Al dente.\n18min : Fondantes.\nLes linguine Sarrasin  Valpibio s'accommodent comme des pâtes traditionnelles à votre convenance.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "spaghetti-riz-brun-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPAGHETTI DE RIZ BRUN SANS GLUTEN 500G BIO",
+                "desc": "Spaghetti de riz brun sans gluten 500g Bio\nPour vous offrir le meilleur de la nature, Valpibio a spécialement sélectionné une farine 100% riz brun bio.\nRiche en fibres.\nGaranti bio et sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380057823.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/spaghetti-riz-brun-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:33",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 8.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 4.2
+                    }
+                },
+                "ingredients": "Farine de riz brun*.\n*Ingrédients issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "torsades-pois-chiches-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TORSADES AUX POIS CHICHES 250G BIO",
+                "desc": "Torsades aux pois chiches 250g Bio\nLes Torsades Lazzaretti, à la farine de pois chiches Bio (cutivées dans le Sud Ouest de la France) sont fabriquées de manière artisanale à Avignon dans notre atelier sans gluten.\nCes pâtes sont séchées à l’ancienne par un procédé de séchage lent à basse température.\nCes pois chiches sont cultivés dans le sud Ouest.\nAdaptées au régime vegan, ces pâtes sont riches en protéines, fibres et fer.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760061497801.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/torsades-pois-chiches-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:33",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 18.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.3,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 15.5
+                    }
+                },
+                "ingredients": "100% farine de pois chiche*\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.79,
+                "price_per_unit": 15.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Froide ou chaude ! En salade, nature, en sauce, ou en gratin.\nCuire 4 min dans une eau bouillante salée.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    },
+    {
+        "ean": "torsades-lentilles-corail-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes et sauces"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TORSADES AUX LENTILLES CORAIL 250G BIO",
+                "desc": "Torsades aux lentilles corail 250g Bio\nRiche en protéines et en fer ces pâtes sont adaptées au régime vegan, aux enfants et gourmands.\nDans les torsades Bio à base de farine de lentilles corail on retrouve un goût comparable aux lentilles vertes que vous devez connaitre mais celle ci semble plus délicate et légèrement plus sucrée (naturellement !!).\nCes pâtes sont séchées à l’ancienne par un procédé de séchage lent à basse température.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380000522_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/torsades-lentilles-corail-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:34",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 25
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48.4,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 10.8
+                    }
+                },
+                "ingredients": "100% Farine de lentilles corail*.\n\n*Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.35,
+                "price_per_unit": 13.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Leur couleur orangée illumine les plats et valorise les autres ingrédients !\nNe pas dépasser le temps de cuisson de 4 mm pour conserver toute la richesse nutritionnelle et leur texture et onctuosité.\nCuire 4 min dans une eau bouillante salée.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:29",
+        "updated_at": "2025-06-15T21:29"
+    }
+]

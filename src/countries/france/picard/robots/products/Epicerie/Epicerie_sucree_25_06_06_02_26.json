@@ -1,0 +1,149 @@
+[
+    {
+        "ean": "000000000000085558",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pause gourmande, noix de cajou, amandes sucrées",
+                "desc": "Mélange sucré d'amande, noix de cajou et riz soufflé.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pause-gourmande-40g-000000000000085558.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:26",
+                "format": "LE SACHET DE 40 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "AMANDE 39,2%, NOIX DE CAJOU 31,5%, sirop d'agave, sucre roux de canne 8,7%, riz soufflé 6,3%, huile de colza, sel.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 1.6,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085505",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Truffes en sachet",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/truffes-en-sachet-35g-000000000000085505.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:26",
+                "on_discount": true,
+                "price_per_packaging": 1.25,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085590",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie sucrée"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Biscuits animaux, sablés au chocolat au lait",
+                "desc": "Biscuits sablés pur beurre au chocolat au lait.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/biscuits-animaux-120g-000000000000085590.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:26",
+                "format": "LA BOÎTE DE 120 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), chocolat au LAIT 27% (sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, émulsifiant : lécithines de tournesol, arôme naturel de vanille), sucre, beurre (LAIT) 15%, LAIT entier, flocon d’AVOINE (GLUTEN), farine d’AVOINE (GLUTEN), LAIT entier en poudre, sel de Guérande, extrait de vanille, poudre à lever : carbonates d’ammonium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 2.99,
+                "conservation": "chaleur-humidite-lumiere",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ]
+    }
+]

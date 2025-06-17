@@ -1,0 +1,2149 @@
+[
+    {
+        "ean": "3729955",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE COMPLET 1KG BIO",
+                "desc": "Sucre de canne complet 1KG Bio\nSucre de canne brut issu de l'agriculture biologique.\nOrigine Equateur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760004870050_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-canne-complet-1kg-3729955"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:43",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 97,
+                        "of_which_sugars": 97
+                    }
+                },
+                "ingredients": "Sucre de canne non raffiné issu de l'agriculture biologique et du commerce équitable.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 4.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "rapadura-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAPADURA SUCRE DE CANNE COMPLET 500G BIO",
+                "desc": "Rapadura 500g Bio\nLe Rapadura est un sucre artisanal et traditionnel : les cannes à sucre sont pressées, le jus ainsi obtenu est concentré et déshydraté. Ensuite il est broyé et prêt pour l'emballage.\nAucun raffinage ne dénature ce sucre qui est riche en oligo-éléments, c'est un aliment vraiment équilibré.\nSon goût légèrement caramélisé donnera une note authentique à vos préparations.\nIl se présente avec une couleur très foncée et une texture humide. C'est un sucre non cristallisé qui a tendance à s'agglomérer.\nUne légère variation de couleur d'une livraison à l'autre témoigne de sa qualité artisanale.\nOrigine Brésil.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3413880061288.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/rapadura-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:43",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 95,
+                        "of_which_sugars": 95,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100 % sucre de canne séché et broyé* issu du commerce équitable**.\n*Produit issu de l'agriculture biologique.\n**Ingrédient issu du commerce équitable projet Rapunzel Hand in Hand.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 11.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Excellent pour la pâtisserie et pour sucrer les boissons, les yaourts, les mueslis, les salades de fruits, et deserts variés.",
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "mascobado-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MASCOBADO 500G BIO",
+                "desc": "Mascobado 500G Bio\nLe sucre Mascobado bio est un sucre de canne complet issu d’un processus de fabrication artisanal. Il se caractérise par sa couleur brune. La production de Mascobado est vieille d’environ 150 ans aux Philippines. La canne à sucre est broyée dans un moulin, le jus en est extrait, puis filtré afin d’éliminer toute impureté. Ce jus est ensuite porté à ébullition. Sa purification et sa condensation demandent 4 heures de cuisson au cours desquelles il est continuellement écumé.\nLe sirop obtenu est étalé puis remué constamment afin d’obtenir les cristaux les plus fins. Si cette production artisanale est tombée en désuétude avec l’émergence des usines de raffineries et l’apparition du sucre blanc, le sucre Mascobado est aujourd’hui de nouveau apprécié pour ses qualités nutritives supérieures au sucre blanc. Des études montrent que le sucre Mascobado possède plus de vitamines et minéraux que le sucre blanc en raison de sa fabrication artisanale. Il possède également phosphore et magnésium contrairement au sucre blanc.\nLe sucre Mascobado bio provient des Philippines, de l’organisation Panay Fair Trade Centre (PFTC).\nOrigine : Philippines.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110004420.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mascobado-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:43",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 97,
+                        "of_which_sugars": 97
+                    }
+                },
+                "ingredients": "Sucre de canne complet issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.79,
+                "price_per_unit": 9.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "mascobado-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MASCOBADO 1KG BIO",
+                "desc": "Mascobado 1Kg Bio\nLe mascobado est un sucre de canne complet, au léger goût de caramel, fabriqué artisanalement. Le jus extrait de la canne à sucre est porté à ébullition. Il se transforme en un sirop épais qui est étalé puis remué jusqu'à l'obtention de cristaux fins. Ce sucre, riche en éléments minéraux, vitamines et enzyme, est produit à 500km au sud de Manille par les associations Kamada , Jabafa et Mofawa, membre de PFTC.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110071910.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mascobado-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:43",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 97,
+                        "of_which_sugars": 97
+                    }
+                },
+                "ingredients": "Sucre de canne complet*\n* Produit issu du commerce équitable et de l'agriculture biologique (100% du volume total).",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 8.95,
+                "price_per_unit": 8.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-de-fleurs-de-coco-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP DE FLEURS DE COCO 340G BIO",
+                "desc": "Sirop de fleurs de coco 340G Bio.\nSucrez au nature avec le sirop de fleurs de coco en squeezer.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110004420.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-de-fleurs-de-coco-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "340G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 130
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 78
+                    }
+                },
+                "ingredients": "100% sirop de fleurs de coco biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 8.25,
+                "price_per_unit": 24.26,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "old_price": 9.75
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-de-coco-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE COCO 500G BIO",
+                "desc": "Sucre de Coco 500g Bio\nLe Sucre de Coco est un produit artisanal élaboré à partir de sève de fleur de cocotier, fabriqué traditionnellement dans des pays tels que l'Indonésie ou les Philippines.\nPour ce faire, le récoltant doit grimper en haut du cocotier, inciser la fleur et disposer un récipient en bambou dans lequel la sève va s'écouler lentement. Après cuisson, la mélasse est écrasée avec une noix de coco et cristallise naturellement.\nIssu du commerce équitable.\nEcoidées est directement impliquée dans la filière équitable non seulement par la constitution d'un fond de développement en faveur des producteurs et d'actions écologiques mais aussi par le soutien d'un centre d'accueil d'enfants défavorisés situé à Yogyakarta, sur l'île de Java où se situent nos sites de production.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110074218.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-coco-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 310
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 95.2,
+                        "of_which_sugars": 94.5,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Sucre de sève de fleur de coco 100%* (cocos nucifera).\n*Issu de l'agriculture biologique.\nOrigine : Indonésie.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.99,
+                "price_per_unit": 15.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ce sucre de coco fera merveille dans tous vos desserts et pâtisseries, boissons chaudes et froides.\nDégustez-le saupoudré dans des yaourts, fromages blancs, mueslis, crêpes, salades de fruits, sur les tartes ainsi que dans les cocktails.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-de-coco-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE COCO 200G BIO",
+                "desc": "Sucre De Coco 200G Bio\nLe sucre de Fleur coco est élaboré à partir d'efflorescences de cocotier, selon un procédé artisanal et traditionnel de pays tels les Philippines ou l'Indonésie.\nSa saveur est riche, intense, caramélisée et fait merveille dans tous les desserts.\nIssu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110004420.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-coco-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "200G",
+                "availability": true,
+                "ingredients": "Sucre de sève de fleur de cocotier issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 24.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le sucre de fleur de coco se déguste principalement saupoudré dans les yaourts, fromages blancs, mueslis, salades de fruits, sur les tartes et desserts variés.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-d-agave-330gr",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'AGAVE 330G BIO",
+                "desc": "Sirop d'Agave 330G Bio\nLe sirop d'agave Priméal est obtenu en concentrant le jus issu du coeur d'un cactus originaire du Mexique.\n\nDe part ses qualités nutritionnelles, son haut pouvoir édulcorant, sa couleur claire et son goût assez neutre, il s'utilise dans de très nombreuses préparations froides ou chaudes.\n\nIl remplace avantageusement le sucre pour édulcorer les laitages.\n\nOrigine : Mexique.\nContenance : Bouteille de 330g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001686.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-d-agave-330gr"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "330G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 69,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Jus concentré d'agave*, (cactus originaire du Mexique).\n\n*Produit issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 15.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-agave-squeezer-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP AGAVE SQUEEZER 500G BIO",
+                "desc": "Sirop Agave Squeezer 500g Bio\na marque française famille Michaud Apiculteurs, reconnue pour la qualité de ses miels, propose depuis 2010 du sirop d'agave, qui est la meilleure façon de sucrer naturellement les produits, il se dissout instantanément et ne change pas le goût des aliments.\nDécouvrez le sirop d'agave bio: obtenu à partir de la sève extraite du coeur d’agave (agave sp), sa saveur est sucrée, douce, neutre, avec des notes de caramel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390421119-6.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-agave-squeezer-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76,
+                        "of_which_sugars": 73,
+                        "dietary_fiber": 15
+                    }
+                },
+                "ingredients": "Sirop* d'agave. \n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 19.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une alimentation variée et équilibrée, associée à un mode de vie sain, est la clé d'une bonne santé.",
+                "conservation": "A conserver à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-erable-1-litre",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'ÉRABLE 1L BIO",
+                "desc": "Sirop d'érable 1L Bio\nLe sirop d'érable Bio de la ferme Vifranc Inc. est certifié au Québec par \"Garantie-Bio\" et ECOCERT en Europe.\nCe produit goûteux et parfumé est réalisé par une évaporation de la sève d'érable au printemps. Il faut 40 litres de sève pour arriver à 1 litre de sirop d'érable. C'est un sucre complet qui apporte moins de calories à poids égal que le miel ou les malts de céréales.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390421058.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-erable-1-litre"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:44",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 90,
+                        "of_which_sugars": 79,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100 % sirop d'érable du Canada.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 30.3,
+                "price_per_unit": 30.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 30.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le sirop d'érable est délicieux servi sur : les gaufres, les pancakes, une tarte aux pommes. Il pourra également accompagner le pudding, du gâteau de riz, de la purée d'amandes, un lait de riz ou d'avoine, une sauce aigre douce.\nIl est idéal pour badigeonner le jambon cuit ou le blanc de poulet.\nRéfrigérer après ouverture.",
+                "conservation": "Se conserve dans un endroit à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-erable-250ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'ÉRABLE 100% PUR QUÉBEC 250ML BIO",
+                "desc": "Sirop d'érable 100% pur Québec 250ml Bio\nLe sirop d'érable Bio de la ferme Vifranc Inc. est certifié au Québec par \"Garantie-Bio\" et ECOCERT en Europe.\nCe produit goûteux et parfumé est réalisé par une évaporation de la sève d'érable au printemps. Il faut 40 litres de sève pour arriver à 1 litre de sirop d'érable. C'est un sucre complet qui apporte moins de calories à poids égal que le miel ou les malts de céréales.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390421058.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-erable-250ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "250ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 90,
+                        "of_which_sugars": 79,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100% sirop d'érable du Canada.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.19,
+                "price_per_unit": 32.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le sirop d'érable est délicieux servi sur : les gaufres, les pancakes, une tarte aux pommes. Il pourra également accompagner le pudding, du gâteau de riz, de la purée d'amandes, un lait de riz ou d'avoine, une sauce aigre douce.\nIl est idéal pour badigeonner le jambon cuit ou le blanc de poulet.\nRéfrigérer après ouverture.",
+                "conservation": "Se conserve au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-poudre-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE EN POUDRE 500G BIO",
+                "desc": "Sucre de canne en poudre 500G Bio\nCe sucre roux de canne biologique a été obtenu à partir de cannes à sucre cultivées au Brésil selon le mode de production biologique, c'est-à-dire respectueux de l'environnement.\nLe sucre roux sélectionné par la société Loiret & Haëntjens est constamment contrôlé par la société de certification indépendante Ecocert.\nCe produit garanti purre canne et non raffiné conserve toute sa saveur, son arôme et ses qualités nutritionnelles.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/a/r/artisans-du-monde-sucre-mascobado-bio-500g-3413880061080.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-poudre-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 100,
+                        "of_which_sugars": 100
+                    }
+                },
+                "ingredients": "Sucre roux de canne biologique importé du Brésil.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 5.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Utilisation : pâtisseries, yaourts, crèmes, crêpes, salades de fruits, fromages blancs, boissons (jus de fruits, cocktails).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-complet-750g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE COMPLET NON RAFFINÉ 750G BIO",
+                "desc": "Sucre Complet non raffiné 750g Bio\nLe sucre complet biologique est directement issu de la canne à sucre.\nCe sucre sain, totalement pourvu de sa mélasse, est obtenu à partir du jus de canne à sucre concentré pui déshydraté selon les méthodes traditionnelles.\nTrés riche en sels minéraux, il protège des caries et fortifie l'organisme.\nTrés agréable, le sucre complet, à la saveur imcomparable du miel et du réglisse lorsqu'il est chauffé, s'intègre parfaitement aux laitages, patisseries, chocolats...",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760004870036-2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-complet-750g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "750G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 99.6,
+                        "of_which_sugars": 99.5
+                    }
+                },
+                "ingredients": "Sucre de canne*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 5.79,
+                "price_per_unit": 7.72,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour sucrer tous vos desserts et vos pâtissseries.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-canne-roux-rio-parana-kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE ROUX RIO PARANA 1KG BIO",
+                "desc": "Sucre de canne Roux Rio Parana 1Kg Bio\nSucre de Canne Le Roux Destination : grain moyen roux.\nOrigine Paraguay Brésil, Argentine. Saveur douce avec de fins arômes de mélasse, notes vanille.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760004870050_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-canne-roux-rio-parana-kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 99.6,
+                        "of_which_sugars": 99.5
+                    }
+                },
+                "ingredients": "Sucre de canne*.\n*Produits issus de l’agriculture biologique Système de Contrôle CE.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.15,
+                "price_per_unit": 6.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-canne-blond-rio-plata-kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE BLOND NON RAFFINÉ 1KG BIO",
+                "desc": "Sucre de Canne Blond non raffiné 1kg Bio\nCe sucre blond issu de l'agriculture biologique est fabriqué à partir de la canne à sucre. Ses cristaux clairs et sa saveur douce font de ce sucre l'allié idéal pour cuisiner et sucrer vos desserts.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760004870050_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-canne-blond-rio-plata-kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 99.3,
+                        "of_which_sugars": 99.3,
+                        "dietary_fiber": 0.2
+                    }
+                },
+                "ingredients": "Sucre mi-blanc issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 4.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et frais.\nCe sucre est emballé dans un sachet refermable pour une conservation optimale.",
+                "old_price": 4.95
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-blond-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE CLAIR 1KG BIO",
+                "desc": "Sucre de Canne Clair 1kg Bio\nLe sucre de canne biologique non raffiné Hygiena est un produit exotique en provenance de l'Inde. Il est obtenu à partir du jus de canne à sucre, les tiges mûres sont pressées et le jus est évaporé afin d'être cristallisé.\nAvec sa couleur dorée et son parfum exotique, le sucre biologique, riche en sels minéreaux et en oligo-éléments est un produit idéal pour une alimentation tonique et une cuisine parfumée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4006040104384-2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-blond-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:45",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 99.9,
+                        "of_which_sugars": 99.9,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100% sucre de canne biologique non-raffiné.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 4.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "stevia-250-comprimes",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "STEVIA 250 PASTILLES SOLUBLES",
+                "desc": "Stevia 250 pastilles solubles\nCe flacon contient du rebaudioside A extra pur (98%), substance au pouvoir sucrant 300x supérieur au saccharose, extrait de la stévia.\nL'extrait de stévia Ethnoscience correspond ainsi aux attentes de nos clients les plus exigeants, considérant autant la qualité intrinsèque du produit que son mode de fabrication et les critères sociaux s'y référant.\nEdulcorant naturel.\n250 pastilles solubles.\nFabrication européenne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001686.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/stevia-250-comprimes"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "availability": true,
+                "ingredients": "Edulcorants, glycosides de steviol 18mg, mannitol, bicarbonate de sodium, citrate monosodique, L-leucine.",
+                "on_discount": false,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 191.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A dissoudre dans un lquide froid ou chaud, bien remuer.\nEnlever l'adhésif recouvrant l'ouverture à la première utilisation.\n1 pastille = 1 cuillère à café de sucre environ.\nNe pas chauffer au-delà de 120°C.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "melasse-noire-450g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLASSE NOIRE DE CANNE À SUCRE 450G BIO",
+                "desc": "Mélasse noire de canne à sucre 450G Bio\nLa mélasse est le liquide sirupeux de couleur foncée qui reste après la cristallisation du jus de canne à sucre.\nEdulcorant complet et non raffiné, la mélasse peut sucrer vos laitages ou se substituer à la confiture sur des tartines. Elle colore et parfume d'une note caramel réglissé vos pâtisseries, en remplacement d'une partie du sucre (environ 10%).\nDiluée aves de l'eau, la mélasse donne une boisson douce, nutritive et très digeste.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001686.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melasse-noire-450g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "format": "450G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 2.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 77.5
+                    }
+                },
+                "ingredients": "Mélasse noire* brute issue du pressage de la canne à sucre.\n*Issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 10.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien refermer le bocal après ouverture et conserver au frais.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-fleur-de-coco-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE FLEUR DE COCO 500G BIO",
+                "desc": "Sucre de fleur de Coco 500g Bio\nVoyageons au cœur de la forêt luxuriante préservée d’Indonésie sur l’ile de Java. C’est là que les femmes productrices préparent le précieux sucre de fleur de coco, très aromatique et aux notes boisées et de caramel. Le cueilleur incise délicatement le bouton floral et en prélève lentement sa sève. La sève de la fleur de coco est ensuite chauffée puis malaxée, jusqu’à obtenir le merveilleux sucre de coco cristallisé aux parfums si suaves.\nUn sucre santé fabriqué selon la recette traditionnelle indonésienne riche en calcuium, potassium et magnesium.\n  En Indonésien, Koperasi Simpan Pinjam Karya Manunggal (KSPKMS) signifie « travailler ensemble pour réussir ». Créée en 2015, la coopérative KSPKMS réunit près de 1000 petites productrices et producteurs sur l’ile de Java. Les femmes sont donc au cœur de cette organisation, tant au sein du conseil d’administration de la coopérative qu’à la transformation du sucre. Chacune dans sa maison et sa propre cuisine, fait bouillir la sève de fleur de coco dans de grands woks jusqu’à obtenir le sublime sucre de fleur de coco cristallisé. KSPKMS a également mis en place un fond d’épargne pour tous.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760004870050_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-fleur-de-coco-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 340
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 94,
+                        "of_which_sugars": 94
+                    }
+                },
+                "ingredients": "Sucre de feur de coco bio 100%\n\nValeurs nutritives pour 100g (% des VNR) : \nPotassium : 769mg (38%)\nCalcium : 299mg (37%)\nFer : 7,4mg (53%)",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 6.9,
+                "price_per_unit": 13.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal dans un yaourt nature",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "6641057",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'ÉRABLE FONCÉ 189ML BIO",
+                "desc": "Sirop d'érable foncé 189ml Bio\nDécouvrez le sirop d'érable foncé de Naturalia. Un goût robuste, aux saveurs boisées et caramélisées.\nIdéal pour sucrer vos pancakes, vos pâtisseries et vos mueslis. Les petits commes les grands gourmands vont se régaler.\nProduit issu de l'agriculture biologique.\n  Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001686.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-erable-fonce-189-ml-6641057"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "format": "189ML",
+                "availability": true,
+                "ingredients": "Sirop d'érable*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 189.0,
+                "price_per_packaging": 5.89,
+                "price_per_unit": 23.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour sucrer vos pancakes, vos pâtisseries et vos mueslis.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, à conserver au réfrigérateur et à consommer dans les 6 mois."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-de-yacon-220g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP DE YACON 220G BIO",
+                "desc": "Sirop de Yacon 220g Bio\nLe sirop de Yacon est issu du tubercule du même nom, aussi appelé « poire de terre ». Le Yacon est maintenant devenu l’allié naturel principal pour améliorer sa flore intestinale et perdre du poids. Il est aussi adapté aux diabétiques puisque son indice glycémique est très faible.\nLes glucides du sirop de Yacon sont essentiellement composés de Fructo-oligosaccharides qui sont des prébiotiques. Ces prébiotiques sont non digérés par l’intestin car ils servent de nourriture au microbiote intestinal. C’est pour cela que le Yacon n’élève pas la glycémie.\nUne texture fluide, pratique à utiliser au goût légèrement fruité et caramélisé.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03165430502207_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-de-yacon-220g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 2.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24.9,
+                        "of_which_sugars": 24.9,
+                        "dietary_fiber": 54
+                    }
+                },
+                "ingredients": "100% racine de Yacon*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 10.95,
+                "price_per_unit": 49.77,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser pour sucrer naturellement vos laitages, pâtisseries et boissons chaudes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-betterave-600g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE BETTERAVE 600G BIO",
+                "desc": "Sucre de betterave 600g Bio\nDécouvrez ce sucre à la betterave qui est naturellement de couleur blanche. La betterave est cristalisée naturellement, infusée dans de l'eau pour obtenir un sucre sans résidu de pesticides. \nLe sucre est non raffiné, 100% bio et fabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700110053305_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-betterave-600g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:46",
+                "format": "600G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 100
+                    }
+                },
+                "ingredients": "Betterave*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.09,
+                "price_per_unit": 5.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-betterave-1-5kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE BETTERAVE 1.5KG BIO",
+                "desc": "Sucre de betterave 1.5kg Bio\nDécouvrez ce sucre à la betterave qui est naturellement de couleur blanche. La betterave est cristalisée naturellement, infusée dans de l'eau pour obtenir un sucre sans résidu de pesticides. \nLe sucre est non raffiné, 100% bio et fabriqué en France. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390421058.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-betterave-1-5kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:47",
+                "format": "1.5KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 100
+                    }
+                },
+                "ingredients": "Betterave*.\n*Ingrédient issu de l'agriculture biologique.\nA conserver dans un endroit frais et sec.",
+                "on_discount": false,
+                "weight_per_packaging": 1.5,
+                "price_per_packaging": 6.7,
+                "price_per_unit": 4.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-d-erable-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE D'ÉRABLE 250G BIO",
+                "desc": "Sucre d'érable 250g Bio\nLe sucre d'érable est un sucre naturel dont l'indice glycémique est nettement inférieur aux sucres traditionnels. Son goût rappel le miel et le caramel. Il se marie parfaitement avec des recettes sucrées ou salées. \nSucre d'érable 100% pur Québec. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/s/u/sucre-erable-cabane-250g-face.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-d-erable-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:47",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 72,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100% sirop d'érable.*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.85,
+                "price_per_unit": 35.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ce sucre vient remplacer le sucre blanc. Vous pouvez l'utiliser dans vos recettes sucrées et salées.\nAjoutez le dans votre café, yaourt, fromage blanc, crêpes... et bien plus encore.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-d-agave-250-ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'AGAVE 250ML BIO",
+                "desc": "Sirop d'agave 250ml Bio\nSirop d'agave idéal et gourmand pour accompagner vos desserts, vos laitages et boissons : café, pancakes, skyr ...\nCe produit est issu de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390421058.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-d-agave-250-ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:47",
+                "format": "250ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75,
+                        "of_which_sugars": 75
+                    }
+                },
+                "ingredients": "Sirop d'agave Bio",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 19.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour sucrer tous vos desserts mais aussi vos boissons chaudes.",
+                "conservation": "A conserver à température ambiante et à l'abri de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sirop-d-agave-500-ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SIROP D'AGAVE DU MEXIQUE 500ML BIO",
+                "desc": "Sirop d'agave du Mexique 500ml Bio\nDécouvrez le sirop d'agave de Destination. Leur passion, sillonner le monde en quête des meilleures origines et sélectionner pour vous, les plus belles matières issues de l'agriculture biologique. Ce sirop d'agave est obtenu à partir de la sève extraite du coeur d'agave. Sa saveur est sucrée, douce, avec des notes de caramel.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03165430502207_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sirop-d-agave-500-ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:47",
+                "format": "500ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75,
+                        "of_which_sugars": 75,
+                        "dietary_fiber": 0.3
+                    }
+                },
+                "ingredients": "Sirop d'agave*\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.25,
+                "price_per_unit": 16.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Sucrer naturellement vos smoothies, yaourts natures, muffins...",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "xylitol-250g-biosagesse",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "XYLITOL 250G",
+                "desc": "Xylitol 250g\nLe xylitol est un édulcorant obtenu à partir du bois de bouleau. Il est un excellent substitut au sucre classique car il est doté d'un faible indice calorique et glycémique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001686.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/xylitol-250g-biosagesse"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:47",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 99.8,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "100% Xylitol (sucre de bouleau)",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 23.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Remplace le sucre dans toutes vos préparations culinaires, confitures, pâtisseries, boissons chaudes ou froides...\nPorté en cuisson, le pouvoir sucrant du xylitol augmente de 30 %. Par exemple, 70 g de xylitol équivaut à 100 g de sucre.\nUne consommation excessive peut avoir des effets laxatifs.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-de-coco-blond-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE BLOND FLEUR DE COCO 500G BIO",
+                "desc": "Sucre blond fleur de coco 500g Bio\nUn sucre blond de fleur de coco très doux et spécial pâtisserie. Il est source de fer et de calcium et originaire d'Indonésie.\nIssu du commerce équitable et 100% Bio.\nPratique, il est conditionné dans un sachet souple refermable et recyclable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4006040104384-2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-coco-blond-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:48",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 440
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 94,
+                        "of_which_sugars": 94
+                    }
+                },
+                "ingredients": "Sucre de fleur de coco blond*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.85,
+                "price_per_unit": 17.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour sucrer vos laitages et toutes vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-de-canne-sem-brun-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE SEMOULE FONCÉ 1KG BIO",
+                "desc": "Sucre de canne foncé 1kg Bio\nUn sucre de canne semoule foncé, type cassonade, idéal pour vos pâtisseries ou encore pour sucrer vos laitages ou vos crêpes.\nUn produit exotique authentique contenant toutes les valeurs nutritives de la canne à sucre. \nConditionné dans un emballage compostable.\nNaturellement sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110074218.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-canne-sem-brun-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:48",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 94.5,
+                        "of_which_sugars": 94.5,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Sucre de canne brun tendre Bio, mélasse de sucre de canne Bio.\nConditionné dans un envrionnement où les NOIX, SESAME, CEREALES (GLUTEN), ARACHIDES sont également conditionnés.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.25,
+                "price_per_unit": 6.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos confiseries, pâtisseries (gâteaux, biscuits, crêpes...).",
+                "conservation": "Conserver à l'abri de la chaleur et humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    },
+    {
+        "ean": "sucre-de-canne-semoule",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Sucres et sucrants naturels"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE DE CANNE SEMOULE CLAIR 1KG BIO",
+                "desc": "Sucre de canne semoule clair 1kg Bio\nUn sucre de canne semoule clair, type cassonade, idéal pour vos pâtisseries ou encore pour sucrer vos laitages ou vos crêpes.\nUn produit exotique authentique contenant toutes les valeurs nutritives de la canne à sucre. \nConditionné dans un emballage compostable.\nNaturellement sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700110071910.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-de-canne-semoule"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:48",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 250
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 97.9,
+                        "of_which_sugars": 97.9,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Sucre de canne brun tendre Bio, mélasse de sucre de canne Bio.\nConditionné dans un envrionnement où les NOIX, SESAME, CEREALES (GLUTEN), ARACHIDES sont également conditionnés.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 5.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour la confection de vos confiseries, pâtisseries (gâteaux, biscuits, crêpes...).",
+                "conservation": "Conserver à l'abri de la chaleur et humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:42",
+        "updated_at": "2025-06-16T02:42"
+    }
+]

@@ -1,0 +1,1793 @@
+[
+    {
+        "ean": "pain-chia-et-lin-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN AU CHIA ET AU LIN 400G BIO",
+                "desc": "Pain au chia et au lin 400G Bio\nPain de riz complet aux graines de chia et de lin, à base de riz complet avec son germe et son péricarde.\nBio - Garanti sans gluten AFDIAG - Sans lactose - Source de fibres - Vegan.\nDélicieux pour vos tartines sucrées ou salées.\nOrigine du produit: Allemagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/1/3184340065091.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-chia-et-lin-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:08",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 750
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 32,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Céréales* (riz complet* fraichement concassé 31%, millet*, maïs* entier concassé), eau, graines de lin* concassées 5%, graines de chia* (Salvia hispanica) 5%, farine de lupin*, sel, levure*, fibres de pommes*\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.6,
+                "price_per_unit": 11.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour toutes vos recettes de tartines sucrées ou salées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-seigle-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE SEIGLE COMPLET 375G BIO",
+                "desc": "Pain de Seigle complet 375g Bio\nDécouvrez ce painau siegle complet cuit au levain naturel avec des céréales bio fraichement moulues.\nPural s’engage à privilégier des produits testés et visés par les organismes de certifications biologiques internationaux ou nationaux. Pural choisira toujours des gammes Demeter et préfèrera les produits issus du marché équitable.\nMaison fondée en 1907.\nProduit issu de l'agriculture biologique.\nConvient au régime végétalien.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/1/3184340065008.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-seigle-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:08",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 9
+                    }
+                },
+                "ingredients": "Seigle complet concassé* 44%, levain naturel 29% (seigle complet concassé*, eau), eau, sel marin, levure*.\n*Issu de l'agriculture biologique.\nPeut contenir des traces de blé et de lupin.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 5.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour confectionner vos tartiner le matin ou pour le déjeuner.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-pumpernickel-375g-tr",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN PUMPERNICKEL AU SEIGLE 375G BIO",
+                "desc": "Pain pumpernickel au seigle 375g Bio\nLe Pain Pumpernickel - 375 g Pural est réalisé à partir de levain naturel et de céréales fraichement moulues (seigle complet) issues de l’Agriculture Biologique.\nConditionnement: 6 tranches.\nPural s’engage à privilégier des produits testés et visés par les organismes de certifications biologiques internationaux ou nationaux. Pural choisira toujours des gammes Demeter et préfèrera les produits issus du marché équitable.\nOrigine du produit: Allemagne.\nConvient à l’alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/1/3184340065022.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-pumpernickel-375g-tr"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:09",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 980
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 4.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 9.8
+                    }
+                },
+                "ingredients": "Seigle complet* concassé (49%), eau, levain naturel (18%) (seigle* complet concassé, eau), sel marin, levure*.\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.\nPeut contenir des traces de blé et de lupin.",
+                "allergens": [
+                    "Gluten",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 2.15,
+                "price_per_unit": 5.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal au petit-déjeuner ou au goûter."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-muesli-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN AU MUESLI 630G BIO",
+                "desc": "Pain au muesli 630g Bio\nAssociation de farine complète et de fruits secs pour le régal des papilles !\nFabriqué aux Pays-bas.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/p/a/pain-au-muesli.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-muesli-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:09",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 680
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 9
+                    },
+                    "proteins": {
+                        "proteins": 9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45,
+                        "of_which_sugars": 18
+                    }
+                },
+                "ingredients": "farine de BLÉ* complète, eau, raisins secs*, abricots*, farine de BLÉ* (T55), NOISETTES*, figues* hâchées, NOIX DE CAJOU*, dattes* confites, gluten de BLÉ*, NOIX*, beurre* (LAIT), levure*, AMANDES* 1%, farine de SOJA*, sel, huile de tournesol*, malt d'ORGE* .\n*Produit issu de l'agriculture biologique certifié Ecocert.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 5.89,
+                "price_per_unit": 9.35,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "buns-4x50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BUNS NATURE AU SÉSAME 4X50G BIO",
+                "desc": "Buns nature au Sésame 4x50g Bio\nDécouvrez ces buns nature aux graines de sésame, sans huile de palme.\nIdéal pour la préparation d'hamburgers et de veggie burgers.\nConvient à l'alimentation vegan.\nLa marque L'Angélus produit des pains bio au levain à l'ancienne avec un véritable savoir-faire !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3419390407073.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/buns-4x50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:09",
+                "format": "50G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55,
+                        "of_which_sugars": 5.3
+                    }
+                },
+                "ingredients": "Farine de blé* (49%), eau, levain* (farine de blé*, eau, levure*, sel marin non traité), huile de tournesol*, sucre roux*, levure*, sel marin non traité, farine de blé malté*, extrait d’acérola*. Décoration : graines de sésame*.\n*issus de l’Agriculture Biologique.\nCe produit contient du soja. Traces possibles : oeufs*, dérivés du lait*, fruits à coque*.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 3.7,
+                "price_per_unit": 18.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "buns-2x75g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BUNS NATURE AU SÉSAME 2X75G BIO",
+                "desc": "Buns nature au Sésame 2x75g Bio\nDécouvrez ces buns nature aux graines de sésame, sans huile de palme.\nIdéal pour la préparation d'hamburgers et de veggie burgers.\nConvient à l'alimentation vegan.\nLa marque L'Angélus produit des pains bio au levain à l'ancienne avec un véritable savoir-faire !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3419390407059.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/buns-2x75g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:09",
+                "format": "75G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55,
+                        "of_which_sugars": 5.3
+                    }
+                },
+                "ingredients": "Farine de blé* (49%), eau, levain* (farine de blé*, eau, levure*, sel marin non traité), huile de tournesol*, sucre roux*, levure*, sel marin non traité, farine de blé malté*, extrait d’acérola*. Décoration : graines de sésame*.\n*issus de l’Agriculture Biologique.\nCe produit contient du soja. Traces possibles : oeufs*, dérivés du lait*, fruits à coque*.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 18.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "2",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE CÉRÉALES GERMÉES SARRASIN 2X100G BIO",
+                "desc": "Galettes de céréales germées Sarrasin 2x100G Bio\nLes galettes de céréales germées sont, selon les variétés, réalisées à partir de graines fraichement germées (blé, seigle, sarrasin, sésame, tournesol, amaranthe) et de fruits secs.\nLe procédé de fabrication est engagé immédiatement. La cuisson des galettes à basse température préserve un maximum de nutriments et développe la flaveur et saveur si particulière aux pains et galettes à base de céréales germées.\nLes galettes de sarrasin germé sont exemptes de gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/0/3/03464875070075_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galette-sarrasin-ss-glutenx2"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:10",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.32
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 5.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 9.8,
+                        "dietary_fiber": 3.2
+                    }
+                },
+                "ingredients": "Farine de riz complet*, sarrasin germé* 34,4 %, raisins secs* 13,7 %, huile de tournesol linoléique désodorisée*, dattes séchées* 3,4%, sel marin.\nPeut contenir des traces de fruits à coque, de gluten, de céléri, de moutarde, de soja et de sésame.\n*Ingrédients issus de l’Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 24.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elles peuvent, froides ou réchauffées, constituer l'essentiel d'un repas complet.\nElles sont idéales pour les piques-niques et les déjeuners rapides sur le lieu de travail.\nVous pouvez les consommer telles quelles avec une crudité ou cuisinées dans vos plats de légumes.\nSavoureuses sautées en tranches à la poêle avec ou sans matière grasse.\nMoelleuse à la vapeur.\nSuggestions : \nCrème aux agrumes\nMixez au blender une poignée d’amandes trempées.\n(pendant 6 à 12 h), 1 banane ,1 orange, 1/2 citron.\nPour plus d’intensité, laissez un petit bout de zeste d’orange et de citron.\nCrème Choco\nMixez au blender 1 banane, 1 c. à s. d’huile de coco et 1 c. à s. de cacao en poudre.",
+                "conservation": "Après ouverture, conserver au réfrigérateur.\nA consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "base-pizza-sg-140g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BASE PIZZA SANS GLUTEN 140G BIO",
+                "desc": "Base pizza sans gluten 140g Bio\nPréparez une délicieuse pizza maison sans gluten grâce à la base pour pizza de Schnitzer. Élaborée à partir d’ingrédients biologiques et sans huile de palme, elle allie gourmandise et équilibre, sans compromis. Prête en seulement 15 minutes, elle se prête à toutes vos envies de garnitures, tout en convenant à une alimentation sans lactose.\nLaissez libre cours à votre imagination pour garnir cette pâte : sauce tomate, pesto, mozzarella...\nUne recette sans huile de palme.\nConvient au régime sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/4/0/4022993300284.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/base-pizza-sg-140g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:10",
+                "format": "140G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 3.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "Eau, 30 % amidon de maïs*, 13 % farine de maïs*, levain de riz naturel* (farine de riz*, eau), huile de tournesol*, cosses de psyllium*, protéines de pois*, farine de lin*, dextrose*, sel marin, crème de tartre levure chimique* (amidon de maïs*, acidifiant : tartrates de potassium, agent levant : bicarbonate de sodium), fibres de pomme*, épaississant : gomme guar*, gomme xanthane ; épices*, extrait de citron*.\n*ingrédients issus de l'agriculture biologique\nAllergènes : Aucun allergène présent dans la composition.\nTraces éventuelles d’allergènes : Œuf, lupins, sésame, soja.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 19.93,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Garnissez la base de pizza avec les ingrédients de votre choix.\nEnfournez-la dans un four préchauffé à 200 °C pendant environ 15 minutes jusqu'à ce que la croûte soit dorée et croustillante.",
+                "conservation": "À conserver dans un endroit frais et sec. Après ouverture, consommez rapidement ou conservez au réfrigérateur pour maintenir la fraîcheur."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-burger-sg-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN BURGER SANS GLUTEN 250G BIO",
+                "desc": "Pain burger sans gluten 250g Bio\nLe Pain Burger de Schnitzer est une excellente option pour savourer des burgers à la fois sains et gourmands. Sans gluten, il convient parfaitement aux personnes intolérantes ou à celles qui souhaitent limiter leur consommation de gluten. Élaborés à partir d’ingrédients biologiques soigneusement sélectionnés, ces pains sont à la fois légers, moelleux et faciles à garnir, que vous soyez adepte de recettes végétariennes ou à base de viande.\nLeur composition inclut de l’amidon de maïs, de la farine de riz, des graines de sésame, de l’œuf entier, de l’huile de tournesol, ainsi que des fibres de psyllium et des protéines de pois — pour un apport nutritionnel équilibré sans compromis sur le goût. Certifiés bio par l’organisme DE-ÖKO-003, ils garantissent une qualité irréprochable.\nPour une dégustation optimale, il est conseillé de les réchauffer 10 minutes au four à 180°C ou de les toaster légèrement. Idéals pour les moments festifs comme les anniversaires ou les soirées entre amis, ces pains apportent une touche saine et savoureuse à tous vos burgers.\n4 pains.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/4/0/4022993046076.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-burger-sg-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:10",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 680
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Amidon de maïs* 26%, eau, levain naturelle de riz (farine de riz, eau)*, farine de riz*, graines de sésame * 6%, oefs*, fécule de tapioca*, sucre de canne*, sirop de glucose*, huile de tournesol*, fibres de psyllium*, protéine de pois*, levure*, sel de mer, épaississants: gomme de guar*, gomme de xanthane*, épices*.\nPossibles traces d'allergènes: Graines de sésame, Lupin, Œufs, Soja\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 18.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dégustez en faisant cuire les petits pains non emballés pendant environ 10 minutes dans un four préchauffé à 180°C, ou en les coupant en deux et en les faisant griller pendant environ 2 minutes.",
+                "conservation": "Conserver au sec et à l'abri de la chaleur. Une fois ouvert, conservez-le au réfrigérateur et consommez-le dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-100-mie-classique-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN 100% MIE CLASSIQUE 300G BIO",
+                "desc": "Pain 100% mie classique 300g Bio\nUn pain de mie sans croûte, extra moelleux, fabriqué avec 6 ingrédients seulement. Une recette 100% végétale, sans sucres ajoutés. Juste de quoi se régaler à tout moment de la journée.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3423720015012.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-100-mie-classique-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:10",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 8.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45.2,
+                        "of_which_sugars": 4.9,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Farine de blé*; eau; semoule de blé dur*; huile d’olive extra vierge* (3%); levure naturelle; sel de mer; alcool*.\n*Ingrédient issu de l'agriculture biologique.\nAllergènes: gluten.\nTraces possible de soja.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 15.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos recettes de sandwichs ou pour vos tartines.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-mie-sans-croute-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE MIE COMPLET SANS CROÛTE 300G BIO",
+                "desc": "Pain de mie complet sans croûte 300g Bio\nPain de mie complet sans croûte, extra moelleux. Idéal pour tartiner votre confiture ou votre beurre de cacahuètes préféré, ce pain de mie aux 6 ingrédients sera parfait pour vos goûters et petit-déjeuner.\nDégustez-le également en sandwich avec des crudités.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3423720015029.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-mie-sans-croute-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:10",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 3.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.9,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 7.7
+                    }
+                },
+                "ingredients": "Farine de BLÉ*, eau, farine de BLÉ complet*, huile d'olive extra vierge*, levure naturelle*, sel de mer, alcool*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 16.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner, goûter ou pour confectionner vos recettes de sandwichs.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-proteine-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN TRANCHÉ PROTÉINÉ 375G BIO",
+                "desc": "Pain tranché protéiné 375g Bio\nDécouvrez le pain de seigle protéiné au levain naturel. Idéal pour un régime vegan ou pour les sportifs pour faire le plein de protéines. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/i/m/image-_3_.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-proteine-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:11",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 950
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Eau, levain naturel* (SEIGLE* complet concassé, eau), protéines de BLÉ*, farine de LUPIN doux*, germes de BLÉ*, graines de tournesol* moulues, graines de lin*, SEIGLE* complet concassé, fibres de pomme*, sel marin, levure*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 4.35,
+                "price_per_unit": 11.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "muffins-complets-x4-240g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ENGLISH MUFFINS COMPLETS X4 240G BIO",
+                "desc": "English muffins complets x4 240g Bio\nDécouvrez ces délicieux petits pains ronds à consommer à tout moment de la journée !\nAu blé complet, vous pouvez les préparer pour toutes vos recettes salées et sucrées : avec du fromage frais, de la pâte à tartiner, confiture ou des oeufs brouillés. C'est la recette idéale pour tous vos brunchs !\nConvient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3419390042977.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/muffins-complets-x4-240g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:11",
+                "format": "240G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 7.8
+                    },
+                    "proteins": {
+                        "proteins": 9.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 50,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Farine de blé complet*/** (47%), eau, levain à l'ancienne* (farine de blé*/**, eau), semoule de blé dur*, gluten de blé*, levure*, sucre de canne blond*, huile de tournesol*, sel marin non traité, son de blé*.\n* ingrédients issus de l’agriculture biologique\n** ingrédients issu du commerce équitable français\nTraces possibles : soja*, fruits à coque*, oeufs*, dérivés de lait* et graines de sésame*",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 16.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour le Petit-Déjeuner\nTartinés de beurre et de confiture : Un classique pour démarrer la journée avec douceur.\nAvec du fromage frais et du miel : Une combinaison sucrée-salée parfaite.\nAccompagnés d'œufs brouillés et de bacon : Pour un breakfast à l'anglaise complet.\nAvec des fruits frais : Garni de tranches de banane, fraises ou myrtilles pour un boost vitaminé.\nEn Encas ou Goûter\nGrillés avec du fromage fondu : Parfait pour une collation simple et gourmande.\nAvec du beurre de cacahuète ou d'amande : Une alternative saine et énergisante.\nComme base de mini-pizzas : Ajoutez sauce tomate, fromage et garnitures au choix, puis passez sous le grill.\nRepas Salés\nPour un sandwich : Utilisez-les comme base pour un sandwich garni de poulet, légumes, fromage ou saumon fumé.\nEn version brunch : Garnis de saumon, avocat et œuf poché pour un repas raffiné.\nAvec une soupe : Servez-les avec une soupe chaude pour un repas réconfortant.\nDesserts\nAvec de la pâte à tartiner : Pour un goûter sucré et gourmand.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-integral-montignac-kg-mon",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN INTÉGRAL MONTIGNAC 1KG BIO",
+                "desc": "Pain intégral Montignac 1kg Bio\nDes pains savoureux et emballés, respectant la célèbre méthode Montignac, qui se conservent jusqu'à 100 jours pour plus de praticité : Recette savamment élaborée pour garantir un Index Glycémique Faible (≤ 35) ! \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/p/a/pain_montignac_dluo_1kg-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-integral-montignac-kg-mon"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:11",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 8.8
+                    }
+                },
+                "ingredients": "Farine de blé intégrale*, farine de seigle intégrale*, eau, levain* (farine de seigle intégrale*, eau), sel de Guérande. \n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 9.85,
+                "price_per_unit": 9.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner, au goûter ou pendant le repas.",
+                "conservation": "A conserver dans un endroit tempéré. Après ouverture à conserver dans un sac en papier ou en tissu et consommer rapidement. Contient un sachet absorbeur d'oxygène de qualité alimentaire mais non comestible."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-pita-x4-320g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN PITA X4 320G BIO",
+                "desc": "Pain pita x4 320g Bio\n4 pains pita à la farine complète, à garnir avec vos ingrédients préférés.\nFabriqué en France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/v/i/visuel_-_3700679600194_-_benepic320_-_4_pains_pita_bio_la_farine_compl_te_320g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-pita-x4-320g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:11",
+                "format": "320G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52,
+                        "of_which_sugars": 4.1,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "farine de BLE*/** 52 %, eau, farine complète de BLE*/** 15 %, levain de BLE d’épeautre dévitalisé*, gluten de BLE*, levure, sel, vinaigre d’alcool*, sucre de canne roux*, agent de traitement de la farine (acide ascorbique).\nTraces éventuelles d'oeufs.\n* Ingrédient issu de l’agriculture biologique.\n** Ingrédient issu du commerce équitable français.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 7.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Humidifier le pain, passer au micro-ondes 20secondes ou 1 à 2 minutes au grille pain. Garnisser avec les ingrédients de votre choix (houmous, crudités, tofu, viande...).",
+                "conservation": "A conserver dans un endroit sec, à température ambiantr.\nAprès ouverture, se conserve 48h au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-mix-graines-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN MIX DE GRAINES 250G BIO",
+                "desc": "Pain mix de Graines 250g Bio\nDécouvrez ce pain tranché au riz et aux graines oléagineuses, au goût particulièrement doux et agréable. Une base parfaite pour démarrer une journée pleine d’énergie.\n\nSans gluten et sans maïs.\nConvient à l'alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/s/c/schnitzer_gf_schnitte_grainy_packshot_v001-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-mix-graines-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:11",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 7.1
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Levain naturel de riz* (farine de riz*,eau), farine de millet complète*, eau, farine de soja*, graines de lin* (4%), graines de tournesol* (4%), graines de sésame* (4%), farine de lin* (3%), vinaigre de cidre de pomme*, sel de mer, fibres de pommes*\n*Issu de l’agriculture biologique contrôlée.\nPeut contenir des traces de LUPIN et d‘OEUF.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Œuf",
+                    "Soja",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.03,
+                "price_per_unit": 12.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.03 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner ou pour vos toasts lors de vos repas.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "4-pains-burger-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAINS BURGER X4 200G BIO",
+                "desc": "Pains Burger x4 200g Bio\n4 brioches burger à la farine complète pré-découpées issues de l'agriculture biologique.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03565840102033_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/4-pains-burger-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:12",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 7.2
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52,
+                        "of_which_sugars": 8.2
+                    }
+                },
+                "ingredients": "Farine de blé*/** 49%, oeuf entiers*/** 15%, farine complète de blé*/** 12%, sucre de canne roux*, huile de tournesol*, levain* (eau, levures, farines de seigle*, levures), levure, sel, arôme naturel d'avoine* (contient alcool), gluten de blé*, levure désactivée, farine de seigle*, agent de traitement de la farine: acide ascorbique.\nTraces de lait et traces éventuelles de soja et de sésame.\n*Ingrédients issus de l’Agriculture Biologique.\n*Ingrédients issus du commerce équitable français.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 12.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-mie-epeautre-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE MIE À L'ÉPEAUTRE 350G BIO",
+                "desc": "Pain de mie à l'épeautre 350G Bio.\nSans huile de palme.\nFabrication Française.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3419390407912.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-mie-epeautre-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:12",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 6.7
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 6.6,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Farine de blé* type 65, eau, farine d’épeautre* type 110 (38%), levain* (farine de blé*, eau, levure*, sel marin non  traité), huile de tournesol*, sucre roux*, levure*, sel marin non traité, gluten de blé*, farine d’épeautre* malté torréfié, farine de blé* malté, extrait d’acérola*.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 14.26,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-de-mie-nature-t65-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE MIE NATURE 500G BIO",
+                "desc": "Pain de Mie Nature 500g Bio\nPain de mie nature x 14 tranches à base de farine de blé français.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/v/i/visuel_-_3760049794380_-_bensib500_-_pain_de_mie_bio_nature_ssa_500g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-de-mie-nature-t65-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:12",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 5.7
+                    }
+                },
+                "ingredients": "Farine de blé T65*, eau, huile de colza*, sucre de canne* roux, levure, vinagire de cidre*, gluten de blé*, sel, malt d'orge*",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 5.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans son emballage fermé, dans un endroit sec à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-mie-cereale-graine-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE MIE CÉRÉALES & GRAINES 500G BIO",
+                "desc": "Pain de Mie Céréales & Graines 500g Bio\nDécouvrez le Pain de mie céréales & graines de la Pâtisserie Bien. Format grandes tranches pour encore plus de plaisir. Une recette riche en graines.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.\n14 tranches.\nSans conservateurs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/v/i/visuel_-_3760049794397_-_bensie500_-_pain_de_mie_bio_c_r_ales_et_graines_500g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-mie-cereale-graine-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:12",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1190
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 7.1
+                    },
+                    "proteins": {
+                        "proteins": 10.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.8,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 5.2
+                    }
+                },
+                "ingredients": "Farine de BLÉ T65*, eau, huile de colza*, sucre de canne* roux, graines de tournesol* 2.8%, levure, vinagire de cidre*, graies de lin brun* 2.4%, flocons de BLÉ* 2.4%, gluten de BLÉ* 1.4%, farine de seigle* 1.4%, graines de millet* 1.4%, sel, malt d'ORGE* 0.16%, agent de traitement de la farine : acode ascorbique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.59,
+                "price_per_unit": 7.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-lin-375g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN COMPLET AUX GRAINES DE LIN 375G BIO",
+                "desc": "Pain Complet aux Graines de Lin 375g Bio\nPural s’engage à privilégier des produits testés et visés par les organismes de certifications biologiques internationaux ou nationaux. Pural choisira toujours des gammes Demeter et préfèrera les produits issus du marché équitable.\nPain complet aux graines de lin fabriqué avec du levain naturel et des céréales issues de l'Agriculture Biologique fraîchement moulues.\nOrigine du produit: Allemagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/1/9/190006504_3184340065046_vollkonrbrot_mit_sonnenblumenkernen.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-lin-375g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:13",
+                "format": "375G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 10
+                    }
+                },
+                "ingredients": "Seigle complet* 49%, eau, levain naturel bio avec levure, graines de lin* 5%, sel.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 2.35,
+                "price_per_unit": 6.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Séparer les tranches à l'aide d'un couteau."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "piadines-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PIADINES 250G BIO",
+                "desc": "Piadines 250g Bio\nLa piadina est une spécialité italienne qui se compose de ce pain spécial que vous pouvez garnir selon vos envies: mozzarella, crudités, jambon serano, pesto...\nA déguster chaud ou froid, ces piadines vous permettront de réaliser toutes vos recettes et de vous régaler.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800032019.p1-1500_1.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/piadines-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:13",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 5.5
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43.2,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 4.8
+                    }
+                },
+                "ingredients": "Farine de BLE* 65%, eau, huile d'olive extra vierge première pression à froid, sel.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.69,
+                "price_per_unit": 22.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettez-les sur une plaque ou une poêle très chaude 30 secondes.\nGarnissez les piadines selon vos envies: huile d'olive, tapenade, pesto, crudités, charcuterie, fromage...",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "pain-mie-complet-tranche-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN DE MIE COMPLET TRANCHÉ 350G BIO",
+                "desc": "Pain de Mie Complet tranché 350g Bio\nRiche en fibres, le pain de mie complet est idéal pour le petit déjeuner ou pour des sandwichs équilibrés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3419390403327.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-mie-complet-tranche-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:13",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 7
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47,
+                        "of_which_sugars": 7
+                    }
+                },
+                "ingredients": "Farines* (de blé T150*, de blé T65*, seigle*, lupin*, épeautre*, maïs*, orge*, sarrasin*), eau, huile de tournesol*, sucre roux*, levure*, sel marin non raffiné\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 13.71,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    },
+    {
+        "ean": "gal-multigr-amar-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains de mie, spéciaux, noirs et pains essènes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE CÉRÉALES GERMÉES MULTIGRAINS 2X100G BIO",
+                "desc": "Les galettes de céréales germées sont, selon les variétés, réalisées à partir de graines fraichement germées (blé, seigle, sarrasin, sésame, tournesol, amaranthe) et de fruits secs.\nLe procédé de fabrication est engagé immédiatement. La cuisson des galettes à basse température préserve un maximum de nutriments et développe la flaveur et saveur si particulière aux pains et galettes à base de céréales germées.\nOrigine du produit: France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/4/3464875070082_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gal-multigr-amar-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:14",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 320
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.23
+                    },
+                    "fats": {
+                        "fats": 11.8
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52.8,
+                        "of_which_sugars": 19.3,
+                        "dietary_fiber": 7.8
+                    }
+                },
+                "ingredients": "Blé germé* 41,1 %, flocons d’avoine*, huile de tournesol*, seigle germé* 9,8 %, raisins secs* 8,2 %, amaranthe germé* 4,1 %, dattes* 4,1%, sarrasin germé* 4,1 %, sésame germé* 3 %, graine de tournesol germées* 2 %, sel marin.\n*Ingrédients issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.79,
+                "price_per_unit": 23.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elles peuvent, froides ou réchauffées, constituer l'essentiel d'un repas complet.\nElles sont idéales pour les piques-niques et les déjeuners rapides sur le lieu de travail.\nVous pouvez les consommer telles quelles avec une crudité ou cuisinées dans vos plats de légumes.\nSavoureuses sautées en tranches à la poêle avec ou sans matière grasse.\nMoelleuse à la vapeur."
+            }
+        ],
+        "created_at": "2025-06-16T02:08",
+        "updated_at": "2025-06-16T02:08"
+    }
+]

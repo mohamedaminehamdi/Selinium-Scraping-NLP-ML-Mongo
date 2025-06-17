@@ -1,0 +1,2044 @@
+[
+    {
+        "ean": "lait-coco-cuisine-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE COCO CUISINE 200ML BIO",
+                "desc": "Lait de coco Cuisine 200Ml Bio\nCuisiner sans produits laitiers tout en se faisant plaisir, c'est maintenant possible avec cette crème fluide à base de Noix de Coco !\nLaissez-vous tentez par les Aides Culinaires Bonneterre. Pour vos recettes sucrées ou salées, succombez pour ce lait biologique 100% végétal* au délicat goût de Noix de Coco !\n* 100% des ingrédients agricoles sont d’origine végétale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-cuisine-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:20",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Lait de coco* (60%), eau, épaissisant : gomme du guar*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.49,
+                "price_per_unit": 12.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il s'utilise comme lait classique dans vos recettes sucrées ou salées.\nBien agiter avant ouverture.",
+                "conservation": "A conserver dans un endroit frais et tempéré, à l'abri de la lumière.\nAprès ouverture, à conserver au frais et à consommer sous 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "vermicelles-de-riz-thai-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VERMICELLES THAÏ DE RIZ 200G BIO",
+                "desc": "Vermicelles thaï de riz 200G Bio.\nVermicelles thaï de riz.\n100 % riz blanc thaïlandais à grains longs issu de l'agriculture biologique. \nCuisson express : idéal pour soupe asiatique ou wok.\nFabriqué en Thaïlande.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vermicelles-de-riz-thai-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:20",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "100 % riz blanc thaïlandais à grains longs issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 24.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faites tremper dans de l'eau froide les vermicelles pendant 10 mn avant de les plonger dans un grand volume d'eau bouillante salée pendant 3 mn.\nÉgouttez : c'est prêt !",
+                "conservation": "À conserver dans un endroit sec après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tagliatelle-riz-1-2-cpt-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAGLIATELLES THAÏES DE RIZ SEMI-COMPLET SANS GLUTEN 400...",
+                "desc": "Tagliatelles Thaïes de riz semi-complet sans gluten 400g Bio\nCes tagliatelles sont élaborées avec une farine de riz thaïlandais, obtenue sur meule de pierre et mélangée à de l'eau, puis précuite à la vapeur. La pâte ainsi confectionnée est coulée sur des plaques allant au four. En fin de cuisson, les tagliatelles sont finement découpées.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tagliatelle-riz-1-2-cpt-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:20",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 630
+                    },
+                    "proteins": {
+                        "proteins": 6.19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80.4
+                    }
+                },
+                "ingredients": "Riz blanc thaïlandais 100% *\n*Issus de l’agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 12.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faites tremper dans de l’eau froide les tagliatelles pendant 10 mn avant de les plonger dans un grand volume d'eau bouillante salée pendant 5 mn.\nÉgouttez : c'est prêt à être accommodé à votre goût.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "miso-cube-8x10g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MISO CUBE ORIGINAL 8X10G BIO",
+                "desc": "Miso Cube Original 8X10G Bio\nDanival vous propose cette nouvelle recette de miso cube végétal : très pratique puisqu’il suffit d’utiliser un cube (10g) en condiment dans les plats cuisinés, dans l’eau de cuisson de vos céréales, en poêlées de légumes, en bouillon (1 cube pour 50 cl de liquide) pour vos soupes, sauces et risottos, ou comme base de court-bouillon pour vos poissons.\nLe Miso DANIVAL fabriqué en France selon une méthode ancestrale japonaise.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_700.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miso-cube-8x10g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "10G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.7
+                    },
+                    "fats": {
+                        "fats": 30.2
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.6,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Sel marin, Huiles végétales* (beurre de karité*, huille de tournesol*), Miso orge* français (22,4%) : soja* français, orge* (gluten), sel marin non raffiné, eau, enzyme (aspergillus oryzael), farine de riz, carottes*, épicés* (coriandre*, poivre*, macis*), persil*.\n*Issus de l’Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 10.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 56.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Diluez 1 miso cube dans 1/2 litre de liquide frémissant pour confectionner soupe, sauces, risottos.",
+                "conservation": "Conserver à l'abri de la chaleur, de l'humidité et de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "sauce-teriyaki-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE TERIYAKI MARINADE 200ML BIO",
+                "desc": "Sauce teriyaki marinade 200Ml Bio.\nDécouvrez la marinade teriyaki de la marque Autour du riz ! \n\nCette marinade teriyaki a été élaboré de façon traditionnelle avec une fermentation de 4 à 8 mois sans ajout d'alcool. De plus, la marinade est adaptée à un régime vegan, sans gluten et sans alcool.\nProduit issu de l'agroécologie et de la biodiversité.\nProduit issu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144403.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-teriyaki-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Sauce préparée à base de sauce soja : Sauce Tamari* (Eau, soja* 21%, sel de gemme, riz* 4%, ferment : aspergillus oryzae) 52%, sucre de canne*, eau, oignon*, vinaigre de riz*, amidon de tapioca*, gingembre*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 19.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "sauce-soyu-sucree-ketjap-200ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE SOJA SUCRÉE KETJAP 200ML BIO",
+                "desc": "Sauce soja sucrée Ketjap 200Ml Bio.\nDécouvrez la sauce shoyu sucrée Ketjap de la marque Autour du riz ! \n\nCe shoyu a été élaboré de façon traditionnelle avec une fermentation de 4 à 8 mois sans ajout d'alcool. De plus, la sauce shoyu sucré Ketjap est adaptée à un régime vegan, sans gluten et sans alcool.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-soyu-sucree-ketjap-200ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "200ML",
+                "availability": true,
+                "ingredients": "Sauce préparée à base de sauce soja : Shoyu* (eau, soja* 18 %, sel de gemme, riz* 3 %, ferment : aspergillus oryzae) 47 %, sucre de canne* 36 %, eau, clous de girofle*, cumin*, gingembre*, badiane*.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 19.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "miso-soupe-4x10g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE MISO 4X10G BIO",
+                "desc": "Soupe Miso 4X10G Bio\nA base de soja bio non OGM.\nLa Miso Soupe Danival constitue un plat idéal et savoureux et s'utilise aussi dans la préparation des potages et des sauces.\nOn dit souvent au japon qu'un bol de Miso Soupe chaque jour apporte santé, jeunesse et longévité.\nLe Miso (pâte de soja fermentée), y est en effet considéré comme la base d'un régime alimentaire équilibré. Ses bienfaits sur la sphère digestive et intestinale et ses vertus reconstituantes sont aussi traditionnellement reconnues.\nDanival réunit aujourd'hui toute la richesse de cet aliment ancestral en une soupe prête en un instant.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/1/7108813631497.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/miso-soupe-4x10g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "10G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 19700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 8.1
+                    },
+                    "proteins": {
+                        "proteins": 15.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 8.7
+                    }
+                },
+                "ingredients": "Miso orge* 56% (soja*, orge*, eau, sel marin, koji). amidon de maïs, sel marin, oignons*, algues wakame et kombu, huile de tournesol*, tamari* (soja*, eau, sel marin, koji), champignons*, ciboulette*.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 10.0,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 148.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser le contenu d'un sachet dans une grande tasse, ajouter 240ml d'eau bouillante.\nMélanger et laisser reposer 4 à 5 minutes.\nMélanger à nouveau avant de boire.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tamari-less-salt-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAMARI LESS SALT 50CL BIO",
+                "desc": "Tamari less salt 50cl Bio\nLe premier tamari à teneur réduite en sel sur le marché, un complément indispensable à la gamme des sauces soja Lima. Le Tamari 25% de sel en moins, répond à la demande importante de consommateurs soucieux de baisser leur consommation en sel, tout en gardant les qualités gustatives du Tamari. « Moins de sel » n’implique pas forcément « moins savoureux » . La consommation de sel doit être modérée, afin d’en tirer tous les bénéfices pour l’organisme; une consommation excessive produit l’effet inverse.\nCe nouveau Tamari conserve évidemment tous les bienfaits du tamari classique . Le sel est un minéral naturellement présent dans le corps humain, il est essentiel que notre alimentation nous en procure, mais dans des quantités raisonnables Le tamari est un condiment précieux, largement utilisé dans la cuisine naturelle, pour sa richesse et sa complexité de goût. Comme le Tamari classique Lima, le Tamari « 25% de sel en moins » est sans gluten. Le soja utilisé est garanti sans OGM, 100% Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144403.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tamari-less-salt-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "50CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.3,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Eau, fèves de soja*, sel marin 10,3%, alcool*\n*issu de l'agriculture biologique",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 10.15,
+                "price_per_unit": 20.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Tamari est utilisé aussi bien en cuisine qu’à table, pour réhausser le goût des bouillons de pâtes, soupes, légumes sautés, sauces pour salades, marinades ou au Wok…\nIl s’accommode très bien avec le vinaigre de riz, l’ail, le gingembre et la moutarde.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière"
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "vinaigre-riz-thai-310ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VINAIGRE DE RIZ 310ML BIO",
+                "desc": "Vinaigre de Riz 310ml Bio\nDécouvrez ce vinaigre de riz de variété Hom Mali issu du commerce équitable.\nOrigine Thaïlande.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960006134-ho_douce-500ml-613.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vinaigre-riz-thai-310ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "310ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.3,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "100% vinaigre de riz complet biologique et équitable",
+                "on_discount": false,
+                "weight_per_packaging": 310.0,
+                "price_per_packaging": 5.35,
+                "price_per_unit": 17.26,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le vinaigre de riz est très utilisé au Japon, notamment pour l’assaisonnement des salades (avec les algues Wakame ou haricots Edamame), pour la réalisation de Pickles japonais (légumes marinés à déguster sous forme de snack, comme les cornichons).\nIl est aussi un condiment obligatoire pour réussir la cuisson du riz à sushi. En effet, c’est grâce à lui (et à une pincée de sucre et de sel) que le riz se tient bien, est brillant et a un goût délicat et savoureux.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "sauce-nems-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE NEMS 200G BIO",
+                "desc": "Sauce Nems 200G Bio\nProduit fourni avec 1 petit livret de recettes et d'information sur les traditions culinaires thaï.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-nems-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "200G",
+                "availability": true,
+                "ingredients": "Sucre de canne blond* 44%, vinaigre de riz Hom Mali*, piment*, carottes*, sel marin non raffiné",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.65,
+                "price_per_unit": 28.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Diluer 1 volume de sauce pour nems dans 1 volume d'eau. C'est prêt! Vous pouvez saucer vos nems!\nCette sauce se conserve à température ambiante, même après ouverture.\nSi vous la placez au réfrigérateur, il est possible qu'elle se fige, ce qui n'altère en rien ses qualités.\nDans ce cas, mettez votre sauce au bain-marie quelques minutes avant de la servir."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "soba-40-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOUILLES DE SOBA 40% 250G BIO",
+                "desc": "Nouilles de Soba 40% 250g Bio\nNouilles traditionnelles à base de sarrasin et de froment complets.\nLe secret de la texture soyeuse duSoba Lima se trouve dans la farine qui est moulue à plusieurs reprises, une pure tradition asiatiques.\nConvient à l’alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soba-40-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:21",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Farine de froment complète* 58%, farine de sarrasin complèt* 39%, sel marin.\n* Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.35,
+                "price_per_unit": 21.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En toutes saisons les pâtes japonaises sont aussi bonnes servies chaudes,en potage, accompagnées d'une sauce bien relevée ou de légumes sautés, que froides,en salades fraîches d'été.\nN'ajoutez pas de sel à l'eau de cuisson, puisque les pâtes en contiennent déjà.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "riz-thai-complet-10mn-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ THAÏ COMPLET INCOLLABLE 500G BIO",
+                "desc": "Riz Thaï complet incollable 500G Bio\nCe riz cuisson rapide a subi une pré-cuisson à la vapeur ce qui permet une cuisson de 10 minutes seulement.\nAutour du riz cultive son riz dans la région de Chieng Rai en Thailande, un haut plateau montagnard naturellement préservée des effets néfastes de la pollution citadine.\nLe riz complet est rempli de vitamines , de fibres mais surtout conserve les acides gras contenu dans le son. Les matières grasses ont tendances à s'oxyder, c'est la raison pour laquelle ce riz se conserve moins longtemps que les autres soit 15 jours aprés ouverture, un pue plus longtemps si vous le conserver au réfrigérateur.\nVariété Hom Mali.\nLes + du produit :\n-Une cuisson rapide, 12 minutes\n-Riche en phosphore, magnésium et vitamines B3\n-Riz équitable, filière Thaïlande\n-Un emballage éco-friendly composé à 36% de matière végétale\n-Convient au régime végétalien",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_694_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-thai-complet-10mn-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 7.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 5.6
+                    }
+                },
+                "ingredients": "Riz thaï complet*.\nPeut contenir des traces de GLUTEN.\n* Issu de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 8.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Portez un grand volume d'eau à ébullition.\nAjoutez 1 verre de riz pour 2 personnes et salez.\nLaisser cuire 10 minutes pour un riz \"al dente\" ou 12 minutes pour un riz tendre.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "shiro-miso-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SHIRO MISO DOUX 300G BIO",
+                "desc": "Shiro Miso doux 300G Bio\nLe miso est une pâte de soja (éventuellement accompagné de céréales) fermenté, connue depuis 1300 ans en Extrême Orient pour son intérêt culinaire et son effet bénéfique sur la santé. Le Marakura Shiro Miso Le Shiro Miso est une variété de miso jeune, qui se caractérise par un goût très doux, presque sucré. Pour obtenir ce résultat, les productions industrielles recourent souvent à des additifs tels que sucre, édulcorants artificiels et agents blanchissants.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390016407_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/shiro-miso-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 4.2
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 28.6,
+                        "of_which_sugars": 26.2
+                    }
+                },
+                "ingredients": "Riz*, Fèves de Soja*, Eau, Sel Marin, Koji (Aspergillus oryzae).",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.85,
+                "price_per_unit": 29.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le miso s'utilise dans toutes sortes de plats dont il relève le goût, comme un bouillon cube: dans les potages, sauces, pâtes à tartiner, plats de légumes, pour réaliser des vinaigrettes etc. Il suffit d'en délayer une petite quantité dans un peu d'eau pour faciliter son utilisation.\nIdée Recette rapide : Sauce salade mixte à la sojanaise \n 10 min - Pour 2 personnes - sans gluten\n2 tasse de Soya Drink Natural\n1 càs de Shiro Miso (MISO, RIZ & SOJA)\n½ tasse de beurre de cacahuètes\n1 càc de jus de citron\n2 càc de gingembre frais râpé\n1 càs d'oignon haché\nMélangez tous les ingrédients et incorporez cet assaisonnement à la salade.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "shoyu-mild-bio-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SHOYU MILD 1L BIO",
+                "desc": "Shoyu Mild 1L Bio\nAu Japon, deux sauces de soja fermenté, Shoyu et Tamari, ont été célébrées comme les reines des assaisonnements depuis des siècles. Aujourd’hui, ces délicieuses sauces couleur ébène sont appréciées dans les cuisines du monde entier. Le Shoyu se distingue du Tamari par sa composition : le Shoyu est composé de soja fermenté et de froment, le Tamari est pur soja fermenté. Le shoyu a une grande valeur nutritive : il est riche en protéines.\n\nDe plus, il est une bonne source de minéraux comme le Potassium, Magnésium et Phospore, et riche en oligoéléments comme le Manganèse, Chrome, Molybdène et le Sélénium. Durant ce long processus de fermentation, des enzymes naturelles transforment les amidons, les protéines et les lipides du soja cru et du froment en nutriments facilement assimilables car prédigérés : acides aminés, acides gras poly-insaturés,… La fermentation développe un acide lactique bénéfique pour l'assimilation efficace des nutriments, ce qui engendre la formation d'un glutamate naturel, un exhausteur de saveur naturel. En utilisant le Shoyu et Tamari Lima ou le \"Tamari 25% moins de sel\" à la place du sel, vous réduisez le taux de sel dans vos préparations de plus ou moins 30% en renforçant le goût naturel des ingrédients.\nConvient à l'alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/7/0/7061257574709.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/shoyu-mild-bio-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 14000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 9.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.9,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Eau, fèves de SOJA*, froment*, sel marin, alcool*.\n\n*Ingrédient issu de l'agriclture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 12.85,
+                "price_per_unit": 12.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Shoyu et le Tamari sont des rehausseurs de goût, versions saines et liquides du bouillon cube. Ils se marient aussi bien à la cuisine occidentale qu’orientale. Ne les utilisez pas simplement pour saler, mais aussi pour intensifier les goûts naturels des ingrédients pendant la cuisson et à table.\nLe Shoyu est typé par les composantes arômatiques formées lors de la fermentation qui sont sensibles aux variations de température. C'est la raison pour laquelle il résiste moins à l'échauffement prolongé et ne devrait être ajouté qu'à la fin de cuisson pour ne pas perdre son parfum.\nLe Shoyu se montre parfait dans des saumures/pickles, au wok, avec du riz, des nouilles, avec des sushis, sashimis ou des légumes à la vapeur. Il se marie à merveille avec du mirin (vin de riz), du wasabi, du gingembre ou du daikon râpé.",
+                "conservation": "A consommer dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tamari-strong-bio-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE TAMARI STRONG 500ML BIO",
+                "desc": "Sauce Tamari Strong 500ml Bio\nAu Japon, deux sauces de soja fermenté, Shoyu et Tamari, ont été célébrées comme les reines des assaisonnements depuis des siècles. Aujourd’hui, ces délicieuses sauces couleur ébène sont appréciées dans les cuisines du monde entier. Le Shoyu se distingue du Tamari par sa composition : le Shoyu est composé de soja fermenté et de froment, le Tamari est pur soja fermenté. Le Tamari a une grande valeur nutritive : il est riche en protéines. En plus, il est une bonne source de minéraux comme le Potassium, Magnésium et Phospore, et riche en oligoéléments comme le Manganèse, Chrome, Molybdène et le Sélénium.\nDurant le long processus de fermentation, des enzymes naturelles transforment les amidons, les protéines et les lipides du soja cru en nutriments facilement assimilables car prédigérés : acides aminés, acides gras poly-insaturés,… La fermentation développe un acide lactique bénéfique pour l'assimilation efficace des nutriments, ce qui engendre la formation d'un glutamate naturel, un exhausteur de saveur naturel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760311990731.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tamari-strong-bio-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "500ML",
+                "availability": true,
+                "ingredients": "Eau, fèves de soja*, sel marin, alcool.\n*Ingrédient issu de l'agriculture biologique\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.79,
+                "price_per_unit": 19.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Shoyu et le Tamari sont des rehausseurs de goût. Versions saines et liquides du bouillon cube, ils se marient aussi bien à la cuisine occidentale qu’orientale. Ne les utilisez pas simplement pour saler, mais aussi pour intensifier les goûts naturels des ingrédients pendant la cuisson et à table. Grâce à son taux plus élevé en protéines, le goût concentré du Tamari résiste mieux à l'échauffement. En plus, il attendri les ingrédients auxquels il est combiné. Par tradition, le Tamari est utilisé pour rehausser le goût des plats mijotés, des bouillons de pâtes, soupes, légumes sautés, des sauces pour salade, marinades ou au wok... Le Tamari se marie particulièrement bien avec du vinaigre ou du vin de riz, du gingembre, de l'ail, de la moutarde, du poivre ou de l'ume su (vinaigre japonais).",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tamari-strong-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAMARI STRONG 1L BIO",
+                "desc": "Tamari Strong 1L Bio\nL'arôme riche et doux du Bio Tamari a marqué la cuisine traditionnelle japonaise et chinoise. Cette sauce de soja fermentée enrichit vos préparations et les rend plus savoureuses.\nAu Japon, deux sauces de soja fermenté, Shoyu et Tamari, ont été célébrées comme les reines des assaisonnements depuis des siècles. Aujourd’hui, ces délicieuses sauces couleur ébène sont appréciées dans les cuisines du monde entier. Le Tamari se distingue du Shoyu par sa composition, le Tamari est composé de soja, le Shoyu de soja et froment. Le Tamari stimule l'appétit et contient de nombreux minéraux, protéines et vitamines indispensables et ne contient pas de gluten. Durant le long processus de fermentation, des enzymes naturelles transforment les amidons, les protides et les lipides du soja cru et du froment en nutriments facilement assimilables car prédigérés : acides aminés, acides gras poly-insaturés, glucides lents… La fermentation développe un acide lactique bénéfique pour la flore intestinale et l’assimilation efficace des nutriments Le sel marin apporte des minéraux et oligo-éléments En utilisant les sauces Lima à la place du sel, vous réduisez le taux de sel dans vos préparations en renforçant leur goût naturel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390016407_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tamari-strong-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 13000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 10
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.8,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Eau, fèves de SOJA*, sel marin, alcool*, A. Oryzae.\n  Les informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 17.05,
+                "price_per_unit": 17.05,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 17.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Shoyu et le Tamari sont des rehausseurs de goût. Versions saines et liquides du bouillon cube, ils se marient aussi bien à la cuisine occidentale qu’orientale. Ne les utilisez pas simplement pour saler, mais aussi pour intensifier les goûts naturels des ingrédients pendant la cuisson et à table. Grâce à son taux plus élevé en protéines, le goût concentré du Tamari résiste mieux à l'échauffement. En plus, il attendri les ingrédients auxquels il est combiné. Par tradition, le Tamari est utilisé pour rehausser le goût des plats mijotés, des bouillons de pâtes, soupes, légumes sautés, des sauces pour salade, marinades ou au wok....Le Tamari se marie particulièrement bien avec du vinaigre ou du vin de riz, du gingembre, de l'ail, de la moutarde, du poivre ou de l'ume su (vinaigre japonais).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tamari-strong-bio-250ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAMARI STRONG 250ML BIO",
+                "desc": "Tamari Strong 250Ml Bio\nLe Shoyu (soja et froment) et Tamari Classic (pur soja) de Lima sont confectionnés par la famille Sato, une ancienne famille japonaise qui se transmet les connaissances et les recettes traditionnelles depuis huit générations.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760311990731.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tamari-strong-bio-250ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "250ML",
+                "availability": true,
+                "ingredients": "Eau, Fèves de Soja*, Sel Marin, alcool, Koji (Aspergillus oryzae)\n* Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.55,
+                "price_per_unit": 26.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Shoyu et le Tamari sont des rehausseurs de goût. Versions saines et liquides du bouillon cube, ils se marient aussi bien à la cuisine occidentale qu’orientale. Ne les utilisez pas simplement pour saler, mais aussi pour intensifier les goûts naturels des ingrédients pendant la cuisson et à table.\nLe Tamari se marie particulièrement bien avec du vinaigre ou du vin de riz, du gingembre, de l'ail, de la moutarde, du poivre ou de l'ume su (vinaigre japonais).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "taglatelles-riz-complet-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAGLIATELLES THAÏES DE RIZ COMPLET SANS GLUTEN 400G BIO",
+                "desc": "Tagliatelles thaïes de riz complet sans gluten 400G Bio\nDécouvrez ces Tagliatelles Thaïes de Riz Complet 400g, à consommer natures ou assaisonnées qui donneront à vos plats le goût de la gastronomie Thaïlandaise en un tour de main!",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_687_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/taglatelles-riz-complet-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 31
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.54
+                    },
+                    "fats": {
+                        "fats": 1.69
+                    },
+                    "proteins": {
+                        "proteins": 7.82
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 76.3,
+                        "of_which_sugars": 0.69,
+                        "dietary_fiber": 3.33
+                    }
+                },
+                "ingredients": "100% riz complet thaïlandais*.\n\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 13.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt en 15 minutes!",
+                "conservation": "A conserver dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "riz-sushi-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ SUSHI 500G BIO",
+                "desc": "Riz sushi 500g Bio\nLe sushi est un plat d'origine japonaise à base de riz et de poisson cru. Les boulettes de riz sushi peuvent prendre des formes diverses et s'adapter à des recettes un peu plus occidentales...(thon cuit au naturel à la place d'un poisson cru, omelette, jambon cru...). toutes les fantaisies sont permises!",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144670.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-sushi-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 25
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Riz issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.25,
+                "price_per_unit": 6.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "cuisson 10 minutes",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "riz-basmati-1-2-complt-cr-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ BASMATI DEMI-COMPLET 500G BIO",
+                "desc": "Riz Basmati demi-complet 500g Bio\nVariété Pusa.\nCe riz cuisson rapide a subi une pré-cuisson à la vapeur ce qui permet une cuisson de 12 minutes seulement. en bouche, il est ferme et fondant. son arçome, à la saveur de noisette est typique.\nCe riz est cultivé exclusivement au Penjad (pays du basmati), région pluvieuse au nord du désert de Tar et assez froide en hiver situé entre l'inde et le pakistan.\nLe basmati est une variété de riz long naturellement parfumé qui est cultivé l'été, saison durant laquelle il prend toute sa saveur.\nAutour du Riz est une entreprise française iséroise créée en 2003 et propose un large choix de riz issus de l'agriculture biologique et du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390016407_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-basmati-1-2-complt-cr-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.7,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "Riz Basmati demi complet étuvé*.\n*Issu de l'agriculture biologique.\nOrigine: Inde, Pakistan.\nPeut contenir des traces de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.0,
+                "price_per_unit": 10.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Portez un grand volume d'eau à ébulition, ajoutez 125g de riz pour 2 personnes et salez.\nLaisser cuire 10 min pour une cuisson al dente ou 12 min pour un riz tendre.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "gaspacho-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GASPACHO 1L BIO",
+                "desc": "Gaspacho 1L Bio\nClassique indémodable, cette soupe froide d’origine espagnole est composée de tomates, poivrons, concombres, oignons et ail, le tout cuisiné à l’huile d’olive et délicatement assaisonné d’une pointe de citron. Cette recette estivale va apporter du soleil sur votre table !\nUne recette élaborée avec des tomates 100% d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800030572.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaspacho-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.1,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Légumes* 93.3% (jus de tomates* 56.8%, poivrons rouges* 13.5%, jus de concombre* 12.1%, oignons* 10.9%), huile d'olive vierge extra*, vinaigre de vin rouge*, ail*, jus de citron*, sel.\n\n* Ingrédient issu de l’agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.3,
+                "price_per_unit": 5.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Servir bien frais, avec des croutons ou des morceaux de concombres, poivrons...",
+                "conservation": "Une fois ouvert, à conserver au froid et à consommer dans les 5 jours.\nAgiter et servir froid.",
+                "old_price": 6.29
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "lasagnes-blanches-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LASAGNES BLANCHES 250G BIO",
+                "desc": "Lasagnes blanches 250g Bio\nDe délicieuses feuilles de lasagnes pour la conception de vos recettes de lasagnes carnées ou végétales. Pratique ! Elles sont prêtes à l'emploi et ne nécessite pas de précuisson. Elle sont idéales pour tous vos plats aux saveurs d'Italie.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lasagnes-blanches-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:22",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Semoule de BLE dur*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 1.45,
+                "price_per_unit": 5.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-17%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces feuilles de lasagnes sont prêtes à l'emploi, sans précuisson.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 1.75
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "shoyu-mild-145ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SHOYU MILD 145ML BIO",
+                "desc": "Shoyu Mild 145Ml Bio\nSauce de soja et froment fermentés naturellement issus de l'agriculture biologique.\nLe Shoyu (soja et froment) et Tamari Classic (pur soja) de Lima sont confectionnés par la famille Sato, une ancienne famille japonaise qui se transmet les connaissances et les recettes traditionnelles depuis huit générations.\nL’art de la fermentation. La richesse nutritionnelle du soja est incontestable. Seul inconvénient du soja cru : il est peu assimilable par l’organisme. Le grand mérite du soja fermenté se trouve dans la transformation du soja en nutriments facilement assimilables.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_687_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/shoyu-mild-145ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "145ML",
+                "availability": true,
+                "ingredients": "Eau, fèves de soja*, froment*, sel marin, A. oryzae\n* issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 145.0,
+                "price_per_packaging": 3.3,
+                "price_per_unit": 22.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-11%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Shoyu et le Tamari sont des rehausseurs de goût, versions saines et liquides du bouillon cube.\nIls se marient aussi bien à la cuisine occidentale qu’orientale.\nNe les utilisez pas simplement pour saler, mais aussi pour intensifier les goûts naturels des ingrédients pendant la cuisson et à table.\nLe Shoyu est typé par les composantes arômatiques formées lors de la fermentation qui sont sensibles aux variations de température.\nC'est la raison pour laquelle il résiste moins à l'échauffement prolongé et ne devrait être ajouté qu'à la fin de cuisson pour ne pas perdre son parfum.\nLe Shoyu se montre parfait dans des saumures/pickles,au wok,avec du riz, des nouilles, avec des sushi, sashimi ou des légumes à vapeur.\nIl se marie à merveille avec du mirin (vin de riz), du wasabi, du gingembre ou du daikon râpé.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur.",
+                "old_price": 3.7
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "noodles-larges-pho-170g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOODLES LARGES DE RIZ DEMI-COMPLET 170G BIO",
+                "desc": "Noodles larges de riz demi-complet 170g Bio\nL’Incontournable des Bouillons Asiatiques ! Redécouvrez l’authenticité des Noodles Larges de Riz Demi-Complet Bio, la base idéale pour un phõ vietnamien traditionnel, un rãmen savoureux ou des plats en sauce riches en goût. Avec leur largeur de 8 mm, ces nouilles de riz bio offrent une texture moelleuse et une mâche unique qui subliment vos recettes asiatiques.\n- Une texture authentique : Des nouilles larges qui absorbent parfaitement les bouillons et sauces copieuses.\n- 100% végétales et sans gluten : Alternative gourmande aux pâtes de blé, sans additifs ni conservateurs.\n- Un riz thaï de terroir : Cultivé dans des micro-fermes en agriculture biologique, il apporte une légère note céréalière et des fibres, vitamines et minéraux.\n- Fabrication artisanale : Riz broyé à la meule de pierre, pâte cuite à basse température, selon la tradition thaïlandaise.\n- Engagement environnemental : Certifiées bio, nos nouilles de riz ont obtenu la meilleure note (A-AAA) au Planet-score.\nIdéal pour 2 personnes. Cuisson rapide : Prêtes en 6 minutes !\nAdoptez ces nouilles de riz larges bio pour des plats asiatiques savoureux et équilibrés !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760103144380.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noodles-larges-pho-170g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "170G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 350
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "100% riz semi-complet de terroir Thaïlandais issu de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 22.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plongez les Noodle larges de riz demi-complet dans un grand volume d’eau bouillante pendant 6 min. Égouttez. Vos nouilles sont prêtes à être plongées dans un bouillon aux effluves asiatiques.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "noodles-fines-pad-thai-170gr",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOODLES FINES DE RIZ DEMI-COMPLET 170G BIO",
+                "desc": "Noodles fines de riz demi-complet 170g Bio\nRedécouvrez l’authenticité du Pad thaï avec nos Noodles Fines de Riz Demi-Complet Bio. D’une largeur de 2 mm, ces nouilles traditionnelles thaïlandaises subliment les sauces aux saveurs délicates tout en offrant une texture fondante et légère.\n- 100% végétales & bio : Élaborées à partir de riz semi-complet cultivé en micro-fermes selon des pratiques agroécologiques régénératrices.\n- Saveur authentique & bienfaits nutritionnels : Le riz thaï de terroir apporte une note douce de céréales et conserve naturellement ses fibres, vitamines et minéraux.\n- Fabrication artisanale : Le riz est broyé à la meule de pierre, puis transformé en une pâte cuite à basse température, selon le savoir-faire traditionnel thaïlandais.\n- Sans gluten & sans additifs : Une alternative saine et gourmande aux pâtes de blé, parfaite pour les régimes spécifiques.\n- Cuisson rapide – 6 minutes : Idéal pour un repas équilibré en toute simplicité.\n-  Suggestion du chef : Associez ces nouilles fondantes à une sauce légèrement piquante pour une explosion de saveurs.\n- Engagement environnemental : Certifiées bio, nos Noodles de riz ont obtenu la meilleure note (A-AAA) au Planet-score, garantissant un impact environnemental maîtrisé.\nPortion idéale pour 2 personnes.\nSavourez des nouilles de riz thaïlandaises bio, alliant tradition, goût et bienfaits nutritionnels !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_103_144_687_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noodles-fines-pad-thai-170gr"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "170G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 350
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "100% riz semi-complet de terroir Thaïlandais issu de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 22.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plongez les Noodle fines de riz demi-complet dans un grand volume d’eau bouillante pendant 6 min. Égouttez. Vos nouilles sont prêtes à se gorger amoureusement de sauce.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "tarallini-romarin-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TARALLINI ROMARIN 150G BIO",
+                "desc": "Tarallini romarin 150g Bio\nDe croustillants biscuits apéritifs typiques des Pouilles en Italie. Une recette traditionnelle et artisanale, cuite au four.\nRelevés par du romarin et du vin blanc, ces biscuits sont parfaits pour vos apéritifs tout au long de l'année.\nFabriqué en Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340976090.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tarallini-romarin-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 14.6
+                    },
+                    "proteins": {
+                        "proteins": 8.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.2,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Farine de blé*, eau, huile de tournesol riche en acide oléique*, vin blanc* (traces de sulfite possibles), romarin* 1,4%, sel, huile d'olive extra vierge*.\n*Produits issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Sulfites"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 13.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour l'apéritif mais également pour votre pique-nique du week-end.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "soupe-harira-480g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE HARIRA 480G BIO",
+                "desc": "Soupe Harira 480g Bio\nPlongez dans les saveurs authentiques de la Harira, une soupe emblématique de la cuisine marocaine qui vous fera voyager dès la première cuillerée. Riche en pois chiches fondants, lentilles nourrissantes et tomates savoureuses, elle est le parfait allié des instants réconfortants.\nCette recette traditionnelle incarne à merveille la chaleur et la générosité du Maroc.\nAvec Le Voyage de Mamabé, partez à la découverte des trésors culinaires du monde. Et la Harira en est l’un des joyaux… Dégustez, rêvez, voyagez.\nFabriqué en France.\nPour 1 à 2 personnes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3269712401919.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-harira-480g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "480G",
+                "availability": true,
+                "ingredients": "Tomate* (38%), eau, lentille* (14%), huile de tournesol*, pois chiche* (6,6%), céleri*, coriandre* (1,6%), sel, persil*, épices*, farine de riz*.\nTraces possibles de Gluten et Soja.\n* Produit issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 480.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 10.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec et à consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "soupe-fasolada-490g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOUPE FASOLADA 490G BIO",
+                "desc": "Soupe fasolada 490g Bio\nPartez à la découverte des saveurs méditerranéennes avec notre Soupe Fasolada, un classique incontournable des tables grecques et chypriotes. Riche et savoureuse, cette soupe aux haricots blancs (ou fèves) est sublimée par un généreux filet d’huile d’olive, symbole de la cuisine du soleil.\nLes légumes frais — tomates, carottes, oignons et céleri — s’unissent harmonieusement pour créer une texture douce et veloutée. Des herbes fraîches et des épices bien dosées viennent parfumer le tout, apportant fraîcheur et caractère à chaque bouchée.\nConsidérée comme le plat national en Grèce, la Fasolada dépasse la simple assiette : elle incarne un art de vivre, une célébration des produits simples, locaux et de saison.\nLaissez-vous séduire par cette soupe réconfortante, véritable hymne à la tradition, à la générosité et à la gourmandise méditerranéenne.\nPour 1 à 2 personnes.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/2/3269712401926.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soupe-fasolada-490g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "490G",
+                "availability": true,
+                "ingredients": "Tomate* (30%), haricot blanc* (26%), eau, carotte*, oignon*, jus de citron*, céleri*, huile d’olive extra vierge*, ail*, sel, aromates* (0,6%).\nPeut contenir des traces de Gluten et Soja\n* Produit issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 490.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 10.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire réchauffer à feu doux. Ne pas faire bouillir.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "chips-pdt-tex-mex-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS SAVEUR TEX MEX 100G BIO",
+                "desc": "Chips saveur tex mex 100g Bio\nLaissez vous surprendre par une explosion d'épices douces pour un moment craquant et gourmand.\nÉlaborées à partir de pommes de terre issues de l’agriculture biologique, elles sont délicatement assaisonnées avec un mélange d’épices ensoleillées pour une explosion de saveurs à chaque bouchée. Sans additifs ni arômes artificiels, ces chips allient plaisir gourmand et ingrédients de qualité pour des apéros sains et savoureux. À partager… ou pas !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8029454005968.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-pdt-tex-mex-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:23",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 7.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 1.9
+                    }
+                },
+                "ingredients": "Pommes de terre* (70%), Huile de tournesol* (22%), Paprika* (doux et fort), Sel, Oignon*, Coriandre*, Ail*, Cumin*, Tomate*, Sucre de canne*, Poivre blanc*.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.15,
+                "price_per_unit": 31.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Savourez vos chips lors de vos apéritifs entre amis, accompagnées de tartinades, de fromages ou de légumes croquants. Elles sont également parfaites pour vos pique-niques : pratiques à emporter, elles ajoutent une touche gourmande et croustillante à tous vos en-cas en plein air. Un plaisir simple, à partager en toute convivialité.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    },
+    {
+        "ean": "sauce-soja-sucree-375ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Cuisine du monde"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE SOJA SUCRÉE 37,5CL BIO",
+                "desc": "Sauce soja sucrée 37,5cl Bio\nIssue d'une fermentation de plusieurs mois, cette sauce est fabriquée selon les méthodes traditionnelles japonaises avec du soja et du blé biologiques français, du sel de Camargue et sucre de betterave français.\nUtilisez-la pour assaisonner vos plats du quotidien, vos sushis et sashimis ou pour vos marinades.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4000345051411.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-soja-sucree-375ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:24",
+                "format": "5CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 7000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45.7,
+                        "of_which_sugars": 23.9
+                    }
+                },
+                "ingredients": "Sucre (45%)*, eau (28%) , fèves de soja (8%, France)*, blé (8%, France)*, sel de Camargue (6%), sirop de betterave (5%)*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 37.5,
+                "price_per_packaging": 6.55,
+                "price_per_unit": 17.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En cuisine chaude :\nWoks & sautés : Ajoute-la en fin de cuisson pour enrober légumes, nouilles, tofu, crevettes ou poulet.\nMarinades : Parfaite pour mariner viandes, poissons, tofu ou tempeh avant cuisson. Associe-la à de l’ail, du gingembre et un filet de citron vert.\nSauces maison : Utilise-la comme base pour créer des sauces asiatiques maison, avec un peu d’huile de sésame ou de vinaigre de riz.\nÀ froid ou en finition :\nSushis, makis & sashimis : Idéale comme sauce d’accompagnement.\nBuddha bowls & salades : Un filet sur des légumes croquants ou du riz pour relever l’ensemble.",
+                "conservation": "Au frais au sec. Après ouverture, à conserver au réfrigérateur et à consommer dans les 6 mois."
+            }
+        ],
+        "created_at": "2025-06-15T22:20",
+        "updated_at": "2025-06-15T22:20"
+    }
+]

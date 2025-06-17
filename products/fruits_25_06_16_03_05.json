@@ -1,0 +1,1050 @@
+[
+    {
+        "ean": "framboise-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FRAMBOISE 125G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/framboise-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:49",
+                "format": "125G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "orange-a-jus",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ORANGE À JUS BIO",
+                "desc": "Variété Valencialate / Lanelate / WASHINTON NAVEL / NAVELINA / SALUTIANA. Calibre 7-8. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/orange-a-jus"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:50",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "patate-douce-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PATATE DOUCE 500G BIO",
+                "desc": "Variété Beauregard. Calibre 300-600. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/patate-douce-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:51",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "gingembre-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GINGEMBRE 250G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gingembre-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:51",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "fruit-de-la-passion-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FRUIT DE LA PASSION 250G BIO",
+                "desc": "Variété MARACUJA. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fruit-de-la-passion-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:52",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "dattes-fraiche-mazafati-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DATTES FRAÎCHE MAZAFATI 250G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dattes-fraiche-mazafati-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:52",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "noisettes-coques-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOISETTES À COQUES",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noisettes-coques-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:53",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "noix-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOIX SÈCHES 250G BIO",
+                "desc": "Variété FRANQUETTE. Calibre 24-30. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noix-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:53",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "marron-cuit-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MARRON CUIT 200G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/marron-cuit-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:54",
+                "format": "200G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "kiwi-vert-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "KIWI VERT X2 BIO",
+                "desc": "Variété Hayward. Calibre 30-33. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/kiwi-vert-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:54",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "pomme-petit-calibre-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME PETIT CALIBRE 500G BIO",
+                "desc": "Pomme petit calibre Bio 500g - Découvrez nos fruits - Naturalia",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-petit-calibre-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:55",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "pomme-jaune-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME JAUNE 500G BIO",
+                "desc": "Calibre 135+. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-jaune-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:56",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "pomme-bicolore-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMME BICOLORE 500G BIO",
+                "desc": "Calibre 135+. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomme-bicolore-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:56",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "peche-plate-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÊCHE PLATE 500G BIO",
+                "desc": "Variété PARAGUAYO. Calibre A-C. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/peche-plate-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:57",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "peche-jaune-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÊCHE JAUNE 500G BIO",
+                "desc": "Calibre A-B. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/peche-jaune-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:57",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "nectarine-jaune-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NECTARINE JAUNE BIO 500G",
+                "desc": "Calibre A-B. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nectarine-jaune-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:58",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "mini-pasteque-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI PASTÈQUE EN PIÈCE",
+                "desc": "Variété HIROMI / PEPITA / NOIRE. Calibre 9-10. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346045-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-pasteque-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:58",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "melon-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MELON PIÈCE BIO",
+                "desc": "Variété CHARENTAIS. Calibre 12. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melon-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:59",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "myrtille-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MYRTILLE 125G BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/myrtille-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:00",
+                "format": "125G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "fraise-bio-barquette",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BARQUETTE DE FRAISE 250G",
+                "desc": "Variété magnum / dream / mariguette / manon des fraises / favory. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fraise-bio-barquette"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:00",
+                "format": "250G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "cerise-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CERISE 500G BIO",
+                "desc": "Variété Folfer. Calibre 22-24. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cerise-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:01",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "abricot-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ABRICOT BIO 500G",
+                "desc": "Variété Tsunami / colorado/ soledane / pricia / Milord / farbally / swired/farlis. Calibre A. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/abricot-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:01",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "pomelo-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POMELO PIÈCE BIO",
+                "desc": "Variété STAR RUBY. Calibre 3-4. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pomelo-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:02",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "orange-jus-bio-filet",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILET D'ORANGE À JUS 1KG BIO",
+                "desc": "Variété Valencialate / Lanelate / WASHINTON NAVEL / NAVELINA / SALUTIANA. Calibre 3-8. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345819.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/orange-jus-bio-filet"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:03",
+                "format": "1KG",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "citron-vert-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CITRON VERT PIÈCE BIO",
+                "desc": "Variété THAÏTI . Calibre 4-5. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000345826.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/citron-vert-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:03",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "citron-jaune-bio-filet",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FILET DE CITRON JAUNE 500G BIO",
+                "desc": "Variété PRIMO / VERNA / VERDELLI. Calibre 4-5. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347233.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/citron-jaune-bio-filet"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:04",
+                "format": "500G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "bananes-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BANANES 750G BIO",
+                "desc": "Variété CAVENDISH. Calibre 16-18. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347233.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bananes-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:04",
+                "format": "750G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    },
+    {
+        "ean": "avocat-hass-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AVOCAT HASS BIO PIÈCE",
+                "desc": "Variété HASS. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000347066.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/avocat-hass-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:05",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T02:48",
+        "updated_at": "2025-06-16T02:48"
+    }
+]

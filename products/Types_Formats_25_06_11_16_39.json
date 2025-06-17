@@ -1,0 +1,1577 @@
+[
+    {
+        "ean": "000000000000073063",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 bâtonnets fruits",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-batonnets-fruits-000000000000073063.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 2.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000073910",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 bâtonnets fraise banane",
+                "desc": "Sorbet plein fruit 53% à la fraise et à la banane, glace 42% à l'avoine et fraises hachées semi-confites 5%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwac4a4e89/produits/000000000000010206_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-batonnets-fraise-banane-000000000000073910.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.05
+                    },
+                    "fats": {
+                        "fats": 4.3,
+                        "saturates": 4.0
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 19.0,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Purée de fraise 31,8%, eau, sucre, purée de banane 7,9%, préparation de fraise hachée semi-confite (fraise 3,7%, sucre, jus de citron concentré), huile de coco, préparation à base d’AVOINE [eau, farine d'AVOINE (GLUTEN) 1%], fibre soluble de maïs, protéine de pois, fibre de racine de chicorée, fibre d'agrumes, émulsifiant : mono- et diglycérides d’acides gras d’origine végétale, stabilisants (farine de graines de caroube, gomme guar), jus concentré de betterave.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.6,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.49,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000073150",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes citron-framboise",
+                "desc": "Sorbet plein fruit au citron 39,5%, sorbet plein fruit à la framboise 39,4%, gaufrette 11,5%, chemisage au cacao maigre 6% et sauce à la framboise 3,6%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-glaces-citron-framboise-000000000000073150.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "495.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 182.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 4.1,
+                        "saturates": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 23.0,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Eau, purée de framboise 17,7%, sucre, gaufrette 11,5% [farine de blé (gluten), sucre, graisse de coprah, émulsifiant : lécithines de soja], jus de citron à base de concentré 8,5%, sirop de glucose, chemisage au cacao maigre 6% (graisse de coprah, sucre, cacao maigre en poudre 0,6%, huile de colza, émulsifiant : lécithines de soja), sauce à la framboise 3,6% (sucre, purée de framboise 1%, eau, amidon de maïs, gélifiant : pectines, concentré de carotte pourpre, arôme naturel de framboise 0,003%), inuline, stabilisants (gomme xanthane, gomme guar), concentré de carotte, arôme naturel de framboise 0,03%, protéine de pois hydrolysée, arôme naturel de citron 0,007%.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 495.0,
+                "price_per_packaging": 4.2,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.59,
+            "total_reviews": 128
+        }
+    },
+    {
+        "ean": "000000000000073151",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes mangue-passion et noix de coco",
+                "desc": "Sorbet plein fruit à la noix de coco 38,7%, sorbet plein fruit au fruit de la passion et à la mangue 38,7%, gaufrette 11,6%, chemisage au cacao maigre 6,1%, sauce au fruit de la passion 3,6% et noix de coco râpée 1,3%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cone-glaces-mangue-passion-000000000000073151.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "489.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 209.0
+                    },
+                    "minerals": {
+                        "salt": 0.05
+                    },
+                    "fats": {
+                        "fats": 7.3,
+                        "saturates": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 22.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Eau, gaufrette 11,6% [farine de blé (gluten), sucre, graisse de coprah, émulsifiant : lécithines de soja], sucre, jus de fruit de la passion à base de concentré 8,5%, purée de mangue 7,7%, sirop de glucose, chemisage au cacao maigre 6,1% (graisse de coprah, sucre, cacao maigre en poudre 0,6%, huile de colza, émulsifiant : lécithines de soja), lait de coco 5,7% (pulpe de noix de coco 3,2%, eau), sauce au fruit de la passion 3,6% (sucre, purée de fruit de la passion 1,1%, eau, amidon de maïs, arôme naturel de fruit de la passion 0,005%), inuline, pâte de noix de coco 1,9%, noix de coco râpée 1,3%, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, stabilisants (gomme guar, farine de graines de caroube, gomme xanthane), arôme naturel de mangue 0,1%, arôme naturel de noix de coco 0,07%, protéine de pois hydrolysée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque",
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 489.0,
+                "price_per_packaging": 4.2,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.44,
+            "total_reviews": 93
+        }
+    },
+    {
+        "ean": "000000000000073153",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 Mini Magnum Double Gold Caramel Billionaire",
+                "desc": "Glace parfum biscuit et glace parfum noix de pécan, sauce au caramel salé aromatisée (18%), enrobage chocolat blanc au caramel (30%), éclats de biscuits (3%).",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-mini-magnum-double-gold-caramel-billionaire-000000000000073153.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "282.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 343.0
+                    },
+                    "minerals": {
+                        "salt": 0.32
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 4.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 38.0,
+                        "of_which_sugars": 30.0
+                    }
+                },
+                "ingredients": "LAIT écrémé réhydraté, sucre, beurre de cacao¹, sirop de glucose, LAIT en poudre écrémé, BEURRE concentré, sirop de glucose-fructose, huiles végétales (coco, tournesol), LAIT écrémé en poudre ou concentré, fructose, amidon, LACTOSE et protéines de LAIT, farine de riz, émulsifiants (E471, E476, E322), sirop de sucre caramélisé, stabilisants (E410, E407, E412), colorant (E150b), arômes, sel (0,1%), BEURRE, pâte de cacao¹, poudre à lever (E500). ¹Vérifié Rainforest Alliance. ra.org.",
+                "allergens": [
+                    "Lait",
+                    "Traces de Gluten",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 282.0,
+                "price_per_packaging": 4.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.79,
+            "total_reviews": 39
+        }
+    },
+    {
+        "ean": "000000000000084585",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Barre glacée noisette",
+                "desc": "Crème glacée 53% à la noisette, chocolat au lait, sauce caramel beurre salé, noisettes grillées, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb38e9672/produits/glaces-sorbets/pack/000000000000065152_P.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-barre-glacee-noisette-000000000000084585.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 378.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 25.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 4.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33.0,
+                        "of_which_sugars": 31.0,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Chocolat au LAIT 32,5% [sucre, beurre de cacao*, LAIT entier en poudre, pâte de cacao*, matière grasse laitière anhydre (LAIT), extrait de vanille, émulsifiant : lécithines (SOJA)], LAIT écrémé réhydraté, crème liquide (LAIT) 10,5%, caramel au beurre salé 8,3% [LAIT concentré sucré écrémé (LAIT écrémé, sucre), sucre, sirop de glucose, eau, beurre salé (beurre (LAIT), sel), sel, stabilisant: pectines, extrait de vanille], NOISETTE hachée grillée 6,2%, sucre, sirop de glucose, pâte de NOISETTE 2,6%, lactose (LAIT) et protéines de LAIT, eau, arôme naturel de NOISETTE 0,3%, caramel 0,2% (sucre, eau), émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, stabilisants (farine de graines de caroube, gomme guar).",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 1.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.0,
+            "total_reviews": 1
+        }
+    },
+    {
+        "ean": "000000000000084542",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 cônes Magnum noisette",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-cones-magnum-noisette-000000000000084542.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.9,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084628",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 cônes Magnum mangue et chocolat blanc",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-cones-magnum-mangue-000000000000084628.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.9,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084517",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "5 bâtonnets myrtille, hibiscus, sorbet plein fruit",
+                "desc": "5 bâtonnets de sorbet plein fruit myrtille et infusion d'hibiscus",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/5-bat-myrtille-hibiscus-000000000000084517.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "290.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 76.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Purée de myrtille 45%, eau, sucre, infusion d'hibiscus 3%, stabilisant : gomme guar.",
+                "on_discount": false,
+                "weight_per_packaging": 290.0,
+                "price_per_packaging": 3.6,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084512",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sorbet litchi, sauce fruits rouges",
+                "desc": "Sorbet plein fruit 85% au litchi et sauce 15% aux fruits rouges.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdca34b5a/produits/000000000000084218_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-pot-sorbet-litchi-110g-000000000000084512.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "110.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 112.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 28.0,
+                        "of_which_sugars": 27.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Purée de litchi 38,2%, eau, sucre, purée de myrtille 3%, purée de framboise 1,5%, purée de fraise 1,5%, fibre de lin, amidon de maïs, jus de citron, jus de citron concentré, antioxydant : acide ascorbique.",
+                "on_discount": false,
+                "weight_per_packaging": 110.0,
+                "price_per_packaging": 2.5,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.8,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000084624",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 bâtonnets coco mangue",
+                "desc": "Bâtonnet de sorbet plein fruit 47,4% à la noix de coco et sorbet plein fruit 23,7% à la mangue, enrobé de chocolat blanc 27,2% et noix de coco râpée séchée 1,7%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw104b2d72/73889_largeur_gut_2020.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-batonnets-coco-mangue-000000000000084624.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:36",
+                "format": "270.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 280.0
+                    },
+                    "minerals": {
+                        "salt": 0.08
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30.0,
+                        "of_which_sugars": 27.0,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Eau, chocolat blanc 27,2% [sucre, beurre de cacao, lactosérum en poudre (LAIT), matière grasse laitière anhydre (LAIT), LAIT écrémé réhydraté, émulsifiant : lécithines de SOJA, arôme naturel de vanille], sucre, sirop de glucose, purée de mangue 4,7%, pâte de noix de coco 4,7%, noix de coco râpée séchée 1,7%, LAIT écrémé en poudre, émulsifiant : mono- et diglycérides d’acides gras d'origine végétale, stabilisants (farine de graine de caroube, gomme guar, méthylcellulose, pectines), concentré de carotte, arôme naturel de noix de coco, concentré de carthame, arôme naturel de mangue, acidifiant : acide citrique, jus concentré de betterave.",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 270.0,
+                "price_per_packaging": 4.7,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084584",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Barre glacée cacahuète",
+                "desc": "Crème glacée 53% à la cacahuète, chocolat au lait, sauce caramel au beurre salé, morceaux de cacahuètes grillés, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb38e9672/produits/glaces-sorbets/pack/000000000000065152_P.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-barre-glacee-cacahuete-000000000000084584.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 384.0
+                    },
+                    "minerals": {
+                        "salt": 0.28
+                    },
+                    "fats": {
+                        "fats": 25.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 6.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33.0,
+                        "of_which_sugars": 31.0,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Chocolat au LAIT 32,5% [sucre, beurre de cacao*, LAIT entier en poudre, pâte de cacao*, matière grasse laitière anhydre (LAIT), extrait de vanille, émulsifiant : lécithines (SOJA)], LAIT écrémé réhydraté, crème liquide (LAIT) 10,5%, caramel au beurre salé 8,3% [LAIT concentré sucré écrémé (LAIT écrémé, sucre), sucre, sirop de glucose, eau, beurre salé (beurre (LAIT), sel), sel, stabilisant : pectines, extrait de vanille], CACAHUÈTE (ARACHIDE) grillée en morceau 6,2%, sucre, sirop de glucose, pâte de CACAHUÈTE (ARACHIDE) 3,1%, lactose (LAIT) et protéines de LAIT, eau, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, stabilisants (farine de graines de caroube, gomme guar), sel, caramel 0,03% (sucre, eau).",
+                "allergens": [
+                    "Lait",
+                    "Arachide",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 1.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084557",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 bâtonnets NUII pistache",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-bat-nuii-pistache-000000000000084557.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "on_discount": false,
+                "weight_per_packaging": 284.0,
+                "price_per_packaging": 5.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084361",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 moutons glacés, décors en pop-corn",
+                "desc": "Crème glacée à la vanille 88,4%, pop-corn sucré 8,3% et décor 3,3% à base de chocolat blanc, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw73587520/produits/000000000000035645_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moutons-glaces-000000000000084361.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "110.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 249.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 7.3
+                    },
+                    "proteins": {
+                        "proteins": 5.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 28.0,
+                        "of_which_sugars": 21.0,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "LAIT entier 44,6%, crème fraîche liquide (LAIT) 22%, sucre, sirop de glucose en poudre, LAIT écrémé en poudre, maïs 5,1%, jaune d'ŒUF de poule élevée en plein air (liquide, pasteurisé), huile de tournesol, chocolat blanc 1,6% [sucre, beurre de cacao, LAIT écrémé en poudre, matière grasse laitière anhydre (LAIT), émulsifiant : lécithines de tournesol, arôme naturel de vanille], extrait de vanille Bourbon 0,7%, fibre de lin, sirop de glucose, eau, cacao maigre en poudre, gousse de vanille épuisée broyée, gélifiant : pectines, acidifiant : acide citrique.",
+                "allergens": [
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 110.0,
+                "price_per_packaging": 4.5,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.07,
+            "total_reviews": 14
+        }
+    },
+    {
+        "ean": "000000000000084568",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "5 bâtonnets pomme, orange sanguine, bergamote",
+                "desc": "5 bâtonnets sorbet plein fruit à l’orange sanguine, pomme et bergamote.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dweeef88a9/produits/00000000000000084281_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/5-batonnets-pomme-orange-000000000000084568.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "275.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 78.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, jus d'orange sanguine 21,5%, purée de pomme 21,5%, sucre, jus de bergamote 2%, épaississant : gomme guar, antioxydant : acide ascorbique.",
+                "on_discount": false,
+                "weight_per_packaging": 275.0,
+                "price_per_packaging": 3.6,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 5.0,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000084538",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 Mini Magnum Utopia double hazelnut",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-mini-magnum-utopia-000000000000084538.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "on_discount": false,
+                "weight_per_packaging": 276.0,
+                "price_per_packaging": 5.49,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084566",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 bâtonnets menthe, glace à l'eau",
+                "desc": "6 bâtonnets de glace à l'eau à la menthe",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dweeef88a9/produits/00000000000000084281_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-batonnets-glaces-menthe-000000000000084566.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "348.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 73.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, sucre, stabilisant : gomme guar, extrait de menthe poivrée 0,1%, concentré de spiruline, concentré de carthame.",
+                "on_discount": false,
+                "weight_per_packaging": 348.0,
+                "price_per_packaging": 2.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.63,
+            "total_reviews": 8
+        }
+    },
+    {
+        "ean": "000000000000084565",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 bâtonnets citron, glace à l'eau",
+                "desc": "6 bâtonnets de glace à l'eau au citron",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw987b1d13/produits/glaces-sorbets/edition/000000000000073048_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-batonnets-glaces-citron-000000000000084565.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "348.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 81.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 19.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, sucre, jus de citron 12%, stabilisant : gomme guar, arôme naturel de citron 0,1%.",
+                "on_discount": false,
+                "weight_per_packaging": 348.0,
+                "price_per_packaging": 2.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084549",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes Extrême, mini mix",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-extreme-mini-mix-000000000000084549.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "on_discount": false,
+                "weight_per_packaging": 234.0,
+                "price_per_packaging": 3.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084543",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes vanille fraise",
+                "desc": "Crème glacée 33% à la vanille, crème glacée 33% à la fraise, gaufrette 19,5% avec chemisage 8,5% au cacao maigre, sauce 4% aux fruits rouges et morceaux 2% de meringue enrobés d’huile de coco.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw68f291bb/produits/41041-73150_Edition.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-vanille-fraise-000000000000084543.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:37",
+                "format": "432.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 274.0
+                    },
+                    "minerals": {
+                        "salt": 0.12
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 8.8
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39.0,
+                        "of_which_sugars": 25.0,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "LAIT écrémé réhydraté, sucre, crème fraîche liquide (LAIT) 12,9%, farine de BLÉ (GLUTEN), purée de fraise 5,9%, sirop de glucose, graisse de coprah, concentré de protéines de lactosérum en poudre (LAIT), cacao maigre en poudre, émulsifiant (lécithines, mono- et diglycérides d'acides gras d'origine végétale), inuline, blanc d’ŒUF réhydraté, jus de cassis 0,3%, huile de coco, extrait de vanille bourbon 0,2%, jus de fraise concentré 0,2%, jus de cerise 0,1%, arôme naturel de fraise, stabilisants (farine de graines de caroube, gomme guar, pectines), amidon de maïs, concentré de betterave rouge, purée de framboise 0,06%, LAIT écrémé concentré, concentré de carotte, jus de citron concentré, extrait de carotte, acidifiants (acide citrique, citrates de sodium), gousse de vanille épuisée en poudre, extrait de framboise.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 432.0,
+                "price_per_packaging": 3.75,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 4.2,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,45€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.71% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084561",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Crème glacée brookie & cream",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pot-brookies-cream-b-j-000000000000084561.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "on_discount": false,
+                "weight_per_packaging": 388.0,
+                "price_per_packaging": 6.8,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084460",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 mini-bâtonnets, fraise orange",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-mini-bat-fraise-orange-000000000000084460.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "on_discount": false,
+                "weight_per_packaging": 210.0,
+                "price_per_packaging": 2.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084548",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes Extrême, vanille chocolat",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-extreme-van%2Fchoc-000000000000084548.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "on_discount": false,
+                "weight_per_packaging": 444.0,
+                "price_per_packaging": 4.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084567",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "1 bâtonnet citron yuzu menthe",
+                "desc": "Bâtonnet de sorbet au citron, au yuzu et à la menthe.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc11b2af9/000000000000084565_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-bat-citron-yuzu-menthe-000000000000084567.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "format": "64.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 107.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 26.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, sucre, purée de citron jaune 16,8%, purée de yuzu 1,5%, feuille de menthe 0,3%, épaississant : farine de graines de caroube.",
+                "on_discount": false,
+                "weight_per_packaging": 64.0,
+                "price_per_packaging": 1.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084546",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Bonbon Gold caramel billionaire",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bonbons-magnum-caramel-000000000000084546.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "on_discount": false,
+                "weight_per_packaging": 168.0,
+                "price_per_packaging": 6.45,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084544",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Peaces cookie dough",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/peaces-cookie-dough-bj-000000000000084544.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 6.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084583",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes rhum raisin vanille",
+                "desc": "Crème glacée 37% au rhum, crème glacée 25% à la vanille, gaufrette 19,5% avec chemisage 8,5% au cacao maigre, préparation 4% au raisin et au rhum, sauce 4% au cacao maigre et éclats de noisettes caramélisées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwafb90033/000000000000084543_E_.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-rhum-raisin-van-000000000000084583.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:38",
+                "format": "432.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 274.0
+                    },
+                    "minerals": {
+                        "salt": 0.12
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 8.5
+                    },
+                    "proteins": {
+                        "proteins": 3.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 40.0,
+                        "of_which_sugars": 28.0,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "LAIT écrémé réhydraté, sucre, farine de BLÉ (GLUTEN), crème fraîche liquide (LAIT) 12%, sirop de glucose, graisse de coprah, raisin 2,5%, concentré de protéines de lactosérum en poudre (LAIT), éclat de NOISETTE caramélisée 2% (sucre, NOISETTE), rhum 1,8%, LAIT écrémé concentré, cacao maigre en poudre 1,3%, eau, émulsifiants (lécithines, mono- et diglycérides d'acides gras d'origine végétale), extrait de vanille bourbon 0,1%, stabilisants (farine de graines de caroube, gomme guar), amidon de maïs, sucre caramélisé, concentré de carotte, sel, gousse de vanille épuisée en poudre, gélifiant : gomme xanthane.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 432.0,
+                "price_per_packaging": 4.2,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.5,
+            "total_reviews": 2
+        }
+    },
+    {
+        "ean": "000000000000084468",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cônes fruits rouges",
+                "desc": "Sorbet plein fruit 73,3% aux fruits rouges, gaufrette 11,2%, sauce 8,2% à la framboise, chemisage 5,9% de pâte à glacer au cacao maigre, morceaux 1,4% de meringue enrobée de beurre de cacao.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwafb90033/000000000000084543_E_.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cones-fruit-rouge-508g-000000000000084468.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:39",
+                "format": "508.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 189.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 4.3,
+                        "saturates": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 25.0,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Purée de fraise 19,7%, sucre, eau, purée de framboise 11,9%, sirop de glucose, farine de BLÉ (GLUTEN), purée de cassis 6,5%, graisse végétale de noix de coco, inuline, cacao maigre en poudre 0,6%, beurre de cacao, émulsifiant : lécithines (SOJA), huile de colza, amidon, concentré de carotte, jus de citron concentré, stabilisants (gomme xanthane, gomme guar), gélifiant : pectines, blanc d'ŒUF en poudre, protéine de pois hydrolysée, arôme naturel de framboise.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 508.0,
+                "price_per_packaging": 4.2,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000084433",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types, Formats"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "American-style ice-cream,crème glacée vanille",
+                "desc": "Crème glacée bicolore 85% à la vanille avec une préparation 12,6% à la fraise et noix de macadamia hachées caramélisées 2,4%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdca34b5a/produits/000000000000084218_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/american-style-ice-cream-000000000000084433.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:39",
+                "format": "80.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 208.0
+                    },
+                    "minerals": {
+                        "salt": 0.12
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 6.9
+                    },
+                    "proteins": {
+                        "proteins": 4.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 21.0,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "LAIT entier, crème fraîche liquide (LAIT) 21,2%, sucre, purée de fraise 6,2%, LAIT écrémé en poudre, sirop de glucose en poudre, NOIX DE MACADAMIA 1,7%, jaune d’ŒUF de poule élevée en plein air (liquide, pasteurisé), eau, amidon de maïs, fibre de lin, concentré (spiruline, pomme), jus de citron concentré, extrait de vanille 0,08%, arôme naturel de fraise 0,01%.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 2.8,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.18,
+            "total_reviews": 11
+        }
+    }
+]

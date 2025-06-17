@@ -1,0 +1,2336 @@
+[
+    {
+        "ean": "hache-vegetal-175g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HACHÉ VÉGÉTAL POIS ET FÉVEROLE 175G BIO",
+                "desc": "Haché végétal pois et féverole 175g Bio\nDécouvrez une alternative végétale savoureuse à la viande : un haché riche en fibres et en protéines, sans soja, à base de pois et de féverole cultivés en France. Facile à cuisiner, il s’adapte à toutes vos recettes du quotidien : hachis parmentier, sauce bolognaise ou plats mijotés.\nFilière France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031743.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/hache-vegetal-175g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:41",
+                "format": "175G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.6
+                    },
+                    "proteins": {
+                        "proteins": 52
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 17
+                    }
+                },
+                "ingredients": "Protéine de pois* (70%), protéine de féverole* (30%).",
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 3.59,
+                "price_per_unit": 20.51,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Compter environ 20g de protéine par personne. Réhydrater dans de l’eau bouillante (compter 5 fois leur volume) pendant au moins 20 min. Egoutter le haché et le faire revenir dans une poêle chaude avec une cuillère à soupe d’huile de tournesol. Assaisonner.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "crackers-tomate-pim-esp-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRACKERS TOMATE ET PIMENT D'ESPELETTE AOP 100G BIO",
+                "desc": "Crackers tomate et piment d'Espelette AOP 100g Bio\nRecette sans additif, aux ingrédients 100% français\nBon goût de tomate française justement relevé par le piment d'Espelette AOP\nTexture craquante optimale grâce au mélange de farines de blé et de sarrasin\nFabriqué en Bourgogne par notre biscuiter engagé\nDémarche locale : blé, sarrasin et graines de l'huile de tournesol cultivés en Bourgogne\nTomates de Provence cultivées en plein champs & piment d'Espelette Demeter, approvisionné en direct producteur",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380096471.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crackers-tomate-pim-esp-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 16
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51,
+                        "of_which_sugars": 3.8,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Farine de blé*°, farine de sarrasin*°, huile de tournesol*°, concentré de tomate*° (13%), sel de Camargue°, piment d'Espelette AOP*° (1,3%)\n* ingrédient issu de l'agriculture biologique ° origine France",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.05,
+                "price_per_unit": 30.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-21%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On les déguste à l'apéritif, un succès à chaque fois, accompagnés de nos tartinables, et vous ?",
+                "conservation": "Avant ouverture : conserver le sachet dans un endroit sec, à température ambiante et à l'abri de la lumière.\nAprès ouverture : conserver les biscuits dans un récipient hermétique, dans un endroit sec, à température ambiante et à l'abri de la lumière.",
+                "old_price": 3.85
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "crackers-emmental-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRACKERS À L'EMMENTAL 100G BIO",
+                "desc": "Crackers à l'emmental 100g Bio\nRecette sans additif, aux ingrédients 100% français\nGoût authentique de l'emmental avec 20% de fromage râpé\nTexture craquante optimale grâce au mélange de farines de blé et de sarrasin\n1 g de sel pour 100g, réduction de 47% par rapport à la moyenne du marché(1)\nÉlaboré en Bourgogne, lieu de culture de 99% des ingrédients\nDémarche locale : blé, sarrasin et graines de l'huile de tournesol cultivés en Bourgogne, emmental de Franche-Comté\n(1)données CIQUAL 2024, comparé à la catégorie \"Biscuits apéritif, crackers, garnis ou fourrés, au fromage\"",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788046374.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crackers-emmental-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.7
+                    },
+                    "fats": {
+                        "fats": 20
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 31,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de blé*°, emmental*° (23%), farine de sarrasin*°, huile de tournesol oléique désodorisée*°, sel de Camargue°.\n* ingrédient issu de l'agriculture biologique. ° origine France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.15,
+                "price_per_unit": 31.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On les déguste à l'apéritif, un succès à chaque fois, accompagnés de nos tartinables, et vous ?",
+                "conservation": "Avant ouverture : conserver le sachet dans un endroit sec, à température ambiante et  à l’abri de la lumière. \nAprès ouverture : conserver les biscuits dans un récipient hermétique, dans un endroit sec, à température ambiante et à l’abri de la lumière.",
+                "old_price": 3.95
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "crackers-graines-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRACKERS AUX GRAINES 100G BIO",
+                "desc": "Crackers aux graines 100g Bio\nRecette sans additif, aux ingrédients 100% français\nUn trio de graines françaises : lin, tournesol et pavot\nTexture craquante optimale grâce au mélange de farines de blé et de sarrasin\nRéduction en sel de 40% par rapport à la moyenne du marché(1)\nÉlaboré en Bourgogne par notre biscuiter engagé\nDémarche locale : blé, sarrasin et graines de l'huile de tournesol cultivés en Bourgogne\n(1)données CIQUAL 2024, comparé à la catégorie \"Biscuits apéritif, crackers, nature\"",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380102486_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crackers-graines-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.3
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de blé*°, farine de sarrasin*°, huile de tournesol oléique désodorisée*°, graines de tournesol*° (7.8%), graines de pavot*° (3.9%), graines de lin*° (2%), sel de Camargue°.\n* ingrédients issus de l'agriculture biologique. ° origine France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.85,
+                "price_per_unit": 28.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-21%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On les déguste à l'apéritif, un succès à chaque fois, accompagnés de nos tartinables, et vous ?",
+                "conservation": "Avant ouverture : conserver le sachet dans un endroit sec, à température ambiante et  à l’abri de la lumière. \nAprès ouverture : conserver les biscuits dans un récipient hermétique, dans un endroit sec, à température ambiante et à l’abri de la lumière.",
+                "old_price": 3.6
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "sauce-bolo-vegetale-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE BOLOGNAISE VÉGÉTALE 340G BIO",
+                "desc": "Sauce bolognaise végétale 340g Bio\nLe bon goût de la bolognaise en version végétarienne, élaborée avec les conseils du chef Thierry Marx\nPraticité : associer avec des pâtes pour un repas complet pour 2 personnes\nSans sucre ajouté, ni ingrédients ultra transformés\nTomates cultivées en plein champs dans le Sud de la France\nLentilles du Tarn et Garonne et carottes françaises",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908055.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-bolo-vegetale-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "340G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 790
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.1,
+                        "of_which_sugars": 5,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Tomate* (62%), lentille blonde* (11%), carotte*, aubergine*, huile d’olive*, poivron rouge*, céleri*, ail*, sel, poivre*. \n* ingrédients issus de l’agriculture biologique",
+                "allergens": [
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 12.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On la déguste comme à l'habitude dans un plat de pâtes généreux, et vous ?",
+                "conservation": "Avant ouverture : Conserver dans un endroit frais et sec, à température inférieure à 25°C et à l’abri de la lumière.\nAprès ouverture : Se conserve 2 jours après ouverture au réfrigérateur entre 0 et 4°C.",
+                "old_price": 5.4
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "chiaplus-digest-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIAPLUS SANTÉ DIGESTIVE 200G BIO",
+                "desc": "CHIAPLUS Santé Digestive 200g Bio\nDécouvrez ce mélange de graines de chia moulues, de graines de tournesol Bio germées, sarrasin Bio germé et probiotique. Facile à consommer dans vos plats du quotidien : yaourts, salades, céréales...\nLe calcium contribue au fonctionnement normal des enzymes digestives.\nUn mélange riche en fibres, source de protéines, riche en oméga 3.\nDans un sachet facile à ouvrir et refermer pour plus de fraîcheur.\nConvient au régime vegan et aux personnes intolérantes au gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329482685008_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chiaplus-digest-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.6
+                    },
+                    "fats": {
+                        "fats": 35
+                    },
+                    "proteins": {
+                        "proteins": 21
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.7,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 31
+                    }
+                },
+                "ingredients": "89,8% Graines  de chia bio (Salvia hispanica), 5% graines de tournesol bio germees, 5% sarrasin bio germe,  probiotique: Bacillus coagulans GB!-30 6086 (3,3 milliards (3,3 x 109 ) d'UFC pour 100g) (contient du soja)\nPeut contenir des graines de sésame, moutarde et fruits à coque.",
+                "allergens": [
+                    "Soja",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 6.29,
+                "price_per_unit": 31.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ajouter 2.5 cuillères à soupe à vos plats préférés par jour. (soit 25g). \nDans vos céréales, salades, yaourt ou encore smoothie.",
+                "conservation": "A conserver dans un endroit frais et sec.\nConserver au frais après ouverture.",
+                "old_price": 6.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "iced-choco-oat-avoine-230ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ICED CHOCO AVOINE 230ML BIO",
+                "desc": "Iced choco avoine 230ml Bio\nUne boisson végétale gourmande d'avoine, au bon goût de chocolat, à déguster à tout moment de la journée, bien fraîche.\nUne reccette 100% végétale, sans arôme dans un pack issu de 70% de matière végétale.\nIssu du commerce équitable, convient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/iced-choco-oat-avoine-230ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "230ML",
+                "availability": true,
+                "ingredients": "Base d’avoine (eau, 7,8% avoine*, huile de tournesol*, sel), eau, poudre de chocolat 4,4% (sucre*, poudre de cacao*), huile de colza*, sucre*, sel, arôme naturel de vanille Bourbon*, stabilisant : gomme gellan.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 230.0,
+                "price_per_packaging": 1.25,
+                "price_per_unit": 5.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-17%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais à tout moment de la journée.",
+                "conservation": "A conserver au frais après ouverture et à boire rapidement.",
+                "old_price": 1.5
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "iced-cafe-oat-avoine-230ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ICED CAFÉ AVOINE 230ML BIO",
+                "desc": "Iced café avoine 230ml Bio\nUne boisson végétale gourmande d'avoine, au bon goût de café, à déguster à tout moment de la journée, bien fraîche.\nUne reccette 100% végétale, sans arôme dans un pack issu de 70% de matière végétale.\nIssu du commerce équitable, convient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/iced-cafe-oat-avoine-230ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "format": "230ML",
+                "availability": true,
+                "ingredients": "Base d’avoine (eau, 8,3 % avoine*, huile de tournesol*, sel), eau, sucre*, huile de colza*, extrait de café liquide à 1,8 %*, sel, arôme naturel de vanille Bourbon*, arôme naturel de café, régulateur d’acidité : carbonates de sodium, stabilisateur : gomme gellan.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 230.0,
+                "price_per_packaging": 1.25,
+                "price_per_unit": 5.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-17%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais à tout moment de la journée.",
+                "conservation": "A conserver au frais après ouverture et à boire rapidement.",
+                "old_price": 1.5
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "tisane-rose-17-inf",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "INFUSION AYURVÉDIQUE ROSE - 17 INFUSIONS BIO",
+                "desc": "Infusion ayurvédique rose - 17 infusions Bio\nInfusion ayurvédique aux plantes : pétales de rose rouge, hibiscus, fleurs de lavande.\nLaissez vous guider par cette délicieuse infusion envoûtante, sensuelle et affectueuse.\nBoîte de 17 infusions.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3554740100607.jpg_2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tisane-rose-17-inf"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:42",
+                "availability": true,
+                "ingredients": "Hibiscus* (23%), fleurs de camomille*, fleurs de sureau*, fleurs de tilleul*, pétales de rose rouge* (5%), cannelle*, fleurs de lavande* (3%), millefeuille*, gingembre*, poivre noir*, fenouil*, curcuma*, huile essentielle de géranium*, pétales de tournesol*, luzerne*, plantain lancéole*, cardamome*, clous de girofle*, boisson de kombucha desséchée*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "price_per_packaging": 3.65,
+                "price_per_unit": 104.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-11%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une tasse de 250 ml, laissez infuser votre sachet pendant 5 à 7 minutes, dans une eau à 100°C.\nPuis dégustez !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 4.09
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "cuvee-rose-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CUVÉE PLAISIR ROSÉ 75CL BIO",
+                "desc": "Cuvée Plaisir Rosé 75cl Bio\nConstitué de cépage Grenache, le vin Cuvée Plaisir Rosé est rès désaltérant et fruité. Sa robe est rose framboise brillante, de style « Clairet » et est suivie d'un nez souple aux arômes de fruits rouges. En bouche, ce vin est très désaltérant grâce à ses arômes de fraise et framboise qui laissent une sensation de fraîcheur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760066369486.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cuvee-rose-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Vin provenant de raisins issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 3.59,
+                "price_per_unit": 4.79,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se déguste très frais (entre 6 et 8°C).\nSe marie parfaitement aux tapas.\nL’abus d’alcool est dangereux pour la santé. À consommer avec modération.\nLa consommation de boissons alcoolisées pendant la grossesse, même en faible quantité, peut avoir des conséquences graves sur la santé de l'enfant.\nEn fonction des arrivages de nos vignerons, le millésime et le degré d'alcool indiqués sur le site peuvent être différents de ceux qui vous seront réellement livrés. Notre service client se tient à votre disposition.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "jus-d-orange-bocal-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS D'ORANGE DE SICILE 1L BIO",
+                "desc": "Jus d'orange de Sicile 1l Bio\nDécouvrez le jus d'orange pur jus de Sicile. Production familiale depuis 5 générations.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490975880.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-d-orange-bocal-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "100% pur jus d'orange de Sicile*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 3.39,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant de servir. Servir bien frais. Parfait pour le petit-déjeûner pour faire le plein de vitamines !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "lentilles-corail-1-kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES CORAIL 1KG BIO",
+                "desc": "Lentilles corail 1kg Bio\nDe succulentes lentilles corail, à consommer chaudes ou froides. Elles constituent un apport élevé en protéines et en fer. Accompagnez-les de céréales.\nConditionné dans un sachet recyclable, en Isère (France).\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484635001_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-corail-1-kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 25
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51.5,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Lentilles corail*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 4.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Plonger les lentilles dans de l'eau bouillante. Laisser cuire 10 minutes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "conf-extra-figue-rouge-370g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA FIGUE ROUGE 370G BIO",
+                "desc": "Confiture extra figue rouge 370g Bio\nDécouvrez la délicieuse confiture extra aux figues rouges. Les figues sont cuites au chaudron, la confiture est élaborée avec 55% de fruits et du sucre de canne.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive16.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/conf-extra-figue-rouge-370g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "370G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 60,
+                        "of_which_sugars": 59,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Figue de Provence*, sucre de canne*, jus concentré de citron*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 370.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 12.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Tartiner vos tranches de pains ou biscottes avec cette délicieuse confiture.",
+                "conservation": "A conserver au sec et à l'abri de la lumière.\nA conserver au réfrigérateur après ouverture.",
+                "old_price": 5.5
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "attraction-60ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ATTRACTION 60ML BIO",
+                "desc": "Attraction 60ml Bio\nLa vitamine C est une vraie merveille pour votre santé : immunisante, antioxydante, extrêmement puissante, elle agit dans certains processus de détoxification. Sous forme d’acérola, elle est complètement naturelle. 9,5% de gingembre viennent renforcer les actions revitalisantes de l’acérola, le tout dans un délicieux cocktail exotique et parfaitement acidulé.\nA consommer au réveil, en remplacement du café, ou en milieu de journée pour se rebooster !\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3274490975897.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/attraction-60ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "60ML",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.05
+                    },
+                    "fats": {
+                        "fats": 0.33
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.6,
+                        "of_which_sugars": 8.6,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Pomme* 65,4%, ananas* 15%, gingembre* 9,5%, jus de passion* 9%, acérola* 1%, piment de cayenne* 0,1%.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 33.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer bien frais, à tout moment de la journée pour un coup de boost immédiat.",
+                "conservation": "A conserver au réfrigérateur.",
+                "old_price": 2.49
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "huile-olive-atlas-maroc-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE EXTRA VIERGE MAROC 50CL BIO",
+                "desc": "Huile d'olive extra vierge maroc 50cl Bio\nUne huile d'olive qualité premium avec une 1ère pression à froid de façon artisanale, à la meule de pierre au coeur des monts de l'atlas du Maroc.\nUne robe brillante avec des reflets jaunes et verts et des arômes fruités puissants et élégants. Une huile idéale pour l’assaisonnement des salades et crudités mais aussi pour toute la cuisine du « Soleil ».\nProduit issu de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020122702.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-atlas-maroc-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "100 % huile d’olive extra vierge Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 12.3,
+                "price_per_unit": 24.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une huile idéale pour l’assaisonnement des salades et crudités mais aussi pour toute la cuisine méditerranéenne.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 14.5
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "proteines-soja-fin-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROTÉINES DE SOJA ÉMINCÉES FINES 200G BIO",
+                "desc": "Protéines de soja émincées fines 200g Bio\nLe soja jaune est dépelliculé et partiellement dégraissé par pression à froid. Le tourteau de soja est ensuite moulu et extrudé à 140-160°C et trié.\nOrigine UE.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120031736.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/proteines-soja-fin-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 48.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.2,
+                        "of_which_sugars": 5.4
+                    }
+                },
+                "ingredients": "Farine de soja déshuilée *.\n*Ingrédient issu d'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 14.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "1 volume de liquide bouillant pour 1 volume de protéines de soja. Couvrir et laisser gonfler. Idéal pour vos farces, galettes, dhal...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "choc-noir-agrumes-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR AGRUMES 80G BIO",
+                "desc": "Chocolat noir agrumes 80g Bio\n Un chocolat noir intense 70% associé au goût fruité et acidulé des agrumes. \nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choc-noir-agrumes-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:43",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*, extrait de vanille*, poudre d'agave tequilana*, huiles essentielles de mandarine*, citron*,  bergamote* et orange*. \n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "choc-noir-gingembre-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR GINGEMBRE 80G BIO",
+                "desc": "Chocolat noir gingembre 80g Bio\n Du chocolat noir 70% associé au gingembre pour une recette épicée et acidulée. Un chocolat de dégustation qui saura séduire les amateurs de chocolat noir.\nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770008500105_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choc-noir-gingembre-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "chocolat-noir-menthe-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR MENTHE 80G BIO",
+                "desc": "Chocolat noir menthe 80g Bio\n Un incontournable pour les amateurs de chocolat noir. Une recette avec 70% de cacao minimum (République Dominicaine et Pérou) associé à la fraîcheur de la menthe pour un moment intense et réconfortant.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024185-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-menthe-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beure de cacao*, extrait de vanille*, poudre d'agave tequilana*, huile essentielle de menthe poivrée*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "chocolat-noir-verveine-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR VERVEINE 80G BIO",
+                "desc": "Chocolat noir verveine 80g Bio\n Une tablette de chocolat noir 70% de cacao, associé à la verveine pour une recette originale qui saura séduire vos papilles.\nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-verveine-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*, extrait de vanille*, poudre d'agave tequilana*, huile essentielle de verveine*, feuille de verveine*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "prosecco-extra-sec-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PROSECCO EXTRA SEC 75CL BIO",
+                "desc": "Prosecco extra sec 75cl Bio\nFruité, légèrement pétillant, généreux et harmonieux en bouche. Une finale vive et fraîche.\nRobe : Couleur jaune pâle et bulles délicates.\nNez : Bouquet délicat et complexe avec des notes fruitées telles que la pêche et la pomme verte, ainsi que des notes d’acacia et de glycine en second plan.\nBouche : Frais et léger en bouche avec une acidité et un corps équilibrés, harmonieux avec une longue persistance.\nDegré : 11% vol.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3215190017449.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/prosecco-extra-sec-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "100% Glera.\nContient des sulfites.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 9.85,
+                "price_per_unit": 13.13,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Servir bien frais entre 8 et 10°C.\nL’abus d’alcool est dangereux pour la santé. À consommer avec modération.\nLa consommation de boissons alcoolisées pendant la grossesse, même en faible quantité, peut avoir des conséquences graves sur la santé de l'enfant.\nEn fonction des arrivages de nos vignerons, le millésime et le degré d'alcool indiqués sur le site peuvent être différents de ceux qui vous seront réellement livrés. Notre service client se tient à votre disposition.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 10.95
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "couscous-demi-c-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COUSCOUS DEMI-COMPLET 500G BIO",
+                "desc": "Couscous demi-complet 500g Bio\nLe couscous complet est obtenu à partir de semoule de blé dur complète et d’eau. Les grains obtenus sont ensuite précuits et séchés. La couleur du couscous complet varie du jaune ambré au brun clair.\nCuisson en 5 minutes.\nIdéal pour un couscous et taboulé. Riche en fibres, Source de protéines.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329486411207.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/couscous-demi-c-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 5
+                    }
+                },
+                "ingredients": "Semoule de BLÉ dur demi-complète.*\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.69,
+                "price_per_unit": 5.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation : verser 1 volume de couscous dans un saladier, ajouter 1 volume d'eau bouillante salée, couvrir le saladier, laisser gonfler 5 minutes puis égrener à la fourchette. \nAssaisonner selon vos goûts. Le couscous complet sera idéal pour réaliser la recette traditionnelle du couscous en ajoutant légumes, viandes et épices de votre choix. Il sera également délicieux en accompagnement de tous vos légumes et pour la conception de taboulé.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "crousty-tomate-origan-75g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROUSTY TOMATE ORIGAN 75G BIO",
+                "desc": "Crousty tomate origan 75g Bio\nDécouvrez ces crousty craquants et savoureux pour un apéritif ou un encas délicieusement décompléxé.\nRevisitant un grand classique de l'apéritif, les crousty contiennent -30% de sel que la moyenne des biscuits apéritifs soufflés à base de maïs du marché (sans cacahuète).\nRaison de plus pour se faire plaisir ! \nSans gluten et vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380102486_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crousty-tomate-origan-75g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:44",
+                "format": "75G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.9
+                    },
+                    "fats": {
+                        "fats": 19
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67,
+                        "of_which_sugars": 3.9
+                    }
+                },
+                "ingredients": "Farine de maïs*, huile de tournesol*, farine de pois chiche*, tomates déshydratées* (5%), sel marin, oignon*, origan*, ciboulette*, ail*, poivre*, antioxydant: extrait de romarin*.\n*Issus de l’Agriculture Biologique.\nSans gluten \nPeut contenir des traces d'arachides et fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.2,
+                "price_per_unit": 29.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour l'apéritif, accompagné de la boisson de votre choix.",
+                "conservation": "A conserver dans un endroit sec, tempéré et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "n2-brut-concentre-ginger-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GIMBER N°2 BRUT 500ML BIO",
+                "desc": "Gimber N°2 brut 500ml Bio\nAvec 50% de sucre en moins, une qualité supérieure de yuzu et de thym citron, BRUT est la nouvelle boisson au concentré de gingembre bio GIMBER.\nGIMBER N°2 BRUT est notre nouveau concentré de gingembre, avec 50% de sucre en moins, mais toujours autant de ce que vous aimez chez GIMBER : un petit coup de fouet rafraîchissant au goût corsé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/2/42282174.v2.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/n2-brut-concentre-ginger-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "500ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 27
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.22
+                    },
+                    "proteins": {
+                        "proteins": 0.67
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.8,
+                        "of_which_sugars": 17.4
+                    }
+                },
+                "ingredients": "1% gingembre*, eau, citron*, sucre de canne*, épices*, yuzu*.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 20.7,
+                "price_per_unit": 41.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 20.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mélangez 20-30 ml de BRUT avec de l'eau pétillante bien fraîche et terminez avec une touche personnelle.\nIdéal pour réaliser des cocktails originaux !",
+                "conservation": "Se conserve jusqu’à 6 mois fermé et 30 jours au frigo une fois ouvert.",
+                "old_price": 24.39
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "confiture-myrtille-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE MYRTILLES SAUVAGES 260G BIO",
+                "desc": "Confiture myrtilles sauvages 250g Bio\nLaissez vous tenter par cette recette fruitée et gourmande lors de vos petits-déjeuners ou goûters.\nEtalée sur du pain bio ou encore des biscottes, son délicieux goût de fraise et de framboise ne vous laissera pas indifférent !\nComposée à partir de 65% de fruits.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908307-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-myrtille-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63,
+                        "of_which_sugars": 61,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Myrtilles sauvages*, sucre de canne*. \n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 16.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En fond de tarte pour vos recette de pâtisserie ou pour vos tartines, cette confiture ravira vos papilles et celles de vos convives.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, conserver au frais.",
+                "old_price": 4.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "confiture-mirabelle-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE MIRABELLES 260G BIO",
+                "desc": "Confiture de Mirabelles 260g Bio\nDécouvrez la délicieuse confiture de mirabelles extra a tartiner sur votre pain moelleux au petit-déjéuner. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-mirabelle-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64,
+                        "of_which_sugars": 60,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Mirabelles*, Sucre de canne*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 3.2,
+                "price_per_unit": 12.31,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour tartiner votre pain au petit-déjeuner.",
+                "conservation": "A conserver au réfrigérateur après ouverture.",
+                "old_price": 3.79
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "confiture-framboise-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE FRAMBOISE EXTRA 260G BIO",
+                "desc": "Confiture framboises extra 260g Bio\nLaissez vous tenter par cette recette fruitée et gourmande lors de vos petits-déjeuners ou goûters.\nEtalée sur du pain bio ou encore des biscottes, son délicieux goût de framboise ne vous laissera pas indifférent !\nComposée à partir de 65% de fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive16.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-framboise-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 61,
+                        "of_which_sugars": 60
+                    }
+                },
+                "ingredients": "Framboises*, sucre de canne*.\n*Ingrédients issus de l'agriculture biologique.\nPréparée avec 65g de fruits pour 100g.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 16.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à étaler sur du pain Bio, biscottes et galettes de céréales durant vos petits-déjeuner ou encore goûters.",
+                "conservation": "A conserver au réfrigérateur après ouverture.",
+                "old_price": 4.95
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "confiture-fraise-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE FRAISES EXTRA 260G BIO",
+                "desc": "Confiture fraises extra 260g Bio\nLaissez vous tenter par cette recette fruitée et gourmande lors de vos petits-déjeuners ou goûters.\nEtalée sur du pain bio ou encore des biscottes, son délicieux goût de fraise ne vous laissera pas indifférent !\nComposée à partir de 65% de fruits.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-fraise-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62,
+                        "of_which_sugars": 60
+                    }
+                },
+                "ingredients": "Fraises* demeter, sucre de canne* demeter, gélifiant: pectine.\n*Ingrédients issus de l'agriculture biologique.\nPréparée avec 65g de fruits pour 100g.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 13.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à étaler sur du pain Bio, biscottes et galettes de céréales durant vos petits-déjeuner ou encore goûters.",
+                "conservation": "A conserver au réfrigérateur après ouverture.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "confiture-abricots-extra-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE ABRICOTS EXTRA 260G BIO",
+                "desc": "Confiture abricots extra 260g Bio\nLaissez vous tenter par cette recette fruitée et gourmande lors de vos petits-déjeuners ou goûters.\nEtalée sur du pain bio ou encore des biscottes, son délicieux goût d'abricot ne vous laissera pas indifférent !\nComposée à partir de 65% de fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301595002613_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-abricots-extra-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:45",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63
+                    }
+                },
+                "ingredients": "Abricots* (65%), sucre roux* (60%).\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 3.35,
+                "price_per_unit": 12.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à étaler sur du pain Bio, biscottes et galettes de céréales durant vos petits-déjeuner ou encore goûters.",
+                "conservation": "A conserver au réfrigérateur après ouverture.",
+                "old_price": 3.95
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    },
+    {
+        "ean": "kit-grain-de-kefir-35g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions Épicerie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "KIT GRAINS DE KÉFIR DE FRUITS DÉSHYDRATÉS 35G BIO",
+                "desc": "Kit grains de kéfir de fruits déshydratés 35g Bio\nUn pack idéal et simple d'utilisation pour réaliser son kéfir de fruits soi-même à la maison. Contient 1 sachet de 5g de grains déshydratés, 1 sachet de préparation en poudre à base de ferments lyophilisés et 1 livret d'astuces et recettes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3465511201006.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/kit-grain-de-kefir-35g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:46",
+                "format": "35G",
+                "availability": true,
+                "ingredients": "Grains de kéfir déshydratés*. Sachet 2 (30g) : Sucre roux de canne*°, kéfir d’eau lyophilisé* (sucre de canne*, ferments lyophilisés pour kéfir).\n* Produits issus de l’Agriculture Biologique. ° Commerce équitable contrôlé FiABLE. 99,7% du total des ingrédients d’origine agricole sont issus du commerce équitable contrôlé selon le référentiel FiABLE. Plus d'informations sur www.BIOPARTENAIRE.com",
+                "on_discount": false,
+                "weight_per_packaging": 35.0,
+                "price_per_packaging": 12.25,
+                "price_per_unit": 350.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser la poudre dans un récipient de 1L pouvant fermer hermétiquement. Ajouter, selon vos goûts, 1 à 2 rondelles de citron, 1 à 2 fruits secs (figue, abricot…) et 2 à 3 cuillères à soupe de sucre. Remplir votre récipient avec 1L d’eau à température ambiante et bien le fermer. Laisser fermenter 48H à température ambiante (20 - 25°C). Quand le fruit sec est remonté à la surface, votre kéfir est prêt. Filtrer le contenu à l’aide d’une passoire pour enlever les fruits. Déguster frais.\nUn léger dépôt blanc peut se former au fond de la bouteille, il est tout à fait normal. Le kéfir peut être repiqué jusqu’à 8 fois sous réserve de bonnes conditions d’hygiène et d’utilisation : utiliser 100 ml de kéfir et répéter le mode d’emploi.",
+                "conservation": "A conserver dans son sachet non ouvert au sec et à l'abri de la chaleur pendant 12 mois maximum. A utliser immédiatement à ouverture.",
+                "old_price": 14.45
+            }
+        ],
+        "created_at": "2025-06-16T04:41",
+        "updated_at": "2025-06-16T04:41"
+    }
+]

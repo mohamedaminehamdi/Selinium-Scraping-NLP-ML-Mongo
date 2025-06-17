@@ -1,0 +1,2216 @@
+[
+    {
+        "ean": "barquettes-o-fraises-120g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BARQUETTES O'FRAISES 120G BIO",
+                "desc": "Barquettes O'Fraises 120G Bio\nUne version bio, fabriquée en France et sans huile de palme du biscuit pour enfants que l’on connait tous ! En créant cette recette, Evernat a veillé à répondre au mieux aux besoins des plus jeunes : un apport en fibres grâce à une recette élaborée à partir de blé complet et des sachets fraîcheur individuels à glisser dans le cartable.\nGoût fraise.\n3 sachets fraîcheur individuels.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024970.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/barquettes-o-fraises-120g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "120G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 240
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 5
+                    },
+                    "proteins": {
+                        "proteins": 4.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 75,
+                        "of_which_sugars": 50,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Sucre de canne*, purée de pommes* 30%, sirop de BLE*, OEUFS* 18%, farine complète de BLE* 15,6%, purée de fraises* 14%, farine de BLE* 10%, huile de tournesol oléique*, jus de citron* concentré, arôme naturel, gélifiant : pectine; jus de sureau* concentré, sel de mer, levure désactivée.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 29.08,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces Barquettes o’fraises sont spécialement pensées pour les goûters des enfants : à déguster à la maison ou en extérieur grâce à ses 3 sachets fraîcheur individuels !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "palmiers-pur-beurre-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PALMIERS PUR BEURRE 100G BIO",
+                "desc": "Palmiers Pur Beurre 100G Bio\nUne nouvelle recette de biscuit feuilleté sans huile de palme.\n6 sachets x2.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760005450190_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/palmiers-pur-beurre-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 950
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 18
+                    },
+                    "fats": {
+                        "fats": 26
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 61,
+                        "of_which_sugars": 22,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Farine de blé* T55, beurre* frais (30%), sucre de canne* blond, sel marin, poudre à lever : carbonates de sodium.\n*Issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.69,
+                "price_per_unit": 26.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "4x90g-vitabio-cool-frui-pomme",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4X90G VITABIO COOL FRUIT/POMME BIO",
+                "desc": "4X90G Vitabio Cool Fruit/Pomme Bio\nToute la force des fruits pour des aventures pleines de vie!\n- 100% issu des fruits\n- Sans colorant*\n- Sans conservateur\n* Conformément à la réglemenation",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288132600146.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/4x90g-vitabio-cool-frui-pomme"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 9.6,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Pomme de Nouvelle-Aquitaine*, Acérola du Brésil*.\n* Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.\nA consommer rapidement après ouverture.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "4x90gvit-col-fr-pom-mang-anan",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COOL FRUITS POMME MANGUE ANANAS 4X90G BIO",
+                "desc": "Cool Fruits Pomme mangue ananas 4x90G Bio.\nCool fruits est une mini-gourde 100 % fruits.\nPratique et ludique, ce dessert bio se glisse facilement dans les cartables ou les sacs de sport.\nSans sucres ajoutés et source naturelle de vitamine C grâce à l'acérola.\nSaveur : Pomme - Mangue - Ananas.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03288132600139_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/4x90gvit-col-fr-pom-mang-anan"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.15
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 10.4,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Pommes* 40%, mangue* 35%, jus d'ananas* 22%, jus d'acérola* 3%.\n* Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.",
+                "conservation": "A consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "4x90g-vitabio-cool-frt-poire",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COOL FRUITS POMME POIRE & ACÉROLA 4X90G BIO",
+                "desc": "Cool Fruits Pomme Poire & Acérola 4x90G Bio\nVitabio Cool Fruits Pomme, Poire, Acérola est un en cas composé exclusivement de fruits issus de l'agriculture biologique.\nChaque gourde apporte aux enfants une portion de fruits.\nElles peuvent être emportées partout et être dégustées à tout moment de la journée.\nProduit en France.\n100% issu des fruits, vitamine C naturelle (grâce à l'acérola), sans sucres ajoutés**, sans colorant*, sans conservateurs.\n* Conformément à la réglementation.\n** Contient des sucres naturellement présents dans les fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03288132600191_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/4x90g-vitabio-cool-frt-poire"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.5,
+                        "of_which_sugars": 9.4,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Pommes* 57%, poires* Williams 40%, jus d'acérola* 3%.\n* Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.",
+                "conservation": "A consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "360g-vitabio-cool-frts-rouges",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COOL FRUITS POMME FRAISE MYRTILLE & ACEROLA 4X90G B...",
+                "desc": "Cool Fruits Pomme Fraise Myrtille & Acerola 4x90G Bio\nCool Fruits, ce sont des gourdes de fruits bio, idéales pour le goûter des enfants ou des petits sportifs.\nC'est une façon ludique et pratique de déguster des fruits à tout moment de la journée !\nA vos gourdes ... prêts ... Dégustez !\nDestiné aux enfants à partir de 3 ans.\nContenances : 4 gourdes x 85g par paquet.\nFabriqué en France.\n  Vitabio et vous... c'est peut-être le début d'une belle histoire... Découvrez ces produits avec le sourire et adoptez-les ! Rigoureusement sélectionnés pour leur qualité, fabriqués avec soin, les produits Vitabio vous apporteront entière satisfaction. Bonne découverte !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288132600184.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/360g-vitabio-cool-frts-rouges"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:05",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.2,
+                        "of_which_sugars": 14.2,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Pommes* 69%, fraise* 20,7%, sirop de sucres issus de fruits*, jus de myrtille* 3%, acérola* 3%, concentré de citron*.\n*Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.",
+                "conservation": "Avant ouverture les gourdes peuvent être conservées à température ambiante.\nA consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "360g-vitabio-cool-frt-jaunes",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COOL FRUITS POMME PÊCHE ABRICOT & ACEROLA 4X90G BIO",
+                "desc": "Cool Fruits Pomme Pêche Abricot & Acerola 4x90G Bio\nCool Fruits, ce sont des gourdes de fruits bio, idéales pour le goûter des enfants ou des petits sportifs.\nC'est une façon ludique et pratique de déguster des fruits à tout moment de la journée !\nA vos gourdes ... prêts ... Dégustez !\nDestiné aux enfants à partir de 3 ans.\nContenances : 4 gourdes x 85g par paquet.\nFabriqué en France.\n  Vitabio et vous... c'est peut-être le début d'une belle histoire... Découvrez ces produits avec le sourire et adoptez-les ! Rigoureusement sélectionnés pour leur qualité, fabriqués avec soin, les produits Vitabio vous apporteront entière satisfaction. Bonne découverte !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03288132600122_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/360g-vitabio-cool-frt-jaunes"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 10,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Pomme* 67%, pêche* 20%, abricot* 10%, sirop de sucres issus de fruits*, acérola* 3%, concentré de citron*.\n*Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.",
+                "conservation": "Avant ouverture les gourdes peuvent être conservées à température ambiante.\nA consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "4x90g-vitabio-col-frui-pom-ban",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COOL FRUITS POMME BANANE & ACEROLA 4X90G BIO",
+                "desc": "Cool Fruits Pomme Banane & Acerola 4x90G Bio\nCool Fruits, ce sont des gourdes de fruits bio, idéales pour le goûter des enfants ou des petits sportifs.\nC'est une façon ludique et pratique de déguster des fruits à tout moment de la journée !\nA vos gourdes ... prêts ... Dégustez !\nDestiné aux enfants à partir de 3 ans.\nContenances : 4 gourdes x 85g par paquet.\nFabriqué en France.\n  Vitabio et vous... c'est peut-être le début d'une belle histoire... Découvrez ces produits avec le sourire et adoptez-les ! Rigoureusement sélectionnés pour leur qualité, fabriqués avec soin, les produits Vitabio vous apporteront entière satisfaction. Bonne découverte !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288132600146.p5-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/4x90g-vitabio-col-frui-pom-ban"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16,
+                        "of_which_sugars": 15,
+                        "dietary_fiber": 2
+                    }
+                },
+                "ingredients": "Pommes* 45,6%, bananes* 50%, acérola* 4%, jus de citron concentré 0,4%.\n*Produits issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 12.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas laisser les enfants de moins de 3 ans jouer avec le bouchon.",
+                "conservation": "Avant ouverture les gourdes peuvent être conservées à température ambiante.\nA consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "puree-pomme-banane-700g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMME ET BANANE SANS SUCRES AJOUTÉS 700G BIO",
+                "desc": "Purée de Pomme et Banane sans sucres ajoutés 700g Bio\nNous avons soigneusement sélectionné pour vous une nouvelle variété de pommes françaises pour des Dani'Pom encore plus savoureux, plus onctueux et solidaires avec nos producteurs bio français ! Compote 100% fruits.\nLes Dani'Pom, c'est une gamme adaptée aux enfants : une texture lisse, un goût doux et sucré comme les enfants l'aiment depuis 1990 !\nSans sucres ajoutés, contient des sucres naturellement présents.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301597001096_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-banane-700g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "700G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.5,
+                        "of_which_sugars": 12,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Purée de pommes* françaises (80%), purée de bananes* (20%).",
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 8.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se consomme froid ou comme base pour des préparations culinaires.\nIdéal pour accommoder vos tartes, beignets, gâteaux, yaourts, fromages frais, crêpes et glaces, ou le déguster tel quel en famille !",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture, à conserver au réfrigérateur après ouverture et à consommer dans les 3-5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "puree-pomme-700g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DANI'POM PURÉE DE POMME 700G BIO",
+                "desc": "Dani'Pom Purée de pomme sans sucres ajoutés 700G Bio\nDécouvrez cette purée de pommes françaises sans sucres ajoutés.\nDanival à soigneusement sélectionné pour vous une nouvelle variété de pommes françaises pour des Dani'Pom encore plus savoureux, plus onctueux et solidaires avec nos producteurs bio français !\nLes Dani'Pom, c'est une gamme adaptée aux enfants : une texture lisse, un goût doux et sucré comme les enfants l'aiment depuis 1990 !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301594000887_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-pomme-700g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "700G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 10.5,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Purée de pommes françaises (100%)*.\n*Ingrédient issu de l'Agriculture Biologique.\nContient des sucres naturellement présents.",
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 5.35,
+                "price_per_unit": 7.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se consomme froid ou comme base pour des préparations culinaires.\nPrêt à l'emploi, vous pouvez utiliser le Dani'Pom Pomme - pour accommoder vos tartes, beignets, gâteaux, yaourts, fromages frais, crêpes et glaces, ou le déguster tel quel en famille !",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : à conserver au réfrigérateur et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "poki-pomme-8x90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POKI PURÉES 100% FRUITS POMME SANS SUCRES AJOUTÉS 8X90G...",
+                "desc": "Poki purées 100% fruits pomme sans sucres ajoutés 8X90g Bio\nPOKI BIO contient une Purée 100% fruits, Sans sucres ajoutés! Avec une texture de compote, ces purées 100% fruits plairont à toute la famille.\nFormat Economique.\nProduit pasteurisé prêt à consommer.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03288132600139_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poki-pomme-8x90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.8,
+                        "of_which_sugars": 10.4,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pommes*.\n*Ingrédient d'origine agricole obtenu selon les règles de production biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 8.39,
+                "price_per_unit": 11.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à consommer.\nNe pas laisser les enfants sans surveillance avec le bouchon.",
+                "conservation": "A conserver au réfrigérateur après ouverture et à consommer sous 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "poki-panache-8x90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POKI BIO PANACHE SANS SUCRES AJOUTÉS 8X90G BIO",
+                "desc": "Poki Panache sans sucres ajoutés 8x90G Bio\nCes purées plairont à toute la famille. Format Economique. Produit pasteurisé prêt à consommer.\n100% fruits, sans sucres ajoutés.\n8 gourdes: 2 pomme/banane, 2 pomme/fraise, 2 pomme/mangue, 2 pomme.\nDepuis 25 ans, Danival prépare des produits BIO dans le cadre protégé du Moulin d'Andiran, dans le Lot-et-Garonne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03288132600139_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poki-panache-8x90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 10,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pommes* (100%), Pomme & Banane: Purée de pommes*(85%), purée de banane*(15%), Pomme & Fraise: Purée de pommes* (84,6%), fraises* (15,4%) , Pomme & Mangue: Purée de pommes* (83%), purée de mangue* (17%) *.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 8.95,
+                "price_per_unit": 12.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur après ouverture et à consommer sous 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "crosti-petales-choco-425g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROSTI PÉTALES CHOCO 425G BIO",
+                "desc": "Crosti Pétales Choco 425G Bio\nPétale de blé croustillant au chocolat.\nSans huile de palme.\nRiches en fibre.\nFabriqué en France.\n  Nos produits sont élaborés au cœur du Massif Central, dans le village de Saint Symphorien de Lay, où se perpétue le savoir-faire et les valeurs de Joseph Favrichon depuis plus de 125 ans.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3421557500954.p1-1500j_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crosti-petales-choco-425g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:06",
+                "format": "425G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 380
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 4
+                    },
+                    "proteins": {
+                        "proteins": 9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74,
+                        "of_which_sugars": 28,
+                        "dietary_fiber": 9.2
+                    }
+                },
+                "ingredients": "Céréales* 61,4% (farine complète de blé* T150, farine de blé* T65), chocolat* en poudre 27% (sucre de canne*, cacao* en poudre), chocolat* 3,9% (sucre de canne*, pâte de cacao*, beurre de cacao*, émulsifiant : lécithine de tournesol), sirop de malt d’orge*, sucre de canne*, sirop de blé*, extrait de vanille*, sel de mer, cannelle*.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes allergiques ou intolérantes.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 425.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 10.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "riz-souffle-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RIZ SOUFFLÉ 200G BIO",
+                "desc": "Riz soufflé 200g Bio\nDes céréales soufflées issus d el'agriculture biologique pour régaler les gourmands tout en respectant l'équilibre alimentaire. \nGrillon d'Or est le spécialiste des céréales pour le petit déjeuner, et vous propose une gamme de ceréales spécialement conçue pour les enfants !\nSans sucre ajouté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03111900330092_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/riz-souffle-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:07",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 85,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Riz*.\n*Issu de l'Agriculture Biologique.\nFabriqué dans un atelier qui utilise des céréales contenant du gluten, des fruits à coque, du soja, des graines de sésames, du lait et de l'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Arachide",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 19.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer nature, avec du lait, une boisson végétale ou du fromage blanc.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "kare-choco-noisette-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "KA'RÉ CHOCO NOISETTE 500G BIO",
+                "desc": "Ka'ré Choco Noisette 500g Bio\nGrillon d'Or vous propose les Ka'ré fourrés Chocolat noisette : un coeur fondant chocolat noisette dans un biscuit chocolaté aux 3 céréales pour un petit déjeuner Ka'ré ment Chocolat !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3421557500763.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/kare-choco-noisette-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:07",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 640
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.7
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 27,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "Fourrage chocolat noisettes* 35% (sucre de canne*, chocolat* 5,8% (sucre de canne*, beure de cacao*, poudre de cacao dégraissé*), noisettes* 5,6%, huile de tournesol*, poudre de lait écrémé*, poudre de cacao dégraissé*, beurre de cacao*, émulsifiant : lécithine de tournesol*, extrait de vanille*), maïs*, blé complet* 24%, sucre de canne*, avoine complète*, poudre de cacao dégraissé*, sel.\n*Ingrédient issu de l'agriculture biologique\nFabriqué dans un atelier qui utilise d'autres fruits à coque, du soja, des graines de sésame et de l'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Arachide",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 13.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer avec du lait, du yaourt, de la compote, ou tel quel.",
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité. Bien refermer le sachet après chaque utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "p-tit-dej-chocolat-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "P'TIT DÉJ CHOCOLAT 190G BIO",
+                "desc": "P'tit Déj Chocolat 190G Bio\nDécouvrez cette gamme de biscuits savoureux à base de céréales pour démarrer votre journée en pleine forme. Naturellement riches en fibres, ces biscuits fabriqués de manière artisanale, sont sans huile de palme et contiennent plus de 50% de céréales bios provenant de nos régions.\nLe secret de cette recette, c’est le mariage de 4 céréales - le blé, l’orge, le seigle et l’avoine - à du délicieux chocolat noir issu du commerce bio et équitable. Le petit plus : une poignée généreuse de pépites de chocolat pour encore plus de plaisir !\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/_/4_cereales_miel_chocolat_bd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/p-tit-dej-chocolat-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:07",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 570
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.8
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62,
+                        "of_which_sugars": 25
+                    }
+                },
+                "ingredients": "Farine de blé* T65 (39%), sucre de canne non raffiné*, huile de tournesol*, pépites de chocolat* (9,4%) (sucre de canne*, masse de cacao*, beurre de cacao*, extrait de vanille*), flocons d'avoine* (8,6%), beurre de cacao*, sirop de blé*, farine de seigle* T130 (4,2%), cacao maigre en poudre* (2,1%), fibre d'avoine*, sel de mer, poudres à lever : carbonate de sodium et d’ammonium, jus de citron concentré*. \nPeut contenir des traces de fruits à coques, lait, soja, graines de sésame.\n\nSouligné : ingrédients issus du commerce équitable.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.0,
+                "price_per_unit": 21.05,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.00 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Maintenir dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "p-tit-dej-chocolat-miel-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "P'TIT DÉJ CHOCOLAT MIEL 190G BIO",
+                "desc": "P'tit Déj Chocolat Miel 190G Bio\nDécouvrez cette gamme de biscuits savoureux à base de céréales pour démarrer votre journée en pleine forme.\nNaturellement riches en fibres, ces biscuits fabriqués de manière artisanale, sont sans huile de palme et contiennent plus de 50% de céréales bios provenant de nos régions.\nTestez cette version associant 4 céréales : la farine de blé, d’orge, de seigle et des flocons d’avoine et du sucre complet. Faites le plein d’énergie dès le matin !\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700566452240_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/p-tit-dej-chocolat-miel-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:07",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 550
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.3
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62,
+                        "of_which_sugars": 22
+                    }
+                },
+                "ingredients": "Farine de blé* T65 (40%), huile de tournesol*, sucre de canne non raffiné*, flocons d'avoine (8,9%), pépites de chocolat noir* (8,9%) (sucre de canne*, masse de cacao*, beurre de cacao*, extrait de vanille*), miel* (6%), beurre de cacao*, farine de seigle* T130 (4,3%), farine d'orge* T110 (4,3%), noisettes*, fibre d'avoine*, sel de mer, poudres à lever : carbonates de sodium et d'ammonium, jus de citron concentré*.\nSouligné : ingrédients issus du commerce équitable.\n*Ingrédients issus de l’agriculture biologique. \nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.1,
+                "price_per_unit": 21.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Maintenir dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "p-tit-dej-original-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "P'TIT DÉJ MULTICÉRÉALES & GRAINES 190G BIO",
+                "desc": "P'tit Déj Multicéréales & graines 190G Bio\nUne nouvelle expérience saine et gourmande au petit déjeuner. Naturellement riches en fibres, ces biscuits fabriqués de manière artisanale, sont sans huile de palme et contiennent plus de 50% de céréales bios provenant de nos régions.\nTout nouveau, tout beau… Craquez pour ce biscuit aux multi-céréales (blé, orge, seigle, avoine) à la texture croustillante et fondez pour le mélange croquant des graines de sésame, de sarrasin, d’amarante et de pavot. A mettre entre les mains de tous les p’tits picoreurs. Un boosteur d’énergie pour bien commencer la journée.\nSans huile de palme.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03700566452240_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/p-tit-dej-original-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:07",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 340
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 17
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 19
+                    }
+                },
+                "ingredients": "Céréales* 57,5%(farine de blé T65*, flocons d’avoine*, farine de seigle T130*, farine d’orge*), huile de tournesol*, sucre de canne non raffiné*, sirop de blé*, sésame* 3,2%, sarrasin* 1,6%, fibre d’avoine*, poudres à lever : bicarbonate de sodium et d’ammonium, amarante* 0,6%, pavot* 0,3%, extrait de malt*, jus de citron concentré*, sel de mer.\nSouligné : ingrédients issus du commerce équitable.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.1,
+                "price_per_unit": 21.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "p-tit-dej-fruits-graines-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "P'TIT DÉJ FRUITS & GRAINES 190G BIO",
+                "desc": "P'tit Déj Fruits & Graines 190G Bio.\nUne nouvelle expérience saine et gourmande au petit déjeuner. Naturellement riches en fibres, ces biscuits fabriqués de manière artisanale, sont sans huile de palme et contiennent plus de 50% de céréales bios provenant de nos régions.\nVos matinées seront illuminées avec cette recette de biscuits mi figues, mi raisins de Corinthe, légèrement rehaussez par la saveur délicate des graines de sarrasin. Une base de petit déjeuner équilibré pour bien commencer la journée.\nSans huile de palme.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3268350120817.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/p-tit-dej-fruits-graines-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 590
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.3
+                    },
+                    "fats": {
+                        "fats": 19.4
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66.1,
+                        "of_which_sugars": 19.6
+                    }
+                },
+                "ingredients": "Céréales* 51%(farine de blé T65*, flocons d’avoine*, farine de seigle T130*, farine d’orge*), huile de tournesol*, sucre de canne non raffiné*, sirop de blé*, beurre de cacao*, figues* 4%, raisins de Corinthe* 4%, sarrasin* 2%, fibre d’avoine*, poudres à lever : bicarbonate de sodium et d’ammonium, extrait de malt*, jus de citron concentré*, sel de mer. \nSouligné : ingrédients issus du commerce équitable.\n*Ingrédients issus de l’agriculture biologique. \nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 21.84,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "crousty-roll-cacao-nois-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROUSTY ROLL CHOCOLAT FOURRÉS À LA NOISETTE 125G BIO",
+                "desc": "Crousty Roll chocolat fourrés à la Noisette 125g Bio\nLes Crousty roll - Tartines craquantes fourrées noisette Bio. Le Pain des Fleurs sont des gourmandises sans gluten à consommer pour le plaisir.\nBiscuits irrésistiblement croustillants, les Crousty roll portent bien leur nom ! Elles allient le croquant des tartines Le Pain des Fleurs à un fourrage généreux et fondant au cacao et à la noisette. Fruits à part, les fèves de cacao renferment des teneurs nutritionnelles enviables, en plus d'une saveur cacaotée célèbre qui a donné jour au chocolat. Éprouvé par de nombreuses recettes sucrées, le mariage cacao-noisette est un accord de goût extrêmement sûr, source de plaisir pour les sens et de réconfort pour l'esprit. Répondant aux exigences d'une alimentation saine et équilibrée, mais aussi respectueuse des équilibres de l'organisme, la recette a banni l'allergène problématique qu'est le gluten, mais contient du lait et des fruits à coque. Certifiés bio, les biscuits répondent aussi aux exigences de naturalité et d’éthique du plus grand nombre. Présentés sous un format pratique, les Crousty roll vous accompagnent dans tous vos déplacements et excursions pour des pauses gourmandes exquises en toute situation. \nLes plus :\n- Ces gourmandises s'emportent partout grâce à leur conditionnement en 5 sachets fraîcheur de 2 biscuits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760154260602_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crousty-roll-cacao-nois-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 230
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3
+                    },
+                    "fats": {
+                        "fats": 18.4
+                    },
+                    "proteins": {
+                        "proteins": 8.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59.2,
+                        "of_which_sugars": 31.6,
+                        "dietary_fiber": 6.7
+                    }
+                },
+                "ingredients": "Fourrage(55%): sucre de canne blond*, huiles végétales* (palme* et tournesol*), lait écrémé*, noisette*, cacao maigre*, émulsifiant: lecithine de tournesol.\nBiscuit(45%): farine de riz*, sucre de canne blond*, cacao maigre*, lait écrémé*, sel marin.\n\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 5.6,
+                "price_per_unit": 44.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faciles à emporter, les Crousty roll se dégustent à tout moment de la journée.",
+                "conservation": "A conserver dans un endroit sec et frais, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "boudoir-epeautre-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUDOIRS À L'EPEAUTRE 200G BIO",
+                "desc": "Boudoirs à l'Epeautre 200g Bio\nLes Boudoirs à l'Epeautre Pural sont de délicieux et savoureux biscuits à l'épeautre saupoudrés de sucre de canne biologique.\nIdéals pour toutes la famille, ils vous séduiront lors du petit-déjeuner, goûter ou dessert avec du lait, du thé ou du café !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03760005450190_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boudoir-epeautre-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 250
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 2.83
+                    },
+                    "proteins": {
+                        "proteins": 7.56
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81.97,
+                        "of_which_sugars": 42,
+                        "dietary_fiber": 2
+                    }
+                },
+                "ingredients": "Farine d'épeautre* (30%), sucre de canne*, oeuf* (26%), fécule de pomme de terre*, fécule de blé*, poudre à lever : carbonate de sodium, carbonate d'ammonium, protéine de lait*, arôme naturel de vanille*.\n\nIngrédients allergènes : gluten, oeufs, lait et lactose.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 19.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le goûter. Ses boudoirs peuvent accompagner la dégustation d'un thé.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "boudoirs-bb-120g-8m",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUDOIRS À L'HUILE ESSENTIELLE D'ORANGE DOUCE...",
+                "desc": "Boudoirs à l'huile essentielle d'orange douce 10M 120G Bio.\nDes biscuits équilibrés et savoureux pour le bébé dés 10 mois.\nGrâce à leur saveur d'orange douce, les biscuits babybio séduiront votre bébé à l'eure du goûter. La forme et la taille du biscuit ont été spécialement étudiées pour la bouche et la main du bébé.\nLe biscuit Babybio possède une consistance à la fois croquante et fondante afin de ne pas blesser les gencives de bébé.\n24 boudoirs x 6 sachets fraîcheur.\nDès 8 mois en bouillie uniquement.\nDès 10 mois à croquer si Bébé est prêt.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3770002327593_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boudoirs-bb-120g-8m"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 95
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 14.2
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78.5,
+                        "of_which_sugars": 32,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Farine de froment*30%, sucre de canne*, oeuf entier19.8%, amidon de blé, , huile essentielle d'orange douce, poudre à lever (carbonate acide d'amonium, tartrate monopotassique), vitamine B1 (thiamine).\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 34.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour manger son boudoir Babybio, Bébé doit réunir les conditions suivantes :\nil a déjà deux dents\nil sait manger un morceau de pain\nil sait manger des plats avec des petits morceaux\nil se tient assis tout seul dans sa chaise bébé\nPour sa sécurité, c'est sous la surveillance attentive d'un adulte et assis bien droit que Bébé peut déguster son boudoir Babybio confortablement assis.\nL'adulte devra être attentif tout au long de la dégustation.\nIdée Recette rapide : Mini Charlotte aux fraises Babybio\n20 min - à partir de 15 mois\n1/2 petit pot Pomme d'Aquitaine et Fraise Babybio\n2 petits Suisse nature au lait entier\n12 boudoirs Babybio\nquelques gouttes d'eau de fleur d'oranger\nCoupez les boudoirs en deux parties égales. Trempez-les rapidement dans une assiette contenant de l'eau aromatisée avec l'eau de fleur d'oranger et disposez-les sur le pourtour et au fond de deux petits ramequins. Mélangez les petits Suisse et la moitié du petit pot Pomme d'Aquitaine et Fraise BABYBIO. Versez ce mélange dans les ramequins au milieu des biscuits et placez au frais au moins 2 heures. Démoulez avant de servir.",
+                "conservation": "A conserver à l'abri de la lumière et de l'humidité.",
+                "old_price": 4.9
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "ptit-beurre-cereales-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETIT BEURRE NATURE 150G BIO",
+                "desc": "Petit beurre nature 150G Bio\nBisson vous invite à découvrir des recettes gourmandes de biscuits sans œufs , qui mettent en avant les bienfaits du miel et des ingrédients moins raffinés (farine semi-complète, sucre de canne roux...).\nCraquez pour ces biscuits petit beurre très croustillants agrémentés d'une touche légère et subtile de noix de coco. Sans arôme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410101985_a1c1-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ptit-beurre-cereales-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 950
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 10.9
+                    },
+                    "fats": {
+                        "fats": 15.8
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.6,
+                        "of_which_sugars": 19.6,
+                        "dietary_fiber": 2
+                    }
+                },
+                "ingredients": "Farine de blé T65*, sucre de canne roux*, beurre* 15,6 %, amidon de blé*, miel*, noix de coco râpée*, lait écrémé en poudre*, sel marin, poudres à lever (carbonate de sodium et d'ammonium).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.7,
+                "price_per_unit": 18.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le goûter ou pour les petits creux à tout moment de la journée."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "twibio-choco-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TWIBIO CHOCOLAT NOIR 150G BIO",
+                "desc": "Twibio Chocolat noir 150G Bio\nA chacun son goût, à chacun son Twibio ! Twistez vos envies et faites le plein de saveurs avec cette gamme de 9 biscuits croquants au coeur de fruits ou de chocolat. Pour élaborer ces recettes, nous favorisons dans la mesure du possible des matières premières transformées dans le Sud Ouest de la France (farine, huile de tournesol) au plus près de notre biscuiterie.\nCraquez pour ce délicieux Twibio au coeur croquant de chocolat de noir issu du commerce équitable. Prêts à emporter : au petit déjeuner, pour le goûter, le sport… il fera le bonheur des petits comme des grands.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411229213.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/twibio-choco-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:08",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 225
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.2
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59,
+                        "of_which_sugars": 31.9,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Farine de blé T65*, huile de tournesol*, sucre de canne non raffiné*, sirop de blé*, beurre de cacao*, pépites de chocolat* 5% (sucre de canne*, pâte de cacao*, beurre de cacao*, extrait de vanille*), noisettes*, cacao en poudre* 3.7%, sirop d’agave*, fibres d’avoine*, poudre à lever : bicarbonate de sodium, jus concentré de citron*, poudre de vanille*. \nSouligné : ingrédients issus du commerce équitable. \n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 26.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêts à emporter : au petit déjeuner, pour le goûter, le sport… il fera le bonheur des petits comme des grands.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "twibio-myrtilles-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TWIBIO MYRTILLES 150G BIO",
+                "desc": "Twibio Myrtilles 150G Bio.\nA chacun son goût, à chacun son Twibio ! Twistez vos envies et faites le plein de saveurs avec cette gamme de 9 biscuits croquants au coeur de fruits ou de chocolat. Pour élaborer ces recettes, nous favorisons dans la mesure du possible des matières premières transformées dans le Sud Ouest de la France (farine, huile de tournesol) au plus près de notre biscuiterie.\nLaissez vous surprendre par le goût légèrement acidulé de ce délicieux Twibio aux myrtilles. Prêts à emporter : au petit déjeuner, pour le goûter, le sport… ils fera le bonheur des petits comme des grands.\nFabriqué en France.\n6 biscuits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411234972.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/twibio-myrtilles-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:09",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 220
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 8.2
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74.9,
+                        "of_which_sugars": 49.3,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Purée de pomme*, farine de blé T65*, sucre de canne non raffiné*, sirop de blé*, purée de myrtille* 8.4%, huile de tournesol*, beurre de cacao*, rapadura*, jus concentré de citron*, arôme naturel bio de myrtille* 0.4%, poudre à lever : bicarbonate de sodium, fibre d’avoine*, cannelle*. \nSouligné : ingrédients issus du commerce équitable. \n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 27.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "lunettes-a-la-fraise-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LUNETTES À LA FRAISE 200G BIO",
+                "desc": "Lunettes à La Fraise 200G Bio\nDes lunettes à la fraise bio pour le plaisir de vos papilles.\nBonneterre a sélectionné des ingrédients nobles pour vous proposer un produit de qualité. Ces lunettes bio à la fraise ont ainsi été élaborées selon une recette traditionnelle de Romans-sur-Isère. La pâte sablée de ces lunettes a été fabriquée à partir de farine d'épeautre complète",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380105630.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lunettes-a-la-fraise-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:09",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 225
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.3
+                    },
+                    "fats": {
+                        "fats": 16.5
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69,
+                        "of_which_sugars": 31.9,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Biscuit 80% : farine de blé*, sucre de canne*, farine d'épeautre*(blé) 18,75%, beurre concentré*, œufs*, huile de colza*, poudres à lever : phosphates de calcium et carbonates de sodium. Fourrage fraise (20%) : sirop de blé*, sucre de canne*, purée de fraise* (20%), gélifiant : pectine de fruits, arôme naturel, acidifiant : acide citrique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 24.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "lunettes-myrtille-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LUNETTES À LA MYRTILLE 200G BIO",
+                "desc": "Lunettes à la Myrtille 200G Bio\nBonneterre a sélectionné des ingrédients nobles pour vous proposer un produit de qualité. Ces lunettes à la myrtille ont ainsi été élaborées selon une recette traditionnelle de Romans-sur-Isère.\nLa pâte sablée de ces lunettes a été fabriquée à partir de farine d'épeautre complète",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380086670.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lunettes-myrtille-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:09",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 112
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.9
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70.5,
+                        "of_which_sugars": 32.6,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Biscuit : farine de blé*, sucre de canne*non raffiné, farine d’épeautre complète (blé) 19%*, beurre concentré (lait)*, œufs*, huile de colza, poudres à lever : phosphates de calcium et carbonates de sodium.\nFourrage myrtille (20%) : sirop de blé*non raffiné, sucre mi-blanc de canne*, purée de myrtille* (20%), gélifiant : pectine de fruits, arôme naturel*, acidifiant : acide citrique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.79,
+                "price_per_unit": 23.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "gaufrettes-chocolat-190g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GAUFRETTES CHOCOLAT 190G BIO",
+                "desc": "Gaufrettes chocolat 190G Bio\nLes Gaufrettes au chocolat de Bisson sont faites pour tous, et à consommer toute la journée : le matin au petit déjeuner, à quatre heures ... Pour petits et grands, les gaufrettes chocolat trouveront une place dans vos placard.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3268350120459_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gaufrettes-chocolat-190g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:09",
+                "format": "190G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8
+                    },
+                    "fats": {
+                        "fats": 26
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 65,
+                        "of_which_sugars": 38,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Chocolat* 35% (sucre de canne*, beurre de cacao*, poudre de cacao* dégraissée), farine de BLÉ*, sucre de canne*, huile de tournesol*, amidon de maïs*, mulsifiant : lécithine de colza, sel marin, poudre à lever : carbonates de sodium.\n*Issus de l’agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 3.59,
+                "price_per_unit": 18.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et frais. Consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "biscuits-ludino-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BISCUITS LUDINO CHOCOLAT AU LAIT 160G BIO",
+                "desc": "Biscuits ludino chocolat au lait 160g Bio\nDe jolis biscuits très gourmands.\nCes gâteaux bons et ludiques sont des minis sablés aux formes originales, recouverts de chocolat au lait, les enfants vont adorer.\nVous retrouverez 12 formes dans ce paquet d'animaux sauvages: éléphant, lion, crocodile, léopard, chameau, koala, tortue, ours.\nVos enfants pourront facilement les emmener pour leur goûter, grâce à leur emballage dans des sachets fraîcheur, en tout 4 sachets fraîcheur de 40g chacun.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410102913.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/biscuits-ludino-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:10",
+                "format": "160G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 450
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 23
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64,
+                        "of_which_sugars": 31,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Farine de blé T65*, chocolat au lait* 25% (sucre de canne*, beurre de cacao*, poudre de lait entier*, pâte de cacao*), sucre de canne roux*, beurre*, huile de tournesol*, oeufs entiers*, sel marin, poudre à lever: carbonates d'ammonium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 30.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    },
+    {
+        "ean": "p-tiwi-chocolat-lait-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Alimentation sucrée Enfant"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "P'TIWI CHOC CHOCOLAT AU LAIT 125G BIO",
+                "desc": "P'tiwi Choc chocolat au lait 125g Bio\nPetits et grands en sont fans. Ces petits beurres très TRES chocolat au lait s’adresse à tous les becs fins et se laissent facilement dévorer jusqu’à la dernière miette. Le secret de ces délicieux biscuits au beurre frais de Bretagne, c’est l’alliance de la farine de blé moulue à la meunerie familiale de Montricoux (Tarn-et-Garonne), une cuillère de lait cru de la ferme du Griffoulas (Vabre Tizac en Aveyron), du sucre de canne équitable non raffiné, une pointe de jus concentré de citron pour le goût, le tout recouvert d’une tablette de chocolat au lait équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410102913.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/p-tiwi-chocolat-lait-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:10",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 530
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 16.6
+                    },
+                    "fats": {
+                        "fats": 26.9
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 60.4,
+                        "of_which_sugars": 30.8,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Chocolat au lait* 48% (sucre de canne**, beurre de cacao**, poudre de lait entier*, pâte de cacao**, poudre de vanille**), farine de blé T65*, beurre* 8%, sucre de canne non raffiné**, lait cru entier*, poudres à lever : bicarbonate de sodium et d’ammonium, sel de mer, jus de citron concentré*. \n**Ingrédients issus du commerce équitable.\n*Ingrédients issus de l’agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 5.45,
+                "price_per_unit": 43.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T21:04",
+        "updated_at": "2025-06-15T21:04"
+    }
+]

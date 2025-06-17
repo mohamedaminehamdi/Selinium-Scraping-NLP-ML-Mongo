@@ -1,0 +1,1287 @@
+[
+    {
+        "ean": "000000000000066656",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 moelleux chocolat caramel au beurre salé",
+                "desc": "Pâtisseries surgelées composées d'un moelleux au chocolat 72,7% avec un coeur coulant au caramel 27,3%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moelleux-chocolat-caramel-beurre-sale-000000000000066656.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:06",
+                "format": "180.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 450.0
+                    },
+                    "minerals": {
+                        "salt": 0.15
+                    },
+                    "fats": {
+                        "fats": 30.0,
+                        "saturates": 19.0
+                    },
+                    "proteins": {
+                        "proteins": 5.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39.0,
+                        "of_which_sugars": 27.0,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "ŒUF entier de poule élevée en plein air (liquide, pasteurisé), beurre concentré 21% (LAIT), chocolat 15,4% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), farine de BLÉ (GLUTEN), caramel au beurre salé 10,1% [sirop de glucose-fructose, sucre, eau, beurre salé 9% (LAIT), amidon transformé de maïs, épaississants (gomme xanthane, pectines)], sucre, sirop de glucose, chocolat blanc (sucre, beurre de cacao, LAIT entier en poudre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), caramel 2,7% (sirop de glucose, sucre), LAIT écrémé en poudre, émulsifiant : lécithine de SOJA, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.7,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n18 min\nPréchauffez votre four à 180°C (th.6). Sortez les moelleux de leur étui et de leur sachet plastique. Pour obtenir des moelleux au cœur coulant, enfournez-les à mi-hauteur dans leur barquette et laissez cuire le temps indiqué. - four traditionnel : 22 min - four à chaleur tournante : 18 min Pour obtenir des moelleux au cœur tendre, enfournez-les à mi-hauteur dans leur barquette et laissez cuire le temps indiqué. - four traditionnel : 25 min - four à chaleur tournante : 20 min Démoulez les moelleux sur une assiette, laissez tiédir 10 minutes et dégustez.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.79,
+            "total_reviews": 540
+        }
+    },
+    {
+        "ean": "000000000000082182",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cake au chocolat, 6 parts",
+                "desc": "cake au chocolat pur beurre, cuit et surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cake-chocolat-6-parts-000000000000082182.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:06",
+                "format": "330.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 458.0
+                    },
+                    "minerals": {
+                        "salt": 0.29
+                    },
+                    "fats": {
+                        "fats": 28.0,
+                        "saturates": 18.0
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 33.0,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "OEUF issu de poule élevée en plein air (liquide, pasteurisé) 25,9%, beurre (LAIT) 21,6%, chocolat 21,6% (pâte de cacao, sucre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), sucre, farine de BLÉ (GLUTEN), poudres à lever (carbonates de sodium, tartrates de potassium)",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1 min 30\nSortez le cake de son étui et ôtez le film plastique. Déposez le cake, dans son moule, sur le plateau du four à micro-ondes et laissez réchauffer le temps indiqué: Puissance restituée du four à micro-ondes: 2 min - 750 watts 900 watts - 1 min 30\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nPréchauffez votre four à 180°C (th. 6). Sortez le cake de son étui et ôtez le film plastique. Déposez le cake dans son moule, recouvert d’une feuille de papier aluminium, sur la grille du four à mi-hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 35 min - Four à chaleur tournante : 30 min Laissez-le reposer 5 à 10 minutes dans son moule avant dégustation",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.67,
+            "total_reviews": 101
+        }
+    },
+    {
+        "ean": "000000000000082815",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 merveilleux au chocolat",
+                "desc": "Dessert pâtissier composé de mousse au chocolat 52%, de meringue 28% et de copeaux de chocolat 20%; surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw21e6062e/produits/000000000000063443_E4.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-merveilleux-175g-000000000000082815.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:06",
+                "format": "175.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 424.0
+                    },
+                    "minerals": {
+                        "salt": 0.1
+                    },
+                    "fats": {
+                        "fats": 26.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 42.0,
+                        "of_which_sugars": 40.0,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Crème liquide 38,5% [crème (LAIT), gélifiant : carraghénanes], copeau de chocolat noir 20% [pâte de cacao, sucre, beurre de cacao, matière grasse laitière anhydre (LAIT), émulsifiant : lécithine de SOJA, arôme naturel de vanille], chocolat noir 12,8% (pâte de cacao, sucre, émulsifiant : lécithine de SOJA, arôme naturel de vanille), sucre glace (sucre, fécule de pomme de terre), sucre, blanc d’ŒUF de poule élevée en plein air 9,2% (liquide, pasteurisé), cacao en poudre alcalinisé 0,5% (cacao en poudre, correcteurs d'acidité : hydroxyde de sodium, carbonates de potassium), blanc d’ŒUF de poule élevée en plein air en poudre 0,1%.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 175.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n1h30\nRetirez tous les emballages. Déposez les 2 merveilleux sur une assiette et laissez-les décongeler pendant 1 heure 30 au réfrigérateur.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.15,
+            "total_reviews": 144
+        }
+    },
+    {
+        "ean": "000000000000082183",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cake au citron, 6 parts, pur beurre, à réchauffer",
+                "desc": "Cake pur beurre aromatisé au citron, déjà cuit, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cake-au-citron-000000000000082183.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "format": "330.0 g",
+                "availability": true,
+                "nutriscore": "E",
+                "nutrition": {
+                    "energies": {
+                        "kj": 416.0
+                    },
+                    "minerals": {
+                        "salt": 0.3
+                    },
+                    "fats": {
+                        "fats": 24.0,
+                        "saturates": 15.0
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45.0,
+                        "of_which_sugars": 26.0,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Beurre (LAIT) 26,4%, sucre, farine de BLÉ (GLUTEN), blanc d'OEUF issu de poule élevée en plein air (liquide, pasteurisé) 14,4%, jaune d'OEUF issu de poule élevée en plein air (liquide, pasteurisé) 9,6%, huile essentielle de citron 0,6%, poudres à lever (carbonates de sodium, tartrates de potassium).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1min30\nSortez le cake de son étui et ôtez le film plastique. Déposez le cake, dans son moule, sur le plateau du four à micro-ondes et laissez réchauffer le temps indiqué. Puissance restituée du four à micro-ondes : 750w 900W 2 min 1 min 30\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30min\nPréchauffez votre four à 180°C (th. 6). Sortez le cake de son étui et ôtez le film plastique. Déposez le cake dans son moule, recouvert d'une feuille de papier aluminium, sur la grille du four à mi-hauteur et laissez réchauffer le temps indiqué. Four à chaleur tournante 30 min Four traditionnel 35 min. Laissez-le reposer 5 à 10 minutes dans son moule avant dégustation.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.36,
+            "total_reviews": 42
+        }
+    },
+    {
+        "ean": "000000000000058391",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtisseries"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Croquant chocolat",
+                "desc": "Pâtisserie surgelée composée d'une mousse au chocolat (44,7%), d'un croustillant chocolat à la noisette (43,6%), d'un biscuit aux amandes (11,1%) et d'un décor (0,6%)",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/croquant-chocolat-000000000000058391.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 480.0
+                    },
+                    "minerals": {
+                        "salt": 0.17
+                    },
+                    "fats": {
+                        "fats": 34.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 25.0,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Crème liquide [crème (LAIT), stabilisant : carraghénanes], pâte de NOISETTE 20,9%, chocolat noir 13% (pâte de cacao, sucre, beurre de cacao, émulsifiant : lécithine de SOJA), chocolat au LAIT 12,5% (sucre, beurre de cacao, LAIT entier en poudre, pâte de cacao, émulsifiant : lécithine de SOJA, arôme naturel de vanille), brisures de crêpe dentelle [farine de BLÉ (GLUTEN), sucre, huile de tournesol, LAIT écrémé en poudre, farine de malt d'ORGE (GLUTEN), sel], sucre, blanc d’ŒUF issu de poule élevé en plein air (liquide, pasteurisé), AMANDE en poudre 2,1%, farine de BLÉ (GLUTEN), pâte de cacao, eau, beurre de cacao, huile de colza, agent d'enrobage : cire d'abeille.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 13.5,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nSortez le Croquant chocolat de son étui et déposez-le sur une assiette de présentation avec sa cloche de protection. Placez-le au réfrigérateur et laissez décongeler pendant 5 heures.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.87,
+            "total_reviews": 438
+        }
+    },
+    {
+        "ean": "000000000000058432",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Macaron aux framboises",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/macaron-framboises-000000000000058432.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": true,
+                "weight_per_packaging": 560.0,
+                "price_per_packaging": 9.09,
+                "original_price": 12.99,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082015",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "16 Mignardises création",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-mignardises-creation-000000000000082015.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 10.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082170",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "16 macarons chocolat, framboise, vanille, pistache",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-macarons-chocolat-framboise-vanille-pistache-000000000000082170.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 205.0,
+                "price_per_packaging": 6.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082007",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Merveilleux au chocolat, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/merveilleux-chocolat-545g-000000000000082007.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 545.0,
+                "price_per_packaging": 14.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000042018",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte aux framboises",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-framboises-000000000000042018.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082148",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte à la normande",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-normande-000000000000082148.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 660.0,
+                "price_per_packaging": 6.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000042026",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte Tatin",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-tatin-000000000000042026.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 5.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Le joli médaillon, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/le-joli-medaillon-550g-000000000000082513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 550.0,
+                "price_per_packaging": 12.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086487",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 loukoumades à la grecque,beignets cannelle",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2loukoumades-a-la-grecque-000000000000086487.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 65.0,
+                "price_per_packaging": 1.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082518",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte fruits exotiques, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-fruits-exotiques-000000000000082518.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": true,
+                "weight_per_packaging": 520.0,
+                "price_per_packaging": 6.99,
+                "original_price": 7.99,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 12.52% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082533",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Divin chocolat-praliné, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/new-divin-choco-praline-000000000000082533.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 550.0,
+                "price_per_packaging": 15.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082537",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Charlotte aux fruits rouges, 8 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/charlotte-aux-fruits-rouges-000000000000082537.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 770.0,
+                "price_per_packaging": 16.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082521",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Cookie vibes, chocolat noix de pécan",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cookie-vibes-chocolat-noix-de-pecan-000000000000082521.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 95.0,
+                "price_per_packaging": 2.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082635",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Paris-Brest, 1 part",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/new-1-part-paris-brest80g-000000000000082635.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 3.6,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082528",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Flan pâtissier, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/flan-patissier-700g-000000000000082528.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 700.0,
+                "price_per_packaging": 7.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082442",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartelettes fines aux abricots",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartelet.-abricot-260g-000000000000082442.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.55,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082545",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 moelleux chocolat praliné",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moelleux-choco-praline-000000000000082545.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 4.7,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082445",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Choc'n roll, feuilleté à la pâte à tartiner",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-choc-n-roll-100g-000000000000082445.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082428",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Dessert façon tarte au citron,biscuit moelleux",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-dessert-tarte-au-citron-000000000000082428.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082816",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartelettes fines aux pommes",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartelettes-fines-aux-pommes-te-000000000000082816.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.95,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068089",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Açaï bowl à la purée de banane et d'açaï",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-bol-acai-bowl-banane-000000000000068089.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.3,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082510",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Cake vanille framboise façon rocher",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cake-van-framb-rocher-000000000000082510.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 5.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082330",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Cheesecake au citron",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cheesecake-au-citron-550g-000000000000082330.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 550.0,
+                "price_per_packaging": 14.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086317",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Torta de maracuja au fruit de la passion, 4 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/torta-de-maracuja-000000000000086317.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 290.0,
+                "price_per_packaging": 5.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068088",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Bol de compotée pomme-vanille et fruits",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-compotee-pomme-vanille-fruits-000000000000068088.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082625",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Tartelette abricot-amande",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tartelette-abricot-amande-000000000000082625.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082621",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 entremets chocolat",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-entremets-chocolat-000000000000082621.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 174.0,
+                "price_per_packaging": 6.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082435",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Moelleux banane, chocolat, pécan",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1moelleux-banane-choc-90g-000000000000082435.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 2.6,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082217",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Rainbow cake, gâteau arc-en-ciel, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/rainbow-cake-gateau-arc-ciel-6-parts-000000000000082217.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 15.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082151",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Flan pâtissier, 1 part",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/flan-patissier-1-part-000000000000082151.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": true,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.5,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Ce produit est offert pour 100 points Picard&Nous"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000066268",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 cheesecakes",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-cheesecakes-000000000000066268.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": true,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 4.79,
+                "original_price": 5.99,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082142",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "30 mignardises",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/30-mignardises-000000000000082142.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 355.0,
+                "price_per_packaging": 18.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000058755",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Fondant au chocolat",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fondant-chocolat-000000000000058755.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 470.0,
+                "price_per_packaging": 6.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082707",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "16 mignardises",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/16-nouvelles-mignardises-000000000000082707.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": false,
+                "weight_per_packaging": 245.0,
+                "price_per_packaging": 10.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082138",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Cheesecake à la framboise, 6 parts",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cheesecake-framboise-000000000000082138.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:07",
+                "on_discount": true,
+                "weight_per_packaging": 590.0,
+                "price_per_packaging": 15.99,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Ce produit est offert pour 700 points Picard&Nous"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    }
+]

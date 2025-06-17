@@ -1,0 +1,1755 @@
+[
+    {
+        "ean": "confiture-abricot-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA D'ABRICOTS 350G BIO",
+                "desc": "Confiture extra d'abricots 350G Bio\nConfiture extra d'abricots issus de l'agriculture biologique.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/o/confextra_3510330000016.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-abricot-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 60
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 58,
+                        "of_which_sugars": 55,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Abricots*, sucre de canne non raffiné*, agent gélifiant : pectines de fruits, jus concentré de citron* antioxydant : acide ascorbique.\n*Ingrédients issus de l'agriculture biologique.\nPréparée avec 65g de fruits pour 100g de produit fini.\nTeneur totale en sucres 55g pour 100g de produit fini.",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 8.54,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à température ambiante, à l'abri de la chaleur et de l'humidité.\nAprès ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-myrtilles-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA DE MYRTILLES ALLÉGÉE 340G BIO",
+                "desc": "Confiture extra de myrtilles allégée 340G Bio\nConfiture extra de myrtilles allégée en sucres (30% de sucre en moins qu'une confiture classique), issue de l'agriculture biologique.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.\n  Naturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000146.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-myrtilles-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "340G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 41,
+                        "of_which_sugars": 38,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Myrtilles*, sucre de canne non raffiné*, eau, agent gélifiant : pectine de fruits.\n*Ingrédient issu de l'agriculture biologique.\nPréparée avec 50g de fruits pour 100g de produit fini.\nTeneur totale en sucres 38g pour 100g de produit fini.",
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 11.74,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à température ambiante, à l'abri de la chaleur et de l'humidité.\nAprès ouverture, à conserver au réfrigérateur et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-framboises-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA DE FRAMBOISES 350G BIO",
+                "desc": "Confiture Extra De Framboises 350G Bio\nConfiture extra de framboises, issue de l'agriculture biologique.\n\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.\n  Naturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000146.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-framboises-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55,
+                        "of_which_sugars": 55,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Framboises*, sucre de canne non raffiné*, jus concentré de citron*, agent gélifiant :  pectines de fruits.\n*Ingrédient issu de l'agriculture biologique.\nPréparée avec 65g de fruits pour 100g de produit fini.\nTeneur totale en sucres 55g pour 100g de produit fini.",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 11.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à température ambiante, à l'abri de la chaleur et de l'humidité.\nAprès ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "pate-a-tartiner-75-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE À TARTINER 75% 300G BIO",
+                "desc": "Pâte à tartiner 75% 300g Bio\nDécouvrez cette pâte à tartiner équitable. Uniquement de bons ingrédients bio et équitables dans cette délicieuse préparation : 75% de noix de cajou et noisettes, du sucre de canne brut et du cacao, tout simplement ! 100% des ingrédients sont équitables. Sans huile de palme, sans lait, sans conservateurs ni aucun additifs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000306.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pate-a-tartiner-75-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.9
+                    },
+                    "fats": {
+                        "fats": 40.6
+                    },
+                    "proteins": {
+                        "proteins": 13.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.5,
+                        "of_which_sugars": 23.7,
+                        "dietary_fiber": 7.2
+                    }
+                },
+                "ingredients": "Noisettes*° (37,5%), noix de cajou*° (37,5%), sucre de canne brut*° (20%), poudre de cacao maigre (5%).\n*Produit issu de l'Agriculture Biologique.\n°Commerce quitablé contrôlé selon le référentiel Fair for Life.\nPeut contenir des traces de cacahuètes, sésame, fruits à coques.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 10.95,
+                "price_per_unit": 36.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines le matin, sur des crêpes, gauffres, galettes de riz et bien d'autres.\nBien remuer avant chaque utilisation.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-myrtille-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA DE MYRTILLES SAUVAGES 360G BIO",
+                "desc": "Confiture Extra de Myrtilles sauvages 360g Bio\nLes Myrtilles sauvages sont mélangées à du sucre blond de canne issu du commerce équitable. La préparation est cuite à la main, sans cloche, pour une teneur en eau la plus faible possible. Un mixage est réalisé en fin de cuisson. Nos confitures sont réalisées sans pectine de fruit, ni autre adjuvant, pour une teneur en fruit maximale.\n\nCette confiture a été réalisée sur le lieu de récolte des myrtilles sauvages dans le massif des Monédières en Corrèze (France).\nBocal en verre de 360g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-myrtille-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 60.39,
+                        "of_which_sugars": 57.1,
+                        "dietary_fiber": 2.72
+                    }
+                },
+                "ingredients": "Myrtilles sauvages*, sucre de canne*.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 8.55,
+                "price_per_unit": 23.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation à tartiner ou à mélanger à du fromage blanc ou du yaourt nature.\nRemuer avant utilisation.",
+                "conservation": "Conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-myrtille-730g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE EXTRA DE MYRTILLES SAUVAGES 730G BIO",
+                "desc": "Confiture extra de Myrtilles sauvages 730g Bio\nLes Myrtilles sauvages sont mélangées à du sucre blond de canne issu du commerce équitable. La préparation est cuite à la main, sans cloche, pour une teneur en eau la plus faible possible. Un mixage est réalisé en fin de cuisson. Nos confitures sont réalisées sans pectine de fruit, ni autre adjuvant, pour une teneur en fruit maximale.\n\nCette confiture a été réalisée sur le lieu de récolte des myrtilles sauvages dans le massif des Monédières en Corrèze (France).\nBocal en verre de 730g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-myrtille-730g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:04",
+                "format": "730G",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 60.39,
+                        "of_which_sugars": 57.1,
+                        "dietary_fiber": 2.72
+                    }
+                },
+                "ingredients": "Myrtilles* sauvages 60%, sucre de canne* 40%.\n*Ingrédients agricoles issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 730.0,
+                "price_per_packaging": 14.25,
+                "price_per_unit": 20.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 14.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Préparation à tartiner ou à mélanger à du fromage blanc ou du yaourt nature.\nRemuer avant utilisation.",
+                "conservation": "Conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "puree-myrtill-ssuc-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE MYRTILLES SAUVAGES 280G BIO",
+                "desc": "Purée de Myrtilles sauvages 280g Bio\nLes myrtilles sont travaillées en bassine, pour une légère cuisson et un travail de la texture par mixage. C'est ce mode de fabrication au plus près du fruit qui permet d'obtenir une purée avec des morceaux, en restant exclusivement sur de la Myrtille sauvage.\nUne stérilisation permet la conservation du produit.\nUne purée 100% myrtilles sauvages sans sucres ajoutés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-myrtill-ssuc-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 9.78,
+                        "of_which_sugars": 7.99,
+                        "dietary_fiber": 4.43
+                    }
+                },
+                "ingredients": "Myrtilles sauvages* (100%).\n*Ingrédients agricoles issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 9.25,
+                "price_per_unit": 33.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle peut se tartiner ou accompagner vos desserts (yaourts, sorbets..).\nA remuer avant utilisation.",
+                "conservation": "Conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-figue-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE FIGUE 360G BIO",
+                "desc": "Confiture de Figue 360g Bio\nConfiture Corse extra cuite au chaudron.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-figue-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55.3,
+                        "of_which_sugars": 47.1
+                    }
+                },
+                "ingredients": "Figues*, sucre de canne roux*, pectine, jus de citron*\n*Issu de l'agriculture biologique.\nTeneur en sucre totale 60%\nPréparée avec 55%",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-d-orange-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE D'ORANGE 360G BIO",
+                "desc": "Confiture d'Orange 360g Bio\nConfiture extra corse extra cuite au chaudron.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908291-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-d-orange-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55.5,
+                        "of_which_sugars": 49.4
+                    }
+                },
+                "ingredients": "Orange corse*, sucre de canne roux*, pectine de fruit\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-clementine-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE CLÉMENTINE 360G BIO",
+                "desc": "Confiture Clémentine 360G Bio\nConfiture extra corse. Cuite au chaudron.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908307-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-clementine-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 48.3
+                    }
+                },
+                "ingredients": "Clémentine corse*, sucre de canne roux*, pectine.\n* issu de l'agriculture biologique\nTeneur en sucre totale 60%\nPréparée avec 55%",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au réfrégirateur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-cedrat-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE CEDRAT 360G BIO",
+                "desc": "Confiture de Cédrat 360g Bio\nConfiture corse extra cuite au chaudron.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/d/i/diapositive16.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-cedrat-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 57.5,
+                        "of_which_sugars": 49.3
+                    }
+                },
+                "ingredients": "Cédrat*, sucre de canne*, pectine\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner vos tartines le matin;",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-3-agrumes-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE 3 AGRUMES 360G BIO",
+                "desc": "Confiture 3 Agrumes 360G Bio\nConfiture corse extra cuite au chaudron.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301595002613_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-3-agrumes-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 56.5,
+                        "of_which_sugars": 47.9
+                    }
+                },
+                "ingredients": "Orange*, citron*, pomelos*, sucre de canne roux*, pectine\n*Issu de l'agriculture biologique.\nPréparée avec 50% de fruits.\nTeneur totale en sucre 60%",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner sur vos tartines.",
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-mandarine-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE MANDARINE 360G BIO",
+                "desc": "Confiture de mandarine 360G Bio\nConfiture de mandarine Corse extra cuite au chaudron.\nPréparée avec 55g de fruits pour 100g. Teneur totale en sucre 60g pour 100g.\nFabrication artisanale Corse.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000146.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-mandarine-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55,
+                        "of_which_sugars": 48.7
+                    }
+                },
+                "ingredients": "Mandarine Corse*, sucre de canne*, pectine si nécessaire.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 13.03,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-chataigne-370g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE CHÂTAIGNE 370G BIO",
+                "desc": "Confiture de châtaigne 370G Bio.\nCuites au chaudron. Fabrication artisanale.\nInstallée au coeur de la montagne corse, l'entreprise familiale Jean-Paul Vincensini et fils s'engage depuis 40ans sur la qualité et l'authenticité de ses produits. Elle met en oeuvre tout son savoir faire pour vous offrir ine confiture corse de grande tradition",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301595002613_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-chataigne-370g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "370G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.1,
+                        "of_which_sugars": 43.5
+                    }
+                },
+                "ingredients": "Châtaigne de Corse*, sucre de canne roux*.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 370.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-d-orange-amere-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE D'ORANGE AMÈRE 360G BIO",
+                "desc": "Confiture d'orange amère 360G Bio.\nL'orange amère Corse est la plus anciènne des oranges, son goût est sauvage subtilement amère et sucré et se prète particulièrement bien à la production de confiture.\nLes fruits sont sélectionnés et triés manuellement pour écarter les fruits abimés ou trop peu mûrs, ils sont finement hachés et cuits au chaudron sur vapeur, une technique qui respecte et conserve très bien les aromes naturels.\nLe sucre du fruit et le sucre de canne apporté font une teneur en sucre totale de cette confiture de 60%.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131114200.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-d-orange-amere-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.5,
+                        "of_which_sugars": 48.8
+                    }
+                },
+                "ingredients": "Orange amère* de Corse, sucre de canne roux*, pectine si nécéssaire.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser en l’état, au petit déjeuner ou au dessert, en accompagnement de glace à la vanille ou d’un yaourt nature, ou encore comme ingrédient de préparation pâtissière.",
+                "conservation": "Après ouverture, conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-prune-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE PRUNE 360G BIO",
+                "desc": "Confiture De Prune 360g Bio\nConfiture Corse extra cuite au chaudron.\nLes fruits sont sélectionnés selon les variétés anciennes locales les plus riches en sucre naturel et en aromes.\nAprès un tri manuel écartant les fruits abimés, ils sont finement hachés et cuits au chaudron sur vapeur, une technique qui respecte et conserve très bien les aromes naturels.\nLe sucre du fruit et le sucre de canne apporté font une teneur en sucre totale de cette confiture de 60%.\nFabrication artisanale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131114200.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-prune-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "360G",
+                "availability": true,
+                "ingredients": "Prunes*, sucre de canne roux*, jus de citron, pectine de fruit si necessaire.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 13.03,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser en l’ état , au petit déjeuner ou au dessert , en accompagnement de glace à la vanille ou d’ un yaourt  nature , ou encore comme ingrédient de préparation pâtissière.",
+                "conservation": "A conserver au frais après ouverture ."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "creme-marron-vanille-370g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE MARRON À LA VANILLE 370G BIO",
+                "desc": "Crème de marron à la vanille 370G Bio\nInstallée au coeur de la montagne corse, l'entreprise familiale Jean-Paul Vincensini et fils s'engage depuis 40ans sur la qualité et l'authenticité de ses produits.\nElle met en oeuvre tout son savoir faire pour vous offrir une confiture corse de grande tradition.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8052575090322-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-marron-vanille-370g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "370G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.3,
+                        "of_which_sugars": 43.8
+                    }
+                },
+                "ingredients": "Marron de Corse*, sucre de canne roux*, vanille* 0,16%.\nPréparée avec 50g de fruits pour 100g.\nTeneur totale en sucre 60g pour 100g\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 370.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 13.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "gelee-groseille-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GELÉE DE GROSEILLES EXTRA 260G BIO",
+                "desc": "Gelée de Groseilles extra 260g Bio\nSavourez de délicieuses tartines avec la gelée groseilles extra de Côteaux Nantais ! Retrouvez le bon goût du \"fait maison\" avec cette préparation élaborée avec soin à partir de baies rigoureusement sélectionnées et ceuillies à maturité. On aime sa robe limpide et brillante qui nous fait de l'œil et ses saveurs authentiques.\nCuite au bain marie en chaudron traditionnel, cette gelée préserve toute la richesse des arômes, pour des petits-déjeuners et des goûters exquis !\nHaute teneur en fruits (65%), certifiée Bio, made in France, 260g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000146.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gelee-groseille-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64.4,
+                        "of_which_sugars": 58.4,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Groseilles*, sucre roux* issu du commerce équitable, gélifiant : pectines.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.35,
+                "price_per_unit": 20.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour accompagner vos tartines ou vos toast grillés.\nPeut également accompagner vos préparation cullinaires (gâteaux, tartes...)",
+                "conservation": "Conserver à l'abri de la lumière et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "gelee-cassis-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GELÉE DE CASSIS EXTRA 260G BIO",
+                "desc": "Gelée de Cassis extra 260g Bio\nDécouvrez la gelée de cassis bio Côteaux Nantais ! \nUne gelée à la texture douce et lisse, au bon goût de Cassis. Vous y retrouverez le caractère bien typé du cassis provenant des terroirs d'Autrefois. La gelée de fruits est parfaite pour se préparer des tartines au petit déjeuner ou au goûter ! \nLes + produit :\n100% fruits biologique\nSans sucre ajouté\nFabriqué à Nantes !\nSnack sain et original",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000146.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gelee-cassis-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66.6,
+                        "of_which_sugars": 62.5,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Cassis*, sucre roux*.",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 5.85,
+                "price_per_unit": 22.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal sur vos tartines de pain le matin, ou sur des toasts grillés.",
+                "conservation": "Conserver à l'abri de la lumière et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "gelee-coing-extra-260g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GELÉE DE COING EXTRA 260G BIO",
+                "desc": "Gelée de Coings Extra 260g Bio\nLes amateurs de coings sauront reconnaître toute l'authenticité du fruit dans cette gelée au goût intense et raffiné. Un délice en accompagnement sucré-salé avec la volaille, du porc ou même du foie gras frais.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131114200.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gelee-coing-extra-260g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:06",
+                "format": "260G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66,
+                        "of_which_sugars": 60,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Coings*, sucre roux*\n*issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 260.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 19.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-d-abricots-690g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE D'ABRICOTS EXTRA 690G BIO",
+                "desc": "Confiture d'abricots extra 690G Bio.\nFabriquée à partir de fruits entiers.\n65g de fruits pour 100g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3510330000023.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-d-abricots-690g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:07",
+                "format": "690G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63,
+                        "of_which_sugars": 61
+                    }
+                },
+                "ingredients": "Abricots*, sucre roux*.",
+                "on_discount": false,
+                "weight_per_packaging": 690.0,
+                "price_per_packaging": 8.6,
+                "price_per_unit": 12.46,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Peut cntenir des brisures de noyaux.",
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "confiture-de-fraises-690g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CONFITURE DE FRAISES EXTRA 690G BIO",
+                "desc": "Confiture de fraises extra 690G Bio.\nFabriquée à partir de fruits entiers.\n65g de fruits pour 100g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/o/confextra_3510330000016.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/confiture-de-fraises-690g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:07",
+                "format": "690G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62,
+                        "of_which_sugars": 60
+                    }
+                },
+                "ingredients": "Fraises*, sucre de canne*, gélifiants : pectines.",
+                "on_discount": false,
+                "weight_per_packaging": 690.0,
+                "price_per_packaging": 8.95,
+                "price_per_unit": 12.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "specialite-coing-310g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRÉPARATION DE COING 310G BIO",
+                "desc": "Préparation de Coing 310g Bio\nPlus intenses en saveurs fruitées que les confitures, nos préparations 100% issues de fruits sont élaborées sans saccharose (contrairement à la plupart des confitures). \nRetrouvez l’irrésistible coing dans une préparation bio 100% fruits. Vous apprécierez sa texture oncteuse au moment du petit-déjeuner.\nOrigine du produit : France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301595002613_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/specialite-coing-310g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:07",
+                "format": "310G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 40.5,
+                        "of_which_sugars": 37.7,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Coing* (55%), jus de concentré de raisin rectifié*, gélifiant : pectine de fruits, lithothamne.\n*Produits issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 310.0,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 19.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette préparation au coing est cuite sous vide à basse température pour préserver les qualités des fruits et sera idéale pour le petit déjeuner ou la préparation de pâtisserie.",
+                "conservation": "Après ouverture, à conserver au frais (0°-6°C). et consommer dans les 7 jours."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "specialite-fraise-310g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPÉCIALITÉ DE FRAISE 310G BIO",
+                "desc": "Spécialité de Fraise 310g Bio\nPlus intenses en saveurs fruitées que les confitures, nos 100% issues de fruits sont élaborées sans saccharose (contrairement à la plupart des confitures).\nNotre cuisson douce à basse température permet de préserver au maximum la couleur, la texture et la saveur des fruits.\nA utiliser comme une confiture.\nCuisson sous vide à basse température.\nEtiquette en papier recyclé.\nEncre à l'eau.\n100% issu de fruits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03301595002613_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/specialite-fraise-310g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:07",
+                "format": "310G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 37.2,
+                        "of_which_sugars": 37.2,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Fraises*, jus concentré de pomme* et de raisin*, pectine de fruit, sel de calcium, jus de citron*\n*Issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 310.0,
+                "price_per_packaging": 6.19,
+                "price_per_unit": 19.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser comme une confiture.",
+                "conservation": "Après ouverture, à conserver au frais (0-6°)"
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    },
+    {
+        "ean": "specialite-citron-310g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Confitures, Pâtes à tartiner"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SPÉCIALITÉ AU CITRON 310G BIO",
+                "desc": "Spécialité au Citron 310g Bio\nCette préparation au citron jaune bio Saveurs Attitudes est cuite sous vide à basse température pour préserver les qualités des fruits et est idéal au petit déjeuner ou en pâtisserie.\nRedécouvrez la saveur acidulée du citron dans une préparation 100% fruits bio.\nCette préparation possèdent un index glycémique bas permettant de prendre soin de votre santé.\nIntensemment fruité.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/o/confextra_3510330000016.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/specialite-citron-310g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T23:07",
+                "format": "310G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 37.7,
+                        "of_which_sugars": 37.6,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Jus concentré de raisin rectifié*, citron* (45%), gélifiant : pectine de fruits.\n*Ingrédients issus de l'agriculture biologique.\nPrésence possible de pépins.",
+                "on_discount": false,
+                "weight_per_packaging": 310.0,
+                "price_per_packaging": 5.15,
+                "price_per_unit": 16.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle est idéale pour le petit déjeuner ou à utiliser pour vos pâtisseries favorites.\nA déguster pour un goûter ou un dessert équilibré sur une tartine, avec un fromage blanc, un yaourt ou même à la petite cuillère.",
+                "conservation": "Après ouverture à conserver au frais (0-6°C) et consommer dans les 7 jours."
+            }
+        ],
+        "created_at": "2025-06-15T23:03",
+        "updated_at": "2025-06-15T23:03"
+    }
+]

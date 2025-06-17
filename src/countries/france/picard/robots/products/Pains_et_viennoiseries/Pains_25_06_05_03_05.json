@@ -1,0 +1,227 @@
+[
+    {
+        "ean": "000000000000082460",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Banana bread, cake à la banane, 6 parts",
+                "desc": "Cake à la purée de banane et aux pépites de chocolat, cuit, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/banana-bread-300g-000000000000082460.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-05T03:05",
+                "format": "LA BOÎTE DE 300 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), purée de banane 26%, sucre, ŒUF de poule élevée en plein air (liquide, pasteurisé), pépite de chocolat 5,9% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithines de SOJA, arôme naturel de vanille), beurre (LAIT), huile de colza, amidon de maïs, poudres à lever (carbonates de sodium, tartrate monopotassique), antioxydant : acide ascorbique, farine de BLÉ (GLUTEN) malté.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1 min 30 sec\nSortez le cake de son étui et ôtez le film plastique. Déposez le cake, dans son moule, sur le plateau du four à micro-ondes et laissez réchauffer le temps indiqué: Puissance restituée du four à micro-ondes: 2 min - 750 watts 900 watts - 1 min 30\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nPréchauffez votre four à 160°C (th. 6). Sortez le cake de son étui et ôtez le film plastique. Déposez le cake dans son moule sur la grille du four à mi-hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 33 min - Four à chaleur tournante : 30 min Laissez-le reposer 5 à 10 minutes dans son moule avant dégustation",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n16,33 €/kg\nprix soldé\n2,45 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n9,50 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,47 €/kg\nprix soldé\n4,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,08 €/kg\nprix soldé\n1,70 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n5,55 €/kg\nprix soldé\n2,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000082418",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pains"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 muffins fourrés à la pâte à tartiner",
+                "desc": "Gâteaux 81,6% avec fourrage à la pâte à tartiner aux noisettes et au cacao et pépites de chocolat, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw90e96684/produits/pack/000000000000082225_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-muffins-fourres-160g-000000000000082418.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-05T03:05",
+                "format": "LA BOÎTE DE 160 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Sucre, farine de BLÉ [farine de BLÉ (GLUTEN), GLUTEN de BLÉ], ŒUF de poule élevée en plein air (liquide, pasteurisé), huile de colza, pâte à tartiner à la NOISETTE et au cacao 15% (sucre, huile de colza, NOISETTE 1,9%, cacao maigre en poudre 1,1%, LAIT écrémé en poudre, beurre de cacao, émulsifiant : lécithines de colza, arôme naturel), eau, pépite de chocolat 3,4% (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithines de SOJA), amidon de maïs, poudres à lever (tartrates de potassium, carbonates de sodium), farine de BLÉ (GLUTEN), lactosérum en poudre (LAIT), sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n30 secondes\nEnlever les muffins de leur emballage. Déposez-les avec leur moule papier dans le four à micro-ondes et laissez réchauffer le temps indiqué à 750 watts : Pour 1 muffin : 30 secondes Pour 2 muffins : 50 secondes Laissez reposer quelques instants à température ambiante avant de les déguster.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n16,33 €/kg\nprix soldé\n2,45 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n9,50 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,47 €/kg\nprix soldé\n4,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,08 €/kg\nprix soldé\n1,70 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n5,55 €/kg\nprix soldé\n2,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.64,
+            "total_reviews": 25
+        }
+    }
+]

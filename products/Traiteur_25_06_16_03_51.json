@@ -1,0 +1,1464 @@
+[
+    {
+        "ean": "houmous-pois-chiche-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HOUMOUS DE POIS CHICHE 160G BIO",
+                "desc": "Houmous de pois chiche 160g Bio\nRégalez-vous avec cet houmous crémeux issus de l'agriculture biologique.\nPois chiche d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685906398.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/houmous-pois-chiche-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:49",
+                "format": "160G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.8
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 7.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "dietary_fiber": 6
+                    }
+                },
+                "ingredients": "Pois chiches* 61% (France), eau, pâte de GRAINES DE SÉSAME décortiquées* 8%, huile d'olive vierge extra*, jus de citron*, huile de colza*, sel de Guérande, ail*, poivre*.\nTraces éventuelles de fruits à coque.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 26.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dégustez cet houmous en apéritif en dippant vos gressins ou légumes ou dans vos recettes exotiques.",
+                "conservation": "A conserver au réfrégirateur entre 0°C et +4°C et à consommer sous 3 jours après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "3836135",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GNOCCHI À POÊLER 300G BIO",
+                "desc": "Gnocchi à poêler 300g Bio\nDécouvrez ces gnocchis à poêler issus de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/9/191000447_3184340004472_gnocchi.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gnocchi-a-poeler-300g-3836135"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:49",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 40,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Eau, semoule de blé dur de qualité supérieure*, flocons de pommes de terre déshydratées* 11,3%, huile de tournesol*, sel.\nTraces éventuelles d'oeufs, de lait, de soja, de fruits à coque.\n*Ingrédient issu de l'agriculture biologique.\n  Les informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 7.63,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans une poêle antiadhésive, faire fondre 15g de matière grasse puis verser les gnocchis. Faire dorer à feu vif 3 minutes, en remuant régulièrement. Couvrir et laisser cuire 2 minutes à feu doux sans oublier de remuer de temps en temps.\nServir immédiatement.",
+                "conservation": "A conserver au réfrigérateur, entre 0° et 4°C.\nA consommer dans les 24 heures après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "galettes-sarrasin-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GALETTES DE BLÉ NOIR X6 300G BIO",
+                "desc": "Galettes de blé noir x6 300G Bio\n6 galettes de blé noir au sel de Guérande issues de l'agriculture biologique.\nDepuis sa création en1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio.\nCes partenariats, fondés sur l'expertise et la maîtrise des filières, garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685000010.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/galettes-sarrasin-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:49",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 32,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Eau, farine de blé noir* 50%, sel de Guérande 1,8%.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 11.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre 0°C et +2°C.\nA consommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "crepes-de-froment-6x40g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÊPES DE FROMENT X6 40G BIO",
+                "desc": "Crêpes de froment x6 40G Bio\n6 crêpes de froment BIO, produites par La Crêpe de Brocéliande.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760049281132.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crepes-de-froment-6x40g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:49",
+                "format": "40G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 390
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43,
+                        "of_which_sugars": 22
+                    }
+                },
+                "ingredients": "Farine de froment* (gluten) 37%, lait entier*, œufs*, sucre de canne*, huile de tournesol*, sel de Guérande.\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 14.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "lentilles-vertes-au-tofu-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES VERTES AU TOFU 200G BIO",
+                "desc": "Lentilles vertes au Tofu 200g Bio\nDécouvrez cette salade de lentilles vertes au tofu, issue de l'agriculture biologique.\nSoja français.\n                  Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198782054.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-vertes-au-tofu-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:49",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 9.4
+                    },
+                    "proteins": {
+                        "proteins": 9.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "Lentilles vertes* cuites 45,9% (lentilles vertes*, eau), spécialité végétale à base de soja* 27,5% (tofu frais*[eau, soja* 8,8%, agent de coagulation : nigari], sel, ail*, épices*), sauce vinaigrette* (huile de tournesol*, vinaigre d'alcool*, eau, graines de moutarde, sel), oignons rouges*, sel, poivre blanc*, vinaigre d'alcool*.",
+                "allergens": [
+                    "Soja",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.89,
+                "price_per_unit": 14.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mélanger après ouverture.",
+                "conservation": "A conserver au frais entre 0° et 4°C.\nConsommer rapidement après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "carottes-rapees-persil-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAROTTES RÂPÉES PERSILLÉES 200G BIO",
+                "desc": "Carottes râpées persillées 200g Bio\nDécouvrez cette salade de carottes râpées persillées issues de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/u/puree_d_epinards-350g.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carottes-rapees-persil-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 8.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.3,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Carottes râpées* 79%, sauce vinaigrette* 14% (huile de tournesol*, eau, vinaigre d'alcool*, graines de moutarde*, sel), persil* 3,1%, échalote*, huile d'olive vierge extra*, jus de citron*, huile essentielle de citron*.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles de gluten, d'oeufs, de poisson, de soja, de lait, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 11.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour une pause déjeuner.",
+                "conservation": "A conserver entre 0° et 4°C. A consommer rapidemment après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "3836689",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOUDOU AUX RAISINS 200G BIO",
+                "desc": "Choudou aux Raisins 200g Bio\nDécouvrez cet salade de chou, de carottes râpées, de raisins secs et de graines de courge issue de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198781019.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choudou-aux-raisins-200g-3836689"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.2,
+                        "of_which_sugars": 4.8,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Chou blanc* 40,5%, carottes* 30%, sauce vinaigrette* (huile de tournesol*, eau, vinaigre d'alcool*, graines de moutarde*, sel), raisins secs* 5,4% (raisins secs*, huile de tournesol*), graines de courge* 1,7%.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelle de gluten, d'oeufs, de poisson, de soja, de lait, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 14.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal comme entrée pour le déjeuner.",
+                "conservation": "A conserver au frais, entre 0° et 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "lentilles-cor-kasha-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES CORAIL AUX RAISINS ET AU SARRASIN GRILLÉ 200G...",
+                "desc": "Lentilles corail aux Raisins et au Sarrasin grillé 200g Bio\nDécouvrez cette salalde de lentilles corail aux raisins et au sarrasin grillé kasha issue de l'agriculture biologique.\nSource de fibres.\n\n                Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198782054.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-cor-kasha-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 8.6
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25,
+                        "of_which_sugars": 5.3,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Lentills corail* cuites 69,2% (lentilles corail*, eau), vinaigrette allégée en matières grasses* (eau, huile d'olive*, huile de tournesol*, vinaigre d'alcool*, graines de moutarde*, sel, sucre*, épices*), raisins secs* 6% (raisins secs*, huile de tournesol*), oignons rouges*, graines de pavot*, sarrasin décortiqué grillé \"Kasha\"* 1,4%, menthe*, sel, poivre*.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles de gluten, d'oeuf, de poisson, de soja, de lait, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 16.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le déjeuner.",
+                "conservation": "A conserver entre 0° et 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "taboule-leg-poivron-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABOULÉ DE LÉGUMES 200G BIO",
+                "desc": "Taboulé de légumes 200g Bio\nDécouvrez ce taboulé à base de semoule de blé dur, de légumes et de raisins secs issue de l'agriculture biologique.\nContenant des légumes frais.\n                Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198781033.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/taboule-leg-poivron-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.3
+                    },
+                    "fats": {
+                        "fats": 11
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22,
+                        "of_which_sugars": 3.1,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Semoulé de blé* réhydratée 50% (semoule de blé dur* de qualité supérieure 26%, eau), tomates* 16%, sauce vinaigrette* 14% (huile de tournesol*, eau, vinaigre d'alcool*, graines de moutarde*, sel), poivrons verts* 7%, poivrons rouges* 5,5%, oignons 2%, raisins secs* 2% (don huile de tournesol*), huile essentielle de citron*.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles d'oeufs, de poisson, de lait, de soja, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.39,
+                "price_per_unit": 11.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal en entrée pour le déjeuner.",
+                "conservation": "A conserver entre 0° et 4°C.\nConditionné sous atmosphère protectrice."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "houmous-lentil-corail-cor-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HOUMOUS DE LENTILLES CORAIL & CORIANDRE 150G BIO",
+                "desc": "Houmous de lentilles corail & coriandre 150G Bio.\nHoumous de lentilles corail et patate douce artisanal fabriqué dans notre atelier à Vannes, en Bretagne, à partir de légumineuse d'origine Française en priorité.\nL'intégralité des ingrédients de nos recettes est issue de l'agriculture biologique.\nIls sont sans protéine animale, sans colorant ni conservateur chimique et sans OGM. Notre gamme de houmous se décline en format libre service, restauration hors foyer, industriel.\nRecette vegetalienne. Conforme au mode de consommation Vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920022014.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/houmous-lentil-corail-cor-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 810
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 16
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 2.9
+                    }
+                },
+                "ingredients": "Lentilles corail* origine France 49 %, patate douce* 20 %, huile de colza*, jus de citron*, pâte de graines de sésame* décortiquées, crème de coco* (extrait de noix de coco*, eau, stabilisant : gomme guar*), coriandre* 2 %, gingembre*, sucre de canne*, vinaigre de riz*, sel de Guérande, curcuma*, poivre*.\n* Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 26.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "3243643",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE FEUILLETÉE PUR BEURRE 250G BIO",
+                "desc": "Pâte feuilletée pur beurre 250G Bio\nUne pâte feuilletée pur beurre multicéréales pour plus de gourmandise et d'authenticité avec l'ajout de céréales complètes dans la recette.\nUne pâte à dérouler moelleuse et croustillante sans additif pour les tartes salées ou sucrées maison.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8032754340608.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pate-feuilletee-beurre-250g-3243643"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 12
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 38,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Farine de BLÉ T65*, eau, BEURRE* 23 %, farines multicéréales* 10 % (farine de BLÉ  complète T110*, farine d'ÉPEAUTRE semi-complète T80*, farine de seigle complète T130*), sel de Guérande, jus de citron concentré*.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.55,
+                "price_per_unit": 14.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Permet la préparation rapide de quiches, tartes etc.\nDérouler la pâte dans un moule à tarte dès la sortie du réfrigérateur en conservant sa feuille de cuisson.\nPiquer le fond de tarte avant de la garnir. \nRéaliser une pré-cuisson à blanc pour une pâte plus croustillante. \nCuire à 180°C pendant environ 35 minutes en fonction de la préparation.",
+                "conservation": "Conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "cordon-bleu-2x100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CORDONS BLEUS DE VOLAILLE À L'EMMENTAL 2X100G BIO",
+                "desc": "Cordons bleus de volaille à l'emmental 2x100G Bio\nVite préparé et bien gourmand, ce cordon bleu bio fabriqué à base de volaille rigoureusement sélectionnée fera une délicieux déjeuner pour petits et grands.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3531150000109.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cordon-bleu-2x100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.3
+                    },
+                    "fats": {
+                        "fats": 20.1
+                    },
+                    "proteins": {
+                        "proteins": 13.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.4,
+                        "of_which_sugars": 0.8
+                    }
+                },
+                "ingredients": "Viande de volaille 45% (viande de poulet*, viande de dinde*, viande de poule*), chapelure* (farine de blé*, levure*, sel), jambon de dinde* 10% (viande de dinde* 8,6%, sel sirop de glucose*, sucre de canne*, antioxydant : acide ascorbique, ail*, huile essentielle de poivre*), Emmental 10% (lait*, présure, sel), eau, huile de tournesol*, peau de poulet*, farine de blé*, flocon de pomme de terre* (dont extrait de romarin*), sel, dextrose*, poivre*.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 6.69,
+                "price_per_unit": 33.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la poêle : préchauffez votre poêle et faites réchauffer pendant 5 minutes en retournant à la mi-cuisson.\nAu four traditionnel : préchauffez votre four à 230 °C (th. 6/7) et faites réchauffer pendant environ 8 minutes.",
+                "conservation": "A conserver entre 0°C et 4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "falafel-240g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FALAFELS 240G BIO",
+                "desc": "Falafels 240G Bio\nLes falafels sont une des spécialités culinaires les plus célèbres et les réputées du Proche Orient. Les falafels bio de Florentin sont cuisinés suivant des recettes traditionnelles à base de pois chiches, oignons, persil et ail comme principaux ingrédients.\nProposez un délicieux repas complet en plaçant ces falafels dans du pain pita, garni avec des salades et des sauces.\nRecette traditionnelle : les falafels de Florentin sont produits suivant la recette traditionnelle libanaise afin de vous garantir un goût authentique.\n70% de pois chiche : les falafels de Florentin sont fabriqués sans soja, et avec 70% de pois chiche afin de rester au plus proche du goût original.\nUne recette épurée : sans sucres ajoutés, sans additifs\nCe produit convient idéalement aux personnes allergiques au lait animal ou qui sont végétaliens.\nNe contient naturellement pas de gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/falafel-240g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:50",
+                "format": "240G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 14.3
+                    },
+                    "proteins": {
+                        "proteins": 7.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.9,
+                        "of_which_sugars": 2
+                    }
+                },
+                "ingredients": "Pois chiches* trempés dans l’eau (70%), oignons* (12%), persil* (10%), eau, sel marin, cumin*, huile de tournesol*, ail*.  Agents épaississants naturels : gomme guar, gomme xanthane.  Acidifiants naturels : acide lactique (à base de sucre de canne).\n*Ingrédients issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 23.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver max 5 jours au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "salade-pates-thon-160g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE MARINE AU THON 160G",
+                "desc": "Salade marine au Thon 160g\nDécouvrez cette salade de pâtes au thon pêché à la canne.\nIdéal pour une petite pause saveur au déjeuner.\nFabricant Bio français.\nPour 1 personne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198782054.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/salade-pates-thon-160g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "160G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.6
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 1
+                    }
+                },
+                "ingredients": "Pâtes* 54% (semoule de blé dur*, oeuf*), sauce* (huile de tournesol*, eau, vinaigre dialcool*, jaune d'oeuf*, moutarde* [vinaigre dialcool*, graine de moutarde*, eau, sel], sel, épaississants : gomme xanthane - gomme guar*, poivre*), thon au naturel 18% (thon, sel), jus de citron*, persil*, vinaigre de cidre*, ail*, sel. *\n*Ingrédients issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Poisson",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 24.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le déjeuner ou en pique-nique.",
+                "conservation": "Se conserve au frais. A consommer rapidemment après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "3244041",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GNOCCHI 400G BIO",
+                "desc": "Gnocchi 400G Bio.\nGnocchis traditionnels rapides et faciles à préparer : chacun les agrémente comme il veut ! 100% bio.\nFabriqué en Allemagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340004489.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gnocchi-400g-3244041"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 3.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 28.7,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "Eau, semoule de *, pommes de terre* (20%), fécule de pomme de terre*, sel, farine de riz*, curcuma*, tomates*.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 12.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire chauffer dans une poêle 3/4 minutes avec une noisette de beurre.",
+                "conservation": "A conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "houmous-lentille-corail-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HOUMOUS DE LENTILLES CORAIL 150G BIO",
+                "desc": "Houmous de lentilles corail 150G Bio\nUne expérience unique, gourmande et esthétique. Subtile alliance de lentilles corail, de carotes et d'épices.\nHoumous artisanal 100% naturel fabriqué dans notre atelier en Bretagne, à partir de légumineuse d'origine Française. L'intégralité des ingrédients de nos recettes est issue de l'agriculture biologique. Ils sont sans protéines animales, sans colorants ni conservateur chimique et enfin sans OGM.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920022014.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/houmous-lentille-corail-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 19
+                    },
+                    "proteins": {
+                        "proteins": 8.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 2
+                    }
+                },
+                "ingredients": "Lentilles corail* origine France 56%, carottes* 14%, huile de colza*, pâte de graines de sésame* décortiquées, jus de citrons*, huile d'olive*, concentré (carotte*, potiron* et pomme*), sel marin, épices*, plantes aromatiques*.\n*Ingrédients issus de l'agriculture biologique.\nRecette végétalienne. Conforme au mode de consommation Vegan.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 28.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Nos houmous se plient à toutes vos envies : ils peuvent être utilisés à l’apéritif en sauce à dipper, en tartinable pour vos sandwichs, en accompagnement de vos salades et même chaud dans vos préparations créatives.",
+                "conservation": "A conserver au réfrégirateur entre 0°C et +4°C"
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "houmous-pois-chiche-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HOUMOUS DE POIS CHICHES 150G BIO",
+                "desc": "Houmous de pois chiches 150G Bio\nLa recette originale formulée à base de pois chiche, de sésame et d'une pointe de jus de citron : simple et efficace !\nHoumous artisanal 100% naturel fabriqué dans notre atelier en Bretagne, à partir de légumineuse d'origine Française. L'intégralité des ingrédients de nos recettes est issue de l'agriculture biologique. Ils sont sans protéines animales, sans colorants ni conservateur chimique et enfin sans OGM.\nCompatible avec une alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760253460033.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/houmous-pois-chiche-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.3
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 6.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.4,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Pois chiche* origine France 62%, huile de colza*, eau de source, huile d'olive*, jus de citrons*, pâte de graines de sésame décortiquées 3.8%, sel marin, épices*, plantes aromatiques*.\n*Ingrédients issus de l'Agriculture Biologique.\nRecette végétalienne. Conforme au mode de consommation Vegan.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 28.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Nos houmous se plient à toutes vos envies : ils peuvent être utilisés à l’apéritif en sauce à dipper, en tartinable pour vos sandwichs, en accompagnement de vos salades et même chaud dans vos préparations créatives…",
+                "conservation": "A conserver au réfrégirateur entre 0°C et +4°C et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "sticks-cretois-5x30g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "STICKS CRÉTOIS 5X30G BIO",
+                "desc": "Sticks crétois 5x30G Bio\nBâtonnets croustillants au fromage grec épicé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4026584143502.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sticks-cretois-5x30g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "30G",
+                "availability": true,
+                "ingredients": "Poivron rouge* (26%), riz complet*, chapelure* (farine de blé*, eau, sel, levure*), fromage grec épicé*° (lait de vache) (9%), oignons* (7%), flocons de farine d'épeautre*, tomates* (5%), fromage blanc allégé*° (9%), mozzarella*°, graines de sésame*, sel de mer, épices*, huile de tournesol*.\n°Présure microbienne.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 30.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 24.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêt à manger. A réchauffer à la poêle, sans graisse, sur les deux côtés environ 5 minutes ou au four à 200°C environ 10 minutes. Idéal en grillades et au four à micro-ondes."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "bouchees-mediterranennes-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOUCHÉES MÉDITERRANÉENNES 250G BIO",
+                "desc": "Bouchées méditerranéennes 250G Bio\nDélicieuses boulettes aux senteurs méditerranéennes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4026584143106.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bouchees-mediterranennes-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Riz complet*, poivron rouge* , chapelure* (farine de blé*, eau, sel, levure*), tomates*, oignons*, mozzarella*°, fromage blanc allégé*°, flocons de farine d'épeautre*, graines de sésame*, farine de pois chiches*, sel de mer, épices*, huile de tournesol*.\n°Présure microbienne.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 16.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "prêt à manger. A réchauffer à la poêle, sans graisse, sur les deux côtés environ 5 minutes ou au four à 200°C environ 10 minutes.\nIdéal en grillades et au four à micro-ondes avec grill.\nA conserver entre +2°C et +7°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    },
+    {
+        "ean": "nat-quinoa-butter-tofu-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Traiteur"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SALADE QUINOA BUTTERNUT TOFU FUMÉ 200G BIO",
+                "desc": "Salade quinoa butternut tofu fumé 200g Bio\nUn concentré de bien-être et de gourmandise dans chaque bouchée !\nSavourez l’équilibre parfait entre plaisir et santé avec notre salade bio à base de quinoa fondant, de butternut rôti délicatement sucré, et de tofu fumé riche en saveurs. Un trio végétal nourrissant, coloré et source naturelle de protéines, fibres et énergie.\n100% bio, sans conservateurs, ni ingrédients superflus, cette salade est idéale pour une pause déjeuner rapide et saine ou un dîner léger mais complet.\nRiche en goûts, pauvre en compromis : que vous soyez végétarien, flexitarien ou simplement curieux, laissez-vous tenter par cette recette savoureuse qui respecte votre corps… et la planète !\nÀ déguster frais – prêt à savourer !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036907256.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nat-quinoa-butter-tofu-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:51",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 860
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 10.8
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18,
+                        "of_which_sugars": 4.8,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Quinoa blanc* cuit 27% (quinoa blanc*, eau) - quinoa rouge* cuit 18% (quinoa rouge*, eau) - butternut* cuite 18% - spécialité végétale à base de soja 9,2% [tofu 8%(eau, soja 2,4%, agent de coagulation : nigari), sel, ail, épices] - huile d'olive vierge extra* - jus de citron à base de concentré* - cranberrie déshydratée (cranberrie*, sucre de canne*, huile de  tournesol) - persil - moutarde de Dijon* (graines de moutarde*, vinaigre d'alcool*, eau, sel), sel de mer] - sel de mer - poivre blanc*.\nPrésence possible de : œufs, céleri, fruits à coque, poissons, lait, gluten\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.19,
+                "price_per_unit": 15.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prête à consommer, cette salade est idéale pour vos pauses déjeuners mais également vos entrées et vos pique-niques.",
+                "conservation": "À conserver entre 0° et +4°C."
+            }
+        ],
+        "created_at": "2025-06-16T03:49",
+        "updated_at": "2025-06-16T03:49"
+    }
+]

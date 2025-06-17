@@ -1,0 +1,605 @@
+[
+    {
+        "ean": "briochette-pepite-choc-x6-240g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BRIOCHETTES AUX PÉPITES DE CHOCOLAT AU LAIT X6 BIO",
+                "desc": "Briochettes aux pépites de chocolat au lait X6 Bio\nDécouvrez les briochettes aux pépites de chocolat au lait. Le sachet contient 6 briochettes. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3760049796797_-_benbib340_-_4_baguettes_viennoises_bio_340g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/briochette-pepite-choc-x6-240g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:06",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.8
+                    },
+                    "fats": {
+                        "fats": 15
+                    },
+                    "proteins": {
+                        "proteins": 8.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47,
+                        "of_which_sugars": 12,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Farine de BLÉ*, pépites de chocolat au LAIT*, sucre*, poudre de LAIT* entier, beurre de cacao*, pâte de cacao*, extrait de vanille*, OEUFS entiers*, huile de tournesol*, sucre de canne roux*, levain*( eau, fairne de SEIGLE*, levure) GLUTEN DE BLÉ*, arôme naturel de vanille*, fibres de psyllium*. \nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 17.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A dégustez au petit déjeuner ou au goûter.",
+                "conservation": "A conserver dans son emballage fermé, dans un endroit sec, à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "8-pain-lait-far-complete-320g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 PAINS AU LAIT FARINE COMPLÈTE 320G BIO",
+                "desc": "8 pains au lait farine complète 320g Bio\n8 pains au lait complets moelleux et délicieux, idéals pour le petit-déjeuner ou encore le goûter.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3700679604086_-_v001621_-_6_pains_au_chocolat_bio_270g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/8-pain-lait-far-complete-320g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:06",
+                "format": "320G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 9.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 11,
+                        "dietary_fiber": 4.2
+                    }
+                },
+                "ingredients": "Farine complète de blé */** 29,5%, farine de blé*/** 18%, oeufs entiers */** 12%, sucre de canne roux*, huile de tournesol*, lait frais écrémé pasteurisé* 7,9%, levain* (eau, farine de blé */** 3,1% et de seigle*, levures), gluten de blé*, levure, sel, arôme naturel de vanille* (contient alcool*), extrait de vanille*.\nTraces éventuelles de soja.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.\n  * Ingrédients issus de l'agriculture biologique\n** Ingrédients issus du commerce équitable français",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 10.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le petit-déjeuner ou le goûter avec de la confiture ou encore de la pâte à tartiner.",
+                "conservation": "A conserver dans son emballage fermé, dans un endroit sec et à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "baguette-viennoise-x4-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BAGUETTE VIENNOISE X4 340G BIO",
+                "desc": "Baguette viennoise x4 340g Bio\n4 délicieuses et moelleuses baguettes viennoises. Une recette sans huile de palme, fabriqué en France.\nIdéal pour le petit-déjeuner ou le goûter.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pancakes-2025.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/baguette-viennoise-x4-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:06",
+                "format": "340G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 890
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 9.8
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 53,
+                        "of_which_sugars": 8.7,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "farine de blé* 59 %, oeufs entiers* 11,5 %, eau, huile de colza*, sucre de canne roux*, gluten de blé*, levure, arôme naturel* (contient alcool), poudre de lait entier*, sel, agent de traitement de la farine (acide ascorbique).\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 11.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster pour le petit-déjeuner ou le goûter avec du miel, de la confiture ou votre pâte à tartiner bio préférée.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "pain-au-lait-8-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAINS AU LAIT X8 280G BIO",
+                "desc": "Pains au lait 280g Bio\nDécouvrez 8 Pains au lait issu de l'agriculture biologique de la marque BIEN.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3760049796797_-_benbib340_-_4_baguettes_viennoises_bio_340g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pain-au-lait-8-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:06",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 12.9
+                    },
+                    "proteins": {
+                        "proteins": 8.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52.9,
+                        "of_which_sugars": 11,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de blé* 53%, OEUFS entiers* 12.5%, sucre roux*, huile de colza*, levain* (eau, levures, farine de SEIGLE* et de BLÉ malté*), poudre de LAIT ecrémé* 2.3%, levure, GLUTEN DE BLÉ*, sel, extrait de vanille*, arôme naturel (contient alcool). \n*Ingrédients issus de l'agriculture biologique.\nTraces éventuelles de SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 10.68,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le goûter",
+                "conservation": "A conserver dan son emballage fermé, dans un endroit sec à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "brioche-tranchee-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BRIOCHE TRANCHÉE 400G BIO",
+                "desc": "Brioche Tranchée 400g Bio\nDécouvrez la Brioche tranchée issu de l'agriculture biologique de la marque BIEN.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3760049796797_-_benbib340_-_4_baguettes_viennoises_bio_340g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/brioche-tranchee-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:06",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 10.5
+                    },
+                    "proteins": {
+                        "proteins": 8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54.3,
+                        "of_which_sugars": 12.7,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Farine de blé* 55%, OEUFS ENTIERS* 14%, sucre roux, huile de colza*, levain* (eau, levure, FARINE DE SEIGLE*, et de BLÉ malté*), levure, sel, gluten de blé, arôme naturel (contient alcool), extrait de VANILLE*, levure désactivée.\nTraces de LAIT et de SOJA.\n\n*Ingrédients issus de l'agriculture biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 9.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dan son emballage fermé, dans un endroit sec à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "pancakes-x6-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PANCAKES 6X180G BIO",
+                "desc": "Pancakes 6x180g Bio\nDes pancakes épais et moelleux pour ravir les gourmands à vos prochains petits-déjeuners, goûters ou brunch !\nLaissez-vous tenter par leur texture aérée et accompagnez-les de vos ingrédients préférés: sucre de coco, fraises, sirop d'érable, pâte à tartiner...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4026584143502.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pancakes-x6-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:07",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 10.1
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43.5,
+                        "of_which_sugars": 13.9,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Farine de BLÉ* , eau, OEUFS entiers*, sucre de canne*, huile de tournesol*, LAIT écrémé en poudre*, poudre à lever (amidon de maïs*, carbonates de sodium, acidifiant : tartrates de potassium), sel.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédients issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 3.4,
+                "price_per_unit": 18.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster seul ou avec vos ingrédients sucrés préférés (fruits, sirops, pâtes à tartiner...). Vous pouvez les réchauffer quelques instants au grille pain ou four.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "gache-tranchee-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GÂCHE TRANCHÉE 400G BIO",
+                "desc": "Gâche Tranchée 400g Bio\nDécouvrez cette gâche tranchée pur beurre et à la crème fraiche.\nBIEN propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, BIEN s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3700679611114_-_v001550_-_8_pains_au_lait_bio_280g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gache-tranchee-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:07",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.6
+                    },
+                    "fats": {
+                        "fats": 13.3
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52,
+                        "of_which_sugars": 14.7
+                    }
+                },
+                "ingredients": "Farine de blé*, sucre*, oeufs*, beurre* 11,5%, eau, crème fraîche* 2,9%, levain* (eau, levures, farines de seigle* et de blé malté), levure, sel, arôme naturel (contient alcool), épaississant : gomme guar, arôme naturel de fleurs d'oranger*, farine de seigle*.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 12.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal au petit-déjeuner.",
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    },
+    {
+        "ean": "pains-au-chocolat-6x45g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Brioches et viennoiseries"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAINS AU CHOCOLAT 6X45G BIO",
+                "desc": "Pains au Chocolat 6x45g Bio\nLa plus grande gourmandise du petit déjeuner, c'est bien le pain au chocolat !\nDécouvrez le pain au chocolat bio de chez Bien, à savourer le matin mais aussi pour le goûter des petits comme des grands !\nBien propsoe des recettes BIO de qualité, frabriquées en France avec de la farine de blé et des oeufs BIO Fançais.\nSolidaire avec ls agriculteurs français, Bien s'engage sur le long terme en leur garantissant des volumes et un prix d'achat fixe et équitable pour le blé et les oeufs, favorisan la pérennité de leur exploitation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/visuel_-_3700679606035_-_v001760_-_brioche_tranch_e_bio_400g_bien.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pains-au-chocolat-6x45g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:07",
+                "format": "45G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13.6
+                    },
+                    "fats": {
+                        "fats": 20.1
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45.8,
+                        "of_which_sugars": 13.4
+                    }
+                },
+                "ingredients": "Farine de blé*, eau, beurre* 16%, chocolat 12%, sucre roux*, oeufs*, poudre de lait écrémé, levure, sel, épaississant, émulsifiant, acidifiant : acide citrique, antioxydant : acide ascorbique.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 45.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 18.48,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour le goûter.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:05",
+        "updated_at": "2025-06-16T02:05"
+    }
+]

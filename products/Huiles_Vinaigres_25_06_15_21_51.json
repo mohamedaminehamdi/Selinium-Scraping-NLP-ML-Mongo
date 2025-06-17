@@ -1,0 +1,1730 @@
+[
+    {
+        "ean": "huile-olive-atlas-maroc-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE EXTRA VIERGE MAROC 50CL BIO",
+                "desc": "Huile d'olive extra vierge maroc 50cl Bio\nUne huile d'olive qualité premium avec une 1ère pression à froid de façon artisanale, à la meule de pierre au coeur des monts de l'atlas du Maroc.\nUne robe brillante avec des reflets jaunes et verts et des arômes fruités puissants et élégants. Une huile idéale pour l’assaisonnement des salades et crudités mais aussi pour toute la cuisine du « Soleil ».\nProduit issu de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036909038.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-atlas-maroc-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "100 % huile d’olive extra vierge Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 12.3,
+                "price_per_unit": 24.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une huile idéale pour l’assaisonnement des salades et crudités mais aussi pour toute la cuisine méditerranéenne.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 14.5
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-futures-mamans-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE FUTURES MAMANS 50CL BIO",
+                "desc": "Huile Futures Mamans 50cl Bio\nLe 1er mélange d'huiles sur-mesure pour porter et allaiter votre bébé en toute sérénité.\nMélange de 6 huiles complémentaires pressées à froid et élaboré sur-mesure pour couvrir vos besoins pendant la grossesse.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3452011410205_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-futures-mamans-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "50CL",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11.2
+                    }
+                },
+                "ingredients": "Colza bio, tournesol oléique bio, olive vierge extra bio, lin vierge bio, huile marine² riche en DHA, bourrache vierge bio.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 9.9,
+                "price_per_unit": 19.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour crudités, sauces, four, cuisson.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière",
+                "old_price": 11.65
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-enfants-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE 5 HUILES POUR ENFANTS 25CL BIO",
+                "desc": "Mélange 5 Huiles pour enfants 25cL Bio\nLe mélange de 5 huiles bio pour les enfants de 3 à 9 ans de Quintesens est la seule huile adaptée aux besoins de l’enfant.\n\nUn enfant à des besoins nutritionnels différents de ceux d’un adulte et des études soulignent l’importance des corps gras sur la constitution des membranes cellulaires en plein développement chez les enfants de 3 à 9 ans.\n\nLa formule exclusive de l'huile pour les enfants de 3 à 9 ans de Quintesens associe 5 huiles complémentaires, en proportion adaptée :\nHuile de Colza Bio, de Tournesol Oléique Bio, de Tournesol Bio, de Lin Vierge Bio et Huile marine désodorisée.\n100% des apports recommandés pour votre enfant en Vitamine E.\n95% des apports recommandés pour votre enfant en Oméga-3 (alpha-linolénique).\n72% des apports recommandés pour votre enfant en Oméga-6.\nUn rapport entre Oméga-3 & Oméga-6 à 2,9 (la recommandation du PNNS est < 5).\n56 % des apports recommandés pour votre enfant en DHA (l’Oméga 3 du cerveau).",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020104500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-enfants-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    }
+                },
+                "ingredients": "Colza bio, tournesol oléique bio, tournesol bio, lin vierge bio, huile marine riche en DHA (huile de poisson sauvage désodorisée et purifiée).",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 6.7,
+                "price_per_unit": 26.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Aussi bonne à froid qu’à chaud, cette huile remplace très avantageusement l'huile ou la margarine que vous utilisez au quotidien pour la préparation des repas de vos enfants.\nAfin de préserver tous ses bienfaits nutritionnels, il est recommandé d’utiliser l’huile Quintesens « Enfants » de préférence en assaisonnement, en sauces, en fin de cuisson, dans l'assiette.\nDe 1 à 3 cuillères à café rases par jour suivant l'âge et la corpulence.\nIl est recommandé de respecter les doses conseillées, de veiller à avoir une alimentation variée et équilibrée et un mode de vie sain. Tenir hors de portée des jeunes enfants.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière",
+                "old_price": 7.9
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-sesame-grillee-250ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE DE SÉSAME GRILLÉE 250ML BIO",
+                "desc": "Huile de sésame grillée 250Ml Bio\nQuelques gouttes de cette huile au goût caractéristique suffisent pour donner une note délicieusement orientale à vos plats les plus simples. Ajoutez-la en fin de cuisson sur vos mets chauds, ainsi elle déploiera toute l'intensité de son arôme.\nC'est un indispensabe pour vos recettes asiatiques.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3452010000735.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-sesame-grillee-250ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "250ML",
+                "availability": true,
+                "ingredients": "Huile de sésame grillée Bio.\n\nAnalyse type (en g) pour 100ml :\nEnergie: 3441kj / 837kcal\n________________________________\nMatières grasses : 93.0g\ndont saturés : 16.0g\ndont mono-insaturés : 40.0g\ndont polyinsaturés : 37.0g\n________________________________\nGlucides : 0.0g\ndont sucres : 0.0g\n________________________________\nProtéines : 0.0g\n________________________________\nSel : 0.0g\n________________________________\nVitamines E : 3mg",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.8,
+                "price_per_unit": 23.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette huile de sésame se prête extrêmement bien à la confection de pâtisseries, de crèmes et de desserts. Vous pouvez aussi l'utiliser dans la cuisine asiatique.\nChauffer avec précaution.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 7.25
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-grece-750ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE OLIVE GRÈCE 750ML BIO",
+                "desc": "Huile Olive Grèce 750Ml Bio\nHuile d'olive extra vierge de catégorie supérieure, obtenue directement et exclusivement des olives de la variété koronéiki de la région de Kalamata et uniquement par des procédés mécaniques, en gardant tous les ingrédients naturels inaltérés. Le terroir et les conditions climatiques de la région de Messénie, ainsi que les techniques utilisées offrent les meilleures garanties afin d'obtenir une huile de qualité aux arômes intacts.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960005960-ho_fruit_e-1l-596.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-grece-750ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "750ML",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 16.99,
+                "price_per_unit": 22.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 16.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Au froid, l'huile d'olive peut former des cristaux blancs. Ce phénomène n'altère en rien sa qualité et disparait à température ambiante.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 19.99
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "2122215",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE FRUITÉE 1L BIO",
+                "desc": "Huile d'Olive fruitée 1L Bio\nDécouvrez cette huile d'olive bio d'Espagne. Renommée pour son goût fruité et puissant, l’huile d’olive espagnole est issue principalement des variétés Arbequina, Hojiblanca, Picual et Picuda. L’Andalousie étant la région principale de production, c’est donc avec une famille de producteur andalous que nous avons tissé une relation privilégiée depuis de très nombreuses années.\nCe partenariat vous garanti toujours la meilleure des qualité au fil des récoltes.\nCette huile d’olive fruitée est fabriquée à partir d’olives vertes, elle possède un goût fruité vert de moyenne intensité, rappelant l’herbe fraîchement coupée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036909038.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-fruit-1l-2122215"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 14
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0
+                    }
+                },
+                "ingredients": "Huile d'olive biologique*.\n*Issu de l'agriculture biologique.\nEntreprise travaillant le sésame, la noix, la noisette et l'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 17.25,
+                "price_per_unit": 17.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 17.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Utilisation culinaire : cuisson et assaisonnement. Ne pas dépasser 180°C.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur.",
+                "old_price": 19.2
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-douce-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE VIERGE EXTRA DOUCE 1L BIO",
+                "desc": "Huile d'olive vierge extra douce 1L Bio\nHuile d'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.\nCette huile a été extraite à froid à partir d'olives noires cueillies à parfaite maturité. Sa saveur est fine et légère, son fruité est léger et sans pointe d'amertume.\n5,5kg d'olives biologique sont nécessaire pour obtenir ce pur jus naturel.\nLe choix d'un mode de culture biologique garantit un respect de l'environnement, des oléiculteurs et une qualité gustative optimale.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036909038.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-douce-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Huile d'olive vierge extra biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 13.15,
+                "price_per_unit": 13.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Crudités, salades, fromage frais...Four, Cuisson et Friture",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "old_price": 15.5
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-omega-3-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE OMEGA 3 1L BIO",
+                "desc": "Huile Omega 3 1L Bio\nLes Oméga 3 sont des acides gras essentiels (non synthétisés par l'organisme) intervenant dans la constitution des cellules, du système immunitaire, participant à la régulationdu taux de cholestérol et contribuant au bon fonctionnement du système cardio-vasculaire.\nCocktail d'huiles vierges biologiques\nPremière pression à froid.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3291960016058_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-omega-3-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 10
+                    },
+                    "fats": {
+                        "fats": 100
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Huile vierge de colza* (50%), de sésame* **(25%), d'olive*(15%), de noix*(5%) et de chanvre*(5%).\n*Issu de l'agriculture biologique.\n**Issu du commerce équitable.\n25% du total des ingrédients sont issus du commerce équitable.",
+                "allergens": [
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 11.85,
+                "price_per_unit": 11.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette huile est à consommer au quotidien dans tous les assaisonnements de salades ou crudités.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 13.95
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-colza-vierge-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE DE COLZA VIERGE 75CL BIO",
+                "desc": "Huile de colza vierge 75cl Bio\nDécouvrez cette huile de colza, avec une première pression à froid, pour vous offrir une huile d'une grande qualité nutritive et gustative.\nElle est idéale pour vos assaisonnements : salades, crudités et plats chauds.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036902657.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-colza-vierge-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:48",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.3
+                    },
+                    "fats": {
+                        "fats": 100
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Huile de colza vierge* (France).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 7.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une huile excellente pour vos assaisonnements, la réalisation de vos vinaigrettes maison.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nBien refermer après utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "6716893",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE DE TOURNESOL VIERGE 75CL BIO",
+                "desc": "Huile de tournesol vierge 75cl Bio\nUne huile classique de toutes les cuisines, avec une première pression à froid, pour vous offrir une huile d'une grande qualité nutritive et gustative.\nElle est idéale pour vos cuissons et vos assaisonnements.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4003247102243.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-tournesol-vierge-75cl-6716893"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 100
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Huile de tournesol vierge* (France).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 6.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette huile peut être utilisée en assaisonnement et cuisson.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nBien refermer après utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-vierge-esp-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE VIERGE EXTRA 25CL BIO",
+                "desc": "Huile d'olive vierge extra 25cl Bio\nUne huile incontournable dans toutes les cuisines, cette huile d'olive vierge extra, riche en vitamine E a subi une première pression à froid, pour vous offrir une huile d'une grande qualité nutritive et gustative.\nElle est idéale pour vos cuissons et vos assaisonnements.\nOrigine Espagne.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020122702.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-vierge-esp-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "25CL",
+                "availability": true,
+                "ingredients": "Huile d'olive de catégorie supérieures obtenue directement des olives et uniquement par des procédés mécaniques.\nObtenue d'huiles d'olive vierges extra originaires d'Espagne.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 19.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette huile peut être utilisée en assaisonnement et cuisson. Elle est donc idéale pour donner une touche de méditerrannée à tous plats.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nBien refermer après utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-4-graines-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE 4 GRAINES VIERGES 75CL BIO",
+                "desc": "Huile 4 graines vierges 75cl Bio\nUn mélange d'huiles végétales vierges issues de graines de France de : lin, tournesol, tournesol oléique et colza.\nCette huile riche en oméga 3 est idéale pour assaisonner vos salades mais également pour la cuisson de vos aliments.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4003247102243.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-4-graines-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "4 G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.9
+                    },
+                    "fats": {
+                        "fats": 100
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0
+                    }
+                },
+                "ingredients": "Assemblage d’huile de colza* vierge (80%)(France), d’huile de tournesol* vierge (10%)(France), d’huile de tournesol* oléique vierge   (5%)(France) et d’huile de lin vierge * (5%)(France).\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 4.0,
+                "price_per_packaging": 5.15,
+                "price_per_unit": 6.87,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette huile peut être utilisée en assaisonnement et cuisson.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nBien refermer après utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "vinaigre-balsamique-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VINAIGRE BALSAMIQUE 500ML BIO",
+                "desc": "Vinaigre Balsamique 500Ml Bio\nVinaigre balsamique de modène BIO, produit par Acetum en Italie.\nConfectionné à base de cépages tels que Trebbiano, Lambrusci et Sangiovese, et vieilli en fûts de différents boi, ce vinaigre Naturalia est légèrement sucré, avec des senteurs de bois et d'épices, à utiliser pour tout type de préparation culinaire.\nOrigine Italie.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3302950002293.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vinaigre-balsamique-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "500ML",
+                "availability": true,
+                "ingredients": "Vinaigre de vin*, moût de raisins concentré*, moût de raisins cuit*. Degré d'acidité 6%\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 11.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour assaisonner vos recettes de salades composées et crudités.",
+                "conservation": "A l'abri de la chaleur et de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "vinaigre-de-cidre-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VINAIGRE DE CIDRE 75CL BIO",
+                "desc": "Vinaigre de cidre 75CL Bio\nVinaigre de cidre biologique.\nProduit par Charbonneaux-Brabant.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/1/4106060100592.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vinaigre-de-cidre-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Vinaigre de cidre*. 5% d'acidité. Produit non pasteurisé.\nTraces éventuelles de sulfites.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.\n   \nTraces éventuelles de sulfites.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 2.39,
+                "price_per_unit": 3.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "6817175",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VINAIGRE BALSAMIQUE DE MODÈNE 25CL BIO",
+                "desc": "Vinaigre balsamique de modène 25cl Bio\nRaffiné, Aromatique et Naturel\nSublimez vos plats avec le Vinaigre Balsamique de Modène IGP Bio de Bravo Hugo, un condiment d’exception élaboré à partir de raisins biologiques soigneusement sélectionnés. Vieilli 2 mois en fûts de chêne, il dévoile une richesse aromatique unique, mêlant douceur, complexité et intensité.\n- Un balsamique authentique : Issu de raisins bio et élaboré selon la tradition de Modène.\n- Vieilli en fûts de chêne : Développe une texture dense et harmonieuse, idéale pour rehausser vos plats.\n- Un allié en cuisine : Parfait pour sublimer salades, légumes grillés, viandes et même desserts, avec une note gourmande et légèrement sucrée.\n- Sans caramel ajouté : Un vinaigre pur, sans additifs ni colorants.\nDécouvrez le goût authentique du vinaigre balsamique de Modène bio, un incontournable pour des assaisonnements raffinés !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/2/5201031250449.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/vinaigre-balsamique-25cl-6817175"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "25CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29,
+                        "of_which_sugars": 29
+                    }
+                },
+                "ingredients": "Vinaigre de vin biologique* (Italie), moût de raisin cuit biologique* (Italie).\n*Contient sulfites.",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 18.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Vinaigre Balsamique de Modène IGP Bio est un condiment raffiné qui sublime aussi bien les plats salés que sucrés. Son équilibre entre douceur et acidité en fait un incontournable en cuisine. Voici quelques idées pour en tirer le meilleur parti :\nAssaisonnement & Marinades\nSalades et crudités : Idéal pour relever une salade de roquette, des tomates-mozzarella ou des légumes grillés.\nMarinades : Parfait pour attendrir et parfumer viandes, poissons ou tofu avant la cuisson.\nSublimer les plats chauds\nPâtes & risottos : Quelques gouttes en finition sur un risotto aux champignons ou des pâtes à la crème.\nViandes & légumes rôtis : Déglacez une poêle après cuisson pour une sauce savoureuse.\nApporter une touche sucrée-salée\nFruits & desserts : Associez-le à des fraises, de la glace vanille ou un fromage affiné pour un contraste subtil.\nRéduction balsamique : Faites réduire le vinaigre quelques minutes pour une texture sirupeuse parfaite sur des plats raffinés.\nRehausser les sauces & condiments\nAjoutez-en à une vinaigrette maison, une sauce barbecue ou une mayonnaise pour plus de profondeur.\nQuelques gouttes dans une soupe (comme un velouté de potiron) pour un twist acidulé.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "luce-ho-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE VIERGE DOUCE 75CL BIO",
+                "desc": "Huile d'olive vierge douce 75 cl\nLaisser vous tenter par cette huile d'olive douce , idéale pour la préparation de vos plats ou pour relever vos salades de concombres ou de tomates.\nFaites entrer le soleil dans votre cuisine avec cette huile incontournable.\nProduit issu de l'Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/l/olives_vertes_persillade_-_3760137113376.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/luce-ho-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 12.8
+                    },
+                    "fats": {
+                        "fats": 91.4
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Huile d'olives biologiques vierge extra.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 10.99,
+                "price_per_unit": 14.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La saveur fine et délicate de cette huile la rend idéale sur les salades vertes, les salades de tomates et les salades de concombre.",
+                "conservation": "A conserver dans un endroit frais (<20°C), sec et à l'abri de la lumière. Refermer le contenant après chaque utilisation."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-noix-bio-250ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE VIERGE DE NOIX 250ML BIO",
+                "desc": "Huile vierge de noix 250Ml Bio\nHuile de noix obtenue à partir de noix biologiques d’origine française exclusivement.\nParfait pour assaisonner toutes les salades de mâche et de rattes, un carpaccio de cèpes et des salades de lentilles vertes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3452010830905_huile_de_noix_gourmande_25cl_.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-noix-bio-250ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:49",
+                "format": "250ML",
+                "availability": true,
+                "ingredients": "Huile vierge de noix biologique.\n\nEnergie : 3404 kJ / 828 kcal\n________________________________\nMatières grasses : 92.0g\nDont acides gras saturés : 8.9g\n ________________________________\nGlucides : 0.0g\nDont sucres : 0.0g\n________________________________\nFibres : 0.0g\n________________________________\nProtéines : 0.0g\n________________________________\nSel : 0.0g",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 19.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Assaisonnement à froid, idéal pour vos salades.",
+                "conservation": "A conserver dans un endroit sec et tempéré."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-vierge-noisette-250ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE VIERGE DE NOISETTE 250ML BIO",
+                "desc": "Huile vierge de noisette 250ml Bio\nUne huile vierge biologique à la robe jaune ambrée, fine et délicate, elle possède une saveur subtile et parfumée. Une huile riche en vitamine E.\nParfait pour assaisonner toutes les salades de mâche et de rattes, un carpaccio de cèpes et des salades de lentilles vertes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3452010880900.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-vierge-noisette-250ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "250ML",
+                "availability": true,
+                "ingredients": "100 % huile vierge de noisette Bio",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 11.99,
+                "price_per_unit": 47.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Parfait pour assaisonner toutes les salades de mâche et de rattes, un carpaccio de cèpes et des salades de lentilles vertes. Assaisonnement à froid, idéal pour vos salades.",
+                "conservation": "A conserver dans un endroit sec et tempéré."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-luque-75cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE 75CL BIO",
+                "desc": "Huile d'olive 75cl Bio\nL’Huile d'Olive Extra Vierge Bio / Ligne classique est produite par la famille Luque dans la ville de Castro del Río à Cordoue (Andalousie) en Espagne. À travers plusieurs générations (7eme génération comme producteurs d'olives et 5e comme meuniers), les olives sont récoltées quand les olives sont en changeant la couleur (« envero »). Une fois récoltées, les olives sont broyées rapidement et l'huile est obtenue à bas température (extraction à froid) pour préserver la qualité, le goût et l’arôme propre des olives.\nIdéal pour Salades, Poisson Grillé, Poulet Grillé, Champignons Porcini Grillés, Tartare de Thon, Carpaccio, Fromages.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020122702.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-luque-75cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "75CL",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13
+                    },
+                    "fats": {
+                        "fats": 100
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.0,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Huile d'olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 15.25,
+                "price_per_unit": 20.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 15.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos cuissons et vos assaisonnements.",
+                "conservation": "À conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-vierge-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE EXTRA VIERGE 50CL BIO",
+                "desc": "Huile d'olive extra vierge 50cl Bio\nUne huile extraite à froid, huile d’olive de catégorie supérieure obtenue directement des olives et uniquement par des procédés mécaniques.\nIdéale pour vos assaisonnements.\nPrésence de dépôts au fond de la bouteille.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020122702.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-vierge-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "Huile d’olives biologiques vierge extra.\nExtraite à froid.\nOrigine UE.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 7.95,
+                "price_per_unit": 15.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour vos assaisonnement et vos cuissons, cette huile au goût typique est un indispensable de votre cuisine.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-friture-bio-750ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE SPÉCIALE FRITURE TOURNESOL 750ML BIO",
+                "desc": "Huile spéciale friture tournesol 750ml Bio\nL'huile spéciale Friture LAPBIO est une huile de Tournesol hautement oléique biologique au goût neutre. Elle supporte toutes les cuissons pour réaliser frites, croquettes de poissons, tempuras, nuggets de poulet, beignets de légumes et beignets sucrés.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4003247102243.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-friture-bio-750ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "750ML",
+                "availability": true,
+                "ingredients": "Huile de tournesol* à haute teneur en acide oléique.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 7.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéale pour la cuisson en friture de toutes vos recettes salées et sucrées.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-olive-calabre-75-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE OLIVE CALABRE 75CL BIO",
+                "desc": "Huile Olive Calabre 75Cl Bio\nFermez les yeux et laissez-vous transporter dans le sud de l'Italie au bord de la mer Ionienne, aux pieds du Mont Pollino.\nImaginez un vaste domaine de 20 000 oliviers. Certains sont âgés de plus de 300 ans.Pour respecter cette et ces arbres, la famille Gabro a choisi les méthodes de l'agriculture biologique : les engrais utilisés sont d'origine naturelle, la récolte se fait à la main.\nLe moulin de Gabro produit depuis plud de 100 ans cette huile d'une belle couleur verte aux reflets d'or.Son goût fruité provient du mélange d'olives \"grossa di cassano\" et de \"tondino\".La pression à froid sur presse mécanique sans préchauffage des olives se fait en dessous de 27°C.\nLa simple filtration sur papier préserve toutes les qualités des olives.La mise en bouteille se fait au domaine.\nVous pouvez ainsi consommer en toute confiance cette huile d'olive biologique, une des plus riches en acide oléique (acide gras monoinsaturé). Elle facilite la digestion et intervient favorablement sur la prévention des facteus de risques des maladies cardiovasculaires.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/o/l/olives_vertes_persillade_-_3760137113376.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-olive-calabre-75-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "75CL",
+                "availability": true,
+                "ingredients": "Huile d'olive vierge extra Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 75.0,
+                "price_per_packaging": 14.55,
+                "price_per_unit": 19.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 14.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "L'apparition d'un léger dépôt est normal, il est signe de qualité.\nLes bouteilles sont en vert teinté afin de protéger l'huile des ultraviolets responsables de l'oxydation.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "elixir-detox-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "VINAIGRE ÉLIXIR DÉTOX 50CL BIO",
+                "desc": "Vinaigre élixir détox 50cl Bio\n Un elixir de détox composé de vinaigre de cidre, de chicorée, d ejus de légumes et d'algues comme la spiruline, un condiment idéal pour toutes vos sauces salades ou dilué dans de l'eau en boisson quotidienne.\nAvec la mère vinaigre.\nSans conservateurs ni arômes artificiels.\nConvient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/1/4106060100592.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/elixir-detox-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "Vinaigre de cidre (70,7 %)*, eau, spiruline (0,4 %)*, chicorée soluble*, feuilles de menthe séchées (0,2 %)*, jus de légumes\n(0,1 %) (betterave rouge*, tomate*, carotte*, radis noir*, persil*), jus de pruneaux*.\n*Produits issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 6.69,
+                "price_per_unit": 13.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agitez avant emploi.\nEn assaisonnement des salades et autres préparations culinaires.\nEn boisson quotidienne : 1 cuillère à soupe dans 1 l d'eau à boire toute la journée.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "creme-vinaigre-ximenez-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE VINAIGRE PX LUQUE 280G BIO",
+                "desc": "Crème de vinaigre px luque 280g bio\nLa créme de vinaigre de vin de la variété Pedro Ximénez est un produit obtenu par déshydratation partielle du vinaigre par chauffage à feu doux jusqu'à l'obtention d'une consistance sirupeuse (réduction). Pour obtenir un équilibre entre l'acide et le goût sucré, du moût concentré est ajouté et agité jusqu'à homogénéisation. Aucun ingrédient n'intervient pour lui donner plus de densité donc c'est totalement naturel.\nOrigine : 100% ESPAGNE\nCertifications : Biologique, Vegan",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/8/08016438001153_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-vinaigre-ximenez-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 170
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 80,
+                        "of_which_sugars": 68
+                    }
+                },
+                "ingredients": "Vinaigre de vin*, moût concentré de raisin*.\n*Ingrédient issu de l'agriculture biologique.\nALLERGÈNES : SULPHITES",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 7.05,
+                "price_per_unit": 25.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour Salade de pommes et noix, salade caprese, champignons cuits, pâtes, poisson grillé, fromage chèvre, poulpe, raisins farcis au cream cheese, gaspacho.",
+                "conservation": "À conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "huile-vierge-colza-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE VIERGE COLZA 500ML BIO",
+                "desc": "Huile vierge colza 500ml Bio\nSa composition est équilibrée en Oméga 6 et Oméga 3. Cette huile contient naturellement des Oméga 6 et 9. Elle est naturellement riche en Oméga 3 et naturellement riche en vitamine E, reconnue comme antioxydant naturel.\nColza Français.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920016853.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/huile-vierge-colza-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:50",
+                "format": "500ML",
+                "availability": true,
+                "ingredients": "100% huile vierge de colza biologique, première pression à froid.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 6.5,
+                "price_per_unit": 13.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos assaisonnements, pâtisseries.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "sauce-balsamique-360-ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SAUCE VINAIGRETTE BALSAMIQUE 360ML BIO",
+                "desc": "Sauce vinaigrette balsamique 360ml Bio\nSauce vinaigre balsamique idéal pour parfumer vos salades, vos viandes...\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/2/5201031250449.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sauce-balsamique-360-ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:51",
+                "format": "360ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.7
+                    },
+                    "fats": {
+                        "fats": 50
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 4.6
+                    }
+                },
+                "ingredients": "Huile d'olive vierge extra*, huile de tournesol*, vinaigre balsamique*, eau, vinaigre de vin rouge*, moutarde de Dijon*, sel.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 4.84,
+                "price_per_unit": 13.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.84 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agitez énergiquement avant l'utilisation.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, se conserve 3 mois au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    },
+    {
+        "ean": "h-olive-fruitee-italie-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Huiles, Vinaigres"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HUILE D'OLIVE FRUITÉE ITALIE 50CL BIO",
+                "desc": "Huile d'olive fruitée Italie 50cl Bio\nCette huile d’olive fruitée est fabriquée à partir d’olives vertes, elle possède un goût fruité vert de moyenne intensité, rappelant l’herbe fraîchement coupée.\nDe couleur jaune vert, limpide à la typicité fruitée verte.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3445020122702.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/h-olive-fruitee-italie-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:51",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "Huile d'olive vierge biologique.*\n*Issu de l'agriculture biologique.\nEntreprise travaillant le sésame, la noix, la noisette, l'amande et l'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 15.65,
+                "price_per_unit": 31.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 15.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéale pour l'assaisonnement mais également la cuisson.",
+                "conservation": "Se conserve dans un endroit frais et sec, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:47",
+        "updated_at": "2025-06-15T21:47"
+    }
+]

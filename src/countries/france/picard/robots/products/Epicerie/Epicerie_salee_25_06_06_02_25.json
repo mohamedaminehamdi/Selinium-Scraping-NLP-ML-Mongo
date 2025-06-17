@@ -1,0 +1,102 @@
+[
+    {
+        "ean": "000000000000085478",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Épicerie salée"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chips de pomme de terre salées",
+                "desc": "Chips de pomme de terre au sel de Guérande",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfbf2636a/produits/000000000000064236_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chips-pdt-40g-000000000000085478.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:25",
+                "format": "LE SACHET DE 40 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Pomme de terre 65,6%, huile de tournesol, sel de Guérande 0,8%. Conditionné sous atmosphère protectrice.",
+                "on_discount": true,
+                "weight_per_packaging": 40.0,
+                "price_per_packaging": 0.9,
+                "conservation": "chaleur-humidite-lumiere .consommer-rapidement",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n28,42 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000085493",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Mini tochetti, sel et romarin",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-tochetti-25g-000000000000085493.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:25",
+                "on_discount": true,
+                "price_per_packaging": 0.65,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n28,42 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ]
+    }
+]

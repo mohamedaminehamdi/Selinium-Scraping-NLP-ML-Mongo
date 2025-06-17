@@ -1,0 +1,2216 @@
+[
+    {
+        "ean": "000000000000089322",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte fine boeuf, cheddar",
+                "desc": "Pâte fine 39,7% garnie de viande bovine cuite, de cheddar, d’oignon rouge et de tomate, surgelée, à cuire.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2332f00a/produits/000000000000023105_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-fine-boeuf-cheddar-000000000000089322.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 290 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Eau, farine de BLÉ (GLUTEN) 25,6%, crème fraîche épaisse (LAIT), viande bovine cuite (origine : France*) 8,9%, cheddar blanc (contient LAIT) 6,2%, oignon rouge 6,2%, tomate 5,2%, huiles végétales (contient tournesol et/ou colza), amidon de pomme de terre, purée de tomate double concentrée 1%, sel, LAIT entier en poudre, herbes de Provence (romarin, thym, sarriette, basilic, marjolaine), ail.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 290.0,
+                "price_per_packaging": 3.49,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n14 min\nPréchauffez votre four à 210°C (th.7). Ôtez le film plastique et déposez la tarte sur une grille recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué : Four à chaleur tournante : 14 min Four traditionnel : 17 min Laissez reposer 1 à 2 minutes avant de servir.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.9,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,41€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.51% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.92,
+            "total_reviews": 12
+        }
+    },
+    {
+        "ean": "000000000000089430",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers épinard - chèvre",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-paniers-epinard-chevre-000000000000089430.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "on_discount": true,
+                "price_per_packaging": 4.7,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089570",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chicago style pizza",
+                "desc": "Tarte composée d’une garniture 72% à base de mozzarella, tomate et pepperoni, et d’une pâte à pizza 28%, cuite, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chicago-style-pizza-000000000000089570.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 650 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Mozzarella (contient LAIT) 28,7%, pulpe de tomate au jus 18,1% (tomate, jus de tomate), farine de BLÉ (GLUTEN), pepperoni 9% [viande de porc (origine : France*), piments, sel, dextrose, épices, antioxydant : ascorbate de sodium, ferments], poivron vert 9%, eau, carotte, purée de tomate double concentré 3%, huile d'olive vierge extra, beurre (LAIT), levure, amidon de riz, sel, origan 0,05%, plantes aromatiques, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 650.0,
+                "price_per_packaging": 7.5,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n35 min\nPréchauffez votre four à 200°C (th. 6). Placez la pizza à mi-hauteur sur une plaque recouverte de papier cuisson. Laissez réchauffer le temps indiqué : Four à chaleur tournante : 35 min Four traditionnel : 40 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.73,
+            "total_reviews": 51
+        }
+    },
+    {
+        "ean": "000000000000089227",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers jambon-emmental",
+                "desc": "Pâte feuilletée pur beurre dorée 50% en forme de panier, garniture 50% à base d'allumettes de jambon cuit supérieur et d'emmental, à cuire, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/new-4-paniers-jambon-400g-000000000000089227.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Eau, farine de BLÉ (farine de BLÉ (GLUTEN), GLUTEN de BLÉ), jambon cuit supérieur 12,7% (jambon de porc (origine: France*), sel, bouillon (viande de porc, os de porc), arômes naturels (contient naturellement des polyphénols), antioxydant: acide ascorbique), beurre (LAIT) 11,5%, emmental français râpé (contient LAIT) 7,6%, crème fraîche liquide (LAIT), OEUF entier issu de poule élevée en plein air (liquide, pasteurisé), lactosérum en poudre (LAIT), farine de BLÉ (GLUTEN), amidon de maïs, sel, préparation pour dorure en poudre (protéines de LAIT, OEUF issu de poule élevée en plein air en poudre, sel), crème en poudre (LAIT), LAIT écrémé en poudre, protéines de LAIT, muscade, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.3,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n25 min\nPréchauffez le four à 210°C (th.7). Sortez les paniers de l'étui, retirez le film plastique et déposez-les sur une plaque de cuisson recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué : Four traditionnel : 30 min - Four à chaleur tournante : 25 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 119
+        }
+    },
+    {
+        "ean": "000000000000089264",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 chaussons tomate, poivron, mozzarella, pesto rosso",
+                "desc": "2 chaussons composés d'une pâte brisée pur beurre au basilic 54% et d'une garniture 46% à base de tomate mi séchées, poivrons, mozzarella et pesto rosso, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-chaussons-tomate-mozzarella-000000000000089264.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 280 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 30,9%, beurre (LAIT) 17,7%, eau, tomates mi-séchées 10,1%, mozzarella 7,6% [LAIT, sel, coagulant, correcteur d'acidité : acide citrique], poivron jaune 5,5%, ŒUF entier de poule élevée en plein air (liquide, pasteurisé), poivron rouge 2,3%, préparation à base de basilic et concentré de tomate 2% [basilic, concentré de tomate, eau, fromage (contient LAIT), huile de tournesol, huile d'olive, sel, ail, jus de citron concentré, fécule de manioc, fécule de pomme de terre], crème liquide (LAIT), sel, pignon de pin, basilic 0,2%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 4.2,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n30 min\nPréchauffez votre four à 180°C (th.6). Placez les chaussons à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Laissez réchauffer le temps indiqué : - Four à chaleur tournante : 30 min - Four traditionnel : 35 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.76,
+            "total_reviews": 41
+        }
+    },
+    {
+        "ean": "000000000000023105",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes aux poireaux",
+                "desc": "Tartes composées d’un appareil 67,8% à base de poireaux et d’une pâte brisée 32,2% pur beurre, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartes-poireaux-000000000000023105.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 360 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 23,4%, poireau 18,2%, LAIT écrémé, emmental français 10,4% (contient LAIT), eau, beurre 6,4% (LAIT), crème fraiche liquide 5,5% (LAIT), fromage frais (contient LAIT), navet, OEUF issu de poule élevée en plein air 4% (liquide pasteurisé), fromage à pâte pressée cuite (contient LAIT), sel, muscade, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.5,
+                "preparation": "Au four\nPréparation sans décongélationCuisson au four pendant\n20 min\nPréchauffez votre four à 210°C (th 7). Retirez les tartes de leur emballage et placez-les à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Four à chaleur tournante : 20 min Four traditionnel : 25 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.12,
+            "total_reviews": 134
+        }
+    },
+    {
+        "ean": "000000000000089138",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 quiches lorraines",
+                "desc": "Tartes composées d’une pâte 30% pur beurre, garnie d’un appareil à base de crème fraiche 14,2%, emmental 10,5%, jambon cuit supérieur 6,7% et lardon cuit fumé 5,8%, cuites surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-quiches-lorraines-000000000000089138.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 360 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLE (GLUTEN), LAIT écrémé, crème fraîche liquide 14,2% (LAIT), ŒUF entier de poule élevée en plein air 12,4% (liquide, pasteurisé), emmental français 10,5% (contient LAIT), beurre 7,2% (LAIT), jambon cuit supérieur 6,7% [viande de porc (origine : France*), sel, bouillon, arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique], lardon cuit fumé 5,8% [poitrine de porc (origine France*), sel, arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique], eau, sel, poivre blanc, muscade.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n18 min\nPréchauffez votre four à 210°C (th.7). Retirez les quiches de leur emballage et placez-les à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Four à chaleur tournante : 18 min Four traditionnel : 21 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.26,
+            "total_reviews": 106
+        }
+    },
+    {
+        "ean": "000000000000071493",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 flammekueche",
+                "desc": "Pâte fine 41,7% garnie de lardon fumé et d'oignon, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-flammekueche-000000000000071493.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 240 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Crème fraîche (LAIT) 33,3 %, farine de BLE (GLUTEN) 26,9%, lardon fumé 14,2% [poitrine de porc (origine : France*), sel, dextrose, antioxydant : erythorbate de sodium, conservateur : nitrite de sodium], eau, oignon émincé 10,8 %, huiles végétales (tournesol et/ou colza), sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n15 min\nPréchauffez votre four à 210°C (th.7). Ôtez le film plastique et déposez les flammekueche sur une grille recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué. Four à chaleur tournante : 15 min Four traditionnel : 18 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.26,
+            "total_reviews": 144
+        }
+    },
+    {
+        "ean": "000000000000040929",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers de noix de Saint-Jacques à la bretonne",
+                "desc": "Une pâte feuilletée pur beurre dorée (50,5%) en forme de panier, garnie d'une préparation cuisinée aux noix de Saint Jacques* (*Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé/Royaume-Uni/Irlande) 49,5%, crue, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-paniers-noix-saint-jacques-bretonne-000000000000040929.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), noix de Saint-Jacques* 16,8% (Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé/Royaume-Uni/Irlande ; MOLLUSQUES), beurre (LAIT) 16,8%, eau, oignon 10,9%, échalote 3,9%, crème fraîche liquide (LAIT) 3,6%, vin blanc 2,4%, amidon de maïs, OEUF liquide pasteurisé, sel, lactose (LAIT) et protéines de LAIT, farine de BLÉ prégélatinisée (GLUTEN), LAIT écrémé en poudre, persil 0,1%.\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage, près du numéro de lot.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n25 min\nPréchauffez le four à 210°C (th.7). Sortez les paniers de l'étui, retirez le film plastique et déposez-les sur une grille recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué : - Four traditionnel : 30 min - Four à chaleur tournante : 25 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.98,
+            "total_reviews": 204
+        }
+    },
+    {
+        "ean": "000000000000047568",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pastillas au poulet et aux légumes",
+                "desc": "Pâte filo (22%) garnie de poulet et légumes, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe7553570/produits/000000000000057558_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pastillas-poulet-legumes-000000000000047568.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 200 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Légumes 29,7% [brocoli, carotte, tomate confite (tomate semi-séchée (tomate, sel), huile de tournesol, ail, origan, thym), champignon de Paris cuit (champignon de Paris, eau, vin blanc, jus de citron, sel), tomate pelée, poivron rouge, CÉLERI], viande de poulet saumurée 23,5% [filet de poulet (origine : France*), eau, sel], pâte filo 22% [farine de BLÉ (GLUTEN), eau, amidon de maïs, sel, jus de citron concentré, agent de traitement de la farine : L-cystéine], fond de volaille (eau, carcasse de volaille, carotte, oignon, poireau, sel, poivre, clou de girofle), crème fraîche (LAIT), beurre (LAIT), ananas, sauce Worcestershire [vin blanc, sucre, vinaigre de vin blanc, sauce SOJA (eau, graines de SOJA, sel, farine de BLÉ (GLUTEN)), eau, jus de citron, filet d'anchois (filets d'anchois salé (POISSONS), huile d'olive), épices (sel, oignon en poudre, ail en poudre, piment de Cayenne, clou de girofle), amidon de manioc], échalote, huile d’olive vierge extra, ail, zeste de citron, coriandre, persil, citronnelle, amidon de riz, sirop d’agave, épices curry, poivre.\n*Issue d'animaux nés, élevés et abattus en France",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.9,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n25 min\nPréchauffez votre four à 210°C (th. 7). Sortez les coupelles de l'étui carton et retirez le film transparent. Enfournez les pastillas directement dans leur coupelle sur une grille à mi-hauteur et laissez cuire le temps indiqué : Four traditionnel : 30 minutes Four à chaleur tournante : 25 minutes Démoulez les pastillas et servez-les dans une assiette.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.98,
+            "total_reviews": 103
+        }
+    },
+    {
+        "ean": "000000000000047914",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pastillas à l'agneau",
+                "desc": "Pâte filo (22%) garnie d'agneau et de carottes aux saveurs marocaines, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pastillas-agneau-000000000000047914.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:31",
+                "format": "LA BOÎTE DE 200 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Pâte filo 22% [farine de BLÉ (GLUTEN), eau, amidon de maïs, sel, jus de citron concentré, agent de traitement de la farine : L-cystéine], viande d'agneau 20,6% (origine : Nouvelle Zélande et/ou Irlande), carotte 20,6%, jus de viande cuisiné [oignon, tomate, jus de viande, ail, huile d'olive vierge extra, eau, cumin, curcuma, sel, carcasse de volaille, épices raz el hanout (contient MOUTARDE), carotte, poireau, poivre, clou de girofle], AMANDE bâtonnet, beurre (LAIT), raisin sec (raisin, huile de coton), vinaigre balsamique (vinaigre de vin, moût de raisin), ail, épices 1,3% [pâte de curry rouge (piment, ail, échalote, sel, citronnelle, sucre, feuille de combava, galanga, graine de coriandre, cumin, cardamome), cumin, curcuma], coriandre, huile d'olive vierge extra, zeste de citron, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n25 min\nPréchauffez votre four à 210°C (th.7). Sortez les coupelles de l'étui carton et retirez le film transparent. Enfournez les pastillas directement dans leur coupelle sur une grille à mi-hauteur et laissez cuire le temps indiqué : - Four traditionnel : 30 minutes - Four à chaleur tournante : 25 minutes Démoulez les pastillas et servez-les dans une assiette.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.4,
+            "total_reviews": 131
+        }
+    },
+    {
+        "ean": "000000000000089277",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pissaladières oignons, olives noires, anchois",
+                "desc": "2 Pissaladières composées d'une garniture 68,4% à base d'oignons préfrits et frits, olives noires, anchois et d'une pâte brisée 31,6% pur beurre, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/new-2-pissaladieres-300g-000000000000089277.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 300 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Oignon préfrit 57,2% (oignon 55,1%, huile d'olive vierge, sel), farine de BLÉ (GLUTEN) 18,6%, beurre (LAIT) 8,4%, eau, olive noire entière avec noyau 3,2% (olive noire 2,1% eau, sel), oignon frit 3% [oignon déshydraté 2,7%, huile végétale (contient tournesol et/ou colza)], huile d'olive vierge extra, filet d’anchois salé à l’huile de tournesol 2,1% [anchois* 1,7% (POISSONS), huile de tournesol, sel], sel, herbes aromatiques 0,2% (basilic, origan, romarin, thym), poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.95,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Retirez les pissaladières de leur emballage et placez-les à mi-hauteur sur la grille du four recouverte de papier cuisson. Laissez réchauffer le temps indiqué : Four traditionnel Four chaleur tournante 18 min 15 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.43,
+            "total_reviews": 123
+        }
+    },
+    {
+        "ean": "000000000000040317",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes aux fromages",
+                "desc": "Appareil à base de fromages 70%, pâte brisée au beurre 30%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartes-fromages-000000000000040317.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 360 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 21%, emmental 18,1% (contient LAIT; origine: UE), eau, OEUF entier de poule élevée en plein air (liquide, pasteurisé) 12,9%, fromage blanc 10,6% (contient LAIT), crème fraîche liquide (LAIT), beurre 6,7% (LAIT), Comté (contient LAIT) 1,8%, sel, amidon de maïs, poivre, muscade.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.8,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n20 min\nPréchauffez votre four à 210°C (th 7). Retirez les tartes de leur emballage et placez-les à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Four à chaleur tournante : 20 min Four traditionnel : 25 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.18,
+            "total_reviews": 126
+        }
+    },
+    {
+        "ean": "000000000000036561",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes brisées pur beurre pré-étalées",
+                "desc": "2 pâtes brisées pur beurre pré-étalées, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-brisees-pur-beurre-pre-etalees-000000000000036561.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 500 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 22,2%, eau, sucre, sel, agent de traitement de la farine : L-cystéine.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h 30\nSortez un rouleau de pâte brisée de son étui et placez-le dans son film plastique 4 heures 30 au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.59,
+            "total_reviews": 59
+        }
+    },
+    {
+        "ean": "000000000000089084",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes bio courgette tomate féta AOP",
+                "desc": "2 tartes composées d'un appareil (38%) aux oeufs et crème fraîche, d'une garniture (32%) de légumes, et Feta, et d'une pâte (30%) pur beurre, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartes-bio-courgette-tomate-feta-aop-000000000000089084.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 300 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "eau, farine de blé* (gluten), œuf entier issu de poule élevée en plein air* (liquide, pasteurisé) 13%, courgette* 11%, tomate* 11%, crème fraîche* 9,8% (lait), Feta* AOP** 8% [lait de brebis et de chèvre*, ferments lactiques (lait), coagulant microbien, sel], beurre* 6,6% (lait), amidon de maïs cireux, échalote*, basilic*, sel, muscade*\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nPréparation après décongélationCuisson au four pendant\n20 min\nPréchauffez votre four à 210°C (th.7). Placez les tartes à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Laissez réchauffer le temps indiqué : Four à chaleur tournante : 20 min Four traditionnel : 24 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.9,
+            "total_reviews": 49
+        }
+    },
+    {
+        "ean": "000000000000071659",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tourte noix de Saint-Jacques et colin d'Alaska",
+                "desc": "Tourte de colin d'Alaska et Noix de Saint-Jacques*, à la crème et au vin d'Alsace Riesling *(Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Feroe/Irlande/Royaume Uni), surgelée, à cuire.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tourte-noix-saint-jacques-colin-alaska-000000000000071659.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 500 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT), eau, crème fraîche liquide (LAIT) 12,6%, colin d'Alaska (POISSONS) qualité sans arête* 11,3%, noix de SAINT-JACQUES sans corail 10,7% (Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé/Irlande/Royaume-Uni ; MOLLUSQUES)**, champignon de Paris 3,7%, vin d'Alsace Riesling 2,2%, échalote, amidon de maïs, ŒUF issu de poule élevée en plein air (liquide, pasteurisé), LAIT entier en poudre, fumet de POISSON (POISSONS en poudre, extraits de POISSONS, eau, vin blanc, sel, vinaigre d'alcool, poireau en poudre, échalote en poudre, extrait de laurier), jaune d’ ŒUF issu de poule élevée en plein air (liquide, pasteurisé), sel, son de BLÉ (GLUTEN), extrait de coquillages [coque (MOLLUSQUES), jus de cuisson de moule (MOLLUSQUES)] jus de citron, persil, levure désactivée, poivre.\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage, près du numéro de lot. Argentine (AR), Iles Féroé (FO), Royaume-Uni (GB), Irlande (IE)",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Fruits à coque",
+                    "Mollusques"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.95,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n35 min\nPréchauffez votre four à 210°C (th.7). Sortez le feuilleté de l'étui, retirez le film plastique et déposez-le sur une grille recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué: - Four à chaleur tournante : 35 min - Four traditionnel : 45 min Vous pouvez couvrir 5 min avant la fin de cuisson si la coloration est suffisante.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.16,
+            "total_reviews": 164
+        }
+    },
+    {
+        "ean": "000000000000089407",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 croustillants chèvre, miel, figue",
+                "desc": "2 croustillants composés de feuille de brick 18% garnie d'une tranche de fromage de chèvre 43%, de sauce au miel 24% et de figue noire séchée 15%, à cuire, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbbf6f8c3/produits/00000000000000087355_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-croustillants-chevre-miel-figue-000000000000089407.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 164 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Fromage de chèvre 42,6% (contient LAIT), sauce au miel (miel 10%, eau, sucre, jus de citron, gélifiant : pectines), figue noire séchée 14,6%, eau, farine de BLÉ (GLUTEN), NOISETTE hachée grillée 1,7%, huile de colza, sel, farine de BLÉ malté toasté 0,1% (GLUTEN), romarin.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 164.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n25min\nPréchauffez votre four à 180°C (th.6). Sortez les croustillants de leur étui carton et plastique. Déposez-les sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et faites cuire le temps indiqué. Four traditionnel : 30 minutes - Four à chaleur tournante : 25 minutes.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.37,
+            "total_reviews": 97
+        }
+    },
+    {
+        "ean": "000000000000043695",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes sablées pur beurre pré-étalées",
+                "desc": "2 pâtes sablées pur beurre pré-étalées, crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-sablees-pur-beurre-pre-etalees-000000000000043695.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 500 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 20,5%, sirop de glucose, sucre, amidon de BLÉ (GLUTEN), ŒUF frais liquide pasteurisé, eau.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h\nSortez un rouleau de pâte sablée de son étui et placez-le dans son film plastique 4 heures au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 35
+        }
+    },
+    {
+        "ean": "000000000000089184",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 chaussons poulet, champignon, emmental",
+                "desc": "2 chaussons à base d’une garniture au poulet cuit traité en salaison, aux champignons et à l’emmental 53,6% et d’une pâte brisée pur beurre gratinée à l’emmental 46,3%, cuits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-chaussons-poulet-champignon-000000000000089184.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 280 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 24,6%, beurre (LAIT) 15,1%, eau, filet de poulet cuit traité en salaison 9,9% [filet de poulet (origine : France*), fécule de manioc, sel], champignon de Paris 9,4%, emmental râpé (contient LAIT; origine : UE) 6,8%, crème légère (LAIT), OEUF issu de poule élevée en plein air (liquide, pasteurisé), échalote, vin blanc, fond de volaille [concentré de bouillon de poulet (eau, morceaux de poulet, sel), jus de légumes (extraits de carotte et d'oignon), graisse de poulet, sel, laurier], huile d'olive vierge extra, sel, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au four\nPréparation sans décongélationCuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th.6). Placez les chaussons à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Laissez réchauffer le temps indiqué : - Four à chaleur tournante : 25 min - Four traditionnel : 30 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.94,
+            "total_reviews": 84
+        }
+    },
+    {
+        "ean": "000000000000064450",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Feuilleté jambon-emmental, 4 parts",
+                "desc": "Pâte feuilletée (49%),garnie d’une sauce béchamel (34,4%) et de tranches de jambon supérieur (16,4%), surgelé, à cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/feuillete-jambon-emmental-4-parts-000000000000064450.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 600 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), LAITdemi-écrémé, jambon supérieur 16,4% [jambon de porc (origine: France*), eau, sel, bouillon naturel de porc, sirop de glucose, dextrose, antioxydant : érythorbate de sodium, arômes naturels, conservateur : nitrite de sodium], eau, beurre 13,5% (LAIT), emmental râpé 6,2% (contient LAIT; origine : UE), ŒUF issu de poule élevée en plein air (liquide, pasteurisé), sel, LAIT écrémé en poudre, amidon de pomme de terre, poivre, muscade.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Déposez le feuilleté sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué. Four traditionnel : 45 min Four à chaleur tournante : 35 min Vous pouvez couvrir le feuilleté 10 min avant la fin de la cuisson si la coloration est suffisante.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.68,
+            "total_reviews": 76
+        }
+    },
+    {
+        "ean": "000000000000089159",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 tartes figue, chèvre, romarin",
+                "desc": "2 tartes à base de pâte brisée pur beurre 29% garnie aux figues, fromage de chèvre et romarin, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-tartes-figue-chevre-romarin-000000000000089159.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-07T00:32",
+                "format": "LA BOÎTE DE 360 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 17,1%, figue 15%, eau, fromage de chèvre (LAIT) 13,1%, fromage blanc (LAIT) 12,4%, OEUF de poule élevée en plein air (liquide, pasteurisé), crème fraîche liquide (LAIT), beurre (LAIT) 6,4%, amidon de maïs, sel, romarin 0,2%, poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nDÉCONGÉLATIONCuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th.6). Placez les tartes à mi-hauteur sur la grille du four recouverte de papier cuisson. En fin de cuisson, couvrez si nécessaire. Laissez réchauffer le temps indiqué : Four à chaleur tournante : 25 min - Four traditionnel : 28 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.13,
+            "total_reviews": 89
+        }
+    }
+]

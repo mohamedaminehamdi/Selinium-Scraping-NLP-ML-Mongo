@@ -1,0 +1,2808 @@
+[
+    {
+        "ean": "000000000000006542",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Haricots verts extra-fins, France",
+                "desc": "Haricots verts extra fins surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwefecc603/produits/000000000000059332_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haricots-verts-extra-fins-000000000000006542.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 35.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 4.1
+                    }
+                },
+                "ingredients": "Haricot vert extra-fin.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 2.69,
+                "preparation": "Au panier vapeur\nCUISSONCuisson au paniervapeur pendant\n11 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 11 à 12 minutes.\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n5 min\nFaites cuire 5 à 6 minutes à partir de la reprise du frémissement de l’eau.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n3 min\nFaites cuire 3 minutes à partir de la mise en rotation de la soupape.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.5,
+            "total_reviews": 519
+        }
+    },
+    {
+        "ean": "000000000000012874",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Oignons en cubes",
+                "desc": "OIGNONS EN CUBES SURGELES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw73700515/produits/000000000000005015_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/oignons-cubes-000000000000012874.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 41.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Oignon.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 2.99,
+                "preparation": "À la poêle\nPréparation chaudeCuisson au poele pendant\n4 min\nFaites cuire 4 à 7 minutes à feu moyen avec un peu de matière grasse, en remuant régulièrement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.89,
+            "total_reviews": 212
+        }
+    },
+    {
+        "ean": "000000000000087030",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Choux-fleurs-fleurettes sans résidu de pesticides, France ou Belgique ou Italie",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/choux-fleurs-sans-residu-000000000000087030.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 2.75,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000050481",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Basilic coupé bio",
+                "desc": "Basilic coupé BIO, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9670c170/produits/000000000000008753_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/basilic-coupe-bio-50g-000000000000050481.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 37.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.9,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 5.6
+                    }
+                },
+                "ingredients": "Basilic issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.4,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.6,
+            "total_reviews": 20
+        }
+    },
+    {
+        "ean": "000000000000059332",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Duo haricots plats verts et beurre, coupés, France",
+                "desc": "Duo de haricots plats coupés surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/duo-haricots-plats-verts-beurre-coupes-000000000000059332.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 35.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 4.1
+                    }
+                },
+                "ingredients": "Haricot plat beurre 50%, haricot plat vert 50%.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.4,
+                "preparation": "Au panier vapeur\nPréparationCuisson au paniervapeur pendant\n14 min\nDéposez les haricots dans un panier vapeur. Placez-le au-dessus d'une eau frémissante et laissez cuire à couvert pendant 14 minutes.\n\nÀ la casserole\nPréparationCuisson au casserole pendant\n6 min\nPlongez les haricots dans une casserole d'eau bouillante. Laissez cuire 6 minutes à partir de la reprise du frémissement. Egouttez.\n\nÀ l'autocuiseur\nPréparationCuisson au autocuiseur pendant\n5 min\nVersez deux verres d'eau dans l'autocuiseur, déposez les haricots dans le panier en position haute. Fermez et laissez cuire 5 minutes à partir de la mise en rotation de la soupape.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n10 min\nVersez 600 g de haricots dans une poêle avec 20 g de beurre et 1 verre d'eau. Assaisonnez, portez à ébullition, puis couvrez et laissez cuire à feu doux 10 à 12 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 2.7,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,30€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 11.11% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.16,
+            "total_reviews": 32
+        }
+    },
+    {
+        "ean": "000000000000010123",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Fleurettes de brocolis",
+                "desc": "Fleurettes de brocolis surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw780f2600/produits/legumes/000000000000010321_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fleurettes-brocolis-espagne-000000000000010123.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 28.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.3,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Brocoli.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.4,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n7 min\nLaissez cuire avec un peu d'eau à couvert le temps indiqué : Puissance restituée du four à micro-ondes : 750 W 900 W ¼ verre d'eau pour : 250 g 9 min 7 min ½ verre d'eau pour : 500 g 12 min 11 min\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n5 min\nFaites cuire 5 minutes à partir de la mise en rotation de la soupape.\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n8 min\nFaites cuire 8 minutes à partir de la reprise du frémissement de l'eau.\n\nAu panier vapeur\nCUISSONCuisson au paniervapeur pendant\n14 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 14 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.7,
+            "total_reviews": 158
+        }
+    },
+    {
+        "ean": "000000000000006104",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Échalote coupée",
+                "desc": "Echalote coupée surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9670c170/produits/000000000000008753_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/echalote-coupee-000000000000006104.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:51",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 84.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 4.0,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.7,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Echalote 96%, huiles de tournesol et de colza.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.7,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.92,
+            "total_reviews": 136
+        }
+    },
+    {
+        "ean": "000000000000012709",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ciboulette coupée",
+                "desc": "Ciboulette coupée surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw7f64aa82/produits/00000000000000012577_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ciboulette-coupee-000000000000012709.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 34.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.7,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.4,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Ciboulette.",
+                "on_discount": true,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.56,
+            "total_reviews": 64
+        }
+    },
+    {
+        "ean": "000000000000006500",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Champignons de Paris émincés",
+                "desc": "Champignons de Paris émincés, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw108a3619/produits/legumes/pack/000000000000059325_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/champignons-paris-eminces-000000000000006500.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 18.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Champignon de Paris.",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.8,
+                "preparation": "À la poêle\nCUISSONCuisson au poele pendant\n6 min\nVersez les champignons dans une poêle chaude avec un peu de matière grasse. Laissez cuire à feu vif en remuant régulièrement, le temps indiqué. Pour 500g : 6 min Pour 1kg : 9 min\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n5 min\nPlongez les champignons dans une casserole d'eau bouillante légèrement vinaigrée. Laissez cuire 5 minutes à partir de la reprise du frémissement. Egouttez.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 111
+        }
+    },
+    {
+        "ean": "000000000000075704",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Duo de fleurettes bio (brocoli et chou-fleur)",
+                "desc": "Duo de fleurettes : brocoli, chou-fleur issus de l'agriculture biologique, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw518a2f05/produits/00000000000000010123_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/duo-fleurettes-bio-brocoli-chou-fleur-000000000000075704.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 25.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.0,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Brocoli 50 %*, chou-fleur 50 %*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.35,
+                "preparation": "Au panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n12 min\nÉtalez les fleurettes dans un panier vapeur. Placez-les audessus d’une eau frémissante et laissez cuire à couvert pendant 12 minutes.\n\nÀ l'autocuiseur\nCUISSON SANS DÉCONGÉLATIONCuisson au autocuiseur pendant\n5 min\nVersez deux verres d’eau dans l’autocuiseur, déposez les fleurettes dans le panier en position haute. Fermez et laissez cuire 5 minutes à partir de la mise en rotation de la soupape.\n\nÀ la casserole\nCUISSON SANS DÉCONGÉLATIONCuisson au casserole pendant\n6 min\nPlongez les fleurettes dans une casserole d’eau bouillante. Laissez cuire 6 minutes à la reprise du frémissement. Egouttez.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n8 min\nVersez les fleurettes dans un plat adapté avec 1 cuillère à soupe d’eau pour 300 g. Couvrez et laissez cuire en position cuisson le temps indiqué. Puissance restituée du four à micro-ondes: 750 W 900 W Pour 300 g: 10 min 8 min Pour 600 g: 14 min 13 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.02,
+            "total_reviews": 60
+        }
+    },
+    {
+        "ean": "000000000000012577",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Coriandre coupée",
+                "desc": "Coriandre coupée surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw127f2351/produits/edition/06104.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/coriandre-coupee-000000000000012577.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 34.0
+                    },
+                    "minerals": {
+                        "salt": 0.06
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.4,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 4.0
+                    }
+                },
+                "ingredients": "Coriandre.",
+                "on_discount": true,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.66,
+            "total_reviews": 101
+        }
+    },
+    {
+        "ean": "000000000000087643",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Epinards hachés à la crème bio",
+                "desc": "Epinards hachés à la crème issus de l'agriculture biologique - Surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8a0fe345/produits/0000000000000586_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/epinards-haches-creme-bio-000000000000087643.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 57.0
+                    },
+                    "minerals": {
+                        "salt": 0.47
+                    },
+                    "fats": {
+                        "fats": 2.8,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Epinard haché* 70%, eau, crème* (LAIT) 9,9%, LAIT écrémé en poudre*, fécule de pomme de terre*, fécule de maïs*, sel, poivre blanc*, noix de muscade*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.5,
+                "preparation": "À la casserole\nPréparationCuisson au casserole pendant\n10 min\nVersez la quantité désirée d'épinards dans une casserole chaude. Laissez cuire à feu moyen le temps indiqué, en remuant régulièrement Pour 300g : 10 min Pour 600g : 12 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nVersez la quantité désirée d'épinards dans un plat adapté. Couvrez et laissez cuire le temps indiqué, en remuant à mi- temps. 750W 900W Pour 300g 7 min 6 min Pour 600g 12 min 10 min",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.78,
+            "total_reviews": 138
+        }
+    },
+    {
+        "ean": "000000000000050480",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Oignons émincés bio",
+                "desc": "Oignons émincés issus de l'agriculture biologique surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw73700515/produits/000000000000005015_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/oignons-eminces-bio-000000000000050480.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 41.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Oignon issu de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nPréparation froideCuisson au microondes pendant\n3 min\nAu four à micro-ondes (position décongélation - 150 W) : Versez les oignons dans un plat adapté. Laissez décongeler en position décongélation le temps indiqué en remuant à mi-temps. - pour 225 g : 3 min - pour 450 g : 6 min Laissez reposer 15 minutes au réfrigérateur avant utilisation.\n\nAu réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n4 h\nÉtalez les oignons sur une seule couche dans un plat adapté et laissez décongeler 4 heures au réfrigérateur.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.52,
+            "total_reviews": 54
+        }
+    },
+    {
+        "ean": "000000000000012642",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Persil plat coupé",
+                "desc": "Persil plat coupé Surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9670c170/produits/000000000000008753_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/persil-plat-coupe-000000000000012642.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 50.0
+                    },
+                    "minerals": {
+                        "salt": 0.08
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 4.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.6,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 4.2
+                    }
+                },
+                "ingredients": "Persil plat.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.85,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.76,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000059928",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Trio de fleurettes brocolis,chou fleur,romanesco, Espagne",
+                "desc": "Trio de Fleurettes : Chou-Fleur, Brocoli, Chou Romanesco Surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw518a2f05/produits/00000000000000010123_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/trio-fleurettes-brocolis-chou-fleur-romanesco-000000000000059928.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:52",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 26.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Chou-fleur 34%, brocoli 33%, chou romanesco 33%.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.65,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n8 min\nLaissez cuire avec un peu d'eau à couvert le temps indiqué : Puissance restituée du four à micro-ondes:750 watts 900 watts 1/4 verre d'eau pour : 300 g 9 min 8 min 1/2 verre d'eau pour : 600 g 12 min 10 min\n\nAu panier vapeur\nCUISSONCuisson au paniervapeur pendant\n10 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 10 minutes.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n5 min\nFaites cuire 5 minutes à partir de la mise en rotation de la soupape.\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n8 min\nFaites cuire 8 minutes à partir de la reprise du frémissement de l'eau.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.57,
+            "total_reviews": 117
+        }
+    },
+    {
+        "ean": "000000000000050307",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Oignons rouges émincés",
+                "desc": "Oignons rouges émincés surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe5234ca5/produits/000000000000087030_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/oignons-rouges-eminces-000000000000050307.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 41.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Oignon rouge.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nPréparation froideCuisson au microondes pendant\n2 min\nVersez les oignons dans un plat adapté. Laissez décongeler en position décongélation, en remuant à mi-temps: - pour 100 g : 2 min - pour 225 g : 3 min Laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n4 h\nEtalez les oignons sur une seule couche dans un plat adapté et laissez décongeler 4 heures au réfrigérateur.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 66
+        }
+    },
+    {
+        "ean": "000000000000050030",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ail coupé Bio",
+                "desc": "Ail coupé bio surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9670c170/produits/000000000000008753_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ail-coupe-bio-000000000000050030.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 148.0
+                    },
+                    "minerals": {
+                        "salt": 0.01
+                    },
+                    "fats": {
+                        "fats": 3.5,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 5.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 4.1
+                    }
+                },
+                "ingredients": "Ail* 96%, huile de tournesol*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.3,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.57,
+            "total_reviews": 23
+        }
+    },
+    {
+        "ean": "000000000000005015",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Oignons émincés, France",
+                "desc": "Oignons émincés surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwab140fdb/produits/edition/12874.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/oignons-eminces-000000000000005015.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 32.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.4,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Oignon.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.4,
+                "preparation": "À la poêle\nPréparation chaudeCuisson au poele pendant\n4 min\nFaites revenir 4 à 7 minutes à feu moyen avec un peu de matière grasse, en remuant régulièrement.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.44,
+            "total_reviews": 123
+        }
+    },
+    {
+        "ean": "000000000000012733",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Basilic coupé",
+                "desc": "Basilic coupé surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc0586919/produits/000000000000012569_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/basilic-coupe-000000000000012733.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 35.0
+                    },
+                    "minerals": {
+                        "salt": 0.13
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Basilic.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.75,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000010131",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Haricots verts bio, France ou Italie",
+                "desc": "Haricots verts non calibrés issus de l'agriculture biologique surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haricots-verts-bio-000000000000010131.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 35.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 4.1
+                    }
+                },
+                "ingredients": "Haricot vert issu de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au panier vapeur\nCUISSONCuisson au paniervapeur pendant\n11-12 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 11 à 12 minutes.\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n8-9 min\nFaites cuire 8 à 9 minutes à partir de la reprise du frémissement de l’eau.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n4 min\nFaites cuire 4 minutes à partir de la mise en rotation de la soupape",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.23,
+            "total_reviews": 204
+        }
+    },
+    {
+        "ean": "000000000000087029",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Carottes en rondelles sans résidu de pesticides",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/carottes-sans-residu-de-pesticides-000000000000087029.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 2.55,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000010313",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Courgettes en rondelles bio, Italie",
+                "desc": "COURGETTES EN RONDELLES ISSUES DE L'AGRICULTURE BIOLOGIQUE SURGELÉES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw80605236/produits/legumes/000000000000010305_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/courgettes-rondelles-bio-000000000000010313.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 20.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Courgette issue de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.1,
+                "preparation": "À la casserole\nCUISSONCuisson au casserole pendant\n6 min\nDans une casserole d’eau bouillante, plongez la quantité desirée de courgettes en rondelles. Laissez cuire 6 minutes à partir de la reprise du frémissement. Egouttez.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n4 min\nVersez deux verres d’eau dans l’autocuiseur, déposez les courgettes en rondelles dans le panier en position haute. Fermez et laissez cuire 4 minutes à partir de la mise en rotation de la soupape.\n\nAu panier vapeur\nCUISSONCuisson au paniervapeur pendant\n12 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 12 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 46
+        }
+    },
+    {
+        "ean": "000000000000010206",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Petits pois bio, France ou Italie",
+                "desc": "Petits pois doux issus de l'agriculture biologique non calibrés, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw667adc97/produits/000000000000010272_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/petits-pois-bio-000000000000010206.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:53",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 59.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 5.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.5,
+                        "of_which_sugars": 3.0,
+                        "dietary_fiber": 4.5
+                    }
+                },
+                "ingredients": "Petit pois doux issu de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.1,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n5 min\nLaissez cuire avec un peu d'eau à couvert le temps indiqué : Puissance restituée du four à micro-ondes : 750 W 900 W ¼ verre d'eau pour : 300 g 6 min 5 min ½ verre d'eau pour : 600 g 12 min 10 min\n\nÀ la casserole\nPréparationCuisson au casserole pendant\n7 min\nFaites cuire 7 minutes à partir de la reprise du frémissement de l'eau.\n\nÀ l'autocuiseur\nPréparationCuisson au autocuiseur pendant\n5 min\nFaites cuire 5 minutes à partir de la mise en rotation de la soupape.\n\nÀ la cocotte\nPréparationCuisson au cocotte pendant\n7 à 10 min\nFaites revenir avec un peu de matière grasse. Mouillez à mi-hauteur avec de l'eau. Laissez cuire 7 à 10 minutes à couvert.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.64,
+            "total_reviews": 121
+        }
+    },
+    {
+        "ean": "000000000000010321",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Fleurettes de brocolis bio, France ou Espagne",
+                "desc": "FLEURETTES DE BROCOLIS ISSUS DE L'AGRICULTURE BIOLOGIQUE SURGELEES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw518a2f05/produits/00000000000000010123_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fleurettes-brocolis-bio-000000000000010321.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 29.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.1,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Brocoli issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.1,
+                "preparation": "Au panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n12 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 12 minutes.\n\nÀ l'autocuiseur\nCUISSON SANS DÉCONGÉLATIONCuisson au autocuiseur pendant\n3 min\nFaites cuire 3 minutes à partir de la mise en rotation de la soupape.\n\nÀ la casserole\nCUISSON SANS DÉCONGÉLATIONCuisson au casserole pendant\n6 min\nFaites cuire 6 minutes à partir de la reprise du frémissement de l’eau.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n7 min\nLaissez cuire avec un peu d’eau à couvert le temps indiqué. Puissance restituée du four à micro-ondes: 750 watts 900 watts Pour 300 g: 9 min 7 min Pour 600 g: 15 min 12 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.62,
+            "total_reviews": 151
+        }
+    },
+    {
+        "ean": "000000000000010298",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Epinards en branches bio",
+                "desc": "EPINARDS EN BRANCHE ISSUS DE L'AGRICULTURE BIOLOGIQUE SURGELES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8a0fe345/produits/0000000000000586_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/epinards-branches-bio-000000000000010298.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 26.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Epinard issu de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.9,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n7 min\nLaissez cuire avec un peu d’eau à couvert le temps indiqué, en remuant à mi-temps. Puissance restituée du four à micro-ondesl: 750 W 900 W Pour 200 g: 1 cuillère à soupe d’eau 8 min 7 min Pour 600 g: 2 cuillères à soupe d’eau 15 min 13 min\n\nÀ la casserole\nPréparationCuisson au casserole pendant\n12 min\nLaissez cuire avec de l’eau à feu moyen et à couvert en remuant régulièrement. 200 g : 12 min 600 g : 16 min 1/4 verre d’eau 1/2 verre d’eau",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.61,
+            "total_reviews": 226
+        }
+    },
+    {
+        "ean": "000000000000087982",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Fleurettes de brocolis sans résidu de pesticides",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/brocolis-fleurettes-sans-residus-pesticides-000000000000087982.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.6,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000010305",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Carottes en rondelles bio, France",
+                "desc": "Carottes en rondelles issues de l'agriculture biologique surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw388f422e/produits/00000000000000010313_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/carottes-rondelles-bio-000000000000010305.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 31.0
+                    },
+                    "minerals": {
+                        "salt": 0.13
+                    },
+                    "fats": {
+                        "fats": 0.4,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.9,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Carotte rondelle issue de l'Agriculture Biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.6,
+                "preparation": "Au panier vapeur\nPréparation sans décongélationCuisson au paniervapeur pendant\n12 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 12 minutes.\n\nAu micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n8 - 9 min\nLaissez cuire avec ½ verre d’eau à couvert le temps indiqué. Puissance restituée au four à micro-ondes: 750 W 900 W Pour 300 g: 10 min 8 min Pour 600 g: 14 min 12 min\n\nÀ la casserole\nPréparation sans décongélationCuisson au casserole pendant\n12 min\nFaites cuire 12 minutes à partir de la reprise du frémissement de l’eau.\n\nÀ l'autocuiseur\nPréparation sans décongélationCuisson au autocuiseur pendant\n7 min\nVersez deux verres d’eau dans l’autocuiseur, déposez les carottes dans le panier en position haute. Fermez et laissez cuire 7 minutes à partir de la mise en rotation de la soupape.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nNe jamais recongeler un produit décongelé.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.46,
+            "total_reviews": 97
+        }
+    },
+    {
+        "ean": "000000000000087974",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Courgettes sans résidu de pesticides, Italie",
+                "desc": "Courgettes en rondelles sans résidu de pesticides* surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw388f422e/produits/00000000000000010313_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/courgettes-sans-residu-pesticides-000000000000087974.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 23.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.6,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Courgette.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 2.99,
+                "preparation": "À la casserole\nCUISSONCuisson au casserole pendant\n6 min\nFaites cuire 6 minutes à partir de la reprise du frémissement de l’eau.\n\nAu panier vapeur\nCUISSONCuisson au paniervapeur pendant\n12 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 12 minutes.\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n7 min\nLaissez cuire à couvert le temps indiqué : Puissance restituée du four à micro-ondes: 900 W Pour 250 g 7 min Pour 500 g 14 min Pour 1kg 24 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 45
+        }
+    },
+    {
+        "ean": "000000000000050031",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Persil plat coupé Bio",
+                "desc": "Persil plat coupé bio Surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbbe44127/produits/legumes/edition/000000000000087685_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/persil-plat-coupe-bio-000000000000050031.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 47.0
+                    },
+                    "minerals": {
+                        "salt": 0.16
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.9,
+                        "of_which_sugars": 2.0,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Persil plat issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.55,
+            "total_reviews": 29
+        }
+    },
+    {
+        "ean": "000000000000012569",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ail coupé",
+                "desc": "Ail coupé surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw127f2351/produits/edition/06104.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ail-coupe-000000000000012569.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 146.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 3.7,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 4.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 9.5
+                    }
+                },
+                "ingredients": "Ail 96%, huiles de tournesol et de colza.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.99,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.68,
+            "total_reviews": 41
+        }
+    },
+    {
+        "ean": "000000000000059936",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Choux de Bruxelles, France ou Belgique",
+                "desc": "Choux de Bruxelles surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw422aa460/produits/000000000000087149_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/choux-bruxelles-belgique-000000000000059936.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 44.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 3.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Chou de Bruxelles.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Au panier vapeur\nCUISSONCuisson au paniervapeur pendant\n12 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 12 minutes.\n\nÀ la casserole\nCUISSONCuisson au casserole pendant\n6 min\nFaites cuire 6 minutes à partir de la reprise du frémissement de l'eau.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n8 min\nFaites cuire 8 minutes à partir de la mise en rotation de la soupape.\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n9 min\nLaissez cuire avec un peau d'eau à couvert le temps indiqué: Puissance restituée du four à micro-ondes: 750 W 900 W Pour 300 g : 12 min 9 min Pour 600 g : 20 min 17 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.83,
+            "total_reviews": 157
+        }
+    },
+    {
+        "ean": "000000000000012684",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Thym coupé",
+                "desc": "Thym coupé surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9670c170/produits/000000000000008753_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/thym-coupe-000000000000012684.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:54",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 76.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 4.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.4,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 12.0
+                    }
+                },
+                "ingredients": "Thym.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.94,
+            "total_reviews": 32
+        }
+    },
+    {
+        "ean": "000000000000010248",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Choux-fleurs en fleurettes bio, France ou Italie",
+                "desc": "CHOUX-FLEURS EN FLEURETTES issus de l'agriculture biologique, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/choux-fleurs-fleurettes-bio-000000000000010248.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 23.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.3,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.0,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Chou-fleur issu de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.65,
+                "preparation": "Au panier vapeur\nPréparationCuisson au paniervapeur pendant\n7 min\nEtalez les fleurettes de choux-fleurs dans un panier vapeur. Placez-les au-dessus d’une eau frémissante et laissez cuire 7 à 8 minutes.\n\nÀ l'autocuiseur\nPréparationCuisson au autocuiseur pendant\n5 min\nVersez deux verres d’eau dans l’autocuiseur, déposez les fleurettes de choux-fleurs dans le panier en position haute. Fermez et laissez cuire 5 minutes à partir de la mise en rotation de la soupape\n\nÀ la casserole\nPréparationCuisson au casserole pendant\n7 min\nDans une casserole d’eau bouillante, plongez la quantité désirée de fleurettes de choux-fleurs. Laissez cuire 7 minutes à partir de la reprise du frémissement. Egouttez.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n8 min\nVersez les fleurettes de choux-fleurs dans un plat adapté avec ½ verre d’eau. Couvrez et laissez cuire en position cuisson le temps indiqué. Puissance restituée du four à micro-ondes: 750 W 900 W Pour 300g: 12 min 8min Pour 600g: 18 min 14min",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.24,
+            "total_reviews": 75
+        }
+    },
+    {
+        "ean": "000000000000087420",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Trio de poivrons sans résidu de pesticides",
+                "desc": "Trio de poivrons : Lanières de poivrons rouges, verts et jaunes sans résidu de pesticides* surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2be5e640/produits/M023106_59952_Edition_2020.08_2500.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/600g-trio-de-poivrons-srp-000000000000087420.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 27.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.6,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Poivron rouge 27%, poivron vert 27%, poivron jaune 27%.\n*Pourcentage minimum.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 3.7,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n6 min\nLaissez cuire le temps indiqué dans un plat adapté : Puissance restituée du four à micro-ondes: 750 W 900 W Pour 300 g 8 min 6 min Pour 600 g 18 min 14 min\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n12 min\nLaissez cuire à feu moyen 12 minutes dans une poêle chaude avec un peu de matière grasse.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.62,
+            "total_reviews": 50
+        }
+    },
+    {
+        "ean": "000000000000087960",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Duo de haricots verts et haricots beurres bio",
+                "desc": "Duo de haricots verts et haricots beurres extra fins issus de l'agriculture biologique surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwefecc603/produits/000000000000059332_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/duo-haricot-extra-fin-bio-000000000000087960.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 31.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.1,
+                        "of_which_sugars": 2.0,
+                        "dietary_fiber": 3.6
+                    }
+                },
+                "ingredients": "Haricot vert extra-fin 50%*, haricot beurre extra-fin 50%*\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n11 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 11 à 12 minutes.\n\nÀ la casserole\nCUISSON SANS DÉCONGÉLATIONCuisson au casserole pendant\n5 min\nFaites cuire 5 à 6 minutes à partir de la reprise du frémissement de l’eau.\n\nÀ l'autocuiseur\nCUISSON SANS DÉCONGÉLATIONCuisson au autocuiseur pendant\n3 min\nFaites cuire 3 minutes à partir de la mise en rotation de la soupape.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.31,
+            "total_reviews": 36
+        }
+    },
+    {
+        "ean": "000000000000000586",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Epinards hachés, France",
+                "desc": "Epinards hachés surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/epinards-haches-000000000000000586.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 26.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Epinard.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 1.99,
+                "preparation": "À la casserole\nCUISSONCuisson au casserole pendant\n40 min\nLaissez cuire à feu doux en remuant à mi-temps : - pour 200 g : 4 min - pour 500 g : 9 min - pour 1 kg : 15 min\n\nAu micro-ondes\nCUISSONCuisson au microondes pendant\n3min30\nà micro-ondes : Laissez cuire le temps indiqué, en remuant à mi-temps : Puissance restituée du four à micro-ondes : 750 Watts 900 Watts - pour 200 g : 5 min 30 3 min 30 - pour 500 g : 10 min 6 min 30 - pour 1 kg : 18 min 15 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.33,
+            "total_reviews": 141
+        }
+    },
+    {
+        "ean": "000000000000008753",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ail coupé",
+                "desc": "Ail coupé surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw127f2351/produits/edition/06104.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ail-coupe-000000000000008753.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 151.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 3.4,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Ail 96%, huiles de tournesol et de colza.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.5,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.7,
+            "total_reviews": 73
+        }
+    },
+    {
+        "ean": "000000000000001915",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Haricots beurre extra-fins, France",
+                "desc": "HARICOTS BEURRE EXTRA-FINS SURGELES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haricots-beurre-extra-fins-000000000000001915.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 35.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Haricot beurre extra-fin.\n*La teneur en sel est exclusivement due au sodium présent naturellement dans le produit.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 3.3,
+                "preparation": "À la casserole\nCUISSONCuisson au casserole pendant\n9 min\nFaites cuire 9 minutes à partir de la reprise du frémissement de l'eau.\n\nAu panier vapeur\nCUISSONCuisson au paniervapeur pendant\n13 min\nDans un panier vapeur placé au-dessus d'une eau frémissante, couvrez et laissez cuire 13 minutes.\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n5 min\nFaites cuire 5 minutes à partir de la mise en rotation de la soupape.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.41,
+            "total_reviews": 51
+        }
+    },
+    {
+        "ean": "000000000000087685",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Légumes"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Haricots plats coupés bio, France",
+                "desc": "Haricots plats coupés issus de l'agriculture biologique surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haricots-plats-coupes-bio-000000000000087685.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:55",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 26.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.7,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Haricot plat issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 2.75,
+                "preparation": "À la casserole\nPréparationCuisson au casserole pendant\n6 min\nFaites cuire 6 minutes à partir de la reprise du frémissement de l’eau.\n\nÀ l'autocuiseur\nPréparationCuisson au autocuiseur pendant\n6 min\nFaites cuire 6 minutes à partir de la mise en rotation de la soupape.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n12 min\nFaites revenir avec un peu de matière grasse. Mouillez à mi-hauteur avec de l’eau. Laissez cuire 12 minutes à couvert.\n\nAu panier vapeur\nPréparationCuisson au paniervapeur pendant\n15 min\nDans un panier vapeur placé au-dessus d’une eau frémissante, couvrez et laissez cuire 15 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.8,
+            "total_reviews": 94
+        }
+    }
+]

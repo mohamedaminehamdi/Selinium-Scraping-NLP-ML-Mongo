@@ -1,0 +1,397 @@
+[
+    {
+        "ean": "000000000000043976",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes à pizza",
+                "desc": "2 pâtes à pizza crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-pizza-000000000000043976.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:26",
+                "format": "470.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 233.0
+                    },
+                    "minerals": {
+                        "salt": 0.44
+                    },
+                    "fats": {
+                        "fats": 3.3,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 43.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 53,8%, eau, semoule de BLÉ dur (GLUTEN), levure, huile de colza, sel, sucre, améliorant de panification [farine de BLÉ (GLUTEN), émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, agent de traitement de la farine : acide ascorbique, enzymes], levure désactivée [levure de boulanger désactivée, farine de BLÉ (GLUTEN)].",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 470.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n2 h\nRetirez la pâte à pizza de son sachet plastique, déposez-la sur une assiette recouverte d'un film alimentaire étirable et laissez décongeler pendant 2 heures.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.53,
+            "total_reviews": 173
+        }
+    },
+    {
+        "ean": "000000000000007920",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes feuilletées pur beurre",
+                "desc": "2 pâtes feuilletées Pur Beurre crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-feuilletees-pur-beurre-000000000000007920.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:26",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 379.0
+                    },
+                    "minerals": {
+                        "salt": 0.88
+                    },
+                    "fats": {
+                        "fats": 24.0,
+                        "saturates": 16.0
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN) 45,7%, beurre (LAIT) 33%, eau, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.1,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n10 heures\nSortez un bloc de pâte feuilletée de son emballage et placez-le dans son film plastique 10 heures au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.6,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000036181",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes feuilletées pur beurre pré-étalées",
+                "desc": "2 pâtes feuilletées pré-étalées, pur beurre, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-feuilletees-pur-beurre-pre-etalees-000000000000036181.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:26",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 400.0
+                    },
+                    "minerals": {
+                        "salt": 0.84
+                    },
+                    "fats": {
+                        "fats": 25.0,
+                        "saturates": 17.0
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 37.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 33%, eau, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.1,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h 30\nSortez un rouleau de pâte feuilletée de son étui et placez-le dans son film plastique 4 heures 30 au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 156
+        }
+    },
+    {
+        "ean": "000000000000036561",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes brisées pur beurre pré-étalées",
+                "desc": "2 pâtes brisées pur beurre pré-étalées, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-brisees-pur-beurre-pre-etalees-000000000000036561.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:26",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 369.0
+                    },
+                    "minerals": {
+                        "salt": 1.06
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46.0,
+                        "of_which_sugars": 4.0,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 22,2%, eau, sucre, sel, agent de traitement de la farine : L-cystéine.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h 30\nSortez un rouleau de pâte brisée de son étui et placez-le dans son film plastique 4 heures 30 au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.59,
+            "total_reviews": 59
+        }
+    },
+    {
+        "ean": "000000000000043695",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes sablées pur beurre pré-étalées",
+                "desc": "2 pâtes sablées pur beurre pré-étalées, crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-sablees-pur-beurre-pre-etalees-000000000000043695.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:26",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 419.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 12.0
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 60.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 20,5%, sirop de glucose, sucre, amidon de BLÉ (GLUTEN), ŒUF frais liquide pasteurisé, eau.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h\nSortez un rouleau de pâte sablée de son étui et placez-le dans son film plastique 4 heures au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 35
+        }
+    }
+]

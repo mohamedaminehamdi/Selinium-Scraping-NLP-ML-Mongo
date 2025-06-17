@@ -1,0 +1,1277 @@
+[
+    {
+        "ean": "lait-1-2-ecr-sans-lactose-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ SANS LACTOSE 1L BIO",
+                "desc": "Lait demi-écrémé sans lactose 1L Bio\nLait sans lactose (avec moins de 0,1 % de lactose)",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860005021.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecr-sans-lactose-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:27",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "lait* demi-écrémé, lactase.\n*issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 2.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Avant ouverture à conserver à température ambiante, dans un endroit sec et à labri de la chaleur et de la lumière.\nBien agiter avant dégustation.\nAprès ouverture, à conserver au frais à +6°C maximum et à consommer dans les 5 jours.",
+                "conservation": "Après ouverture, à conserver au réfrégirateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-ecreme-brique-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ÉCRÉMÉ 1L BIO",
+                "desc": "Lait écrémé 1L Bio\nLait de vache écrémé stérilisé UHT issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860005021.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-ecreme-brique-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:27",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 3.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.8,
+                        "of_which_sugars": 4.8
+                    }
+                },
+                "ingredients": "Lait écrémé*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 1.55,
+                "price_per_unit": 1.55,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Avant ouverture : à conserver dans un endroit sec et frais.\nAprès ouverture : se conserve 3 jours au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-entier-brique-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ENTIER 1L BIO",
+                "desc": "Lait entier 1L Bio\nLait de vache entier stérilisé UHT issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860005021.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-entier-brique-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.8,
+                        "of_which_sugars": 4.8
+                    }
+                },
+                "ingredients": "Lait entier*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 1.89,
+                "price_per_unit": 1.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Avant ouverture : à conserver dans un endroit sec et frais.\nAprès ouverture : se conserve 3 jours au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-de-chevre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE CHÈVRE 1L BIO",
+                "desc": "Lait de chèvre 1L Bio\nHomogénéisé, pasteurisé, à teneur minimum naturelle de 3.3% de matières grasses élaboré à partir de 100% de lait de chèvres des fermes bavaroises bioland.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/a/n/andechser-natur-lait-de-chevre-entier-3-2-mg-1-l.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-de-chevre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait de chèvre issu de l'agriculture biologique longue conservation.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 4.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Après ouverture, conserver au frais et consommer dans les meilleurs délais.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-chocolat-pack-6x20cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT CHOCOLATÉ UHT 6X20CL BIO",
+                "desc": "Lait chocolaté 6x20Cl Bio\nLes Briquettes de lait Chocolaté Grandeur Nature se glisse dans le cartable ou le sac de sport pour un goûter sain et savoureux.\nRéalisées à partir de lait issu de l'agriculture biologique, de cacao et de sucre de canne issus du commerce équitable, ces briquettes sont pratiques pour les enfants puisqu'elles se boivent à la paille.\nContenance : 6 x 20 cl.\nFabriqué en France par la Laiterie Le Gall.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400167.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-chocolat-pack-6x20cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "20CL",
+                "availability": true,
+                "ingredients": "Lait de vache demi-écrémé*: 92 %, sucre de canne**: 6 %, cacao**: 2 %, Algae (lithothamnium calcareum).\n\n* Ingrédient issu de l’agriculture biologique.\n** Ingrédient biologique issu du commerce équitable.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 5.65,
+                "price_per_unit": 4.71,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant ouverture.",
+                "conservation": "Après ouverture, la briquette se conserve à +4°C."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-uht-chocolate-20-cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT UHT CHOCOLATÉ 20CL BIO",
+                "desc": "Lait UHT chocolaté 20Cl Bio\nSain et nutritif , le Lait chocolaté de Grandeur Nature est source de calcium.\nFacile à transporter, le lait chocolaté est un partenaire de choix.\nPratique, il est présenté dans un format minime et se boit facilement dans la rue, les transports en commun, la cour de récréation ou en voiture grâce à sa paille intégrée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860002082.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-uht-chocolate-20-cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "20CL",
+                "availability": true,
+                "ingredients": "Lait de vache demi écrémé*: 92 %, sucre de canne**: 6 %, cacao**: 2 %, Algae (lithothamnium calcareum).\n* Ingrédient issu de l’agriculture biologique.\n  ** Ingrédient biologique issu du commerce équitable.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 0.95,
+                "price_per_unit": 4.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 0.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur après ouverture.\nAprès ouverture, consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-1-2-ecreme-6x-1l-brique",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ 6X1L BIO",
+                "desc": "Lait demi-écrémé 6x1L Bio\nLait demi-écrémé stérilisé UHT bio collécté par Laiterie le Gall.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03252920033508_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecreme-6x-1l-brique"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait demi-écrémé stérilisé UHT*.\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 7.14,
+                "price_per_unit": 1.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.14 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Avant ouverture, à conserver dans un endroit frais et sec.\nAprès ouverture, à conserver au réfrigérateur entre 0°C et +6°C et à consommer sous 4jours."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-1-2-ecreme-1l-brique",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ 1L BIO",
+                "desc": "Lait demi-écrémé 1L Bio\nLait demi-écrémé stérilisé UHT bio collécté par Laiterie le Gall.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400082.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecreme-1l-brique"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:28",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait demi-écrémé stérilisé UHT*.\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 1.19,
+                "price_per_unit": 1.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Avant ouverture, à conserver dans un endroit frais et sec.\nAprès ouverture, à conserver au réfrigérateur entre 0°C et +6°C et à consommer sous 4jours."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-uht-1-2-ecreme-50cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT UHT 1/2 ÉCRÉMÉ 50CL BIO",
+                "desc": "Lait UHT 1/2 écrémé 50cl Bio\nUn lait de France, conditionné en région centre, issu de la filière 100% engagée dans l'agriculture biologique. \nCe lait garantie une rémunération juste aux producteurs. Les vaches profitent de pâturage 250 jours par an.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/0/3/03396410236113_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-uht-1-2-ecreme-50cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:29",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "Lait demi écrémé*.\nStérélisé UHT.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.69,
+                "price_per_unit": 3.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour toutes vos recettes et votre petit-déjeuner.",
+                "conservation": "Avant ouverture : Avant ouverture, à conserver dans un endroit frais et sec.\nAprès ouverture : Après ouverture, à conserver au réfrigérateur et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "4175648",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ENTIER UHT 1L BIO",
+                "desc": "Lait entier UHT 1L Bio\nUn lait d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/3/3396410236083.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-entier-1l-4175648"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:29",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "LAIT* entier français stérélisé UHT.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.3,
+                "price_per_unit": 2.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un lait entier délicieux, à consommer seul à tout moment de la journée ou pour toutes vos recettes de cuisine.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer dans les 4 jours, après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-brebis-sterilise-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE BREBIS 1L BIO",
+                "desc": "Lait de brebis 1L Bio\nUn lait de brebis 100% français. Un goût léger que vous apprécierez au petit-déjeuner mais aussi dans la journée pour une pause lactée.\nDélicieux également dans vos recettes sucrées.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3701052310327.p1-1500j_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-brebis-sterilise-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:29",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait de brebis entier (lactose) stérilisé issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.4,
+                "price_per_unit": 5.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au réfrigérateur après ouverture et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "3500802",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ UHT 1L BIO",
+                "desc": "Lait demi-écrémé 1L Bio\nLait demi-écrémé stérilisé UHT bio Bonneterre.\nDes éleveurs bios engagés, responsables et solidaires.\nLes vaches pâturent en moyenne 250 jours/an soit 2 fois plus que la moyenne nationale.\nLait français conditionné en région Centre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400082.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecreme-1l-3500802"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:29",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait demi-écrémé issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.19,
+                "price_per_unit": 2.19,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrégirateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-ribot-1-2-ecreme-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT RIBOT DEMI-ÉCRÉMÉ 1L BIO",
+                "desc": "Lait Ribot tradition.\nLait du Morbihan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3438860005021.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-ribot-1-2-ecreme-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:29",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 160
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.07
+                    },
+                    "fats": {
+                        "fats": 2.4
+                    },
+                    "proteins": {
+                        "proteins": 4.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 4.4
+                    }
+                },
+                "ingredients": "lait demi écrémé*, ferments lactiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.69,
+                "price_per_unit": 2.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter avant emploi.",
+                "conservation": "A conserver à +6°C."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-de-chevre-uht-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DE CHÈVRE UHT 1L BIO",
+                "desc": "Lait de chèvre UHT 1L Bio\nLait de chèvre stérilisé UHT biologique.\nFabriqué en France par la fromagerie de la Lémance.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400082.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-de-chevre-uht-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:30",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 90
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 4.4
+                    }
+                },
+                "ingredients": "Lait de chèvre* stérilisé de façon traditionnel.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 4.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au froid à +4°C."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-entier-pack-6x1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ENTIER PACK 6X1L BIO",
+                "desc": "Lait entier pack 6x1L Bio.\nLait bio entier issu des fermes biologiques de Lorraine.\nStérilisation traditionnelle.\nPack de 6 bouteille d'1L.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3252920034314.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-entier-pack-6x1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:30",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait à 36g/l de matière grasse, issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 11.94,
+                "price_per_unit": 1.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.94 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-ecreme-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ÉCRÉMÉ 1L BIO",
+                "desc": "Lait écrémé 1L Bio\nLe lait Biogam est collecté uniquement en Lorraine auprès d'éleveurs locaux et mis en bouteille à Reillon, dans la seule unité exclusivement bio d’embouteillage de lait stérilisé en France.\nIl est stérilisé traditionnellement au plus vite après la traite, les transports sont limités, sa traçabilité et sa fraîcheur sont garanties et il conserve toutes ses qualités nutritionnelles et gustatives.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908253.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-ecreme-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:30",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait écrémé issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.2,
+                "price_per_unit": 2.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, à conserver au froid à +6°C et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-entier-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT ENTIER STÉRILISÉ 1L BIO",
+                "desc": "Lait entier stérilisé 1L Bio\nLait entier bio stérilisé à haute température au plus tôt après la traite grâce au fonctionnement régional de la laiterie exclusivement bio Biogam.\nUn lait idéal pour réussir des desserts lactés onctueux et pour toute utilisation habituelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908253.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-entier-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:30",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait à 36g/l de matières grasse issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.15,
+                "price_per_unit": 2.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Après ouverture, à conserver au froid à +6°C et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "6",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PACK LAIT DEMI-ÉCRÉMÉ X6 50CL BIO",
+                "desc": "Pack Lait demi-écrémé x6 50Cl Bio.\nSource naturelle de calcium.\nLait 100% France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400082.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecreme-1-2-l-x6"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:31",
+                "format": "50CL",
+                "availability": true,
+                "ingredients": "Lait demi-écrémé*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 6.3,
+                "price_per_unit": 2.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver entre 0°C et +6°C.\nAprès ouverture, se conserve 4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-1-2-ecreme-6x1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PACK LAIT DEMI-ÉCRÉMÉ 6X1L BIO",
+                "desc": "Pack lait demi-écrémé 6x1L Bio.\nLait demi-écrémé stérilisé UHT bio collecté en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908253.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-1-2-ecreme-6x1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:31",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait demi-écrémé à 1.5% de MG issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 9.99,
+                "price_per_unit": 1.66,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-demi-ecreme-tetra-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT DEMI-ÉCRÉMÉ 1,5% 1L BIO",
+                "desc": "Lait de vache demi-écrémé stérilisé UHT.\n1,5% de matière grasse.\nIssu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908253.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-demi-ecreme-tetra-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:31",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait de vache 1/2 écrémé à 1,5% de MG*.\n*Ingrédient issu de l’agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 1.75,
+                "price_per_unit": 1.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A température ambiante avant ouverture.\nAu froid +2°C /+6 °C après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-cru-1-litre",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT CRU ENTIER DE VACHE 1L BIO",
+                "desc": "« Ne soyez pas surpris par l’épaisseur de crème, c’est du lait de jersiaise non homogénéisé, riche, goûteux et bien meilleur pour la santé ».\nToutes les vitamines et les minéraux sont préservés.\nLait non homogénéisé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908253.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-cru-1-litre"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:31",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Lait cru de vache issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.79,
+                "price_per_unit": 2.79,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter pour mélanger la crème."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    },
+    {
+        "ean": "lait-frais-1-2-ecr-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Lait"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT FRAIS DEMI-ÉCRÉMÉ 1L BIO",
+                "desc": "Lait frais demi-écrémé 1L Bio",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700640400082.1-0004.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-frais-1-2-ecr-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:31",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 160
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.76
+                    },
+                    "fats": {
+                        "fats": 2.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.48,
+                        "of_which_sugars": 3.87
+                    }
+                },
+                "ingredients": "Lait non homogénéisé*.\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.25,
+                "price_per_unit": 2.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agiter pour mélanger la crème.",
+                "conservation": "A conserver au frais entre 0 et 4°C."
+            }
+        ],
+        "created_at": "2025-06-15T20:27",
+        "updated_at": "2025-06-15T20:27"
+    }
+]

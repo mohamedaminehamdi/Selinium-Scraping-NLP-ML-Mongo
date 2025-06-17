@@ -1,0 +1,282 @@
+[
+    {
+        "ean": "000000000000089027",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions du moment"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pizza thon, tomate, olive",
+                "desc": "Pâte 49%, garnie de sauce tomate 16%, de thon 12%, de mozzarella 11,3%, de légumes 9,2% et d'olives 2,5% ; précuite, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc670e9d4/produits/larg0923_82206_balme_ferme.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/pizza-thon-tomate-olive-000000000000089027.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-03T00:23",
+                "format": "LA BOÎTE DE 400 G",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 871.0,
+                        "kcal": 207.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 6.6,
+                        "saturates": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.0,
+                        "of_which_sugars": 5.3,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Farine de blé (gluten), pulpe de tomates 15,3%, thon à l'huile d'olive 12% [thon albacore 11,7% (poissons), huile d'olive, sel], mozzarella 11,3% (UE ; contient lait), eau, oignon rouge 5,5%, demi-tomate cerise mi-séchée 3,7%, olive dénoyautée assaisonnée* 2,5% (olive, sel, arômes naturels, correcteur d'acidité : acide citrique), huile d'olive, huile d'olive vierge extra, sel, levure, sucre, basilic, origan.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Traces de Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.84,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n10 min\nPréchauffez votre four à 210°C (th.7). Sortez la pizza de l'étui carton et retirez le film plastique. Déposez la pizza sur une plaque recouverte de papier cuisson, laissez 15 min à température ambiante et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 4.8,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.18,
+            "total_reviews": 125
+        }
+    },
+    {
+        "ean": "000000000000017548",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions du moment"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "15 bâtonnets de colin d'Alaska MSC, pré-frits",
+                "desc": "15 portions de filets de colin d’Alaska MSC (65%), panure (35%). préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw452d81ad/produits/000000000000019687_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/15-batonnets-colin-alaska-msc-pre-frits-000000000000017548.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-03T00:23",
+                "format": "LA BOÎTE DE 450 G",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 687.0,
+                        "kcal": 163.0
+                    },
+                    "minerals": {
+                        "salt": 0.49
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Filets de colin d’Alaska MSC (POISSONS) 65% qualité sans arête* [Theragra chalcogramma sauvage pêché dans l’Océan Pacifique Nord-Est (FAO 67) ou Nord-Ouest (FAO 61), zone de pêche indiquée dans le cadre de datage], farine de BLÉ (GLUTEN), huile de colza, eau, amidons de pomme de terre et de BLÉ (GLUTEN), sel, GLUTEN de BLÉ .",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 2.88,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6-8 min\n6 à 8 minutes environ dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant régulièrement.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 min\npréchauffé à 210°C (th. 7) : 12 - 15 minutes. Laissez cuire, à mi-hauteur, sur une plaque chaude recouverte de papier cuisson: - Four traditionnel : 15 min - Four à chaleur tournante : 12 min\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n3-4 min\n3 à 4 minutes dans une huile à 175°C.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.6,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.36,
+            "total_reviews": 159
+        }
+    },
+    {
+        "ean": "000000000000088189",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Promotions du moment"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 cordons bleus de poulet au comté A.O.P.",
+                "desc": "Produit pané et cuit surgelé, à base de filets de poulet reconstitués traités en salaison 60%, de bacon de dinde cuit aromatisé et de Comté AOP",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwbbe8227d/produits/000000000000016812_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-cordons-bleus-poulet-comte-aop-000000000000088189.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-03T00:23",
+                "format": "LA BOÎTE DE 300 G",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 860.0,
+                        "kcal": 206.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.9,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Filets de poulet reconstitués traités en salaison [filet de poulet (origine : France*) 52,2%, eau, sel], panure 20% [chapelure 8,4% (farine de BLÉ (GLUTEN), levure, sel), farine de BLÉ (GLUTEN), sel], bacon de dinde cuit aromatisé 10% [viande de dinde (origine : France*), eau, sel, arômes naturels, bouillon (blette, carotte), ferment], Comté AOP** 10% (contient LAIT), huile de tournesol.\n*A.O.P. : Appellation dOrigine Protégée.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.79,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th. 6). Déposez les cordons bleus dans un plat adapté et laissez réchauffer à mi-hauteur le temps indiqué en les retournant à mi-temps. - Four traditionnel : 40 min - Four à chaleur tournante : 35 min\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n25 min\nDans une poêle chaude, faites réchauffer les cordons bleus pendant 25 min à feu moyen, en les retournant régulièrement. Avant de servir, déposez-les sur du papier absorbant afin d'éliminer l'excès de matière grasse.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.99,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 121
+        }
+    }
+]

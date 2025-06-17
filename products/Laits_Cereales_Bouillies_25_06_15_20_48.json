@@ -1,0 +1,1268 @@
+[
+    {
+        "ean": "cereales-bb-vanille-220g-6m",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÉRÉALES VANILLE AU QUINOA 220G BIO",
+                "desc": "Céréales vanille au quinoa 220G Bio.\nEveiller bébé à de nouvelles textures, c'est le rôle du quinoa : ancienne graine très populaire en Amérique du Sud !\nAvec son léger goût de noisette, elle est très appréciée des tout-petits.\nCultivé dans le respect de l'agriculture biologique, le quinoa se marie à merveille avec la douceur de la vanille.\nDès 6 mois.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131500119.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cereales-bb-vanille-220g-6m"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:46",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 84.4
+                    }
+                },
+                "ingredients": "Farine de riz* 88,9%, farine de quinoa* 9,8%, extrait de vanille Bourbon*, thiamine (vitamine B1).\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 6.49,
+                "price_per_unit": 29.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez-vous les mains avant chaque préparation.\nJetez tout le reste de la préparation.\nAu biberon : ajoutez la quantité adéquate de céréales au biberon de lait tiède (lait maternel ou lait de suite). Agitez.\nA l'assiette : versez la quantité adéquate de céréales dans une assiette de lait tiède (lait maternel ou lait de suite) et remuez.\nIdée Recette rapide : Verrine poire-quinoa Babybio\n10 min - dès 6 mois\n1 poire mûre à point\n1 pincée d'anis en poudre\n25 gr de Céréales Vanille au Quinoa Babybio\n125 ml de lait infantile Babybio\nFaites chauffer le lait infantile. Ajoutez les Céréales Vanille au Quinoa BABYBIO. Pelez et épépinez la poire et mixez-la avec la pincée d'anis. Déposez au fond d'un petit verre la préparation à base de céréales et déposez par-dessus la purée de poire anisée.\nPortion suggérée pour un bébé de 6 mois : 90 à 130g environ (à adapter selon son appétit).",
+                "conservation": "Bien refermer la boîte et la conserver au frais et au sec jusqu'à 4 semaines après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "mes-premieres-cereales-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MES PREMIÈRES CÉRÉALES 4/6M 250G BIO",
+                "desc": "Mes premières céréales 4/6M 250g Bio.\nMes Premières Céréales sont riches en glucides à assimilation lente. L'énergie est ainsi libérée progressivement et Bébé éprouve une sensation de satiété durable.\nC'est pourquoi elles sont particulièrement recommandées : - Au petit-déjeuner, pour bien commencer la journée, - Au dîner, pour éviter les petites faims nocturnes.\nSans sucre ajouté, elles participent à ne pas habituer Bébé aux goûts trop sucrés.\nDès 4/6 mois.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760269313798_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mes-premieres-cereales-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:46",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 9.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 81.7,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Céréales* 100% (farine complète de millet*, riz moulu*, farine de maïs*), vitamine B1.\n*Produits issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 13.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour une préparation au biberon ou à l'assiette.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "200g-cereales-avoine-ble-riz",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÉRÉALES AVOINE, BLÉ & RIZ 6M 200G BIO",
+                "desc": "Céréales Good Gout Avoine/Blé/Riz 200G Bio.\nQue ce soit le matin pour démarrer la journée en douceur ou le soir pour un bon dîner, les céréales Good Goût se prêtent à toutes les occasions.\nN’étant pas sucrées, si votre enfant a déjà débuté la diversification alimentaire, vous pouvez varier les plaisirs en y ajoutant quelques cuillères de purée de légumes pour une petite bouillie du soir ou de purée de fruits pour le matin.\nLe bol est dans votre camp, alors à vous de jouer !\nDès 6 mois.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131500119.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/200g-cereales-avoine-ble-riz"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:46",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "50% de Farine complète *(gluten), 30% de Farine de riz *, 20% de Farine complète d'avoine *, Vitamine B1.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 26.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Au biberon :\nAjoutez au biberon de lait l’équivalent d’une cuillère à soupe de céréales* pour 50 mL de lait. Faites rouler le biberon entre vos mains puis secouez-le pour une bonne dissolution.\nServez immédiatement. Même si c’est tentant, ne conservez pas les restes non consommés pour le prochain repas !\nEn bouillie dans un bol :\nAjoutez dans un bol de lait l’équivalent d’une cuillère à soupe de céréales* pour 3 cuillères à soupe de lait. Mélangez bien jusqu’à obtention de la consistance désirée.\nServez immédiatement. Même si c’est tentant, ne conservez pas les restes non consommés pour le prochain repas !\n*1 cuillère à soupe = 4g",
+                "conservation": "Bien refermer le sachet après utilisation. Conserver dans un endroit sec et frais jusqu’à 4 semaines après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "3550463",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT 2ÈME ÂGE 800G BIO",
+                "desc": "Lait 2ème âge 800G Bio\nLe lait 2e âge Physiolac Bio convient pour l'alimentation des nourrissons de plus de 6 mois, dans le cadre d'une alimentation diversifiée, conformément à la réglementation. Sa formule contient l'ensemble des nutriments et des actifs nécessaires au développement de votre enfant. Elle se compose entre autres de fer, de calcium (nécessaire à une croissance et un développement osseux normal), de 11 autres minéraux et 13 vitamines.\nCe produit est certifié AB (Agriculture Biologique).\nAvis important : Ne peut être utilisé comme substitut du lait maternel de 0 à 6 mois. Avant d'initier la diversification alimentaire, y compris avant l'âge de 6 mois, demandez conseil à un professionnel de santé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580227.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-2eme-age-800g-3550463"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:46",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.4
+                    },
+                    "fats": {
+                        "fats": 25
+                    },
+                    "proteins": {
+                        "proteins": 11.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 57.8,
+                        "of_which_sugars": 38
+                    }
+                },
+                "ingredients": "Lactosérum Déminéralisé* ; Huiles Végétales* (Tournesol Oléique*, Colza*) ; Lait Ecrémé* ; Maltodextrines* ; Protéines De Lait* ;* ; Minéraux : Carbonate De Calcium, Citrate De Calcium, Citrate De Potassium, Phosphate De Calcium, Chlorure De Potassium, Phosphate De Magnésium, Chlorure De Sodium, Bisglycinate Ferreux, Sulfate De Zinc, Sulfate De Cuivre, Iodure De Potassium, Sulfate De Manganèse, Sélénite De Sodium ; Vitamines : Acide L-Ascorbique, DL-Alpha-To- Cophérol Acétate, Nicotinamide, Acétate De Rétinol, Cholécalciférol, D-Pantothénate De Calcium, Cyanocobalamine, Phytoménadione, Chlorhydrate De Pyridoxine, Chlorhydrate De Thiamine, Riboflavine, Acide Folique, D-Biotine ; Emulsifiant : Lécithine De Tournesol ; Antioxydant : Extrait Riche En Tocophérols.\n* Issu de l'agriculture biologique UE.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 20.39,
+                "price_per_unit": 25.49,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 20.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le lait reconstitué est un milieu fragile qui peut rapidement s'altérer. Il est important pour la santé de votre bébé de bien respecter les instructions suivantes :\nAvant de préparer le biberon, lavez-vous soigneusement les mains.\nPréparez le biberon immédiatement avant le repas. Une fois préparé, il est recommandé de le consommer dans l'heure.\nJetez le reste d'un biberon non terminé, ne le réutilisez pas.\nAprès ouverture, veillez à bien refermer la boîte et à la conserver au sec jusqu'à 4 semaines maximum après ouverture.\nAprès le repas, nettoyez soigneusement le biberon et tous les accessoires.\n\nPréparation du biberon :\n1- Nettoyez soigneusement biberon, bouchon et tétine. Versez dans le biberon la quantité d'eau nécessaire. Utilisez une eau en bouteille faiblement minéralisée. Pour une meilleure reconstitution, l'eau doit être tiède (environ 40-45°C) avant ajout de la poudre.\n2- Remplissez de poudre la mesurette présente dans la boîte, puis arasez-la sur le rebord de la boîte prévu à cet effet.\n3- Ajoutez le nombre correspondant de mesurettes rases de poudre dans l'eau en respectant la proportion : 1 mesurette pour 30 ml d'eau.\n4- Bouchez le biberon et pour faciliter la dissolution, roulez-le entre vos mains puis agitez-le vigoureusement. Avant de donner le biberon, contrôlez la température du lait infantile en versant quelques gouttes sur le poignet.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "lait-3eme-age-800g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT 3ÈME ÂGE 800G BIO",
+                "desc": "Lait 3ème âge 800G Bio\nPhysiolac Bio Lait Croissance 800g est un lait de croissance conçu pour répondre aux besoins nutritionnels spécifiques des bébés à partir de 12 mois, dans le cadre d'une alimentation diversifiée, conformément à la réglementation. Ce lait ne peut être utilisé comme substitut du lait maternel pendant les 12 premiers mois de la vie de l'enfant\nRetrouvez dans sa formule l'ensemble des nutriments et des actifs nécessaires au développement de votre enfant grâce entre autres au fer, au calcium (nécessaire à une croissance et un développement osseux normal) et à la présence de 11 autres minéraux et 13 vitamines.\nCe produit est de qualité bio certifié AB.\nConformément à la réglementation et pour répondre au mieux aux besoins en fer, ce produit est élaboré avec du bisglycinate de fer, un complexe de fer et d'acide aminé. Le fer est un élément indispensable pour le bon fonctionnement cognitif de l'enfant.\nSans huile de palme.\nGoût nature.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580210.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-3eme-age-800g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:46",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2
+                    },
+                    "fats": {
+                        "fats": 19
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62.6,
+                        "of_which_sugars": 44
+                    }
+                },
+                "ingredients": "Lait Ecrémé*, Lactose*, Huiles Végétales* (Huile De Tournesol Oléique*, Huile De Colza*), Maltodextrines*, Protéines De Lait*, Minéraux : Carbonate De Calcium, Citrate De Calcium, Bisglycinate Ferreux, Carbonate De Magnésium, Sulfate De Zinc, Sulfate De Cuivre, Sulfate De Manganèse, Iodure De Potassium, Sélénite De Sodium, Vitamines : Acide L-Ascorbique, Dlalpha-Tocophérol Acétate, Nicotinamide, Acétate De Rétinol, Cholécalciférol, Dpantothénate De Calcium, Cyanocobalamine, Phytomenadione, Riboflavine, Chlorhydrate De Pyridoxine, Chlorhydrate De Thiamine, Acide Folique, D-Biotine, Emulsifiant : Lécithine De Tournesol, Antioxydant : Extrait Riche En Tocophérols.\n*Issu de l'Agriculture Biologique UE.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 18.29,
+                "price_per_unit": 22.86,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 18.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le lait reconstitué est un milieu fragile qui peut rapidement s'altérer. Il est important pour la santé de votre bébé de bien respecter les instructions suivantes :\nAvant de préparer le biberon, lavez-vous soigneusement les mains.\nPréparez le biberon immédiatement avant le repas. Une fois préparé, il est recommandé de le consommer dans l'heure.\nJetez le reste d'un biberon non terminé, ne le réutilisez pas.\nAprès ouverture, veillez à bien refermer la boîte et à la conserver au sec jusqu'à 4 semaines maximum après ouverture.\nAprès le repas, nettoyez soigneusement le biberon et tous les accessoires.\nPréparation du biberon :\n1- Nettoyez soigneusement biberon, bouchon et tétine. Versez dans le biberon la quantité d'eau nécessaire. Utilisez une eau en bouteille faiblement minéralisée.\nPour une meilleure reconstitution, l'eau doit être tiède (environ 40-45°C) avant ajout de la poudre.\n2- Remplissez de poudre la mesurette présente dans la boîte, puis arasez-la sur le rebord de la boîte prévu à cet effet.\n3- Ajoutez le nombre correspondant de mesurettes rases de poudre dans l'eau en respectant la proportion : 1 mesurette pour 30 ml d'eau.\n4- Bouchez le biberon et pour faciliter la dissolution, roulez-le entre vos mains puis agitez-le vigoureusement.\nAvant de donner le biberon, contrôlez la température du lait infantile en versant quelques gouttes sur le poignet.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "pates-etoiles-tricolores-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTES ÉTOILES TRICOLORES 8 MOIS 250G BIO",
+                "desc": "Pâtes étoiles tricolores 8 mois 250g Bio\nDe petites pâtes étoile tricolores à base de légumes pour votre bébé dès 8 mois.\nFabriquées en Italie, il suffit de 11 minutes pour la cuisson.\nUne texture fondante appréciée des touts petits.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131500119.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pates-etoiles-tricolores-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33,
+                        "of_which_sugars": 2,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Semoule de BLE* dur (GLUTEN), vitamine B1, tomates déshydratée*, épinard déshydraté*.\nPeut contenir du SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 2.75,
+                "price_per_unit": 11.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ne pas ajouter de sel.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "primea-3-800g-des-10-mois",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT PRIMÉA 3 DÈS 10M 800G BIO",
+                "desc": "Lait Priméa 3 dès 10M 800g Bio\nSavez-vous que jusqu'à 3 ans votre enfant a des besoins nutritionnels spécifiques ? C'est pour répondre à ces besoins que Babybio a développé Primea Croissance bio, élaboré en France avec du lait de vache d'origine française.\n\nConformément à la réglementation, la formule Primea Croissance :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient plus de fer, plus d'acides gras essentiels et moins de protéines que le lait de vache.\n- Apporte de la vitamine D qui est nécessaire à une croissance et à un développement osseux normaux des enfants.\n- Apporte 13 vitamines et 13 minéraux.\n\nLe lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3518646124181.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/primea-3-800g-des-10-mois"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.32
+                    },
+                    "fats": {
+                        "fats": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 1.42
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8,
+                        "of_which_sugars": 3.9
+                    }
+                },
+                "ingredients": "Lait écrémé* ; maltodextrines de maïs* ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; lactose* ; huile de poisson (protéines de lait) ; minéraux (citrate de potassium, chlorure de magnésium, chlorure de sodium, lactate ferreux, hydroxyde de potassium, sulfate de zinc, sélénite de sodium, sulfate de cuivre, iodure de potassium, sulfate de manganèse); concentré de minéraux du lait ; huile de Mortierella alpina ; vitamines (L-ascorbate de sodium, cholécalciférol, nicotinamide, acétate de rétinol, D-pantothénate de calcium, D-biotine, phytoménadione, mononitrate de thiamine, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-cystine ; L-tryptophane ; antioxydant : extrait riche en tocophérols.\n*Ingrédients issus de l'agriculture biologique\nContient : lait, poisson.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 21.95,
+                "price_per_unit": 27.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.",
+                "conservation": "Se conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture"
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "cereales-cacao-220g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÉRÉALES CACAO ET QUINOA DÈS 8M 220G BIO",
+                "desc": "Céréales Cacao et Quinoa dès 8M 220g Bio\nAssocié à notre cacao bio, le quinoa révèle toute sa douceur pour initier votre bébé à de nouveaux goûts. A chaque plantation son savoir-faire, son terroir et ses particularités : c’est à bébé de découvrir la douceur de ces saveurs au bout du monde !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3770002327739_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cereales-cacao-220g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.2
+                    },
+                    "fats": {
+                        "fats": 7.5
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.2,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Farine de riz* 88%, farine de quinoa* 10%, cacao maigre en poudre* 1,1%, extrait de cacao*, thiamine (vitamine B1).\n*Ingrédients issus de l'agriculture biologique\nPeut contenir des traces de : gluten, lait\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 6.49,
+                "price_per_unit": 29.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Jetez tout reste de préparation entamée.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "3778190",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT CROISSANCE DÈS 10M 1L BIO",
+                "desc": "Lait Croissance dès 10M 1L Bio\nSavez-vous que jusqu'à 3 ans votre enfant a des besoins nutritionnels spécifiques ? C'est pour répondre à ces besoins que Babybio a développé Croissance Liquide, élaboré en France avec du lait de vache d'origine française.\nConformément à la réglementation, la formule Croissance Liquide :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient plus de fer, plus d'acides gras essentiels et moins de protéines que le lait de vache.\n- Apporte de la vitamine D qui est nécessaire à une croissance et à un développement osseux normaux des enfants.\n- Apporte 13 vitamines et 13 minéraux.\nLe lait partiellement écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3518646124181.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-croissance-1l-3778190"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.4,
+                        "of_which_sugars": 5
+                    }
+                },
+                "ingredients": "Lait partiellement écrémé* ; eau ; maltodextrines de maïs* ; lactose* ; huiles végétales* (colza*, tournesol*, tournesol oléique*) ; émulsifiant : lécithine de tournesol*; huile de Mortierella alpina ; huile de Crypthecodinium cohnii ; concentré de minéraux du lait ; minéraux (sulfate de zinc, de fer, de cuivre et de manganèse, citrate de sodium et de magnésium, chlorure de potassium, bicarbonate de sodium, hydroxyde de potassium, iodure de potassium, sélénite de sodium) ; vitamines (C, L-ascorbyl 6-palmitate, E, nicotinamide, D-pantothénate de calcium, B2, B1, B6, A, acide folique, K, D-biotine, D3, B12), antioxydant : extrait riche en tocophérols.\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.9,
+                "price_per_unit": 2.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Nettoyez et stérilisez soigneusement biberons et tétines. Bien agiter la bouteille et verser la quantité souhaitée dans le biberon.\nNe pas ajouter d'eau ni de sucre.\nPeut être réchauffé (40°C maximum, vérifier la température sur l'intérieur de votre poignet).\nNe pas mettre la bouteille au mico-ondes.",
+                "conservation": "Se conserve à température ambiante, dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "3777286",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT CROISSANCE DÈS 10M 6X1L BIO",
+                "desc": "Lait Croissance dès 10M 6x1L Bio\nSavez-vous que jusqu'à 3 ans votre enfant a des besoins nutritionnels spécifiques ? C'est pour répondre à ces besoins que Babybio a développé Croissance Liquide, élaboré en France avec du lait de vache d'origine française.\n\nConformément à la réglementation, la formule Croissance Liquide :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient plus de fer, plus d'acides gras essentiels et moins de protéines que le lait de vache.\n- Apporte de la vitamine D qui est nécessaire à une croissance et à un développement osseux normaux des enfants.\n- Apporte 13 vitamines et 13 minéraux.\n\nLe lait partiellement écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288130580068.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-croissance-6x1l-3777286"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.4,
+                        "of_which_sugars": 5
+                    }
+                },
+                "ingredients": "Lait partiellement écrémé* ; eau ; maltodextrines de maïs* ; lactose* ; huiles végétales* (colza*, tournesol*, tournesol oléique*) ; émulsifiant : lécithine de tournesol*; huile de Mortierella alpina ; huile de Crypthecodinium cohnii ; concentré de minéraux du lait ; minéraux (sulfate de zinc, de fer, de cuivre et de manganèse, citrate de sodium et de magnésium, chlorure de potassium, bicarbonate de sodium, hydroxyde de potassium, iodure de potassium, sélénite de sodium) ; vitamines (C, L-ascorbyl 6-palmitate, E, nicotinamide, D-pantothénate de calcium, B2, B1, B6, A, acide folique, K, D-biotine, D3, B12), antioxydant : extrait riche en tocophérols.\n*Ingrédients issus de l'agriculture biologique\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 17.95,
+                "price_per_unit": 2.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 17.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Se conserve à température ambiante, dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "lait-bb-caprea-2-age-800g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPRÉA 2 LAIT DÈS 6 MOIS 800G BIO",
+                "desc": "Capréa 2 Lait dès 6 mois 800g Bio\nCaprea 2 est un lait en poudre de suite bio élaboré en France avec du lait de chèvre bio.\nLe lait de la recette Babybio est issu de chèvres qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nConformément à la réglementation, la formule Caprea 2 :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580210.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-bb-caprea-2-age-800g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "2 L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.9
+                    },
+                    "fats": {
+                        "fats": 25
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59.6,
+                        "of_which_sugars": 29.8,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Poudre de Lait entier de chèvre* (34,8%); maltodextrines de maïs* ; lactose de chèvre* ; huiles végétales* (colza*, tournesol*, tournesol oléique*) ; huile de poisson (protéines de lait) ; minéraux (carbonate de calcium, phosphate dipotassique, chlorure de magnésium, chlorure de sodium, sulfate ferreux, chlorure de potassium, sulfate de zinc, hydroxyde de potassium, sélénite de sodium, sulfate de cuivre, sulfate de manganèse, iodure de potassium) ; huile de Mortierella alpina ; vitamines (L-ascorbate de sodium, cholécalciférol, nicotinamide, D-pantothénate de calcium, acétate de rétinol, D-biotine, phytoménadione, mononitrate de thiamine, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-isoleucine ; L-tyrosine ; L-leucine ; L-cystine ; L-tryptophane ; antioxydant : extrait riche en tocophérols.\nContient : lait, poisson.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 2.0,
+                "price_per_packaging": 36.7,
+                "price_per_unit": 45.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 36.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.\nSe conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture\nConditionné sous atmosphère protectrice",
+                "conservation": "A conserver au sec et à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "lait-bb-caprea-1age-800g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT CAPRÉA 1 1ER ÂGE 800G BIO",
+                "desc": "Lait Capréa 1 1er âge 800g Bio\nLait en poudre pour nourrissons Bio élaboré en France avec du lait de chèvre bio. Convient à l’alimentation particulière du nourrisson, dès la naissance, et contient du DHA, acide gras poly-insaturés de la famille des oméga 3 conformément à la réglementation. Le lait entier de la recette Babybio est issu de chèvres qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nAVIS IMPORTANT : le lait maternel est, pour chaque nourrissons, l'aliment qui lui convient le mieux. Toutefois, si vous ne pouvez pas ou ne désirez pas allaiter, votre médecin vous conseillera un lait pour nourrissons. Le lait pour nourrissons convient à l'alimentation particulière des nourrissons dès leur naissance quand ils ne sont pas allaités. Ne changez pas de lait sans avis médical.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580333.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-bb-caprea-1age-800g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.1
+                    },
+                    "fats": {
+                        "fats": 26
+                    },
+                    "proteins": {
+                        "proteins": 10.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 58.4,
+                        "of_which_sugars": 30.3,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Poudre de Lait entier de chèvre* (36,5%); maltodextrines de maïs* ; lactose de chèvre* ; huiles végétales* (colza*, tournesol*, tournesol oléique*) ; huile de poisson (protéines de lait) ; minéraux (carbonate de calcium, phosphate dipotassique, chlorure de magnésium, hydroxyde de calcium, chlorure de sodium, hydroxyde de potassium, sulfate ferreux, sulfate de zinc, sélénite de sodium, sulfate de cuivre, sulfate de manganèse, iodure de potassium) ; bitartrate de choline ; huile de Mortierella alpina ; vitamines (L-ascorbate de sodium, nicotinamide, D-pantothénate de calcium, cholécalciférol, acétate de rétinol, D-biotine, phytoménadione, mononitrate de thiamine, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-isoleucine ; L-tyrosine ; L-cystine ; L-tryptophane ; L-leucine ; inositol ; L-carnitine ; antioxydant : extrait riche en tocophérols.\nContient : lait, poisson.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 37.35,
+                "price_per_unit": 46.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 37.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.\nSe conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture\nConditionné sous atmosphère protectrice",
+                "conservation": "A conserver au sec et à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "primea-2-800g-des-6-mois",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRIMÉA 2 LAIT DÈS 6 MOIS 800G BIO",
+                "desc": "Priméa 2 Lait dès 6 mois 800g Bio\nBabybio Primea 2 est élaboré en France avec du lait de vache d'origine française.\n\nConformément à la réglementation, la formule Primea 2 :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n\nLe lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580234.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/primea-2-800g-des-6-mois"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:47",
+                "format": "2 L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.6
+                    },
+                    "fats": {
+                        "fats": 24.8
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 60.8,
+                        "of_which_sugars": 30.3,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Lait écrémé* ; maltodextrines de maïs* ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; lactosérum déminéralisé en poudre * ; lactose* ; huile de poisson (protéines de lait) ; minéraux (citrate de potassium, chlorure de magnésium, chlorure de sodium, lactate ferreux, sulfate de zinc, sélénite de sodium, sulfate de cuivre, iodure de potassium, sulfate de manganèse); concentré de minéraux du lait ; huile de Mortierella alpina ; vitamines (L-ascorbate de sodium, D-pantothénate de calcium, acétate de rétinol, nicotinamide, cholécalciférol, mononitrate de thiamine, D-biotine, phytoménadione, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-tyrosine ; L-leucine ; L-tryptophane ; L-histidine ; antioxydant : extrait riche en tocophérols.\nContient : lait, poisson.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 2.0,
+                "price_per_packaging": 21.95,
+                "price_per_unit": 27.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.\nSe conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture\nConditionné sous atmosphère protectrice",
+                "conservation": "A conserver au sec et à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "optima-2-bio-800g-des-6-mois",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT OPTIMA 2 DÈS 6M 800G BIO",
+                "desc": "Lait Optima 2 dès 6M 800g Bio\nBabybio Optima 2 est élaboré en France avec du lait de vache d'origine française.\n\nConformément à lé réglementation la formule Optima 2 :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient des fibres prébiotiques de type FOS (fructo-oligasaccharides) et GOS (galacto-oligosaccharides).\n\nLe lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3518646124181.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/optima-2-bio-800g-des-6-mois"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:48",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.6
+                    },
+                    "fats": {
+                        "fats": 24.8
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 57.5,
+                        "of_which_sugars": 30.3
+                    }
+                },
+                "ingredients": "Lait écrémé* ; maltodextrines de maïs* ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; lactosérum déminéralisé en poudre * ; galacto-oligosaccharides* (lait) (6,8%) ; lactose* ; huile de poisson (protéines de lait) ; minéraux (citrate de potassium, chlorure de magnésium, chlorure de sodium, lactate ferreux, sulfate de zinc, sélénite de sodium, sulfate de cuivre, iodure de potassium, sulfate de manganèse) ; concentré de minéraux du lait ; huile de Mortierella alpina ; fructo-oligosaccharides* (0,36%); vitamines (L-ascorbate de sodium, D-pantothénate de calcium, acétate de rétinol, nicotinamide, cholécalciférol, mononitrate de thiamine, D-biotine, phytoménadione, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-tyrosine ; L-leucine ; Bifidobacterium lactis (0,05%) ; L-tryptophane ; L-histidine ; antioxydant : extrait riche en tocophérols.\nContient : lait, poisson.\n*Ingrédients issus de l'agriculture biologique",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 23.95,
+                "price_per_unit": 29.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 23.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.",
+                "conservation": "Se conserve à température ambiante avant ouverture"
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "primea-1-800g-0-6-mois",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT PRIMÉA 1ER ÂGE 800G BIO",
+                "desc": "Lait Priméa 1er âge 800g Bio\nLait en poudre pour nourrissons Bio élaboré en France avec du lait de vache d’origine française. Convient à l’alimentation particulière du nourrisson, dès la naissance, et contient du DHA, acide gras poly-insaturés de la famille des oméga 3 conformément à la réglementation. Le lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nAVIS IMPORTANT : le lait maternel est, pour chaque nourrissons, l'aliment qui lui convient le mieux. Toutefois, si vous ne pouvez pas ou ne désirez pas allaiter, votre médecin vous conseillera un lait pour nourrissons. Le lait pour nourrissons convient à l'alimentation particulière des nourrissons dès leur naissance quand ils ne sont pas allaités. Ne changez pas de lait sans avis médical.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580333.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/primea-1-800g-0-6-mois"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:48",
+                "format": "800G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.2
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 60.4,
+                        "of_which_sugars": 38
+                    }
+                },
+                "ingredients": "Lactosérum déminéralisé* ; lait écrémé* ; perméat de lait* ; maltodextrines de maïs* ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; crème de lait* ; minéraux (phosphate de calcium, citrate de calcium, chlorure de sodium, sulfate de magnésium, chlorure de potassium, sulfate de zinc, phosphate de potassium, pyrophosphate de fer, phosphate de sodium, sélénite de sodium, sulfate de cuivre, iodure de potassium, sulfate de manganèse) ; huile de poisson ; huile de Mortierella alpina ; bitartrate de choline ; L-phénylalanine ; vitamines (C, E, A, D, B3, B5, B8, B1, K, B6, B12, B2, B9) ; inositol ; antioxydant : extrait riche en tocophérols ; L-carnitine-L-tartrate. \n*Ingrédients issus de l'agriculture biologique\nPeut contenir du soja.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 21.95,
+                "price_per_unit": 27.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.",
+                "conservation": "Se conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture"
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "lait-optima-3-croissance-800g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LAIT EN POUDRE OPTIMA 3 DÈS 10 MOIS 800G BIO",
+                "desc": "Lait en Poudre Optima 3 dès 10 Mois 800g Bio\n\nLe lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nConformément à la réglementation, la formule Optima Croissance :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient des fibres prébiotiques de type FOS (fructo-oligasaccharides) et GOS (galacto-oligosaccharides).\n- Contient plus de fer, plus d'acides gras essentiels et moins de protéines que le lait de vache.\n- Apporte de la vitamine D qui est nécessaire à une croissance et à un développement osseux normaux des enfants.\n- Apporte 13 vitamines et 13 minéraux.\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580319.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-optima-3-croissance-800g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:48",
+                "format": "800G",
+                "availability": true,
+                "ingredients": "LAIT écrémé* ; maltodextrines de maïs* ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; LACTOSE* ; galactooligosaccharides* (LAIT) (6,7%) ; huile de POISSON (protéines de LAIT) ; minéraux (citrate de potassium, chlorure de magnésium, chlorure de sodium, lactate ferreux, hydoxyde de potassium, sulfate de zinc, sélénite de sodium, sulfate de cuivre, sulfate de manganèse, iodure de potassium) ; concentré de minéraux du LAIT ; huile de Mortierella alpina ; fructo-oligosaccharides* (0,36%) ; vitamines (L-ascorbate de sodium, cholécalciférol, nicotinamide, acétate de rétinol, D-pantothénate de calcium, D-biotine, phytoménadione, mononitrate de thiamine, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-cystine ; L-tryptophane ; Bifidobacterium lactis (0,05%) ; antioxydant : extrait riche en tocophérols.\nContient : lait, poisson.\n*Ingrédients issus de l'agriculture biologique\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 21.95,
+                "price_per_unit": 27.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 21.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lait de suite biologique en poudre pour nourrissons à partir de 10 mois et aliment lacté biologique en poudre pour enfants en bas âge.\nLavez vous les mains avant chaque préparation.\nLe biberon doit être préparé juste avant le repas. Jetez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires.\n\nPour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.",
+                "conservation": "Se conserve à température ambiante avant ouverture"
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "babybio-optima-1-bio-800g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "OPTIMA 1 LAIT DÈS 6 MOIS 800G BIO",
+                "desc": "Optima 1 Lait dès 6 mois 800g Bio\nLait en poudre pour nourrissons Bio élaboré en France avec du lait de vache d’origine française. Convient à l’alimentation particulière du nourrisson, dès la naissance, et contient du DHA, acide gras poly-insaturés de la famille des oméga 3 conformément à la réglementation. Le lait écrémé de la recette Babybio est issu de vaches élevées en France qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nAVIS IMPORTANT : le lait maternel est, pour chaque nourrissons, l'aliment qui lui convient le mieux. Toutefois, si vous ne pouvez pas ou ne désirez pas allaiter, votre médecin vous conseillera un lait pour nourrissons. Le lait pour nourrissons convient à l'alimentation particulière des nourrissons dès leur naissance quand ils ne sont pas allaités. Ne changez pas de lait sans avis médical.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3288131580210.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/babybio-optima-1-bio-800g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:48",
+                "format": "1 L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 57.9,
+                        "of_which_sugars": 42.2,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Lait écrémé* ; lactosérum déminéralisé en poudre * ; huiles végétales* (tournesol oléique*, colza*, tournesol*) ; maltodextrines de maïs* ; galacto-oligosaccharides* (lait) (6,8%) ; huile de poisson (protéines de lait) ; minéraux (chlorure de potassium, citrate de sodium, chlorure de magnésium, phosphate disodique, hydroxyde de potassium, lactate ferreux, sulfate de zinc, sélénite de sodium, sulfate de cuivre, sulfate de manganèse, iodure de potassium) ; concentré de minéraux du lait ; huile de Mortierella alpina ; fructo-oligosaccharides* (0,36%); bitartrate de choline ; vitamines (L-ascorbate de sodium, acétate de rétinol, D-pantothénate de calcium, nicotinamide, cholécalciférol, D-biotine, mononitrate de thiamine, phytoménadione, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, DL-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine) ; L-tyrosine ; inositol ; L-tryptophane ; Bifidobacterium lactis (0,05%) ; L-cystine ; antioxydant : extrait riche en tocophérols ; L-carnitine.\nContient : lait, poisson.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 23.95,
+                "price_per_unit": 29.94,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 23.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.\nSe conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture\nConditionné sous atmosphère protectrice",
+                "conservation": "A conserver au sec et à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    },
+    {
+        "ean": "caprea-3-bio-800g-des-10-mois",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Laits, Céréales, Bouillies"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAPRÉA 3 LAIT DÈS 10 MOIS 800G BIO",
+                "desc": "Capréa 3 Lait dès 10 mois 800g Bio\nSavez-vous que jusqu'à 3 ans votre enfant a des besoins nutritionnels spécifiques ? C'est pour répondre à ces besoins que Babybio a développé Caprea Croissance bio, élaboré en France avec du lait de chèvre bio. Le lait de la recette Babybio est issu de chèvres qui sont nourries principalement avec de l’herbe ou des fourrages et sont élevées dans le respect du bien-être animal, conformément à la réglementation biologique.\n\nConformément à la réglementation, la formule Caprea Croissance :\n- Contient des LCP : acides gras polyinsaturés à longue chaîne de la famille des oméga 3 (DHA). Contient également des LCP de la famille des oméga 6 (ARA).\n- Contient plus de fer, plus d'acides gras essentiels et moins de protéines que le lait de vache.\n- Apporte de la vitamine D qui est nécessaire à une croissance et à un développement osseux normaux des enfants.\n- Apporte 13 vitamines et 13 minéraux.\n\nNe convient qu'à l'alimentation particulière des nourrissons ayant atteint l'âge d'au moins 6 mois et ne peut être qu'un élément d'une alimentation diversifiée. L'introduction d'aliments de compléments y compris avant l'âge de 6 mois ne doit se faire que sur avis d'un professionnel de santé. Le lait de suite ne peut pas être utilisé comme substitut du lait maternel pendant les 6 premiers mois de la vie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3518646124174.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/caprea-3-bio-800g-des-10-mois"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T20:48",
+                "format": "3 L",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.23
+                    },
+                    "fats": {
+                        "fats": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 1.38
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Poudre de LAIT entier de chèvre* (36,9%) ; maltodextrines de maïs* ; LACTOSE de chèvre* ; huiles végétales* (colza*, tournesol*, tournesol oléique*) ; huile de POISSON (protéines de LAIT) ; minéraux (carbonate de calcium, phosphate dipotassique, chlorure de magnésium, chlorure de sodium, hydroxyde de calcium, sulfate ferreux, chlorure de potassium, sulfate de zinc, hydroxyde de potassium, sélénite de sodium, sulfate de cuivre, sulfate de manganèse, iodure de potassium) ; huile de Mortierella alpina ; vitamines (L-ascorbate de sodium, cholécalciférol, nicotinamide, D-pantothénate de calcium, acétate de rétinol, D-biotine, phytoménadione, mononitrate de thiamine, chlorhydrate de pyridoxine, acide folique, acétate de D-alpha-tocophérol, L-ascorbyl 6-palmitate, cyanocobalamine, riboflavine, DL-alpha-tocophérol) ; L-isoleucine ; L-tyrosine ; L-cystine ; L-leucine ; L-tryptophane ; antioxydant : extrait riche en tocophérols. Contient des protéines de LAIT de vache.\nContient : LAIT, POISSON.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 3.0,
+                "price_per_packaging": 34.2,
+                "price_per_unit": 42.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 34.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Lavez vous les mains avant chaque préparation. Le biberon doit être préparé juste avant le repas. Je tez tout reste de biberon sans hésiter. N'utilisez que la mesurette contenue dans cette boite. Veillez à bien refermer la boite entre chaque utilisation. Après le repas nettoyez soigneusement le biberon et tous les accessoires. Pour préparez le biberon, nettoyez et stérilisez soigneusement biberon et tétine; versez la quantité d'eau nécessaire tiédie à 40°C maximum (eau faiblement minéralisée). Ajoutez à l'eau le nombre de mesurettes arasées nécessaires (1 mesurette pour 30ml d'eau); fermez et agitez vigoureusement le biberon; vérifiez la température sur l'intérieur de votre poignet avant de donner au bébé.\nSe conserve à température ambiante avant ouverture\nBien refermer entre chaque utilisation, conserver dans un endroit frais et sec jusqu'à 4 semaines après ouverture\nConditionné sous atmosphère protectrice",
+                "conservation": "A conserver au sec et à temperature ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T20:45",
+        "updated_at": "2025-06-15T20:45"
+    }
+]

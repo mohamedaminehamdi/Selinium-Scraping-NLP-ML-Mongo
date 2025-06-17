@@ -1,0 +1,2559 @@
+[
+    {
+        "ean": "000000000000074009",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de merlu blanc du Cap MSC, panure bio",
+                "desc": "4 à 5 Filets de Merlu blanc du Cap MSC 65%, panure bio 35%, préfrits surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw64923f4a/produits/poissons-crustaces/edition/000000000000017548_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filet-merlu-blanc-panemsc-000000000000074009.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:19",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 203.0
+                    },
+                    "minerals": {
+                        "salt": 0.91
+                    },
+                    "fats": {
+                        "fats": 8.3,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Filet de merlu blanc du Cap MSC (poissons) 65% qualité sans arête** [Merluccius capensis et Merluccius paradoxus sauvages pêchés en Atlantique Sud-Est (FAO 47)], farine de blé* (gluten), huile de tournesol*, eau, amidon de blé* (gluten), amidon de maïs*, sel, levure*, fécule de pomme de terre*.\n35 % des ingrédients d'origine agricole sont issus de l’agriculture biologique. Certifié par FR-BIO-10*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n15 min\npréchauffé à 180 °C (th. 6) : Faites cuire les panés sur une plaque recouverte de papier cuisson, à mi-hauteur 15 à 19 min, en retournant à mi-cuisson\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 min\nFaites cuire les panés 10 à 12 min dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant à mi-temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n5 min\n5 à 6 minutes dans une huile à 175 °C.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.68,
+            "total_reviews": 19
+        }
+    },
+    {
+        "ean": "000000000000074961",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Anchois en tempura",
+                "desc": "Filets d'anchois avec peau 50% enrobés de pâte à beignet 50%, préfrits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw94337b07/produits/000000000000019661_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/anchois-tempura-000000000000074961.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:19",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 207.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 9.2,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Filet d’anchois avec peau (POISSONS) 50% [Engraulis encrasicolus sauvage pêché en Atlantique Nord-Est (FAO 27), Atlantique Centre-Est (FAO 34), en Méditerranée (FAO 37)], eau, chapelure 15% [farine de BLE (GLUTEN), eau, sel, levure], farine de BLE (GLUTEN), huile de tournesol, blanc d’OEUF (liquide, pasteurisé), amidon de maïs, sel, jus de citron concentré.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Poisson",
+                    "Traces de Lait",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 - 15 min\nAu four préchauffé à 180°C (th.6) : 12 à 15 min. Faites cuire les anchois sur une plaque recouverte de papier cuisson, à mi-hauteur : - Four traditionnel : 14 à 15 min - Four à chaleur tournante : 12 à 14 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n8 min\nFaites cuire les anchois dans une poêle chaude avec un peu de matière grasse, à feu moyen 8 min environ, en retournant de temps en temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n2 min\n2 min dans une huile à 175°C.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.91,
+            "total_reviews": 102
+        }
+    },
+    {
+        "ean": "000000000000074482",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 dos de cabillaud façon fish and chips MSC",
+                "desc": "2 dos de cabillaud MSC 70%, pâte à beignet 30%, préfrits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-dos-cabillaud-facon-fish-and-chips-msc-000000000000074482.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:19",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 166.0
+                    },
+                    "minerals": {
+                        "salt": 0.57
+                    },
+                    "fats": {
+                        "fats": 8.7,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.2,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Dos de cabillaud MSC (POISSONS) 70% qualité sans arête* [Gadus Morhua sauvage pêché en Atlantique Nord-Est (FAO 27)], eau, huiles végétales (colza, tournesol) en proportion variable, farine de BLÉ (GLUTEN), amidon de BLÉ (GLUTEN), farine de maïs, semoule de BLÉ (GLUTEN), GLUTEN de BLÉ, sel, jus de citron en poudre, LAIT écrémé en poudre, correcteur d’acidité : carbonates de sodium, poudre à lever : carbonates de sodium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.7,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n20 min\nAu four préchauffé à 180 °C (th.6) : Faites cuire les produits sur une plaque recouverte de papier cuisson, à mi-hauteur 20 à 24 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n12 min\nFaites cuire les produits 12 à 14 minutes environ dans une poêle chaude avec un peu de matière grasse, en les retournant régulièrement.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n6 min\n6 minutes dans une huile à 175 °C.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.47,
+            "total_reviews": 257
+        }
+    },
+    {
+        "ean": "000000000000074127",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "20 portions de colin d'Alaska MSC*",
+                "desc": "20 portions de filets de colin d’Alaska MSC (72%), panure (28%), préfites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/20-portions-panees-colin-alaska-msc-000000000000074127.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:19",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 161.0
+                    },
+                    "minerals": {
+                        "salt": 0.58
+                    },
+                    "fats": {
+                        "fats": 6.1,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filets de colin d’Alaska MSC (POISSONS) 72% qualité sans arête* [Theragra chalcogramma sauvage pêché dans l’Océan Pacifique Nord-Est (FAO 67) ou Nord-Ouest (FAO 61), zone de pêche indiquée dans le cadre de datage], farine de BLÉ (GLUTEN), huile de colza, eau, amidons de pomme de terre et de BLÉ (GLUTEN), sel, GLUTEN de BLÉ .",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 9.9,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6-8 min\n6 à 8 min environ dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant régulièrement.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 min\npréchauffé à 210°C (th. 7) : 12 - 15 minutes. Laissez cuire, à mi-hauteur, sur une plaque chaude recouverte de papier cuisson : - Four traditionnel : 15 minutes - Four à chaleur tournante : 12 minutes\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n3-4 min\n3 à 4 minutes dans une huile à 175°C.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.15,
+            "total_reviews": 87
+        }
+    },
+    {
+        "ean": "000000000000019208",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 dos de cabillaud MSC, Norvège ou Islande",
+                "desc": "2 dos de cabillaud MSC qualité sans arête surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw57094441/produits/000000000000017738_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-dos-cabillaud-msc-000000000000019208.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:19",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*, Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.94,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson, passez le produit sous l'eau froide. Prévoyez les temps les plus courts sur les pièces les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 8.49,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.55,
+            "total_reviews": 53
+        }
+    },
+    {
+        "ean": "000000000000074086",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Dos de cabillaud MSC, 3 à 6 pièces",
+                "desc": "Dos de cabillaud surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw57094441/produits/000000000000017738_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dos-cabillaud-msc-3-000000000000074086.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "3 à 6 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*, Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 19.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez le produit sous l'eau froide. Prévoyez les temps les plus courts pour les pièces les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.41,
+            "total_reviews": 32
+        }
+    },
+    {
+        "ean": "000000000000079272",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Merlu blanc du Cap façon fish and chips MSC",
+                "desc": "Portions de filets de merlu blanc du Cap MSC 65% enrobées d’une pâte à beignet 35%, préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/merlu-bl-fish-chips-msc-000000000000079272.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 193.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filets de merlu blanc du Cap MSC (POISSONS) 65% qualité sans arête* [Merluccius capensis et Merluccius paradoxus sauvages pêchés dans l’Océan Atlantique Sud-Est (FAO 47)], eau, huiles végétales (colza, tournesol, en proportion variable), farine de BLÉ (GLUTEN), amidon de BLÉ (GLUTEN), farine de maïs, semoule de BLÉ (GLUTEN), GLUTEN de BLÉ, sel, jus de citron en poudre, LAIT écrémé en poudre, correcteur d’acidité : carbonates de sodium, poudre à lever : bicarbonate de sodium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 8.2,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n14 à 17 min\nAu four préchauffé à 180°C (th.6) : Faites cuire les produits sur une plaque recouverte de papier cuisson, à mi-hauteur, 14 à 17 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 à 12 min\nFaites cuire les produits 10 à 12 min environ dans une poêle chaude avec un peu de matière grasse, en les retournant régulièrement.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n5 à 6 min\n5 à 6 min dans une huile à 175°C.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.61,
+            "total_reviews": 41
+        }
+    },
+    {
+        "ean": "000000000000074941",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Eperlans d'Amérique poissons entiers pour friture",
+                "desc": "Eperlans d'Amérique surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw57094441/produits/000000000000017738_E.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/eperlans-d-amerique-600-g-000000000000074941.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 0.1
+                    },
+                    "fats": {
+                        "fats": 2.2,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.4,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eperlan d'Amérique entier (POISSONS), Osmerus mordax mordax sauvage pêché aux chaluts en eaux douces au Canada (Grands Lacs).",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez le produit sous l'eau froide, égouttez-le. Vous pouvez fariner les éperlans avant cuisson.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n5 min\nFaites chauffer 3 cuillères à soupe d'huile dans une poêle. Laissez cuire les éperlans farinés ou non 5 minutes à feu vif en les remuant régulièrement. Et déposez-les sur du papier absorbant avant de servir\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n2 min\nPlongez la quantité désirée d’éperlans farinés dans l’huile chaude (175 °C maximum) sans trop remplir le panier de friture (200 g). Laissez cuire 2 minutes jusqu'à l’obtention d'une couleur légèrement dorée. Égouttez et déposez les éperlans sur du papier absorbant avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000074324",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "NL"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes églefin MSC panure aux épices",
+                "desc": "Portion formée de filets d'églefin MSC 65%, panée avec une préparation 35% à base d'épices goût chorizo préfrite surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4937f1d8/000000000000074560_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/eglefin-pane-chorizo-msc-000000000000074324.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 176.0
+                    },
+                    "minerals": {
+                        "salt": 0.81
+                    },
+                    "fats": {
+                        "fats": 7.3,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Eglefin MSC (POISSONS) 65% qualité sans arête* [Melanogrammus aeglefinus sauvage pêché en Atlantique Nord-Est (FAO 27)], chapelure [farine de BLE (GLUTEN), sel, levure], huile de colza, farine de BLE (GLUTEN), amidon de BLE (GLUTEN), sel, épices goût chorizo 0,46% (paprika fumé, piment de la Jamaïque, piment rouge, cumin, poivre noir), ail, oignon, persil, coriandre.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 7.6,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n16 min\npréchauffé à 180°C (th.6) : Faites cuire, à mi-hauteur, sur une plaque chaude recouverte de papier cuisson : - Four à chaleur tournante : 16 min - Four traditionnel : 20 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 min\n10 min dans une poêle chaude à feu moyen avec un peu de matière grasse, en les retournant régulièrement\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n4 min\n4 min environ dans une huile à 175°C",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000074211",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "1 pavé de saumon atlantique ASC",
+                "desc": "1 pavé de saumon atlantique ASC, qualité sans arête, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4630dde1/produits/86178.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-pave-de-saumon-150g-asc-000000000000074211.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 194.0
+                    },
+                    "minerals": {
+                        "salt": 0.08
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Saumon atlantique ASC (POISSONS) (Salmo salar élevé en Norvège) qualité sans arête*.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Au bain-marie\nCUISSON SANS DÉCONGÉLATIONCuisson au bainmarie pendant\n11 min\nPlongez le sachet dans l'eau bouillante, laissez cuire 11 min environ à partir de la reprise du frémissement.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n2 min\n(à 750 watts) : Faites cuire le pavé, hors de son sachet, 2 min environ à couvert dans un plat adapté.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 3
+        }
+    },
+    {
+        "ean": "000000000000074540",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 tranches de thon albacore, qualité sans arête",
+                "desc": "4 tranches de thon albacore surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw7da8f791/produits/poissons-crustaces/edition/000000000000019190_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-tr-thon-albacore-new-000000000000074540.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 102.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Thon albacore (POISSONS) qualité sans arête*. Thunnus albacares sauvage pêché aux filets tournants et filets soulevés (senne coulissante), dans l’Océan Indien Ouest (FAO 51).",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 12.99,
+                "preparation": "Conseils de préparation\nPréparation\nAfin de préserver le moelleux de la chair, nous vous conseillons d'arrêter la cuisson quand la chair de la portion est encore rosée (translucide) à coeur et de prévoir un temps de repos pour laisser la chaleur diffuser dans la portion. Prévoyez les temps les plus courts pour les tranches les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Ce produit est offert pour 700 points Picard&Nous"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 4
+        }
+    },
+    {
+        "ean": "000000000000074560",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 croquettes de colin d'Alaska panées MSC",
+                "desc": "Préparation composée d’une garniture 70% à base de portions de filets de colin d’Alaska MSC, d’ail et de plantes aromatiques et d’une panure 30%, préfrite, surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw64923f4a/produits/poissons-crustaces/edition/000000000000017548_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-croquette-colin-msc%2Fail-000000000000074560.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 193.0
+                    },
+                    "minerals": {
+                        "salt": 0.66
+                    },
+                    "fats": {
+                        "fats": 7.9,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Filet de colin d'Alaska MSC (POISSONS) 60% qualité sans arête* [Theragra chalcogramma sauvage pêché dans l’Océan Pacifique Nord-Est (FAO 67) ou Nord-Ouest (FAO 61), zone de pêche indiquée dans le cadre de datage], chapelure [farine de BLÉ (GLUTEN), sel, levure], huile de colza, farine de BLÉ (GLUTEN), amidon de BLÉ (GLUTEN), amidon de pomme de terre, eau, persil 0,8%, semoule de BLÉ tendre (GLUTEN), sel, ciboulette 0,3%, ail 0,1%, paprika, curcuma.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.58,
+            "total_reviews": 12
+        }
+    },
+    {
+        "ean": "000000000000074420",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 bâtonnets de colin d'Alaska chips MSC",
+                "desc": "Portions de filets de colin d’Alaska MSC 65% enrobées d'une pâte à beignet 35%, préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/12-bat-colin-chips-msc-000000000000074420.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "370.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 186.0
+                    },
+                    "minerals": {
+                        "salt": 0.62
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Filets de colin d'Alaska MSC (POISSONS) 65% qualité sans arête * [Theragra chalcogramma sauvage pêché dans l'Océan Pacifique Nord-Ouest (FAO 61) ou Nord-Est (FAO 67)], eau, huiles végétales (colza, tournesol) en proportion variable, farine de BLE (GLUTEN), amidon de BLE (GLUTEN), farine de maïs, semoule de BLE (GLUTEN), GLUTEN de BLE, sel, LAIT écrémé en poudre, jus de citron jaune en poudre, correcteur d'acidité : carbonate de sodium, poudre à lever : bicarbonate de sodium.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 370.0,
+                "price_per_packaging": 4.9,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 min\n10 minutes environ dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant régulièrement.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n13 min\npréchauffé à 180°C (th.6) : 13 à 17 minutes. Laissez cuire, à mi-hauteur, sur une plaque chaude recouverte de papier cuisson: - Four à la chaleur tournante : 13 min - Four traditionnel : 17 min\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n5 min\n5 minutes dans une huile à 175°C",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.5,
+            "total_reviews": 20
+        }
+    },
+    {
+        "ean": "000000000000074847",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 portions de filet cabillaud MSC, Norvège/Islande",
+                "desc": "6 portions de filet de cabillaud MSC , qualité sans arête, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-portions-cabillaud-msc-000000000000074847.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:20",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*. Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II).",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 17.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson, passez le produit sous l'eau froide. Prévoyez les temps les plus courts pour les portions les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.73,
+            "total_reviews": 11
+        }
+    },
+    {
+        "ean": "000000000000074636",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de sardine Pêche française avec peau",
+                "desc": "Filets de sardine avec peau surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw7da8f791/produits/poissons-crustaces/edition/000000000000019190_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filet-sardine-france-500g-000000000000074636.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.25
+                    },
+                    "fats": {
+                        "fats": 5.7,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 19.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filets de sardine (POISSONS) avec peau, Sardina pilchardus sauvage pêchée aux chaluts, aux sennes coulissantes (bolinches) en Atlantique Nord-Est (FAO 27), sous-zones Mer du Nord (IV), Manche et Mers Celtiques (VII), Golfe de Gascogne (VIII). Filets avec peau et non désarêtés.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.9,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les filets sous l'eau froide. Prévoyez les temps les plus courts pour les filets de sardine les plus petits et prolongez la cuisson si nécessaire. Faites cuire les filets repliés tels que présentés.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n2 - 6 min\nA la poêle ou au barbecue : Badigeonnez d'huile la peau des filets. Laissez cuire 2 à 6 min à feu moyen, en retournant à mi-temps.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n6 - 12 min\npréchauffé à 240°C (th. 8) : Badigeonnez la peau d'huile. Placez les filets dans un plat. Faites cuire 6 à 12 min à mi-hauteur.\n\nSous le gril du four\nCUISSON SANS DÉCONGÉLATIONCuisson au souslegrildufour pendant\n4 - 8 min\nGril du four : Vous pouvez également les cuire sous le gril du four préchauffé : 4 à 8 min.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n3 - 7 min\nFaites cuire les filets 3 à 7 min, posés sur un panier vapeur, à couvert, au-dessus d'un court-bouillon frémissant.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.45,
+            "total_reviews": 20
+        }
+    },
+    {
+        "ean": "000000000000019538",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de dorade-sébaste MSC",
+                "desc": "Filets de dorade-sébaste MSC, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe5234ca5/produits/000000000000087030_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-dorade-sebaste-msc-000000000000019538.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 105.0
+                    },
+                    "minerals": {
+                        "salt": 0.2
+                    },
+                    "fats": {
+                        "fats": 3.6,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de dorade-sébaste MSC (POISSONS). Sebastes marinus sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zone Islande et Féroé (V).",
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 15.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les filets sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.26,
+            "total_reviews": 31
+        }
+    },
+    {
+        "ean": "000000000000074565",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pavés de saumon au citron et au poivre",
+                "desc": "2 pavés de saumon atlantique avec peau 98,8%, assaisonnement 1,2% au citron et au poivre, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-paves-saumon-marine-aromatise-citron-000000000000074565.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 168.0
+                    },
+                    "minerals": {
+                        "salt": 0.49
+                    },
+                    "fats": {
+                        "fats": 9.5,
+                        "saturates": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pavé de saumon atlantique (POISSONS) avec peau qualité sans arête* 98,8% (Salmo salar élevé en Norvège), oignon séché, sel, poivron rouge, citron en poudre 0,1%, ail en poudre, poivre 0,1%, zeste de citron en poudre 0,06%, zeste de citron déshydraté 0,05%, arôme naturel de citron 0,03%.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 10.99,
+                "preparation": "Au bain-marie\nCUISSON SANS DÉCONGÉLATION\nPlongez les sachets individuels dans l'eau bouillante et laissez cuire 10 min à partir de la reprise du frémissement. Égouttez, sortez les pavés de leur sachet et laissez-les reposer 2 min avant de servir.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n24 min\npréchauffé à 180°C (th. 6). Retirez les sachets individuels et déposez les pavés dans un plat adapté. Laissez cuire à mi-hauteur 24 à 28 min.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n3 min\n(puissance restituée de 900 watts) : Retirez les sachet individuels. Faites cuire les pavés dans un plat adapté et à couvert, 3 min pour 1 pavé, 4 min pour 2 pavés. Laissez reposer 2 min avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.65,
+            "total_reviews": 34
+        }
+    },
+    {
+        "ean": "000000000000074635",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pavés de bonite à ventre rayé MSC",
+                "desc": "2 PAVES DE BONITE A VENTRE RAYE ou THON LISTAO MSC Surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pave-bonite-raye-msc-000000000000074635.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 113.0
+                    },
+                    "minerals": {
+                        "salt": 0.05
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 28.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Bonite à ventre rayé (thon listao) MSC (POISSONS) qualité sans arête*. Katsuwonus pelamis sauvage pêché à la senne coulissante dans l'Océan Indien Ouest (FAO 51).",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Conseils de préparation\nPréparation\nAfin de préserver le moelleux de la chair, nous vous conseillons d'arrêter la cuisson quand la chair de la portion est encore rosée (translucide) à coeur et de prévoir un temps de repos pour laisser la chaleur diffuser dans la portion. Prévoyez les temps les plus courts pour les pavés les plus fins.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.82,
+            "total_reviews": 38
+        }
+    },
+    {
+        "ean": "000000000000017738",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 dos de cabillaud MSC, Norvège ou Islande",
+                "desc": "4 dos de cabillaud MSC, qualité sans arête surgelés pêchés en Atlantique Nord-Est",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-dos-cabillaud-msc-000000000000017738.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "560.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 77.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Cabillaud MSC (POISSONS) qualité sans arête*, Gadus morhua sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": true,
+                "weight_per_packaging": 560.0,
+                "price_per_packaging": 13.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson individuel, passez le produit sous l'eau froide. Prévoyez les temps les plus courts pour les pièces les plus fines.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 19.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.76,
+            "total_reviews": 182
+        }
+    },
+    {
+        "ean": "000000000000033952",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 tartares de saumon à la ciboulette",
+                "desc": "Cubes de filet de saumon atlantique cru 82 %, marinade 18% à l'huile d'olive vierge extra (3,5%), au jus de citron et à la ciboulette, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-tartares-saumon-ciboulette-000000000000033952.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "280.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 192.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de saumon atlantique (POISSONS) qualité sans arête** 82% (Salmo salar), eau, huile d'olive vierge extra 3,5%, jus de citron jaune 2,2%, ciboulette 1%, sel, oignon, basilic 0,1%, poivre, épaississant : alginate de sodium.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 8.82,
+                "preparation": "Conseils de préparation\nDÉCONGÉLATION\nAfin de préserver les qualités de ce produit, nous vous conseillons une décongélation au réfrigérateur. Retirez l'emballage plastique et déposez les tartares encore surgelés sur une assiette. ou Passez l'emballage plastique sous un filet d'eau tiède pour favoriser le démoulage. Après avoir retiré l'emballage, déposez les tartares encore surgelés sur une assiette.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 - 5 h\nCouvrez l'assiette de tartares et laissez-les décongeler pendant 4 à 5 heures au réfrigérateur.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n5 min\nFaites décongeler les tartares le temps indiqué, en retournant à mi-temps, 5 min pour 2 tartares, 9 min pour 4 tartares. Laissez reposer 15 min au réfrigérateur avant de servir. Servez les tartares très frais.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 12.6,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.5,
+            "total_reviews": 342
+        }
+    },
+    {
+        "ean": "000000000000017382",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 portions panées de filet de colin d'Alaska MSC",
+                "desc": "4 portions formées de filets de Colin d'Alaska MSC panées, préfrites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw842c84eb/produits/000000000000074490_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-portions-panees-filet-colin-alaska-msc-000000000000017382.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 184.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 8.0,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 1.6,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Filets de colin d'Alaska MSC (POISSONS) 65% qualité sans arête* [Theragra chalcogramma sauvage pêché dans l'Océan Pacifique Nord-Ouest (FAO 61) ou Nord-Est (FAO 67)], farine de BLÉ (GLUTEN), huiles végétales (colza, tournesol) en proportion variable, eau, GLUTEN de BLÉ, levure, sel.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.43,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n15 min\nAu four préchauffé à 180°C (th. 6) : 15 à 20 min. Faites cuire les panés sur une plaque chaude recouverte de papier cuisson, à mi-hauteur, en retournant à mi-temps. - Four traditionnel : 20 min - Four à chaleur tournante : 15 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n8 min\nFaites cuire les panés 8 à 10 min, dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant à mi-temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATION\n5 min dans une huile à 175°C.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 7.75,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 320
+        }
+    },
+    {
+        "ean": "000000000000048020",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes tropicales crues \"Gambas\" 16-24 p. ASC",
+                "desc": "Crevettes entières crues, élevées à Madagascar, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-crues-16-24-000000000000048020.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:21",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 98.0
+                    },
+                    "minerals": {
+                        "salt": 0.77
+                    },
+                    "fats": {
+                        "fats": 0.4,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale ASC (CRUSTACES) 98,5% (Penaeus monodon élevée à Madagascar), sel, antioxydant : diSULFITE de sodium.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 20.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les crevettes sous l'eau froide et égouttez-les.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n5 min\nPlacez les crevettes dans un panier vapeur. Couvrez et laissez cuire 5 à 6 min environ au-dessus d'un court-bouillon frémissant.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n5 min\nPlongez les crevettes dans un court-bouillon porté à ébullition. Laissez cuire 5 à 6 min environ dès la reprise du frémissement. Egouttez et rafraîchissez tout de suite.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n8 à 12 min\n-préchauffé à 210°C (th. 7) : 8 à 12 min Disposez les crevettes côte à côte dans un plat à four et badigeonnez-les d'huile d'olive. Enfournez à mi-hauteur et laissez cuire le temps indiqué : - Four traditionnel : 9 à 12 min - Four à chaleur tournante : 8 à 10 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n7 min\nFaites saisir les crevettes dans un peu de matière grasse 7 à 8 min à feu moyen, en couvrant. Retournez de temps en temps.\n\nAu barbecue\nCUISSON SANS DÉCONGÉLATIONCuisson au barbecue pendant\n7 min\nFaites cuire les crevettes 7 à 8 min en les retournant à mi-temps.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 29.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.55,
+            "total_reviews": 62
+        }
+    },
+    {
+        "ean": "000000000000017548",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "15 bâtonnets de colin d'Alaska MSC, pré-frits",
+                "desc": "15 portions de filets de colin d’Alaska MSC (65%), panure (35%). préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/15-batonnets-colin-alaska-msc-pre-frits-000000000000017548.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 163.0
+                    },
+                    "minerals": {
+                        "salt": 0.49
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Filets de colin d’Alaska MSC (POISSONS) 65% qualité sans arête* [Theragra chalcogramma sauvage pêché dans l’Océan Pacifique Nord-Est (FAO 67) ou Nord-Ouest (FAO 61), zone de pêche indiquée dans le cadre de datage], farine de BLÉ (GLUTEN), huile de colza, eau, amidons de pomme de terre et de BLÉ (GLUTEN), sel, GLUTEN de BLÉ .",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 2.88,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6-8 min\n6 à 8 minutes environ dans une poêle chaude avec un peu de matière grasse, à feu moyen, en retournant régulièrement.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 min\npréchauffé à 210°C (th. 7) : 12 - 15 minutes. Laissez cuire, à mi-hauteur, sur une plaque chaude recouverte de papier cuisson: - Four traditionnel : 15 min - Four à chaleur tournante : 12 min\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n3-4 min\n3 à 4 minutes dans une huile à 175°C.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.6,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.37,
+            "total_reviews": 160
+        }
+    },
+    {
+        "ean": "000000000000086637",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Navarin de la mer",
+                "desc": "Sauce au Chablis AOC 34,7%, légumes 18%, colin d’Alaska 13,9%, saumon Atlantique 13,3%, queues de crevettes crues décortiquées 10%, noix de Saint-Jacques* 10%, surgelés - (*Zygochlamys patagonica origine Argentine ou Chlamys opercularis origine France)",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/navarin-de-la-mer-000000000000086637.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 108.0
+                    },
+                    "minerals": {
+                        "salt": 0.59
+                    },
+                    "fats": {
+                        "fats": 6.6,
+                        "saturates": 3.8
+                    },
+                    "proteins": {
+                        "proteins": 9.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.6,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crème fraîche liquide (LAIT), colin d'Alaska (POISSONS) 13,9% qualité sans arête*, saumon Atlantique (POISSONS) 13,3% qualité sans arête*, queue de crevette crue décortiquée (CRUSTACÉS) 10%, noix de Saint-Jacques 10% (MOLLUSQUES ; Zygochlamys patagonica origine Argentine et/ou Chlamys opercularis origine France**), vin blanc Chablis AOC*** 9,9% (contient SULFITES), courgette 4,8%, carotte 4,8%, carotte jaune 4,8%, eau, champignon de Paris 3,6%, beurre (LAIT), échalote, amidon transformé de maïs, base culinaire [extrait de Saint-Jacques (MOLLUSQUES), eau, sel, cabillaud (POISSONS), extrait de moule (MOLLUSQUES), extrait de crabe (CRUSTACÉS), extrait de saumon (POISSONS), pâte d'anchois (POISSONS), plantes aromatiques], jus de citron, sel, persil, ail, écorce de citron, poivre, curcuma.\n*A.O.C. : Appellation dOrigine Contrôlée.\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage, près du numéro de lot. ZA : Argentine; CF : France",
+                "allergens": [
+                    "Lait",
+                    "Poisson",
+                    "Crustacés",
+                    "Fruits à coque",
+                    "Mollusques"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 15.99,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n8 min\nVersez la quantité désirée de Navarin de la mer dans un plat adapté. Couvrez et laissez cuire le temps indiqué en remuant à mi- temps. Mélangez avant de servir. Puissance restituée du four : 750 W 900 W Pour 1/2 sachet (400g) : 10 min 8 min Pour 1 sachet (800g) : 18 min 15 min\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n15 min\nVersez la quantité désirée de Navarin de la mer dans une poêle. Couvrez et laissez cuire à feu moyen en remuant régulièrement. Pour 1/2 sachet (400g) : 15 min Pour 1 sachet (800g): 20 min\n\nSans titre\n\nPréchauffez votre four à 180°C (th.6). Versez la quantité désirée de Navarin de la mer dans un plat adapté et laissez cuire, à mi-hauteur, le temps indiqué. Remuez à mi-temps. Four traditionnel - Four à chaleur tournante Pour 1/2 sachet (400g) : 40 min - 35 min Pour 1 sachet (800g) : 45 min - 40 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.19,
+            "total_reviews": 146
+        }
+    },
+    {
+        "ean": "000000000000048872",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange de moules, crevettes nordiques, Saint-Jacques MSC*",
+                "desc": "Mélange de moules, crevettes nordiques, noix de Saint-Jacques* MSC congelé *Zygochlamys patagonica origine Argentine Moule et crevette cuites, noix de Saint-Jacques crue.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw51964062/produits/000000000000033994_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-moules-crevettes-nordiques-st-jacques-msc-000000000000048872.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.6,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Ingrédients (pourcentage minimum) : Moule cuite décoquillée MSC (MOLLUSQUES) 41% [Mytilus edulis sauvage pêchée aux dragues en Atlantique Nord-Est (FAO 27), sous-zone Mer du Nord (IV)], noix de Saint-Jacques MSC crue (MOLLUSQUES) 25 % [Zygochlamys patagonica sauvage pêchée aux chaluts en Atlantique Sud-Ouest (FAO 41)], crevette nordique MSC cuite décortiquée (CRUSTACES) 24% [Pandalus borealis sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II)], sel.\n*Pourcentage minimum.",
+                "allergens": [
+                    "Crustacés",
+                    "Fruits à coque",
+                    "Mollusques"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez le mélange sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 7.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 12.52% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 60
+        }
+    },
+    {
+        "ean": "000000000000017217",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 pavés de saumon atlantique, élevé en Norvège",
+                "desc": "4 pavés de saumon atlantique, qualité sans arête, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-paves-saumon-atlantique-000000000000017217.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 222.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 16.0,
+                        "saturates": 2.3
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Saumon atlantique (POISSONS) (Salmo salar élevé en Norvège) qualité sans arête*.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 19.2,
+                "preparation": "Conseils de préparation\nCUISSON\nAvant toute utilisation sans le sachet cuisson individuel, passez le produit sous l'eau froide",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.65,
+            "total_reviews": 298
+        }
+    },
+    {
+        "ean": "000000000000019447",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Morceaux choisis de poissons nordiques",
+                "desc": "MELANGE de morceaux de filets de cabillaud et colin lieu pêchés en Atlantique Nord*, saumon atlantique élevé en Norvège CONGELÉ - QUALITÉ SANS ARÊTE * Zones de pêche précisées dans le cadre",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb9f702ca/produits/000000000000048872_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/morceaux-choisis-poissons-nordiques-000000000000019447.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 117.0
+                    },
+                    "minerals": {
+                        "salt": 0.15
+                    },
+                    "fats": {
+                        "fats": 4.7,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 19.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de cabillaud 27% (Gadus morhua), filet de colin lieu 27% (Pollachius virens), filet de saumon atlantique 27% (Salmo salar élevé en Norvège) (POISSONS), qualité sans arête*. Cabillaud et colin lieu sauvages pêchés aux filets maillants et filets similaires (A), sennes (B), chaluts (C), lignes et hameçons (D). Cabillaud pêché en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V) ou en Atlantique Nord-Ouest (FAO 21). Colin lieu pêché en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V). Pour (1) Cabillaud, (2) Colin lieu : zone de pêche FAO, pays d’élaboration, engins de pêche, précisés dans le cadre ci-dessus.\n*Pourcentage minimum.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 17.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les morceaux de poissons sous l'eau froide.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n7 min\nEtalez et faites cuire les morceaux 7 min dans un panier vapeur, à couvert, au-dessus d'un court-bouillon frémissant.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n15 - 18 min\npréchauffé à 210°C (th. 7) : Etalez les morceaux dans un plat adapté préalablement huilé et faites cuire à mi-hauteur 15 à 18 min. Prévoir 5 min de plus pour une cuisson en papillote, avec des échalotes, des herbes, une rondelle de citron.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n8 min\nFaites cuire les morceaux dans une poêle chaude avec un peu de matière grasse, 8 min à feu doux en retournant à mi-temps.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n5 min\nPlacez les morceaux dans un court-bouillon bien relevé et frémissant ou une sauce cuisinée. Laissez cuire 5 min à feu doux à partir de la reprise du frémissement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.65,
+            "total_reviews": 84
+        }
+    },
+    {
+        "ean": "000000000000074937",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pavés de saumon atlantique avec peau ASC",
+                "desc": "2 pavés de saumon atlantique avec peau ASC surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwf0589757/produits/000000000000074193_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-paves-saumon-atlantique-avec-peau-asc-000000000000074937.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 216.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 2.3
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Saumon atlantique ASC (poissons) qualité sans arête*, avec peau. Salmo salar élevé en Norvège.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 9.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation sans le sachet cuisson individuel, passez le produit sous l’eau froide. Afin de préserver le moelleux de la chair, nous vous conseillons d’arrêter la cuisson quand la chair du pavé est encore translucide à cœur et de prévoir un temps de repos de 5 min à couvert hors du feu pour laisser la chaleur diffuser dans le pavé.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.44,
+            "total_reviews": 43
+        }
+    },
+    {
+        "ean": "000000000000048971",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Homard canadien entier cuit MSC,Homarus americanus",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/homard-canadien-entier-cuit-msc-000000000000048971.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 14.27,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000019190",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de maquereau",
+                "desc": "Filets de maquereau avec peau, congelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-maquereau-avec-peau-000000000000019190.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 246.0
+                    },
+                    "minerals": {
+                        "salt": 0.75
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 4.7
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de maquereau (POISSONS), Scomber scombrus sauvage pêché aux filets tournants et filets soulevés, filets maillants et filets similaires, chaluts, en Atlantique Nord-Est (FAO 27), sous-zones Mers de Norvège (II), Mer du Nord (IV), Islande et Féroé (V), Ouest Ecosse (VI).",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les filets sous l'eau froide.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n6 - 10 min\nFaites cuire les filets 6 à 10 min dans un panier vapeur, à couvert, au-dessus d'un court-bouillon frémissant.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n20 min 15 min\n-préchauffé à 210°C (th. 7) : Déposez les filets sur un lit d'oignons, mélange d'herbes et un peu de vin blanc. Faites cuire dans un plat adapté à mi-hauteur : - Four traditionnel : 20 min - Four à chaleur tournante : 15 min Prévoir 5 min de plus pour une cuisson en papillote, avec des échalotes, des herbes, une rondelle de citron.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n5 - 8 min\nBadigeonnez la peau des filets d'huile, laissez cuire 5 à 8 min à feu moyen en retournant à mi-temps.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n3 - 4 min\nFaites cuire, dans un plat adapté, à couvert, 3 à 4 min pour 2 filets, en retournant à mi-temps. * Temps indiqué pour un four ayant une puissance restituée de 900 watts.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n5 - 8 min\nPlongez les filets dans un court-bouillon bien relevé et frémissant. Laissez cuire 5 à 8 min à partir de la reprise du frémissement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.72,
+            "total_reviews": 109
+        }
+    },
+    {
+        "ean": "000000000000074763",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Dos colin lieu MSC, qualité sans arête",
+                "desc": "Dos de colin lieu MSC pêché en Atlantique Nord-Est, Qualité sans arête, Surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dos-colin-lieu-msc-qualite-sans-arete-000000000000074763.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:22",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 81.0
+                    },
+                    "minerals": {
+                        "salt": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Colin lieu MSC (POISSONS) qualité sans arête*. Pollachius virens sauvage pêché aux filets maillants et filets similaires, sennes, chaluts, lignes et hameçons, filets tournants et filets soulevés en Atlantique Nord-Est (FAO27), sous-zones Mer de Barents (I), Mers de Norvège (II), Islande et Féroé (V).",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 12.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les dos sous l’eau froide.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n7 - 12 min\nFaites cuire 7 à 12 min les dos dans un panier vapeur, à couvert, au-dessus d'un court-bouillon frémissant.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n7 - 10 min\nPlongez les dos dans un court-bouillon porté à ébullition, laissez cuire 7 à 10 min à partir de la reprise du frémissement. Egouttez.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n18 - 24 min\npréchauffé à 210 °C (th. 7) : Badigeonnez les dos d'un peu de matière grasse et déposez-les dans un plat adapté. Laissez cuire à mi- hauteur 18 à 24 min.\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n3 min\n(puissance restituée de 900 watts) : Faites cuire 3 min pour 2 dos, à couvert, dans un plat adapté. Laissez reposer 5 min avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.81,
+            "total_reviews": 32
+        }
+    },
+    {
+        "ean": "000000000000019661",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "NL"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de limande façon meunière, 4 à 5 filets",
+                "desc": "4 à 5 filets de limande (73%) enrobés d'un mélange (27%) à base d'huile, farine, aromatisé au citron et persil, préfrits - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw64923f4a/produits/poissons-crustaces/edition/000000000000017548_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-limande-facon-meuniere-4-5-filets-000000000000019661.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:23",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 197.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 3.1,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Filet de limande (POISSONS) 73% [Limanda limanda sauvage pêchée en Atlantique Nord-Est (FAO 27)], farine de BLE (GLUTEN) 16,1%, huile de colza, jus de citron concentré 1,1%, amidon de BLE (GLUTEN), sel, huile de citron, levure, persil 0,02%.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6 min\n6 à 8 minutes. Déposez les filets dans une poêle froide, sans ajout de matière grasse et faites-les cuire 6 à 8 minutes environ à feu moyen en les retournant régulièrement.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n12 min\npréchauffé à 210 °C (th.7) : 12 à 15 minutes. Faites cuire les filets, à mi-hauteur, sur la plaque chaude recouverte de papier cuisson : - Four traditionnel : 15 min - Four à chaleur tournante : 12 min.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 8.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 11.12% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.22,
+            "total_reviews": 85
+        }
+    },
+    {
+        "ean": "000000000000050013",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange à la thaïlandaise",
+                "desc": "Mélange à la thaïlandaise coriandre, basilic thaï, gingembre, citronnelle, piment surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwceb15a09/produits/edition/50307.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-thailandaise-000000000000050013.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:23",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 39.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 2.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.0,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 4.7
+                    }
+                },
+                "ingredients": "Coriandre 40,2%, basilic thaï 26,8%, gingembre 16,8%, citronnelle 10,6%, piment jalapeno rouge 5,6%.",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.77,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000074193",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Poissons"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pavés saumon atlantique bio, Irlande",
+                "desc": "2 pavés de saumon atlantique bio surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw91a06b8b/produits/000000000000006245_E2.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-paves-saumon-atlantique-bio-irlande-000000000000074193.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:23",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 175.0
+                    },
+                    "minerals": {
+                        "salt": 0.1
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 21.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Saumon atlantique (poissons) qualité sans arête*. Salmo salar élevé en Irlande, issu de l'agriculture biologique.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Poisson"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 11.8,
+                "preparation": "Conseils de préparation\nPréparation\nAfin de préserver le moelleux de la chair, nous vous conseillons d'arrêter la cuisson quand la chair du pavé est encore translucide à coeur et de prévoir un temps de repos de 5 min à couvert hors du feu pour laisser la chaleur diffuser dans le pavé. Avant toute utilisation sans le sachet cuisson individuel, passez les pavés de saumon sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 91
+        }
+    }
+]

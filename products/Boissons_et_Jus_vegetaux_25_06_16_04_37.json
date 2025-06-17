@@ -1,0 +1,993 @@
+[
+    {
+        "ean": "lait-amand-ss-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON D'AMANDE NATURE SANS SUCRES 1L BIO",
+                "desc": "Boisson d'amande nature sans sucres 1L Bio\nCe Lait d'Amandes Bio est 100% végétal et garanti sans sucres ajoutés !\nSaine et nutritive, il convient aux personnes qui doivent surveiller leur apport en sucre.\nLes produits EcoMil sont recommandés pour les personnes qui intolérantes et/ou allergiques ou pour celles et ceux qui souhaitent remplacer les produits laitiers dans leur régime alimentaire ! 100% végétales, les boissons EcoMil peuvent constituer une alternative saine aux laits d'animaux et autres boissons végétales.\nGaranti sans gluten, sans sucres et convient au régime alimentaire vegan.\nFabriqué en Espagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/m/lm_fda_3d_capbleu_hd.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-amand-ss-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:35",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 140
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.2,
+                        "of_which_sugars": 0.3
+                    }
+                },
+                "ingredients": "Eau, amandes* (7%), amidon de tapioca*, arôme naturel d´amande*.\n\n*Issus de l’agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 4.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter le lait d’amande bio avant d’ouvrir. \nLes laits d’amande bio EcoMil se consomment tel que à tout moment de la journée, froids ou chauds, dans le thé ou le café. et peuvent être aussi utilisés dans la préparation de vos recettes: sauces, gâteaux, crêpes, flans…",
+                "conservation": "A conserver au réfrigérateur après ouverture et consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "boisson-noisette-ss-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON À LA NOISETTE SANS SUCRES ET SANS GLUTEN 1L BIO",
+                "desc": "Boisson à la noisette sans sucres et sans gluten 1L Bio\nBoisson végétale aux noisettes bio sans sucres*, Tetra Brik 1 L \nFabriqué en Espagne - SANS gluten - SANS sucres",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/1/0/1006570_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boisson-noisette-ss-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Eau, noisettes* (5,5%), amidon de tapioca*, épaississant: farine de graine de caroube*, sel marin, arôme naturel de noisettes*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédients issus de l’Agriculture Biologique.\nNaturellement sans lactose.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 4.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant d’ouvrir. Les boissons végétales bio sans sucres EcoMil se consomment tel que à tout moment de la journée, froids ou chauds, dans le thé ou le café; et peuvent être aussi utilisés dans la préparation de vos recettes: sauces, gâteaux, crêpes, flans.",
+                "conservation": "A conserver au réfrigérateur après ouverture et consommer dans les 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "amandina-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON VÉGÉTALE D'AMANDES 1L BIO",
+                "desc": "Boisson végétale d'Amandes 1L Bio\nElle restitue les bienfaits naturels de l'amande et apporte naturellement vitamines, minéraux, lipides insaturés, (acide oléique) ainsi que tous les acides aminés favorables au système nerveux.\nAmandina lait d’amande est une délicieuse boisson végétale bio sans gluten à l’amande. Fabriquée directement à partir de la purée d’amande, cette boisson à la texture onctueuse et à la saveur délicate se déguste fraîche avec les céréales du petit-déjeuner, ou chaude en accompagnement d’un thé, d’un café ou d’un chocolat chaud !\nBoisson 100% végétale. Sans conservateur ni colorant. Sans saccharose ajouté, sans gluten, sans lactose ni protéine de lait.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411217395-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amandina-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.3,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau de source, purée d'amandes* 6.5%, sirop de riz*\n*Ingrédients iissus de l'Agriculture Biologique.\nTraces possibles d'autres fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.59,
+                "price_per_unit": 5.59,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il se consomme, comme un lait, tel quel, frais ou chaud, ou en accompagnement de thé, café, chocolat, dans les céréales petit déjeuner ou dans les condiments et plats salés ou sucrés en remplacement du lait animal.\nSecouer avant chaque utilisation.",
+                "conservation": "Avant ouverture, se conserve à temperature ambiante.\nAprès ouverture, à conserver au frais entre 0° et +6°C, et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "jus-breuss-lf-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "JUS DE LÉGUMES BREUSS 500ML BIO",
+                "desc": "Jus de légumes Breuss 500ML Bio\nBreuss, mélange harmonieux de précieux jus de légumes, est idéal pour des cures de jus.\n\nTous les jus de légumes bio Biotta® sont produits à partir de légumes issus de cultures biologiques. Depuis des décennies, les pesticides, herbicides et fongicides chimico-synthétiques, ainsi que les engrais de synthèse sont bannis des champs de Biotta®. Les légumes Biotta croissent donc sur des sols sains et vivants.\nEn savoir plus sur la marque...\nA la pointe du bio depuis ses origines, Biotta est spécialisée dans la production de jus 100 % naturels et 100 % bio qui renferment le meilleur des fruits et des légumes. Témoignant d’un triple engagement, en termes de production biologique, de standards de qualité et de plaisir pour le consommateur, les jus Biotta participent au bien-être général du corps tout en faisant le bonheur quotidien des papilles.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036907829.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/jus-breuss-lf-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "500ML",
+                "availability": true,
+                "ingredients": "Jus de betterave rouge*, jus de carotte*, jus de CELERI*, jus de pomme de terre lacto-fermenté*, jus de radis blanc*, acidifiant (acide lactique L(+) naturel). \n\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.29,
+                "price_per_unit": 10.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Agitez la bouteille avant l'emploi.\nDégustez un verre avant chaque repas.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "iced-choco-oat-avoine-230ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ICED CHOCO AVOINE 230ML BIO",
+                "desc": "Iced choco avoine 230ml Bio\nUne boisson végétale gourmande d'avoine, au bon goût de chocolat, à déguster à tout moment de la journée, bien fraîche.\nUne reccette 100% végétale, sans arôme dans un pack issu de 70% de matière végétale.\nIssu du commerce équitable, convient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/iced-choco-oat-avoine-230ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "230ML",
+                "availability": true,
+                "ingredients": "Base d’avoine (eau, 7,8% avoine*, huile de tournesol*, sel), eau, poudre de chocolat 4,4% (sucre*, poudre de cacao*), huile de colza*, sucre*, sel, arôme naturel de vanille Bourbon*, stabilisant : gomme gellan.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 230.0,
+                "price_per_packaging": 1.25,
+                "price_per_unit": 5.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-17%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais à tout moment de la journée.",
+                "conservation": "A conserver au frais après ouverture et à boire rapidement.",
+                "old_price": 1.5
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "iced-cafe-oat-avoine-230ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ICED CAFÉ AVOINE 230ML BIO",
+                "desc": "Iced café avoine 230ml Bio\nUne boisson végétale gourmande d'avoine, au bon goût de café, à déguster à tout moment de la journée, bien fraîche.\nUne reccette 100% végétale, sans arôme dans un pack issu de 70% de matière végétale.\nIssu du commerce équitable, convient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396413705593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/iced-cafe-oat-avoine-230ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "230ML",
+                "availability": true,
+                "ingredients": "Base d’avoine (eau, 8,3 % avoine*, huile de tournesol*, sel), eau, sucre*, huile de colza*, extrait de café liquide à 1,8 %*, sel, arôme naturel de vanille Bourbon*, arôme naturel de café, régulateur d’acidité : carbonates de sodium, stabilisateur : gomme gellan.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 230.0,
+                "price_per_packaging": 1.25,
+                "price_per_unit": 5.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-17%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais à tout moment de la journée.",
+                "conservation": "A conserver au frais après ouverture et à boire rapidement.",
+                "old_price": 1.5
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "boisson-avoine-240ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON AVOINE 240G BIO",
+                "desc": "Boisson Avoine 240g Bio\nDécouvrez la préparation instantanée concentrée pour la boisson d'avoine. \n100% végétale, cette boisson contient de haute valeur nutritionnelle. \nCe sachet équivaut à 3l de boisson. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3760030721913.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boisson-avoine-240ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "240G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 4.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79,
+                        "of_which_sugars": 13,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "Avoine* instantannée*(farine d'avoine*sans gluten, sirop, de riz* déshydraté, fibre d'acacia*, poudre d'AMANDE*), sirop de riz*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 7.15,
+                "price_per_unit": 29.79,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour un verre, verser 20g de poudre et 250ml d'eau. \nShakez, et c'est prêt !",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "boisson-avoine-barista-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON AVOINE BARISTA 1L BIO",
+                "desc": "Boisson Avoine Barista 1l Bio\nVotre boisson d'avoine barista pour réaliser vos boissons chaudes latte avec une mousse généreuse et onctueuse sur le dessus. \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036906426.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boisson-avoine-barista-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Eau de source, AVOINE*, huile de tournesol*, huile de carthame*, sel marin.*\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.4,
+                "price_per_unit": 2.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant usage.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, à conserver au réfrigérateur entre +4°C et +6°C."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "boisson-avoine-500ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON D'AVOINE 500ML BIO",
+                "desc": "Boisson d'Avoine 500ml Bio\nIdéale en toutes saisons, la boisson à l'avoine est particulièrement conseillée en périodes plus froides.\nDe plus, elle est spécialement indiquée pour les enfants durant la croissance, pour les sportifs, pour les personnes convalescentes et dans les périodes de stress physique et intellectuel.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036906426.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/boisson-avoine-500ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:36",
+                "format": "500ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 80
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.7,
+                        "of_which_sugars": 6.2
+                    }
+                },
+                "ingredients": "Eau de source, AVOINE*, huile de tournesol*, huile de carthame*, sel marin.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.65,
+                "price_per_unit": 3.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Bien agiter avant usage.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "fizz-orange-33cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FIZZ ORANGE 33CL BIO",
+                "desc": "Fizz orange 33Cl Bio\nDésaltérez-vous avec cette boisson gazeuse au bon goût d'orange, fabriqué artisanalement en France, à Bordeaux. \nUne recette sans caféine qui convient au régime végétalien et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/vitamont-limonade-d-antan-33cl.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fizz-orange-33cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "format": "33CL",
+                "availability": true,
+                "ingredients": "Eau gazéifiée, pur jus d'orange Bio 26%, sucre de canne roux Bio équitable d'Amérique du sud, pur jus de citron Bio*, arôme naturel d'orange Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 33.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 6.21,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "4209304",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FIZZ COLA 33CL BIO",
+                "desc": "Fizz Cola 33Cl Bio\nDésaltérez-vous avec ce cola fabriqué artisanalement en France, à Bordeaux. \nUne recette sans caféine qui convient au régime végétalien et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/i/vitamont-limonade-d-antan-33cl.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fizz-cola-33cl-4209304"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "format": "33CL",
+                "availability": true,
+                "ingredients": "Eau gazéifiée, sucre de canne roux Bio équitable d'Amérique du sud, caramel Bio, extrait de cola Bio, jus concentré de citron*, arôme naturel de limette Bio et d'épices Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 33.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 6.21,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A boire bien frais.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "amandina-ss-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON VÉGÉTALE D'AMANDE SANS SUCRES 1L BIO",
+                "desc": "Boisson végétale d'Amande sans sucres 1L Bio\nUne boisson 100% végétale fabriqué avec de la purée d'amande pour une recette crémeuse et onctueuse. Sans sucres, cette recette est naturellement sans gluten et convient au régime végétalien.\nFabriqué en France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3267110000024.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amandina-ss-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "format": "1L",
+                "availability": true,
+                "ingredients": "Eau de source, purée d'AMANDES* 6.5%, algue marine calcaire: Lithothamnium calcareum.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 4.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Délicieux à boire seul, avec vos céréales ou dans vos recettes de smoothies.\nBien agiter avant d'ouvrir.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "rice-drink-coco-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON DE RIZ RICE DRINK COCO 1L BIO",
+                "desc": "Boisson de riz Rice Drink Coco 1L Bio\nHarmonie parfaite entre la douceur du riz et le goût envoûtant de la noix de coco. Une recette rêvée pour les adaptes du végétarisme qui se distingue par sa fonctionnalité dans la cuisine quotidienne.\nBoisson 100% plaisir au délicat goût de noix de coco, obtenu par des noix de coco soigneusement sélectionnées.\nCette boisson est sans gluten et faible teneur en matières grasses.\nConvient à une alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396413712249.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/rice-drink-coco-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 0.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10,
+                        "of_which_sugars": 7.4,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Eau, riz* 14%, lait de coco* 6%, sel marin, arôme naturel*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.15,
+                "price_per_unit": 3.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Convient à l'alimentation quotidienne de toute la famille.\nComme boisson, dans le muesli, pour parfumer les smoothies ou pour réaliser de délicieux plats et desserts exotiques : riz au lait, flans, ...\nNe convient pas aux nourrissons en tant qu'alimentation exclusive.\n\nIdée Recette rapide : La crème au citron\n10 min - Pour 4 personnes - sans lactose\n125 gr de noix de cajou, macérées\n60 ml de jus de citron\n40 gr d'huile de coco extra vierge\n40 gr de sirop de riz\n85 ml de Rice Drink Coco\nUne pincée de sel\nMixez tous les ingrédients dans un blender ou un robot ménager pour obtenir une mousse onctueuse. Mettez la crème dans une poche à douille ou dans des moules et mettez le tout au moins 2 heures dans le réfrigérateur.",
+                "conservation": "Après ouverture, à conserver au frais et à consommer dans les 4 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "lait-coco-sans-sucre-1l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BOISSON COCO NATURE SANS SUCRES ET SANS GLUTEN 1L BIO",
+                "desc": "Boisson coco nature sans sucres et sans gluten 1L Bio\nRice Drink Coco: Harmonie parfaite entre la douceur du riz et le goût envoutant de la noix de coco. Une recette rêvée pour les adaptes du végétarisme qui se distingue par sa fonctionnalité dans la cuisine quotidienne. Boisson 100% plaisir au délicat goût de noix de coco, obtenu par des noix de coco soigneusement sélectionnées. En plus, sans gluten, sans sucres et faible teneur en matières grasses!\n  Origine du produit: Espagne.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396411242502-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lait-coco-sans-sucre-1l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "format": "1L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 0.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2
+                    }
+                },
+                "ingredients": "Eau, riz* 14%, lait de coco* 6%, sel marin, arôme naturel*.\n*Ingrédients issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 3.49,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Convient à l’alimentation quotidienne de toute la famille. Comme boisson, dans le muesli, pour parfumer les smoothies ou pour réaliser de délicieux plats et desserts exotiques : riz au lait, flans, …\nNe convient pas aux nourrissons en tant qu'alimentation exclusive.",
+                "conservation": "Après ouverture, conserver au frais et consommer dans les 4-5 jours."
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    },
+    {
+        "ean": "smoothie-vert-betterave-25cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Boissons et Jus végétaux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SMOOTHIE VERT AUX BETTERAVES ROUGES, CHOU KALE ET ÉPINA...",
+                "desc": "Smoothie vert aux betteraves rouges, chou kale et épinard.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4015533015328.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/smoothie-vert-betterave-25cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T04:37",
+                "availability": true,
+                "ingredients": "**Jus de pomme 52,5%,, **pulpe de mangue 17,5%, **jus de betterave rouges 1) 16%, *épinard* 8%, *chou frisé (kale) 6%.\n*issu de l'agriculture biologique\n** issu de l'agriculture biodynamique\n1) lactofermenté",
+                "on_discount": false,
+                "weight_per_packaging": 25.0,
+                "price_per_packaging": 2.9,
+                "price_per_unit": 11.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-16T04:35",
+        "updated_at": "2025-06-16T04:35"
+    }
+]

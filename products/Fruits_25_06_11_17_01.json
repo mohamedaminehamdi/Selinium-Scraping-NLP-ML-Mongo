@@ -1,0 +1,2770 @@
+[
+    {
+        "ean": "000000000000068829",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cerises noires dénoyautées bio",
+                "desc": "Cerises noires dénoyautées, issues de l'agriculture biologiques, surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cerise-noire-denoyaut.bio-000000000000068829.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 54.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 10.0,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Cerise noire*\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, de gâteaux, de compotes ou de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.2,
+            "total_reviews": 142
+        }
+    },
+    {
+        "ean": "000000000000068835",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Blueberries bio, Chili",
+                "desc": "Grosses myrtilles d'Amérique cultivées au Chili, issues de l'agriculture biologique, surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/blueberries-bio-450g-000000000000068835.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 55.0
+                    },
+                    "minerals": {
+                        "salt": 0.01
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 10.0,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Myrtilles cultivées (Vaccinium corymbosum)*\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n5 min\nLaissez décongeler en position décongélation dans un plat adapté. - Pour 225 g : 5 min - Pour 450 g : 10 min Laisser reposer au réfrigérateur 10 min.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4h\n4 heures dans un plat adapté, sur une seule couche.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 72
+        }
+    },
+    {
+        "ean": "000000000000068059",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Fruit de la passion en cubes, Pérou",
+                "desc": "Fruit de la passion en cubes surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/fruit-de--la-passion-en-cubes-000000000000068059.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 82.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 2.4,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 7.5,
+                        "dietary_fiber": 6.0
+                    }
+                },
+                "ingredients": "Fruit de la passion",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.35,
+                "preparation": "Sans titre\n\nPour élaborer vos smoothies ou pour aromatiser vos boissons ou cocktails.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 47
+        }
+    },
+    {
+        "ean": "000000000000068041",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade de fruits bio, mangues, oranges, blueberries",
+                "desc": "Salade de fruits Mangues, oranges, blueberries, miel, verveine Surgelée",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-fruits-bio-mangues-oranges-blueberries-000000000000068041.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 60.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Mangue* 50%, orange* 26.6%, blueberry* 18,3%, eau, miel* 1,1%, amidon de maïs*, verveine* 0,06%.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nVersez la salade dans un plat adapté. Laissez décongeler en position décongélation le temps indiqué en mélangeant à mi-temps. Pour 150 g : 6 min Pour 300 g : 10 min Pour 600 g : 18 min. Laissez reposer 15 min au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 heures\nVersez la salade dans un plat adapté. Laissez décongeler 8 heures au réfrigérateur et déguster immédiatement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.71,
+            "total_reviews": 24
+        }
+    },
+    {
+        "ean": "000000000000068047",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Ananas en morceaux bio, Costa Rica",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ananas-morceaux-bio-costa-rica-000000000000068047.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068191",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Framboise entière bio,Bulgarie ou Serbie ou Chili",
+                "desc": "Framboises entières issues de l'agriculture biologique surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/framboises-entieres-bio-bulgarie-serbie-000000000000068191.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 50.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.4,
+                        "of_which_sugars": 6.0,
+                        "dietary_fiber": 6.1
+                    }
+                },
+                "ingredients": "Framboise issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Sans titre\n\nPour la préparation de gâteaux, de compotes ou de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.13,
+            "total_reviews": 99
+        }
+    },
+    {
+        "ean": "000000000000068208",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cocktail de fruits rouges bio",
+                "desc": "Mélange de fruits rouges surgelés",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cocktail-fruits-rouges-bio-000000000000068208.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 52.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.7,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.2,
+                        "of_which_sugars": 7.8,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Framboise* 25%, blueberry* 25%, mûre* 25 %, cassis* 25%.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de gâteaux, de compotes ou de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.13,
+            "total_reviews": 71
+        }
+    },
+    {
+        "ean": "000000000000068500",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bol de fruits bio",
+                "desc": "Bol de fruits bio, fraises, ananas, bananes, groseilles, surgelés",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-fruits-bio-fraise-ananas-banane-groseille-000000000000068500.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 57.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 8.6,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Fraise 30%*, ananas 30%*, banane 23%*, groseille 17%*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nRetirez le bol de son étui et placez-le au four à micro-ondes sans retirer l'opercule. Faites décongeler 6 minutes en position décongélation (150W). Pour une dégustation optimale, laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n8 h\nRetirez le bol de son étui et placez au réfrigérateur sans retirer l'opercule. Laissez décongeler pendant 8 heures et déguster immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.64,
+            "total_reviews": 28
+        }
+    },
+    {
+        "ean": "000000000000068802",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mangues en morceaux bio, Pérou",
+                "desc": "Mangues en morceaux issues de l'agriculture biologique surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mangues-morceaux-bio-000000000000068802.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 63.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Mangue issue de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.71,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n9 min\nLaissez décongeler dans un plat adapté le temps indiqué en remuant à mi-temps. Pour 225 g : 9 min Pour 450 g : 15 min Laissez reposer 15 minutes au réfrigérateur avant utilisation\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n6 h\n6 heures sur une seule couche dans un plat adapté.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.3,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.47,
+            "total_reviews": 150
+        }
+    },
+    {
+        "ean": "000000000000068412",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Noix de coco en cubes, Vietnam",
+                "desc": "Noix de coco en cubes surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw06d4e820/produits/000000000000068440_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/200g-noix-de-coco-cubes-000000000000068412.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:58",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 303.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 29.0,
+                        "saturates": 27.0
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.0,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 7.1
+                    }
+                },
+                "ingredients": "Noix de coco.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.4,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8h\nLaissez décongeler 8 heures sur une seule couche dans un plat adapté avant de déguster immédiatement.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n7 min\nVersez la quantité désirée de fruit dans un plat adapté et laissez décongeler : pour 100 g : 7 min - pour 200 g : 10 min. Remuer à mi-temps. Laissez reposer 5 minutes au réfrigérateur avant de déguster immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068425",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Smoothie aux fruits exotiques",
+                "desc": "Préparation pour boisson à base d'ananas, mangue, fruit de la passion et lait de coco, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcb81ca03/produits/000000000000068802_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/smoothie-fruits-exo-mixe-000000000000068425.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 71.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 9.6,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Ananas 42%, mangue 36%, fruit de la passion 13%, crème de coco 9% (extrait de coco, eau)",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.8,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nVersez la quantité désirée de galets de smoothie dans un récipient adapté et décongelez le temps indiqué en remuant à mi-temps. Remuez avant de déguster. Pour 150g (environ 15cl) : 6 minutes. Pour 225g (environ 20cl) : 9 minutes. Pour 450g : 15 minutes.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nVersez la quantité désirée de galets de smoothie dans un récipient adapté et décongelez le temps indiqué. Remuez avant de déguster. Pour 150g (environ 15cl) : 5 heures. Pour 225g (environ 20cl) : 7 heures. Pour 450g : 12 heures.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068426",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Smoothie fruits rouges",
+                "desc": "Préparation pour boisson à base de fraise, framboise, pomme et cerise noire, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw06d4e820/produits/000000000000068440_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/smoothie-frts-rouges-mixe-000000000000068426.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 37.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.3,
+                        "of_which_sugars": 6.7,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Fraise 30%, framboise 27%, pomme 22%, cerise noire 13%, eau, antioxydant : acide citrique, sel.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 3.8,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nVersez la quantité désirée de smoothie dans un récipient adapté et décongelez le temps indiqué en remuant à mi-temps. Remuez avant de déguster. Pour 150g (environ 15cl) : 6 minutes. Pour 225g (environ 20cl) : 9 minutes. Pour 450g : 15 minutes.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nVersez la quantité désirée de smoothie dans un récipient adapté et décongelez le temps indiqué. Remuez avant de déguster. Pour 150g (environ 15cl) : 5 heures. Pour 225g (environ 20cl) : 7 heures. Pour 450g : 12 heures.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068740",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sachet de fruits poire, pêche jaune, framboise",
+                "desc": "Mélange 89,4% de poire, pêche jaune, framboise et sauce 10,6% à base de fraise, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw90e96684/produits/pack/000000000000082225_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/150g-sachet-de-fruits-000000000000068740.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 46.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.4,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.8,
+                        "of_which_sugars": 6.5,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Poire 38,5%, pêche jaune 33,3%, framboise 17,3%, fraise 6,6%, eau, sirop d'agave, jus de citron vert, jus d'acérola concentré.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n8 min\nVersez le contenu du sachet dans un bol adapté. Faites décongeler 8 minutes en position décongélation (150W) en agitant à mi-temps. Pour une dégustation optimale, laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nDÉCONGÉLATION\nVersez le contenu du sachet dans un bol adapté et placez-le au réfrigérateur. Laissez décongeler pendant 8 heures et déguster immédiatement.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.29,
+            "total_reviews": 7
+        }
+    },
+    {
+        "ean": "000000000000068805",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ananas en bâtonnet, Philippines",
+                "desc": "Morceau d’ananas torsadé sans peau sur un bâtonnet en bois, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-batonnet-ananas-66g-000000000000068805.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "66.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 49.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 11.0,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Ananas",
+                "on_discount": false,
+                "weight_per_packaging": 66.0,
+                "price_per_packaging": 1.9,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n3 minutes 30 secondes\nSortez le bâtonnet de son étui et déposez-le dans le four à micro-ondes sans retirer le sachet. Faites décongeler 3 minutes 30 secondes en position décongélation (150W). Pour une dégustation optimale, le bâtonnet doit être encore bien frais.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n2 heures 30 minutes\nRetirez le bâtonnet de son étui et placez-le au réfrigérateur sans retirer le sachet. Laissez décongeler pendant 2 heures 30 minutes et déguster immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.14,
+            "total_reviews": 7
+        }
+    },
+    {
+        "ean": "000000000000068804",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mangue en bâtonnet, Philippines",
+                "desc": "Morceau de mangue sans peau sur un bâtonnet en bois, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/1-batonnet-mangue-66g-000000000000068804.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "66.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 70.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 1.4
+                    }
+                },
+                "ingredients": "Mangue.",
+                "on_discount": false,
+                "weight_per_packaging": 66.0,
+                "price_per_packaging": 1.9,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n2 minutes\nSortez le bâtonnet de son étui carton, sans retirer le sachet. Déposez celui-ci directement dans le four à micro-ondes et faites décongeler 2 min en position décongélation (150W).\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n1 heures 30 minutes\nSortez le bâtonnet de son étui carton, sans retirer le sachet. Placez celui-ci directement au réfrigérateur et laissez décongeler 1 heure 30 min. Dégustez immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.2,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000068440",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Fraise en morceaux, Egypte",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/300g-fraises-morceaux-000000000000068440.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000068410",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Pink pitaya, fruit du dragon rose en cubes",
+                "desc": "Fruit du dragon rose découpé en cubes, sans peau, surgelé.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/300g-pink-pitaya-000000000000068410.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 63.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 11.0,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Fruit du dragon rose.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.3,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n3h\nLaissez décongeler 3 heures sur une seule couche dans un plat adapté avant de déguster immédiatement.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n5min\nVersez la quantité désirée de fruits dans un plat adapté et laissez décongeler : pour 150 g : 5 min - pour 300 g : 8 min. Remuer à mi-temps. Laissez reposer 5 minutes au réfrigérateur avant de déguster immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures dans un réfrigérateur.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.56,
+            "total_reviews": 43
+        }
+    },
+    {
+        "ean": "000000000000068762",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "IT"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Graines de grenade, Italie",
+                "desc": "Graines de grenade surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9d8b5ab1/produits/000000000000068810_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/graines-de-grenade-000000000000068762.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 78.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Grenade.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.7,
+                "preparation": "Sans titre\n\nPour la préparation de boissons ou de gâteaux.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.58,
+            "total_reviews": 24
+        }
+    },
+    {
+        "ean": "000000000000068088",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bol de compotée pomme-vanille et fruits",
+                "desc": "Préparation 56,6% à la pomme et à la vanille, fraise, pomme, graines de courge et graines de lin, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-compotee-pomme-vanille-fruits-000000000000068088.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.8,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 13.0,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Préparation à la pomme et à la vanille 56,6% (pomme 53,8%, sucre roux de canne, grain de vanille épuisée, arôme naturel de vanille Bourbon de Madagascar 0,01%), fraise 24,6%, pomme (pomme 14,5%, concentré d'acérola), graine de courge 1,6%, graine de lin 1,6%.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n7 min\nRetirez le bol de son étui et placez-le au four à micro-ondes sans retirer l'opercule. Faites décongeler 7 minutes en position décongélation (150W). Pour une dégustation optimale, laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 h\nRetirez le bol de son étui et placez-le au réfrigérateur sans retirer l'opercule. Laissez décongeler pendant 8 heures. A déguster immédiatement après décongélation",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.29,
+            "total_reviews": 28
+        }
+    },
+    {
+        "ean": "000000000000068810",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Myrtilles sauvages bio, Pologne ou Bulgarie",
+                "desc": "Myrtilles sauvages issues de l'agriculture biologique, surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/myrtilles-sauvages-bio-000000000000068810.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 46.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.1,
+                        "of_which_sugars": 6.1,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Myrtille sauvage issue de l'agriculture biologique.",
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Sans titre\n\nÀ CONSOMMER APRÈS CUISSON (sans décongélation) : Les myrtilles sauvages Bio sont à consommer après cuisson.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n2 min\nPortez les myrtilles sauvages bio à ébullition. Laissez bouillir pendant 2 minutes en remuant régulièrement. Pour une consommation froide, laissez reposer au réfrigérateur dans un plat adapté pendant 30 minutes.\n\nSans titre\n\nPour la préparation de tartes, de gâteaux (muffin, cake, clafoutis, pancake…) ou de confitures. Les myrtilles sauvages bio peuvent être directement utilisées sans décongélation dans les préparations qui nécessitent une cuisson (2 minutes à 100°C minimum).",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Ce produit est offert pour 300 points Picard&Nous"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.23,
+            "total_reviews": 148
+        }
+    },
+    {
+        "ean": "000000000000043653",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Coulis mangue-passion, portionnable",
+                "desc": "Coulis de mangue et fruit de la passion, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/coulis-mangue-passion-000000000000043653.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T16:59",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 0.01
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 18.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Purée de mangue 64%, jus de fruit de la passion 28%, sucre.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.2,
+                "preparation": "Au réfrigérateur\nPréparationCuisson au refrigerateur pendant\n6 heures\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler 6 heures au réfrigérateur. Mélangez pour homogénéiser avant de servir.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n1 min\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler le temps indiqué en remuant à mi-temps : Puissance restituée du four à micro-ondes 150 W Pour 2 galets : 1 min Pour la moitié du sachet : 3 min Pour le sachet complet : 5 min 30 Laissez reposer 10 minutes au réfrigérateur puis mélangez pour homogénéiser avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.82,
+            "total_reviews": 39
+        }
+    },
+    {
+        "ean": "000000000000013261",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade de fruits rouges",
+                "desc": "Mélange de framboise, griotte, mûre, blueberry (myrtille cultivée) au miel et au jus de fruit de la passion concentré, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-fruits-rouges-000000000000013261.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 55.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 9.5,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Framboise 30,4%, griotte dénoyautée 21,4%, mûre 21,3%, myrtille 19,6%, eau, miel 1,3%, jus de fruit de la passion concentré 0,5%. Malgré tout le soin apporté à la préparation de ce produit, la présence exceptionnelle de noyaux n'est jamais exclue.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nLaissez décongeler dans un plat adapté : - Pour 250 g : 6 min - Pour 750 g : 15 min Mélangez à mi-temps. Laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n12 h\nVersez la salade dans un plat adapté. Laissez décongeler 12 heures au réfrigérateur et déguster immédiatement",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.22,
+            "total_reviews": 81
+        }
+    },
+    {
+        "ean": "000000000000068080",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Framboises entières, UE et non UE",
+                "desc": "Framboises entières",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcb81ca03/produits/000000000000068802_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/framboise-entiere-750g-000000000000068080.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 44.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.8,
+                        "of_which_sugars": 5.4,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Framboise.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 8.5,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, de gâteaux, de compotes ou de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.12,
+            "total_reviews": 90
+        }
+    },
+    {
+        "ean": "000000000000068638",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade de fruits exotiques",
+                "desc": "Mélange d'ananas, de mangue, de fruit du dragon (pitaya) et de préparation à base de mangue et de citron vert, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-fruits-exotiques-000000000000068638.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 53.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 10.0,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Ananas 40%, mangue 34%, fruit de dragon (pitaya) 23%, eau, concentré de mangue 0,3%, sirop d'agave, jus de citron vert 0,2%.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n7 min\nLaissez décongeler dans un plat adapté : - Pour 250 g : 7 min - Pour 750 g : 20 min Mélangez à mi-temps. Laissez reposer 20 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n12 h\nVersez la salade dans un plat adapté. Laissez décongeler 12 heures au réfrigérateur et déguster immédiatement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 90
+        }
+    },
+    {
+        "ean": "000000000000068090",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade de fruits rouges et pêches blanches",
+                "desc": "Mélange 94,5% de pêche blanche, fraise, blueberry et sauce 5,5% à base d'hibiscus et de menthe, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwd58b1dda/produits/entrees-tartes-salades/edition/000000000000011370_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-f.r.%2Fpeche-blanche-000000000000068090.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 39.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.4,
+                        "of_which_sugars": 6.2,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Pêche blanche 40%, fraise 31,6%, blueberry (myrtille cultivée) 22,9%, eau, sirop d'agave, fleur d'hibiscus en poudre 0,07%, menthe 0,07%.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n7 min\nLaissez décongeler dans un plat adapté : - Pour 250 g : 7 min - Pour 750 g : 22 min Mélangez à mi-temps. Laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n12h\nVersez la salade dans un plat adapté. Laissez décongeler 12 heures au réfrigérateur et déguster immédiatement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.42,
+            "total_reviews": 65
+        }
+    },
+    {
+        "ean": "000000000000003168",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mangues en tranches, Philippines",
+                "desc": "Mangues en tranches surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mangues-tranches-philippines-000000000000003168.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 63.0
+                    },
+                    "minerals": {
+                        "salt": 0.01
+                    },
+                    "fats": {
+                        "fats": 0.2,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.6,
+                        "of_which_sugars": 13.1,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Mangue.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nAu four à micro-ondes (position décongélation - 150 W) : Laissez décongeler dans un plat adapté : - Pour 225 g : 6 min - Pour 450 g : 10 min. Laissez reposer 15 minutes au réfrigérateur avant utilisation\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n5 h\n5 heures sur une seule couche dans un plat adapté.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.59,
+            "total_reviews": 194
+        }
+    },
+    {
+        "ean": "000000000000024193",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Coulis framboise, portionnable",
+                "desc": "Coulis de framboise, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/coulis-framboise-000000000000024193.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 89.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 0.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 17.0,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "Purée de framboise 80%, sucre, eau.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.2,
+                "preparation": "Au réfrigérateur\nPréparationCuisson au refrigerateur pendant\n6 heures\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler 6 heures au réfrigérateur. Mélangez pour homogénéiser avant de servir.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n1 min 30\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler le temps indiqué en remuant à mi-temps : Puissance restituée du four à micro-ondes 150 W Pour 2 galets : 1 min 30 Pour la moitié du sachet : 3 min Pour le sachet complet : 5 min 30 Laissez reposer 10 minutes au réfrigérateur puis mélangez pour homogénéiser avant de servir.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.71,
+            "total_reviews": 58
+        }
+    },
+    {
+        "ean": "000000000000024218",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Coulis aux 3 fruits rouges, portionnable",
+                "desc": "Coulis à base de griotte, framboise et fraise, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/coulis-3-fruits-rouges-000000000000024218.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 98.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 20.0,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Purée de griotte 33,5%, purée de framboise sucrée (framboise 30,1%, sucre), purée de fraise sucrée (fraise 22,5%, sucre), sucre.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.4,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n6 heures\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler 6 heures au réfrigérateur. Mélangez pour homogénéiser avant de servir.\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n1min30\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler le temps indiqué en remuant à mi-temps : Puissance restituée du four à micro-ondes 150 W 1 galet : 1 min 30 5 galets (moitié du sachet) : 3 min 10 galets (sachet complet): 6 min Laissez reposer 10 minutes au réfrigérateur puis mélangez pour homogénéiser avant de servir.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.76,
+            "total_reviews": 29
+        }
+    },
+    {
+        "ean": "000000000000068209",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cocktail de fruits rouges",
+                "desc": "Mélange de fruits rouges, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2ad0753c/produits/pains-viennoiseries/edition/000000000000043413_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-fruits-rouges-000000000000068209.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 49.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 1.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.3,
+                        "of_which_sugars": 5.9,
+                        "dietary_fiber": 4.9
+                    }
+                },
+                "ingredients": "Framboise 25%, groseille 25%, blueberry (myrtille cultivée) 20%, fraise en morceau 15%, cassis 15%.",
+                "on_discount": false,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Sans titre\n\nPour la préparation de tartes, de gâteaux, de compotes ou de confitures...",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.35,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000013493",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Griottes dénoyautées, Pologne",
+                "desc": "GRIOTTES ENTIERES DENOYAUTEES - SURGELEES",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/griottes-denoyautees-000000000000013493.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 48.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 8.9,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Griotte.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, de gâteaux, de compotes et de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.51,
+            "total_reviews": 72
+        }
+    },
+    {
+        "ean": "000000000000013617",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ananas en morceaux, Costa Rica ou Philippines",
+                "desc": "Ananas en morceaux surgelés",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ananas-morceaux-costa-rica-000000000000013617.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:00",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 55.0
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 12.0,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Ananas",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 4.6,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n8 min\nPlacez les morceaux d'ananas dans un plat adapté et laissez décongeler en position décongélation. Remuez à mi-temps: 8 min pour 300 g - 15 min pour 600 g Laissez reposer 15 minutes avant de servir.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n7 h\n7 heures dans un plat adapté",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.36,
+            "total_reviews": 166
+        }
+    },
+    {
+        "ean": "000000000000068654",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Salade d'agrumes",
+                "desc": "Mélange d'orange et de pamplemousses, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/salade-agrumes-000000000000068654.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 36.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.1,
+                        "of_which_sugars": 6.9,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Orange 50%, pamplemousse rose 50%.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nLaisser décongeler dans un plat adapté : - Pour 250 g : 6 min - Pour 500 g : 10 min - Pour 750 g : 16 min Mélangez à mi-temps. Laissez reposer 10 minutes au réfrigérateur avant de déguster\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n6 h\nEtalez la salade dans un plat adapté en une seule couche. Laissez décongeler 6 heures au réfrigérateur en recouvrant le plat d'un film alimentaire étirable.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.92,
+            "total_reviews": 60
+        }
+    },
+    {
+        "ean": "000000000000068092",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bol de fruits rouges",
+                "desc": "Mélange de fruits - cerise noire - framboise - mûre, surgelé",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-fruits-rouges-000000000000068092.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 81.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.6,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 11.0,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Cerise noire* 40%, framboise Meeker 40%, mûre 20%.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n8 min\nRetirez le bol de son étui, décollez le coin de l'opercule plastique et placez-le au four à micro-ondes. Faites décongeler 8 minutes en position décongélation (150W) en agitant à mi-temps. Pour une dégustation optimale, laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 h\nRetirez le bol de son étui et placez-le au réfrigérateur sans retirer l'opercule. Laissez décongeler pendant 8 heures et déguster immédiatement.",
+                "conservation": "24 heures dans un réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.43,
+            "total_reviews": 72
+        }
+    },
+    {
+        "ean": "000000000000068977",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bol de fruits au sirop passion framboise",
+                "desc": "Fruits 85%, sirop passion framboise 15% ; surgelés",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bol-fruits-sirop-passion-framboise-000000000000068977.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 57.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 9.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Mangue 33,4%, framboise 23,3%, orange 19%, cerise noire* 9,3%, purée de fruit de la passion 6%, eau, miel de fleurs, purée de framboise 1,8%.",
+                "on_discount": true,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.1,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n8 min\nRetirez le bol de son étui, décollez le coin de l'opercule plastique et placez-le au four à micro-ondes. Faites décongeler 8 minutes en position décongélation (150W) en agitant à mi-temps. Pour une dégustation optimale, laissez reposer 15 minutes au réfrigérateur avant de déguster immédiatement.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 h\nRetirez le bol de son étui et placez-le au réfrigérateur sans retirer l'opercule. Laissez décongeler pendant 8 heures et déguster immédiatement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 2.5,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,40€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 16.0% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.44,
+            "total_reviews": 34
+        }
+    },
+    {
+        "ean": "000000000000068795",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Abricots en oreillons, France",
+                "desc": "Abricots en oreillons, cultivés en Occitanie, surgelés",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/abricots-oreillons-000000000000068795.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 43.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.3,
+                        "of_which_sugars": 6.4,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Abricot, antioxydants : acide ascorbique et acide citrique. L'abricot est un fruit naturellement sensible à l'oxydation. Afin de prévenir ce phénomène, nous vous conseillons d'utiliser les oreillons rapidement après décongélation ou directement à l'état surgelé.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au micro-ondes\nPréparation après décongélationCuisson au microondes pendant\n10 min\nLaissez décongeler dans un plat adapté. - Pour 300 g : 10 min - Pour 600 g : 15 min. Remuez à mi-temps et laissez reposer au réfrigérateur (15 min). A consommer immédiatement après décongélation.\n\nAu réfrigérateur\nPréparation après décongélationCuisson au refrigerateur pendant\n4 h\n4 heures dans un plat adapté et à consommer immédiatement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.21,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000069827",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Lait de coco",
+                "desc": "Lait de coco surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcb81ca03/produits/000000000000068802_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/lait-coco-000000000000069827.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 221.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 22.0,
+                        "saturates": 21.0
+                    },
+                    "proteins": {
+                        "proteins": 2.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.5,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crème de noix de coco stérilisée (noix de coco 71,5%, eau), eau.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n1 min\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler le temps indiqué en position décongélation (150 W) en remuant à mi-temps : Pour 1 galet : 1 min Pour 5 galets (moitié du sachet) : 5 min Pour 10 galets (sachet complet) : 8 min En sortie de micro-ondes, laissez reposer 10 minutes à température ambiante puis mélangez pour homogénéiser le lait de coco.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n6 h\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler 6 h au réfrigérateur. Laissez ensuite reposer 10 minutes à température ambiante puis mélangez pour homogénéiser le lait de coco.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.7,
+            "total_reviews": 23
+        }
+    },
+    {
+        "ean": "000000000000013576",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Figues en quartiers, Turquie",
+                "desc": "Figues en quartiers surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/figues-quartiers-turquie-000000000000013576.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 76.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 1.1,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 12.0,
+                        "dietary_fiber": 5.4
+                    }
+                },
+                "ingredients": "Figue",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, gâteaux, de compotes, de confitures ...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.62,
+            "total_reviews": 97
+        }
+    },
+    {
+        "ean": "000000000000013451",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mirabelles de Lorraine en oreillons, France",
+                "desc": "Mirabelles de Lorraine en oreillons surgelées",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mirabelles-lorraine-oreillons-000000000000013451.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 81.0
+                    },
+                    "minerals": {
+                        "salt": 0.02
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 16.0,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Mirabelle.",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, de gâteaux, de compotes ou de confitures...",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.06,
+            "total_reviews": 110
+        }
+    },
+    {
+        "ean": "000000000000068081",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Framboises brisées, Bulgarie ou Serbie ou Bosnie-H",
+                "desc": "Framboises brisées surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw34349923/produits/patisseries/edition/000000000000042018_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/framboises-brisees-750g-000000000000068081.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "750.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 44.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.8,
+                        "of_which_sugars": 5.4,
+                        "dietary_fiber": 4.3
+                    }
+                },
+                "ingredients": "Framboise.",
+                "on_discount": false,
+                "weight_per_packaging": 750.0,
+                "price_per_packaging": 7.5,
+                "preparation": "Conseils de préparation\nPréparation sans décongélation\nPour la préparation de tartes, de gâteaux, de compotes ou de confitures...",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 27
+        }
+    },
+    {
+        "ean": "000000000000069835",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits"
+            }
+        ],
+        "origin": {
+            "explicit": "ES"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Jus de citron",
+                "desc": "Jus de citron surgelé.",
+                "images": [
+                    "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/jus-citron-000000000000069835.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T17:01",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 30.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 0.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.4,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Jus de citron. Malgré tout le soin que nous apportons à la préparation de notre jus de citron, la présence exceptionnelle de pépin n'est jamais exclue.",
+                "allergens": [
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.5,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n2 min\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler le temps indiqué en position décongélation, en remuant à mi-temps : 150W Pour 1 galet : 2 min Pour 5 galets (moitié du sachet) : 4 min Pour 10 galets (sachet complet) : 9 min En sortie de micro-ondes, laissez reposer 10 minutes à température ambiante, puis mélangez pour homogénéiser le jus de citron.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nVersez la quantité désirée de galets dans un récipient adapté. Laissez décongeler 5h au réfrigérateur. Laissez ensuite reposer 10 minutes à température ambiante, puis mélangez pour homogénéiser le jus de citron.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.77,
+            "total_reviews": 52
+        }
+    }
+]

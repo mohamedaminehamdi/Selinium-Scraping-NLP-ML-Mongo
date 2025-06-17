@@ -1,0 +1,2875 @@
+[
+    {
+        "ean": "000000000000039691",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems au poulet avec sauce nuoc-mâm",
+                "desc": "Farce au poulet 45,7%, galettes de riz 37,6% et sauce nuoc-mâm 16,7%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-poulet-avec-sauce-nuoc-mam-000000000000039691.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:50",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 186.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 5.6,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Nems au poulet (200 g) : eau, farine de riz 20,2%, viande de poulet (origine : France*) 13%, carotte 6,5%, vermicelle de pois réhydraté, châtaigne d'eau 6%, chou vert, ciboule, farine de SOJA, coriandre 2,2%, sauce SOJA [eau, SOJA , farine de BLÉ (GLUTEN), sel], champignon noir réhydraté 1,8%, fécule de manioc, oignon déshydraté, sel, citronnelle, purée de gingembre, huile de tournesol. Sauce nuoc-mâm (40 g) : eau, sucre, nuoc-mâm 14% (POISSONS, sel, eau), vinaigre d'alcool, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 3.5,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nFaites frire les nems 8 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Avant de servir, déposez les nems sur du papier absorbant.\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Four traditionnel : 18 min Four à chaleur tournante: 16 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.84,
+            "total_reviews": 291
+        }
+    },
+    {
+        "ean": "000000000000039899",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 bouchées de poulet au saté 2 parts",
+                "desc": "Bouchées composées d'une farce au poulet et au saté 85,1% et d'une galette de pâte de blé 14,9%, frites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-bouchees-poulet-sate-2-parts-000000000000039899.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:50",
+                "format": "160.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 200.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 4.1,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet 57% (origine : Thaïlande*), pâte de BLÉ 14,2% [eau, farine de BLÉ (GLUTEN), huile de tournesol, sel], huile de tournesol, pois patate 5,5%, saté en poudre 4,6% [sucre, maltodextrine, amidon de tapioca, épices (contient MOUTARDE), sel, dextrose, acidifiant : acide malique, curcuma, citron kaffir], lait de coco, eau, échalote, coriandre, sucre, sel, sauce au POISSON [anchois (POISSON), sel], sauce au POISSON en poudre [anchois (POISSON), maltodextrine, sel].\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n8 min\nPréchauffez votre four à 210°C (th. 7). Déposez les bouchées sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué. - four traditionnel: 10 min - four à chaleur tournante : 8 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.52,
+            "total_reviews": 202
+        }
+    },
+    {
+        "ean": "000000000000072971",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "6 brochettes de boeuf au fromage,sauce soja sucrée",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-brochettes-boeuf-fromage-sauce-soja-sucree-000000000000072971.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "on_discount": false,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 7.9,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086228",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 Empanadas au bœuf",
+                "desc": "Chaussons composés d'une pâte brisée pur beurre 52,8%, d'une farce à base de viande de boeuf cuite, légumes et épices 43,6% et d'une dorure 3,5%, cuits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-empanadas-boeuf-000000000000086228.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 341.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 21.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 8.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 27.0,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 2.3
+                    }
+                },
+                "ingredients": "Farine de BLÉ [farine de BLÉ (GLUTEN), GLUTEN de BLÉ], beurre (LAIT) 15,8%, viande bovine cuite 14,9% (origine : France*), eau, OEUF entier issu de poule élevée en plein air 4,8% (liquide, pasteurisé), maïs en grain 4,6%, poivron rouge 4,2%, oignon 3,9%, dorure 3,5% [OEUF entier issu de poule élevée en plein air (liquide, pasteurisé), sucre, sel], amidon de maïs, concentré de tomate 1,5%, assaisonnement 1,1% [légumes déshydratés (poivron rouge, oignon), épices en poudre 0,5% (paprika, coriandre, cumin, piment de Cayenne), plantes aromatiques déshydratées (origan, persil)], huiles végétales (tournesol et/ou colza), sel, sucre, ail, piment 0,2%, paprika.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 6.3,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Déposez les empanadas sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué : - Four traditionnel : 15 min - Four à chaleur tournante : 14 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n1 min 30*\nDéposez la quantité souhaitée d'empanadas sur une assiette et laissez réchauffer le temps indiqué ci-dessous: Puissance restituée du four à micro-onde 750W - Pour 3 empanadas : 1 min 30 - Pour 6 empanadas : 3 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.37,
+            "total_reviews": 145
+        }
+    },
+    {
+        "ean": "000000000000086428",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poulet karaage, riz et légumes cuisinés",
+                "desc": "Riz cuisiné 45,9%, légumes 24,9%, filet de poulet cuit pané tranché 18,4%, sauce sucrée-salée 9,7%, noix de cajou 1,1%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poulet-karaage-riz-legumes-cuisines-000000000000086428.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 177.0
+                    },
+                    "minerals": {
+                        "salt": 0.77
+                    },
+                    "fats": {
+                        "fats": 5.7,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.0,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Riz japonais cuit 45,9% [eau, riz japonais, huile de tournesol], filet de poulet pané tranché 18,4% [filet de poulet 10,9% (origine : Thaïlande*), mélange de farine (eau, farine de BLE (GLUTEN), sel, huile de SOJA, épaississants (gomme guar, gomme de xanthane), dextrose, poivre, poudre à lever), panure de farine de BLE (GLUTEN) grillée (farine de BLE (GLUTEN), sucre, sel, levure), enrobage (amidon transformé de tapioca, farine de BLE (GLUTEN), sel), eau, sauce SOJA (eau, graine de SOJA, sel, farine de BLE (GLUTEN), mirin (eau, sirop de glucose, riz, alcool, koji), gingembre, ail, sel], oignon, carotte, chataigne d'eau, assaisonnement à la sauce SOJA [eau, sauce SOJA (eau, graine de SOJA, sel, farine de BLE (GLUTEN)), huile de tournesol, sucre de canne, farine de tapioca, sel], oignon jeune, huile de tournesol, sucre, NOIX DE CAJOU grillée 1,1% [NOX DE CAJOU 1%, huile de tournesol] , piment rouge, mirin [eau, sirop de glucose, riz, alcool, koji], farine de tapioca, huile de SESAME, sauce SOJA [eau, graine de SOJA, sel, farine de BLE (GLUTEN)], échalote, ail, sauce SOJA noire [mélasse de sucre de canne, sel, sauce SOJA (eau, graine de SOJA, sel, farine de BLE (GLUTEN))], piment séché.\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nDécollez le coin de l'opercule carton. Faites réchauffer le temps indiqué. Puissance restituée du four à micro-ondes : 750 W: 6 min 30 900 W : 5 min 30\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n22 min\nDémoulez le contenu du bol. Faites réchauffer le contenu 22 min dans une poêle avec 5 cl d'eau, à couvert et à feu moyen. Remuez régulièrement et ajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.43,
+            "total_reviews": 129
+        }
+    },
+    {
+        "ean": "000000000000072715",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 perles de coco Cuisine Evasion",
+                "desc": "6 bouchées composées d'une pâte 58,3% de riz fourrées avec une préparation 35% à base de lait de coco et enrobées de copeaux de noix de coco, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-perles-coco-000000000000072715.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "180.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 271.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 4.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33.0,
+                        "of_which_sugars": 8.1,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de riz collant 23,1%, lait de coco 21,5% (extrait de noix de coco, eau), eau, chair de noix de coco 9,8%, haricot mungo, copeau de noix de coco 6,6%, sucre de canne, amidon de BLÉ (GLUTEN), huile de tournesol, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 3.5,
+                "preparation": "Conseils de préparation\nPréparation\nSortez les perles de coco de l'étui carton et de leur emballage plastique.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n25 s\nDéposez les perles de coco dans une assiette. Faites réchauffer le temps indiqué. Puissance restituée du four à micro-ondes: 750 watts. - 1 perle : 25 sec - 3 perles : 40 sec - 6 perles : 1 min 20 Laissez reposer 5 min avant de déguster.\n\nAu panier vapeur\nPréparationCuisson au paniervapeur pendant\n8 min\nDéposez les perles de coco dans un panier bambou (ou dans un panier vapeur). Faites réchauffer le panier au-dessus d'une casserole d'eau bouillante pendant 8 min environ. Laissez reposer 5 min avant de déguster.\n\nAu réfrigérateur\nPréparationCuisson au refrigerateur pendant\n3h\nDéposez les perles de coco dans une assiette. Faites les décongeler dans le bas du réfrigérateur pendant 3 h environ. Laissez reposer 15 min à température ambiante avant de déguster.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 43
+        }
+    },
+    {
+        "ean": "000000000000086200",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poulet pandan et riz cuisiné Cuisine Evasion",
+                "desc": "Riz jasmin cuit 47,5%, filet de poulet mariné 24,4%, légumes cuisinés 20,5%, sauce au lait de coco, citronnelle et curry 7,6%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poulet-pandan-riz-cuisine-000000000000086200.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 147.0
+                    },
+                    "minerals": {
+                        "salt": 0.73
+                    },
+                    "fats": {
+                        "fats": 3.8,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Riz jasmin cuisiné 47,4% (eau, riz jasmin, huile de tournesol, curcuma), filet de poulet 15,3% (origine : Thaïlande*), lait de coco 9,1% (extrait de noix de coco, eau), oignon 7,7%, chou 6,1%, carotte 2,5%, sucre de canne, citronnelle, huile de SESAME, sauce SOJA [eau, graine de SOJA, sel, farine de BLÉ (GLUTEN)], ail, sauce au POISSON [anchois (POISSON), sel], curry en poudre 0,4% [graine de MOUTARDE, curcuma, graine de coriandre, graine de fenugrec, farine de BLÉ (GLUTEN), sel, graine de fenouil, piment, graine de cumin, poivre], farine de tapioca, sel, poivre, curcuma\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Soja",
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n6 min\nDécollez un coin de l'opercule carton. Faites réchauffer la boîte le temps indiqué ci-dessous. Retirez la feuille de pandan puis dégustez. Puissance restituée du four à micro-ondes: 750 W 900 W 7 min 6 min\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n15 min\nRetirez la feuille de pandan et démoulez le contenu de la boîte dans une poêle chaude. Faites réchauffer pendant 15 minutes à feu moyen à couvert, avec 5 cuillerées à soupe d'eau en remuant régulièrement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 92
+        }
+    },
+    {
+        "ean": "000000000000086123",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 brochettes de poulet thaï",
+                "desc": "4 brochettes de filet de poulet avec panure au curry vert et pâte de noix de coco pimentées 50%, et 4 brochettes de filet de poulet avec panure à la noix de coco et pâte de curry 50%, cuites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe33569ec/produits/000000000000039972.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-brochettes-poulet-thai-000000000000086123.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 262.0
+                    },
+                    "minerals": {
+                        "salt": 0.72
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 5.3
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Brochette de poulet au curry vert 4x25g : viande de poulet 57,1% (origine : Thaïlande*), panure [farine de BLE (GLUTEN), sucre de canne, piment, sel, levure], lait de coco, eau, pâte à frire [farine de BLE (GLUTEN), amidon de maïs, sel,poudre à lever (diphosphates, carbonates de sodium), piment vert, colorant : curcuma], pâte de curry vert 1,6% [piment vert, citronnelle, ail, sel, galanga, pâte de crevettes (crevettes (CRUSTACES), sel), zeste de citron kaffir, graine de coriandre, cumin, poivre, curcuma], basilic doux, sucre de noix de coco, amidon de pomme de terre, amidon de maïs, sel, huile de son de riz, coriandre, ail, graine de coriandre, graine de cumin. Brochette de poulet au curry-coco 4x25g : viande de poulet 57,1% (origine: Thaïlande*), panure [farine de BLE (GLUTEN), copeaux de noix de coco 2,7%, sucre, sel, levure], lait de coco 11,9%, eau, pâte à frire [farine de BLE (GLUTEN), sucre, amidon de maïs, sel, lait de coco en poudre 0,2% (lait de coco, maltodextrine), poudre à lever (diphosphates, carbonates de sodium), arôme naturel de noix de coco 0,05%], marinade à la noix de coco 1,4% [sucre avec amidon de tapioca, amidon de tapioca, amidon de maïs, lait de coco en poudre 0,07% (lait de coco, maltodextrine), épices (piment, cardamone, galanga, cumin, cucurma), sel, arômes naturels (citronnelle, ail, noix de coco 0,01%), oignon, ail, citronnelle, colorant : paprika oleoresin, vinaigre en poudre], oignon, huile de son de riz, pâte de curry 1,1% [citronnelle, ail, sel, échalote, piment rouge séché, galanga, graine de coriandre, cumin, zeste de citron kaffir, cannelle , cardamone, macis], cannelle.\n*Issue d'animaux nés, élevés et abattus en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Déposez les brochettes sur une plaque recouverte de papier cuisson. Enfournez à mi- hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 16 min - Four à chaleur tournante : 14 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.4,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000086133",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Noodle box crevettes sauce curry rouge",
+                "desc": "Nouilles cuites 37,2%, légumes 26,2%, assaisonnement sauce curry rouge 18,5% et crevettes 18% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/noodle-box-crevettes-sauce-curry-rouge-000000000000086133.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 144.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 5.2,
+                        "saturates": 2.7
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17.0,
+                        "of_which_sugars": 4.2,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Nouille cuite 37,2% [nouille (farine de BLÉ (GLUTEN), eau, sel), eau, huile de soja], crevette blanchie décortiquée (CRUSTACÉS) 18%, carotte 7,5%, lait de coco (chair de noix de coco, eau), oignon blanc, pousse de bambou 5%, poivron rouge, petit pois 3,3%, basilic thaï, eau, huile de soja, sucre de canne, pâte de curry rouge 1,2% (piment, citronnelle, galanga, sel, ail, échalote, citron kaffir, cumin), ail, citronnelle, farine de BLÉ (GLUTEN), sel, noix de coco râpée, poivre blanc.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Crustacés",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n5 min 30\nRetirez le film protecteur. Faites réchauffer la boîte le temps indiqué en remuant à mi-temps : Puissance restituée du four à micro-ondes : 750 watts 900 watts 6 min 30 5 min 30\n\nÀ la poêle\nPréparationCuisson au poele pendant\n8 min\nRetirez le film protecteur et démoulez le contenu de la boîte dans une poêle chaude. Faites réchauffer pendant 8 minutes à feu moyen, avec 6 cuillerées à soupe d'eau en remuant régulièrement.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.31,
+            "total_reviews": 103
+        }
+    },
+    {
+        "ean": "000000000000086917",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 jirou pao au poulet, bouchées vapeur au poulet",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-jirou-pao-poulet-bouchees-vapeur-poulet-000000000000086917.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:51",
+                "on_discount": false,
+                "weight_per_packaging": 210.0,
+                "price_per_packaging": 3.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000021865",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poulet Tikka et riz basmati",
+                "desc": "Sauce à base de tomate et d'épices 36,3%, riz basmati cuisiné 35,3% et filet de poulet 28,4%, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poulet-tikka-riz-basmati-000000000000021865.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 146.0
+                    },
+                    "minerals": {
+                        "salt": 0.44
+                    },
+                    "fats": {
+                        "fats": 4.0,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 12.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Riz basmati cuit 32,7% (eau, riz basmati), filet de poulet 28,4% (origine : France* ), eau, oignon, purée de tomate 4,5%, yaourt nature (LAIT entier, LAIT écrémé en poudre, ferment lactique), crème liquide (crème de LAIT, stabilisant : carraghénanes), ail, concentré de tomate, tomate 1,2%, NOIX DE CAJOU 0,9%, huile de tournesol, épices en poudre 0,5% (cumin, coriandre, cinq épices, paprika, cannelle, curcuma, clou de girofle), feuille de coriandre, beurre (LAIT), sel, gingembre, graine cardamome, amidon de maïs.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n5 min\nSortez la barquette de l'étui carton et percez l'opercule. Faites cuire le temps indiqué. Mélangez la sauce et laissez reposer quelques minutes avant de servir. Puissance restituée du four à micro-ondes : 750 watts 900 watts 6 min 5 min\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n10 min\nDémoulez le contenu de la barquette. Faites cuire le contenu des 2 compartiments 10 min dans une poêle chaude avec 5 cuillerées à soupe d'eau, à couvert et à feu moyen. Remuez régulièrement.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures dans un réfrigérateur.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.97,
+            "total_reviews": 173
+        }
+    },
+    {
+        "ean": "000000000000072757",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 gyoza aux légumes, bouchées vapeur, sauce soja",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-gyoza-legumes-bouchees-vapeur-sauce-soja-000000000000072757.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000039881",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems aux légumes",
+                "desc": "Farce aux légumes 50%, galettes de blé 33,3% et sauce aigre-douce 16,7%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-legumes-avec-sauce-aigre-douce-000000000000039881.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 213.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 9.9,
+                        "saturates": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 3.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.0,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Nems aux légumes (8 x 25 g) : chou 24,4%, farine de blé (gluten), huile de soja, carotte 7%, vermicelle de haricot mungo 6,9%, eau, ciboule, champignon noir 3,8%, sauce soja [sauce soja (eau, soja, blé (gluten), sel), eau, sucre de canne], coriandre 2,5%, sucre de canne, gingembre 1,6%, citronnelle 1,5%, ail, sel, poivre. Sauce aigre-douce (40 g) : sucre de canne, purée de tomate salée (tomate, sel), eau, vinaigre de riz, piment rouge.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Traces de Lait",
+                    "Traces de Œuf"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 2.45,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n10 min\nFaites dorer les nems 10 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce aigre-douce dans un verre d'eau tiède, le temps du réchauffage des nems\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Laissez décongeler la sauce aigre-douce dans un verre d'eau tiède, le temps du réchauffage des nems. Four traditionnel : 18 min Four à chaleur tournante : 16 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.5,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 230
+        }
+    },
+    {
+        "ean": "000000000000086202",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Riz à la cantonaise Cuisine Evasion",
+                "desc": "Mélange de riz basmati précuit salé 65,7%, légumes 12,9%, jambon cuit supérieur 8%, omelette 7% et assaisonnement 6,2%, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/riz-cantonaise-000000000000086202.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 132.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 5.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Riz basmati précuit salé (eau, riz basmati 27,9%, sel), jambon cuit supérieur 8% [jambon de porc (origine: France*), sel, dextrose, arômes naturels, antioxydant: ascorbate de sodium, conservateur: nitrite de sodium], petit pois 8%, omelette 7% (œuf entier issu de poules élevées en plein air, eau, farine de maïs, sel, jus de citron concentré), carotte 4,9%, huile de tournesol, eau, sauce poisson 1,6% [extrait de poisson (anchois), sel, eau], bouillon de poulet (eau, os et viande de poulet), ail, sauce soja [eau, soja, blé (gluten), sel, alcool, vinaigre de riz], fécule de pomme de terre, poivre blanc.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 4.6,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n3 min\nVersez la quantité désirée de produit dans un plat adapté. Couvrez et faites réchauffer le temps indiqué. Remuez à mi-temps. Puissance restituée du four micro-ondes : 750 W 900 W Pour 300 g 3 min 30 3 min Pour 600 g 8 min 6 min\n\nÀ la poêle\nPréparationCuisson au poele pendant\n3 min\nVersez la quantité désirée de produit dans une poêle chaude. Faites réchauffer le temps indiqué avec un peu de matière grasse, à couvert et à feu moyen. Remuez régulièrement. Pour 300 g : 3 min Pour 600 g : 5 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.64,
+            "total_reviews": 187
+        }
+    },
+    {
+        "ean": "000000000000039310",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 beignets de crevette",
+                "desc": "Crevettes décortiquées enrobées d’une pâte à beignet préfrites, accompagnées d’une sauce aigre-douce, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-beignets-crevette-avec-sauce-000000000000039310.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "110.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 264.0
+                    },
+                    "minerals": {
+                        "salt": 0.61
+                    },
+                    "fats": {
+                        "fats": 16.0,
+                        "saturates": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Beignet de CREVETTE (90g) : CREVETTE décortiquée (CRUSTACÉS) 50%, eau, fécule de pomme de terre, farine de BLÉ (GLUTEN), huile de colza, poudre à lever (diphosphates, carbonates de sodium), épaississants (gomme xanthane, gomme de guar), levure, sel, dextrose. Sauce aigre-douce (20 g) : eau, sucre, amidon de maïs, concentré de tomate, vinaigre d'alcool, sel, poivron rouge, oignon.",
+                "allergens": [
+                    "Gluten",
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 110.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Déposez les beignets sur une plaque recouverte d'un papier cuisson. Faites réchauffer le temps indiqué. Avant de servir, déposez les beignets quelques instants sur du papier absorbant. Faites décongeler la sauce sous un filet d'eau froide. Four traditionnel Four à chaleur tournante 16 min 14 min\n\nÀ la friteuse\nPréparationCuisson au friteuse pendant\n5 min\nVersez les beignets dans une huile à 175°C. Laissez frire 5 min. Avant de servir, déposez les beignets quelques instants sur du papier absorbant. Faites décongeler la sauce sous un filet d'eau froide.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.94,
+            "total_reviews": 181
+        }
+    },
+    {
+        "ean": "000000000000072658",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Porc au caramel et riz à la coriandre",
+                "desc": "Riz basmati cuisiné à la coriandre 42%, sauce au caramel 31% et viande de porc cuite marinée 22%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/porc-caramel-riz-coriandre-000000000000072658.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 143.0
+                    },
+                    "minerals": {
+                        "salt": 0.76
+                    },
+                    "fats": {
+                        "fats": 2.1,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 5.9,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Riz basmati précuit 40,6% (eau, riz), viande de porc marinée [viande de porc 19,5% (origine : Belgique*), marinade 2,4% (amidon de pomme de terre, sauce SOJA (eau, fève de SOJA, BLÉ (GLUTEN), sel), vinaigre de Xérès, vinaigre d'alcool, extraits d'herbes aromatiques et épices (macis, muscade, poivre, laurier), poireau en poudre, fibre de bambou, herbes aromatiques et épices (poivre, macis, thym, origan, oignon, ail, muscade)], eau, sucre caramélisé 6,9%, sauce SOJA 3,7%, [eau, fève de SOJA, BLÉ (GLUTEN), sel, vinaigre, alcool, sucre], vin de riz, sucre, huile de colza, amidon de tapioca, ail, sauce POISSON [eau, sel, extrait de POISSON (POISSONS), sucre, vinaigre], coriandre 0,4%, gingembre, sel, piment.\n*Issue d'animaux nés, élevés, abattus et transformés en Belgique",
+                "allergens": [
+                    "Gluten",
+                    "Poisson",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nSortez la barquette de l'étui carton et percez l'opercule Faites réchauffer le temps indiqué : Puissance restituée du four à micro-ondes : 750 watts 900 watts 6 min 30 6 min Laissez reposer quelques minutes avant de servir.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n13 min\nDémoulez le contenu de la barquette. Faites réchauffer la viande 8 min dans une poêle chaude avec 4 cuillerées à soupe d'eau, à couvert et à feu moyen. Remuez régulièrement. Dans une autre poêle, faites réchauffer le riz 5 min avec 4 cuillerées à soupe d'eau, à couvert et à feu moyen. Remuez régulièrement. Dans chacune des poêles, rajoutez de l'eau si besoin et baissez à feu doux à mi-cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.95,
+            "total_reviews": 180
+        }
+    },
+    {
+        "ean": "000000000000086338",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 kolokythokeftedes, bouchées à la courgette",
+                "desc": "Bouchées composées d’une garniture 83% à la courgette, Feta AOP et menthe et d’une panure 17%, préfrites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa776b0f6/produits/000000000000060371_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-kolokythokeftedes-000000000000086338.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 195.0
+                    },
+                    "minerals": {
+                        "salt": 0.98
+                    },
+                    "fats": {
+                        "fats": 7.6,
+                        "saturates": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Courgette 42%, Feta AOP* (contient : LAIT) 17%, panure de BLÉ (GLUTEN) 17% [farine de BLÉ (GLUTEN), amidon de maïs, protéine de SOJA, graisse de SOJA, levure, sel], flocon de pomme de terre, oignon, eau, huile de tournesol, menthe déshydratée 1%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).\n*A.O.P. : Appellation dOrigine Protégée.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Retirez les kolokythokeftedes de leur emballage et déposez-les sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : Four traditionnel : 16 min - Four à chaleur tournante : 14 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.1,
+            "total_reviews": 51
+        }
+    },
+    {
+        "ean": "000000000000021427",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "8 hacao, bouchées aux crevettes avec sauce soja",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-hacao-bouchees-crevettes-avec-sauce-soja-000000000000021427.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "on_discount": false,
+                "weight_per_packaging": 170.0,
+                "price_per_packaging": 4.5,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086122",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Donburi au poulet Cuisine Evasion",
+                "desc": "Riz 42,8% accompagné de poulet mariné 18,5%, de légumes cuisinés 30,6%, de sauce teriyaki 7,7% et graines de sésame blanc grillées 0,2%, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdc573f0c/produits/000000000000081722_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/donburi-poulet-000000000000086122.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:52",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 147.0
+                    },
+                    "minerals": {
+                        "salt": 0.63
+                    },
+                    "fats": {
+                        "fats": 2.3,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25.0,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Riz cuit 42,8%, filet de poulet 13,7% (origine : Thaïlande*), carotte 11,3%, chou 8,5%, oignon 8,3%, mirin (eau, glucose de maïs, sirop de tapioca, riz gluant, alcool), sauce SOJA (eau, graine de SOJA, BLÉ (GLUTEN), sel), eau, huile de tournesol, ciboulette, sucre de canne, huile de SÉSAME, gingembre, graine de SÉSAME blanc grillé 0,2%, farine de tapioca, sauce SOJA noire [mélasse de sucre de canne, eau, sel, sauce SOJA (graine de SOJA, farine de BLÉ (GLUTEN), sel, eau)]\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.6,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton. Faites réchauffer le temps indiqué : Puissance restituée du four à micro-ondes : 750 watts : 6 min 900 watts: 5 min\n\nÀ la poêle\nPréparationCuisson au poele pendant\n15 min\nDémoulez le contenu du bol dans une poêle. Faites réchauffer à feu moyen, à couvert, en mélangeant régulièrement pendant 15 minutes avec 5 cl d'eau. Ajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.51,
+            "total_reviews": 82
+        }
+    },
+    {
+        "ean": "000000000000039972",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 Yakitori",
+                "desc": "10 brochettes à base de viande de poulet marinée aux épices, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-yakitori-brochettes-poulet-marine-epice-000000000000039972.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 158.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 21.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 10.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de poulet 59,7% (origine : Thaïlande*), eau, sucre, sauce soja (eau, graine de soja, blé (gluten), sel), amidon transformé de tapioca, sirop de glucose (amidon de tapioca, eau, acide citrique, carbonate de sodium), sauce mirin [eau, sucre, mirin (riz gluant, eau, alcool, riz, koji), alcool (mélasse, levures)], sel, colorant : caramel en poudre, amidon de pomme de terre, paprika, piment en poudre.\n*Issue d'animaux nés, élevés et abattus en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.62,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n2 min*\nDisposez les Yakitori côte à côte dans un plat adapté. Laissez réchauffer, sans couvrir, le temps indiqué ci-dessous en retournant à mi-temps. Puissance restituée du four à micro-ondes 750 W 900 W Pour 5 brochettes 3 min 2 min Pour 10 brochettes 5 min 4 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.6,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 233
+        }
+    },
+    {
+        "ean": "000000000000086015",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nems aux crevettes",
+                "desc": "Farce aux crevettes 48,2%, galettes de riz 35.1% et sauce nuoc-mâm 16,7%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nems-crevettes-000000000000086015.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 203.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 9.4,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 2.7
+                    }
+                },
+                "ingredients": "Nems aux crevettes (200 g) : eau, crevette 19,1% [crevette (CRUSTACÉS), conservateur : disulfite de sodium (SULFITES)], farine de riz 13,8%, carotte 6%, vermicelle de pois réhydraté, chou vert 4,3%, oignon 3,4%, farine de SOJA, fécule de manioc, champignon noir réhydraté 2,5%, coriandre, oignon déshydraté 1,1%, sel, citronnelle, basilic, purée de gingembre, sauce nuoc-mâm (POISSONS, sel, eau), pulpe d'ail, huile de tournesol. Sauce nuoc-mâm (40 g) : eau, sucre, nuoc-mâm 14% (POISSONS, sel, eau), vinaigre d'alcool, sel.",
+                "allergens": [
+                    "Crustacés",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 4.2,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 minutes\nFaites frire les nems 8 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems. Avant de servir, déposez les nems sur du papier absorbant.\n\nAu four\nPréparationCuisson au four pendant\n16 min\nPréchauffez votre four à 180°C (th.6). Déposez les nems sur une plaque recouverte de papier cuisson. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 18 min - Four à chaleur tournante : 16 min. Laissez décongeler la sauce nuoc-mâm dans un verre d'eau tiède, le temps du réchauffage des nems.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.76,
+            "total_reviews": 165
+        }
+    },
+    {
+        "ean": "000000000000086611",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poulet bulgogi, kimchi et riz cuisiné",
+                "desc": "Riz jasmin cuisiné 43,1%, légumes cuisinés au kimchi 37,8%, viande de poulet saumurée 18,7%, graines de sésame 0,3%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poulet-bulgogi-kimchi-riz-cuisine-000000000000086611.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 149.0
+                    },
+                    "minerals": {
+                        "salt": 0.54
+                    },
+                    "fats": {
+                        "fats": 4.5,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Riz jasmin cuit 43,1% (eau, riz jasmin, huile de tournesol), viande de poulet saumurée 18,7% [filet de poulet 17% (origine : Thaïlande*), eau, farine de tapioca, sel], kimchi 8,4% (chou chinois 4,2%, piment 1,4%, ail, eau, radis chinois, gingembre, oignon, ciboulette, sel, sucre de canne), oignon, eau, carotte 5,2%, chou 4,1%, ail, huile de SESAME 1,7%, vinaigre d'alcool 1,5%, huile de tournesol, amidon transformé de tapioca, sucre de canne, sauce SOJA 0,5% [eau, graine de SOJA, sel, farine de BLE (GLUTEN)], graine de SESAME, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nDécollez un coin de l'opercule carton. Faites réchauffer le temps indiqué : 750 watts : 6 min 30 900 watts: 5 min 30\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n20 min\nDémoulez le contenu du bol dans une poêle. Faites réchauffer le contenu 20 min avec 5 cl d'eau, à couvert et à feu moyen. Remuez régulièrement et ajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.43,
+            "total_reviews": 93
+        }
+    },
+    {
+        "ean": "000000000000057839",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Nouilles aux crevettes et aux légumes",
+                "desc": "Nouilles précuites 36%, légumes 34,8%, sauce au lait de coco et au gingembre 15,2% et crevettes blanchies salées 14%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/nouilles-crevettes-legumes-000000000000057839.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 97.0
+                    },
+                    "minerals": {
+                        "salt": 0.67
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 4.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Nouille chinoise précuite 36% [eau, semoule de BLÉ dur (GLUTEN), huile de tournesol, sel], crevette décortiquée blanchie [crevette 12,4% (CRUSTACÉS), eau, sel], lait de coco 11,6% (extrait de coco, eau), brocoli 7,8%, champignon shiitaké 5,6%, pois croquant 5,6%, carotte 4,4%, oignon préfrit [oignon, huiles végétales (tournesol, colza, en proportion variable)], poivron rouge 4%, champignon noir 3,4%, sauce POISSON [anchois (POISSONS), sel, eau], gingembre 0,5%, huiles végétales (tournesol et/ou colza), citronnelle 0,2%, oignon en poudre, purée d'ail, amidon de maïs, miel, vinaigre d'alcool, feuille de combava moulue, gingembre en poudre 0,04%, piment Jalapeno, curcuma.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.75,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n8 min\nFaites réchauffer la quantité désirée de produit le temps indiqué dans un wok ou une poêle sans ajouter de matière grasse, à couvert et à feu moyen. Remuez régulièrement. Pour 250 g 8 min Pour 500 g 9 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n5 min\nVersez la quantité désirée de produit dans un plat adapté et faites réchauffer le temps indiqué. Remuez à mi-cuisson. Puissance restituée du four à micro-ondes : 750 watts 900 watts Pour 250 g 6 min 5 min Pour 500 g 10 min 8 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.18,
+            "total_reviews": 245
+        }
+    },
+    {
+        "ean": "000000000000039659",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Nouilles sautées à la chinoise, portionnable",
+                "desc": "Légumes 51%, nouilles précuites 33% et sauce soja gingembre 16%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/nouilles-sautees-chinoise-000000000000039659.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 107.0
+                    },
+                    "minerals": {
+                        "salt": 0.69
+                    },
+                    "fats": {
+                        "fats": 4.9,
+                        "saturates": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 4.8,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Nouille précuite 33% [eau, farine de BLÉ (GLUTEN), huile de son de riz, sel], sauce [eau, sauce SOJA 3,2% (eau, graine de SOJA, BLÉ (GLUTEN), sel), sucre, oignon, amidon de maïs, huiles végétales (colza, tournesol, en proportion variable), vinaigre de riz, ail, gingembre 0,4%, poivron rouge, huile de SÉSAME, sauce POISSON (anchois (POISSONS), sel, eau), caramel (sucre, eau), anis, fenouil], germe de haricot mungo 14%, champignon noir 13%, chou blanc 12%, graine de SOJA 8%, oignon préfrit (oignon, huile de tournesol).",
+                "allergens": [
+                    "Gluten",
+                    "Poisson",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.99,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n5 min\nFaites réchauffer la quantité désirée de produit le temps indiqué dans une poêle chaude sans couvrir et à feu moyen. Remuez régulièrement. Pour 250 g : 5 min Pour 500 g : 9 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n4 min\nVersez la quantité désirée de produit dans un plat adapté. Couvrez et faites réchauffer le temps indiqué. Remuez à mi-cuisson. Puissance restituée du four à micro-ondes : 750 watts 900 watts Pour 250 g : 5 min 4 min Pour 500 g : 9 min 8 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.32,
+            "total_reviews": 165
+        }
+    },
+    {
+        "ean": "000000000000072426",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Soupe ramen Cuisine Evasion",
+                "desc": "Bouillon à la sauce soja et au gingembre 61,4%, nouilles de blé cuites 15,1% et viande de poulet saumurée 12,8%, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/soupe-ramen-000000000000072426.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 48.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 4.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.2,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, nouille de BLÉ cuite 15,1% [farine de BLÉ (GLUTEN), eau, amidon de BLÉ (GLUTEN), sel, carbonates de sodium], viande de poulet saumurée 12,8% [filet de poulet 11,7% (origine : Thaïlande*), eau, farine de tapioca, sel], chou blanc 4,2%, sauce SOJA 2,7% [eau, graine de SOJA, BLÉ (GLUTEN), sel], oignon 2,3%, ciboulette, poivron rouge 2%, carotte 1,4%, mirin 1,3% (eau, sirop de glucose, riz gluant, alcool, Koji), gingembre 0,6%, coriandre, ail, sauce SOJA 0,2% [eau, graine de SOJA, sel, farine de BLÉ (GLUTEN)], sucre, champignon shiitaké (lentinus edodes), sel, racine de coriandre, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nSortez le bol de son étui carton et retirez son opercule. Faites réchauffer le temps indiqué en remuant à mi-temps. Mélanger avant de déguster. Puissance restituée du four à micro-ondes : 750 W 900 W 7 min 5 min 30\n\nÀ la casserole\nRÉCHAUFFAGECuisson au casserole pendant\n12 min\nDémoulez le contenu du bol dans une casserole. Faites réchauffer le contenu 6 min à feu doux en remuant régulièrement. Poursuivez à feu moyen pendant 6 min supplémentaires.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.62,
+            "total_reviews": 143
+        }
+    },
+    {
+        "ean": "000000000000086617",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Riz gluant au lait de coco et à la mangue",
+                "desc": "Riz gluant 40,6%, sauce au lait de coco 27,6% et morceaux de mangue 25% présentés dans une feuille de bananier, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/riz-gluant-lait-coco-mangue-000000000000086617.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 195.0
+                    },
+                    "minerals": {
+                        "salt": 0.51
+                    },
+                    "fats": {
+                        "fats": 6.8,
+                        "saturates": 5.8
+                    },
+                    "proteins": {
+                        "proteins": 3.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30.0,
+                        "of_which_sugars": 12.0,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Riz gluant cuit 40,6% (riz, eau), lait de coco 27,6% (extrait de noix de coco, eau), mangue 25%, sucre de canne, huile de tournesol, sel, amidon de pomme de terre.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 2.3,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n1 min 10\nSortez le dessert de son étui carton et de son emballage plastique. Déposez-le sur une assiette et faites réchauffer 1min10 à 750W. Laissez reposer 5 min puis retirez les pics en bois. Dégustez dans la feuille de bananier.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.31,
+            "total_reviews": 120
+        }
+    },
+    {
+        "ean": "000000000000039625",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bœuf aux oignons et nouilles chinoises aux légumes",
+                "desc": "Nouilles cuites aux légumes 40%, sauce aux oignons 40% et émincés de bœuf cuits assaisonnés 20%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boeuf-oignons-nouilles-chinoises-legumes-000000000000039625.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 126.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 4.3,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 8.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Nouille chinoise cuite 24,9% [eau, farine de BLÉ (GLUTEN), sel, amidon de BLE (GLUTEN), huile de colza, curcuma], émincé de viande de bœuf assaisonnée cuite [viande de bœuf 19,2% (origine : France*), fécule de manioc, sel], eau, oignon 15,9%, carotte 4,8%, champignon shiitaké 4,8%, graine de SOJA 3,6%, sauce SOJA 2,9% [eau, graine de SOJA, farine de BLÉ (GLUTEN), sel], huile de colza, sucre de canne, amidon de riz, gingembre, oignon en poudre 0,4%, ail, assaisonnement à base de vinaigre de riz (eau, vinaigre de riz), sauce POISSON [anchois (POISSONS), sel, eau], galangal, jus de citron vert, huile de SESAME, caramel 0,2% (sucre, eau), coriandre, basilic thaï.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Poisson",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.5,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min 30\nSortez la barquette de l'étui carton et percez l'opercule. Faites réchauffer le temps indiqué. Laissez reposer quelques minutes avant de servir. Puissance restituée du four à micro-ondes : 750 W 900 W 7 min 6 min 30\n\nÀ la poêle\nPréparationCuisson au poele pendant\n10 min\nDémoulez le contenu de la barquette. Faites réchauffer le contenu 10 min dans une poêle chaude avec 5 cuillerées à soupe d'eau, à couvert et à feu moyen. Remuez régulièrement et rajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.93,
+            "total_reviews": 164
+        }
+    },
+    {
+        "ean": "000000000000072989",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 raviolis vietnamiens aux légumes",
+                "desc": "Pâte de riz 49,6% garnie d'une farce aux légumes 40,6% accompagnée d'une sauce soja gingembre 9%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw153f5b45/produits/cuisine-evasion/edition/000000000000039881_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-raviolis-vietnamiens-legumes-000000000000072989.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "220.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 173.0
+                    },
+                    "minerals": {
+                        "salt": 0.54
+                    },
+                    "fats": {
+                        "fats": 5.1,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Raviolis aux légumes (200 g) : eau, pois patate 12,5%, farine de riz, amidon de maïs, fécule de pomme de terre, châtaigne d'eau 5,6%, huile de soja, carotte 4,5%, chou 4,5%, champignon noir 4,2%, oignon frit (oignon, huile de soja) 2,2%, menthe, coriandre 1,1%, échalote frite (échalote, huile de soja) 1,1%, sauce soja [eau, soja, blé (gluten), sel], ail frit (ail, huile de soja), sel, ciboule, farine de blé (gluten), amidon de tapioca, poivre. Sauce soja au gingembre (20 g) : eau, sauce soja 1,3% [eau, soja, blé (gluten), sel], sucre, jus de gingembre 0,3%, vinaigre de riz, huile de sésame, sel\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 3.99,
+                "preparation": "Au panier vapeur\nPréparationCuisson au paniervapeur pendant\n6 min\nSortez les bouchées de leur emballage plastique et déposez-les dans un panier bambou (ou dans un panier vapeur) préalablement huilé. Faites réchauffer le panier 6 min environ au-dessus d'une casserole d'eau bouillante. Laissez décongeler la sauce soja à température ambiante ou sous un filet d'eau tiède.\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n2 min 30\nSortez les bouchées de leur emballage plastique et déposez-les dans une assiette en les espaçant. Faites réchauffer 2min30 à 750 W. Laissez décongeler la sauce soja à température ambiante ou sous un filet d'eau tiède.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.98,
+            "total_reviews": 61
+        }
+    },
+    {
+        "ean": "000000000000086628",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Soupe Pho Cuisine Evasion",
+                "desc": "Bouillon de poulet à la coriandre et à la ciboulette 56,7%, nouilles au riz précuites 15%, boulettes de poulet cuisinées 14,1% et mélange de légumes 14% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/soupe-pho-000000000000086628.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 63.0
+                    },
+                    "minerals": {
+                        "salt": 0.67
+                    },
+                    "fats": {
+                        "fats": 1.8,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 2.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.1,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, nouilles de riz 15% (riz, farine de tapioca, eau, sel), filet de poulet 9% (origine : Thaïlande*), chou, carotte, germe de haricot mungo, échalote, oignon, coriandre 1,1%, coriandre longue 0,8%, farine de tapioca, ciboulette 0,7%, huile de SESAME, ail, champignon chinois, sel, huile de tournesol, sucre de canne, mirin [eau, sirop de glucose, riz gluant, alcool de tapioca, koji], ciboule 0,2%, sauce SOJA [eau, graine de SOJA, sel, farine de BLE (GLUTEN)], basilic doux, menthe, poudres à lever (diphosphate, carbonate de sodium, amidon de tapioca), échalote frite à l'huile de tournesol (huile de tournesol, échalote), poivre blanc, sauce SOJA noire [mélasse de sucre de canne, sauce SOJA (graine de SOJA, BLE (GLUTEN), sel, eau), sucre, sucre brun].\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.4,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n5 min 30\nSortez le bol de son étui carton et retirez son opercule. Faites réchauffer le temps indiqué en remuant à mi-temps. Mélangez avant de déguster. Puissance restituée du four à micro-ondes : 900 W 750 W 5 min 30 7 min\n\nÀ la casserole\nRÉCHAUFFAGECuisson au casserole pendant\n10 min\nDémoulez le contenu du bol dans une casserole. Faites réchauffer le contenu 5 minutes à feu doux en remuant régulièrement. Poursuivez à feu moyen pendant 5 minutes supplémentaires.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.64,
+            "total_reviews": 305
+        }
+    },
+    {
+        "ean": "000000000000039039",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mini-acras de morue",
+                "desc": "Mini-beignets à la morue assaisonnés, préfrits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/mini-acras-morue-000000000000039039.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:53",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 184.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 5.9,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19.0,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Chair de morue dessalée (poissons) qualité sans arêtes* 50% minimum, farine de blé (gluten), eau, pomme de terre déshydratée, œuf entier issu de poule élevée en plein air (liquide, pasteurisé), poivron rouge, sel, ail en poudre, échalote en poudre, oignon en poudre, persil déshydraté, piment 0,1%, poivre, huile de tournesol.",
+                "allergens": [
+                    "Gluten",
+                    "Œuf",
+                    "Poisson",
+                    "Traces de Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.3,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Déposez la quantité désirée d'acras dans un plat. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué. Four traditionnel : 18 min - Four à chaleur tournante : 15 min\n\nÀ la poêle\nPréparationCuisson au poele pendant\n5 min\nFaites réchauffer la quantité désirée d'acras 5 min dans un peu d'huile chaude à feu moyen en les retournant de temps en temps.\n\nÀ la friteuse\nPréparationCuisson au friteuse pendant\n3 min\nVersez la quantité désirée d'acras dans une huile à 175°C. Laissez frire 3 minutes. Égouttez-les sur du papier absorbant.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.15,
+            "total_reviews": 106
+        }
+    },
+    {
+        "ean": "000000000000039633",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "GB"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Butter chicken et riz pilaf",
+                "desc": "Sauce au beurre et aux épices garam masala 39,4%, riz pilaf cuisiné 38,6% et filet de poulet cuit traité en salaison 22%, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/butter-chicken-riz-pilaf-000000000000039633.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:54",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 141.0
+                    },
+                    "minerals": {
+                        "salt": 0.34
+                    },
+                    "fats": {
+                        "fats": 4.6,
+                        "saturates": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 8.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 0.8
+                    }
+                },
+                "ingredients": "Eau, filet de poulet cuit traité en salaison [filet de poulet 21,7% (origine : Royaume-Uni*), amidon de maïs, sel], riz basmati 16,1%, tomate concassée 7,6%, oignon, crème liquide légère (LAIT), purée d’oignon (oignon, huile de colza), yaourt (LAIT) 2,8%, beurre (LAIT) 1,8%, huile de colza, sucre, amidon de maïs, purée de gingembre, sel, lactosérum en poudre (LAIT), ail, graine de coriandre en poudre, curcuma, feuille de coriandre, purée de tomate 0,1%, cardamone en poudre 0,1%, épices garam masala 0,06%, cumin, fenugrec, colorant : extrait de paprika, feuille de laurier en poudre, paprika, piment en poudre, clou de girofle en poudre.\n*Issue d'animaux nés, élevés, abattus et transformés en au Royaume Uni",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.95,
+                "preparation": "Au micro-ondes\nPréparationCuisson au microondes pendant\n6 min\nSortez la barquette de l'étui carton et percez l'opercule. Faites réchauffer le temps indiqué. Mélangez la sauce et laissez reposer quelques minutes avant de servir. Puissance restituée du four à micro-ondes : 750W 900 W 7 min 6 min\n\nÀ la poêle\nPréparationCuisson au poele pendant\n15 min\nDémoulez le contenu de la barquette. Faites réchauffer le contenu de la barquette 15 min dans une poêle chaude avec 6 cuillerées à soupe d'eau, à couvert et à feu moyen. Remuez régulièrement et rajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.5,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,55€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.0% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.26,
+            "total_reviews": 174
+        }
+    },
+    {
+        "ean": "000000000000086548",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Churros peruanos, churro roulé, cœur cacao",
+                "desc": "Pâte à beignet 90,9% roulée, fourrage 9,1% au cacao, frits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw09358b33/produits/pains-viennoiseries/edition/000000000000036743_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/churros-peruanos-50g-000000000000086548.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:54",
+                "format": "50.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 335.0
+                    },
+                    "minerals": {
+                        "salt": 0.66
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49.0,
+                        "of_which_sugars": 12.0,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Farine de BLÉ (GLUTEN), eau, sucre de canne, huile de soja entièrement raffinée, amidon de maïs, lait de coco, cacao en poudre 1,1%, levure, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n30 sec\nRetirez le film plastique puis déposez directement le churros avec son étui carton dans le four à micro-ondes et laissez-le réchauffer le temps indiqué. Laissez reposer quelques minutes avant dégustation. Ce produit se consomme tiède.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086491",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 gyoza au poulet",
+                "desc": "10 bouchées composées d'une garniture 53% au poulet et d'une pâte 38% de blé, accompagnées d'un sachet 9% de sauce soja vinaigrée ; surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe33569ec/produits/000000000000039972.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-gyoza-poulet-220g-000000000000086491.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:54",
+                "format": "10 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 170.0
+                    },
+                    "minerals": {
+                        "salt": 0.9
+                    },
+                    "fats": {
+                        "fats": 6.2,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 7.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.0,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Gyoza au poulet (200 g) : farine de BLÉ (GLUTEN) 26,6%, viande de cuisse de poulet (origine : France*) 20,5%, eau, chou blanc, carotte, châtaigne d'eau, huile de colza, oignon, ciboule, coriandre, purée de gingembre, GLUTEN de BLÉ, sel, ail, ciboulette, sauce SOJA [eau, graine de SOJA, BLÉ (GLUTEN), sel], basilic thaï, huile de SÉSAME, gingembre, amidon de pomme de terre, levure. Sauce soja vinaigrée (20 g) : sauce SOJA [eau, graine de SOJA, BLÉ (GLUTEN), sel], sucre, eau, vinaigre d'alcool, gingembre.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.7,
+                "preparation": "À la poêle\nRÉCHAUFFAGECuisson au poele pendant\n8 min\nPour déguster les gyoza à la japonaise, grillés sur une face : sortez-les de leur emballage. Faites chauffer 3 cuillères à soupe d’huile dans une poêle. Ajoutez les gyoza à la main. Quand l’huile crépite, faites-les dorer sur une seule face pendant 2min. Ajoutez 100ml d’eau, couvrez et laissez cuire environ 4min. Retirez le couvercle et laissez cuire 1 à 2min jusqu’à ce que l’eau se soit entièrement évaporée et que la face inferieure du gyoza soit colorée à votre gout.\n\nAu panier vapeur\nRÉCHAUFFAGECuisson au paniervapeur pendant\n5 min\nSortez les gyoza de leur emballage et déposez-les dans un panier vapeur préalablement huilé. Laissez réchauffer le panier au-dessus d’une casserole d’eau bouillante pendant 5 minutes environ.\n\nAu micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n3 min\nSortez les gyoza de leur emballage et déposez-les à l’envers (face plate vers le haut) dans une assiette. Ajoutez 1 cuillère à soupe d’eau, couvrez et laissez réchauffer 3min à 750W.\n\nConseils de préparation\nRÉCHAUFFAGE\nFaites décongeler la sauce à température ambiante ou sous un filet d'eau tiède.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 tostadas sce salsa,cheddar,haricot rouge,tomate",
+                "desc": "8 Bouchées apéritives composées d'une préparation 79,3% à base de légumes, sauce et cheddar coloré et d'une galette 20,7% au blé et à la tomate, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw8416e845/produits/00000000000000089708_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-tostadas-120g-000000000000086513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:54",
+                "format": "120.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 162.0
+                    },
+                    "minerals": {
+                        "salt": 0.93
+                    },
+                    "fats": {
+                        "fats": 7.0,
+                        "saturates": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 7.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "Cheddar coloré râpé 15,6% [LAIT, sel, antiagglomérant : cellulose, ferments lactiques (LAIT), coagulant microbien, colorants (caroténoïdes, norbixine de rocou)], haricot rouge 14,2%, farine de BLÉ (GLUTEN) 13,6%, tomate 12,9%, poivron rouge grillé 9,7%, eau, maïs 6,4%, purée de tomate (tomate, sel), oignon rouge 4,2%, oignon, huile de colza, coriandre, purée de tomate double concentrée, jus de citron vert, sel, sucre, tomate déshydratée, amidon de maïs, paprika, pulpe d'ail, poudre à lever (diphosphates, carbonates de sodium), dextrose, acidifiant : acide malique, basilic, poivre, oignon déshydraté, ail déshydraté, poivron rouge déshydraté, graine de coriandre, graine de SÉSAME, cumin, piment de Cayenne, origan, piment fort, persil, agent de traitement de la farine : L-cystéine.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 120.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n10 à 12 min\nPréchauffez votre four à 160 °C (th.5). Déposez les tostadas sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer entre 10 et 12 minutes.\n\nAu air fryer\nRÉCHAUFFAGECuisson au airfryer pendant\n8 min\nDéposez les tostadas sur du papier cuisson dans le panier de la friteuse à air chaud et faites réchauffer 8 minutes à 160°C.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086469",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 camarones al coco, crevettes panées noix de coco",
+                "desc": "Crevettes marinées, panées à la noix de coco et frites 82,8%, accompagnées d'une sauce 17,2% à la mangue et au piment – surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw842c84eb/produits/000000000000074490_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-camarones-al-coco-000000000000086469.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:54",
+                "format": "145.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 320.0
+                    },
+                    "minerals": {
+                        "salt": 0.4
+                    },
+                    "fats": {
+                        "fats": 21.0,
+                        "saturates": 7.4
+                    },
+                    "proteins": {
+                        "proteins": 10.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Crevettes panées 6x20g : crevette décortiquée (CRUSTACÉS, Penaeus vannamei) 39,7%, farine de BLÉ (GLUTEN), huile de soja entièrement raffinée, flocon de noix de coco 7,3%, amidon de BLÉ (GLUTEN), amidon de pomme de terre, lait de coco 0,5%, sucre, amidon de maïs, sel, levure, eau, épaississant : gomme guar, agents de traitement de la farine (carbonate de calcium, sulfate de calcium, acide ascorbique). Sauce mangue et piment 25g : purée de mangue 63,8%, jus de fruit de la passion, eau, jus d'ananas, jus de citron vert, sel, coriandre, piment rouge 0,1%.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Crustacés",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 145.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n14 à 16 min\nPréchauffez votre four à 180 °C (th.6). Déposez les camarones al coco sur une plaque recouverte de papier cuisson et enfournez à mi-hauteur. Laissez réchauffer entre 14 et 16 minutes. Laissez décongeler la sauce 15 minutes à température ambiante ou passez le sachet de sauce sous un filet d'eau chaude.\n\nAu air fryer\nRÉCHAUFFAGECuisson au airfryer pendant\n10 min\nDéposez les camarones al coco sur du papier cuisson dans le panier de la friteuse à air chaud et faites réchauffer 10 minutes à 180 °C. Laissez décongeler la sauce 15 minutes à température ambiante ou passez le sachet de sauce sous un filet d'eau chaude.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086539",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Hot-dog façon Sonoran saucisse, légumes, sce salsa",
+                "desc": "Pain spécial 33,1% garni d'une saucisse de Strasbourg fumée au bois de hêtre, d'un mélange 27,8% à base de légumes et bacon cuit fumé et d'une sauce 9,9%, surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3cf9d60d/produits/86228.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/hot-dog-sonoran-150g-000000000000086539.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:55",
+                "format": "150.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 202.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 9.1,
+                        "saturates": 2.9
+                    },
+                    "proteins": {
+                        "proteins": 8.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.0,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Saucisse de Strasbourg fumée au bois de hêtre 29,1% [viande de porc (origine : France*), eau, sel, protéine de LAIT, lactose (LAIT), dextrose, gras de porc, épices, extrait d’épices, arômes naturels], farine de BLÉ (GLUTEN), tomate 11,2%, eau, haricot rouge 4,1%, oignon rouge 4,1%, purée de tomate (tomate 3,6%, sel), bacon cuit fumé au bois de hêtre 3,3% [poitrine de porc (origine : France*), sel, sirop de glucose, arômes naturels, ferments], poivron rouge grillé 3,3%, oignon 2,5%, huile de colza, sucre, purée de tomate double concentrée 0,5%, coriandre, jus de citron vert, amidon de maïs, sel, levure, GLUTEN de BL, émulsifiant : mono et diglycérides d'acide gras d'origine végétale, agent de traitement de la farine : acide ascorbique, pulpe d'ail, piment jalapeño vert, paprika, poivron rouge déshydraté, cumin, poivre, oignon déshydraté, graine de coriandre, graine de SÉSAME, piment de Cayenne, origan, piment fort, persil.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n4 min 150W + 1 min 750W\nSortez le hot-dog de son étui carton et retirez son film plastique. Replacez-le dans l'étui, refermez et entre-ouvrez la languette d'ouverture facile. Laissez réchauffer le temps indiqué. Laissez reposer quelques instants avant de déguster.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086489",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Colombo de poulet, riz, sce lait de coco, poulet",
+                "desc": "Mélange de riz et riz rouge complet assaisonné 37,7%, sauce 34,3% épicée au lait de coco, morceaux de poulet braisé 17,1% et pommes de terre préfrites 10,9% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcceb0222/produits/000000000000039039.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/colombo-poulet-350g-000000000000086489.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:55",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 149.0
+                    },
+                    "minerals": {
+                        "salt": 0.59
+                    },
+                    "fats": {
+                        "fats": 6.8,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 7.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Riz cuit (eau, riz long 9,6%), filet de poulet 16,7% (origine : France*), eau, riz rouge complet cuit (riz rouge complet 5,6%, eau), pomme de terre 10,4%, aubergine, oignon, huile de tournesol, lait de coco en poudre 1,2%, ail, beurre (LAIT), fond de volaille (viande de volaille, jus de cuisson de volaille, graisse de volaille, carotte, sel, oignon, laurier, thym), sel, farine de manioc, persil, vinaigre d’alcool, graine de MOUTARDE noire, cumin 0,1%, purée de piment rouge, maltodextrine, coriandre 0,1%, curcuma, jus de citron vert, gingembre, fenugrec, piment 0,01%, poivre, caséinate de sodium, carvi, acidifiant : acide citrique.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 5.4,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n7 min\nSortez la barquette de l'étui carton et percez l'opercule. Faites réchauffer le temps indiqué. Laissez reposer quelques instants avant de déguster.\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n15 min\nVersez le contenu de la barquette dans une poêle chaude avec 5 cuillères à soupe d'eau. Laissez réchauffer à feu moyen pendant 15 minutes à couvert et remuez régulièrement. Rajoutez de l'eau si besoin.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Nouveau"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086641",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Choux-fleurs sauce tahini, sce à base sésame",
+                "desc": "Chou-fleur mariné 68%, sauce 31% au sésame, persil 1% - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw9c6dfda6/produits/000000000000087646_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/choux-fleurs-sce-tahini-000000000000086641.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:55",
+                "format": "225.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 213.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 18.0,
+                        "saturates": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 6.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.0,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Eau, chou-fleur 23,9%, huile de tournesol, oignon, pâte de SÉSAME 10,2%, huile d'olive vierge extra, sel, ail, curry (curcuma, piment rouge, poivre, gingembre, noix de muscade, fenugrec, fenouil, cumin, coriandre, cannelle, clou de girofle, graine de MOUTARDE, graine de carvi, cardamome, ail), persil 1%, cumin, curcuma, acidifiant : acide citrique, paprika, gingembre, poivre.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Fruits à coque",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 225.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n12 min\nSortez le bol de son étui et retirez l'opercule plastique. Laissez réchauffer le temps indiqué : 12 minutes en position décongélation (150 Watts) puis 2 minutes à 750 Watts.\n\nAu micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2 min",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.1,
+            "total_reviews": 10
+        }
+    },
+    {
+        "ean": "000000000000086498",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Kebab bowl",
+                "desc": "Blé assaisonné 38,1%, légumes grillés cuisinés 24,1%, viande de poulet marinée cuite aux épices 14,1%, chou rouge assaisonné 14%, sauce 9,7% au fromage blanc, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw0915eacb/produits/000000000000089164_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/kebab-bowl-320g-000000000000086498.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:55",
+                "format": "320.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 130.0
+                    },
+                    "minerals": {
+                        "salt": 0.68
+                    },
+                    "fats": {
+                        "fats": 6.4,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.0,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 2.8
+                    }
+                },
+                "ingredients": "BLÉ entier cuit 18,7% [eau, BLÉ entier (GLUTEN)], viande de poulet marinée cuite aux épices 14,1% [viande de cuisse de poulet 10,6% (origine : France*), eau, épices, dextrose, amidon de pomme de terre, huile de tournesol, sel, maltodextrine, arômes naturels, sucre roux, tomate, sucre, amidon de BLÉ (GLUTEN), extrait de paprika], chou rouge 12,4%, oignon 8%, courgette grillée 7,7%, carotte 7,4%, fromage blanc 6,5% (contient LAIT), eau, poivron rouge grillé 3,8%, poivron jaune grillé 3,8%, ail, huile de colza, huile d’olive vierge extra, purée de tomate double concentré 1,6%, concombre 1%, sel, vinaigre de Xérès, jus de citron concentré, coriandre, persil, bouillon de légumes (extrait de carotte, extrait de poireau, tomate, extrait de plante aromatique, plante aromatique), cumin, paprika, fécule de pomme de terre, menthe douce, fibre de lin, sumac, piment doux, épaississant : farine de graines de caroube, piment doux fumé.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n7 min\nSortez la barquette de son étui et retirez l'opercule plastique. Laissez réchauffer le temps indiqué : 7 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.4,
+            "total_reviews": 5
+        }
+    },
+    {
+        "ean": "000000000000086487",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plat"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 loukoumades à la grecque,beignets cannelle",
+                "desc": "2 beignets 77% sucrés à base de farine de blé, lait de coco et cannelle accompagnés d'une sauce 23% sucrée au jus de citron vert - frits - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwfad83e46/82151.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2loukoumades-a-la-grecque-000000000000086487.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T15:55",
+                "format": "65.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 364.0
+                    },
+                    "minerals": {
+                        "salt": 0.3
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 3.6
+                    },
+                    "proteins": {
+                        "proteins": 8.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.0,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Beignets 2x25g : Farine de BLÉ (GLUTEN) 55,1%, eau, huile de tournesol, lait de coco 7%, huile de soja entièrement raffinée, sucre 4,9%, levure, cannelle en poudre 0,3%, sel. Sauce sucrée 15g : sucre 57,8%, eau, jus de citron vert 2%.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 65.0,
+                "price_per_packaging": 1.99,
+                "preparation": "Sans titre\n\nRetirez le film plastique puis déposez directement les loukoumades avec son étui carton dans le four à micro-ondes et laissez-le réchauffer 30 sec à 750W. Laissez reposer quelques minutes et ajoutez le sirop de sucre sur les beignets avant dégustation.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.57,
+            "total_reviews": 7
+        }
+    }
+]

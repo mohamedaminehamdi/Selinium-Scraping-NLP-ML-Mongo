@@ -1,0 +1,282 @@
+[
+    {
+        "ean": "000000000000089322",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Tarte fine boeuf, cheddar",
+                "desc": "Pâte fine 39,7% garnie de viande bovine cuite, de cheddar, d’oignon rouge et de tomate, surgelée, à cuire.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2332f00a/produits/000000000000023105_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/tarte-fine-boeuf-cheddar-000000000000089322.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:14",
+                "format": "LA BOÎTE DE 290 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Eau, farine de BLÉ (GLUTEN) 25,6%, crème fraîche épaisse (LAIT), viande bovine cuite (origine : France*) 8,9%, cheddar blanc (contient LAIT) 6,2%, oignon rouge 6,2%, tomate 5,2%, huiles végétales (contient tournesol et/ou colza), amidon de pomme de terre, purée de tomate double concentrée 1%, sel, LAIT entier en poudre, herbes de Provence (romarin, thym, sarriette, basilic, marjolaine), ail.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 290.0,
+                "price_per_packaging": 3.49,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n14 min\nPréchauffez votre four à 210°C (th.7). Ôtez le film plastique et déposez la tarte sur une grille recouverte de papier cuisson. Enfournez à mi-hauteur et laissez cuire le temps indiqué : Four à chaleur tournante : 14 min Four traditionnel : 17 min Laissez reposer 1 à 2 minutes avant de servir.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 3.9,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,41€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.51% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.92,
+            "total_reviews": 12
+        }
+    },
+    {
+        "ean": "000000000000089430",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 paniers épinard - chèvre",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-paniers-epinard-chevre-000000000000089430.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:14",
+                "on_discount": true,
+                "price_per_packaging": 4.7,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ean": "000000000000089570",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Tartes salées"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chicago style pizza",
+                "desc": "Tarte composée d’une garniture 72% à base de mozzarella, tomate et pepperoni, et d’une pâte à pizza 28%, cuite, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw100b1a1e/produits/000000000000081293_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chicago-style-pizza-000000000000089570.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-06T02:14",
+                "format": "LA BOÎTE DE 650 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Mozzarella (contient LAIT) 28,7%, pulpe de tomate au jus 18,1% (tomate, jus de tomate), farine de BLÉ (GLUTEN), pepperoni 9% [viande de porc (origine : France*), piments, sel, dextrose, épices, antioxydant : ascorbate de sodium, ferments], poivron vert 9%, eau, carotte, purée de tomate double concentré 3%, huile d'olive vierge extra, beurre (LAIT), levure, amidon de riz, sel, origan 0,05%, plantes aromatiques, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 650.0,
+                "price_per_packaging": 7.5,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n35 min\nPréchauffez votre four à 200°C (th. 6). Placez la pizza à mi-hauteur sur une plaque recouverte de papier cuisson. Laissez réchauffer le temps indiqué : Four à chaleur tournante : 35 min Four traditionnel : 40 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,46 €/kg\nprix soldé\n3,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n8,18 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n13,10 €/kg\nprix soldé\n3,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n12,25 €/kg\nprix soldé\n4,90 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.73,
+            "total_reviews": 51
+        }
+    }
+]

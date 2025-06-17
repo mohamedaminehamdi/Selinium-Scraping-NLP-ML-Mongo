@@ -1,0 +1,55 @@
+[
+    {
+        "ean": "000000000000066656",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "2 moelleux chocolat caramel au beurre salé",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-moelleux-chocolat-caramel-beurre-sale-000000000000066656.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-08T18:52",
+                "on_discount": true,
+                "price_per_packaging": 4.7,
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,62 €/kg\nprix soldé\n2,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n27,10 €/kg\nprix soldé\n15,99 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n19,95 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ]
+    }
+]

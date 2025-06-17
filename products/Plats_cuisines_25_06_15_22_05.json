@@ -1,0 +1,2257 @@
+[
+    {
+        "ean": "ravioli-legumes-365g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAVIOLI AUX LÉGUMES 365G BIO",
+                "desc": "Ravioli aux légumes 365G Bio\nRavioli végétariennes BIO aux légumes.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/l/e/legumes_pour_couscous-520g.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ravioli-legumes-365g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "365G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.3
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15,
+                        "of_which_sugars": 5.6,
+                        "dietary_fiber": 3.9
+                    }
+                },
+                "ingredients": "Eau, ravioli*21% ( semoule de BLE dur* (GLUTEN)), chapelure de BLE*, oignons*0,68%, carottes*0,55%, aubergines* 0,34%, double concentré de tomate*0,24%, poivrons*0,22%, huile de tournesol*, sel de mer, riz*, ail*, plantes aromatiques*, épices*, double concentré de tomate* 11,5%, carottes* 3,5%, huile de tournesol*, oignons* 1,3%, sucre de canne non raffiné*, sel de mer, ail*, plantes aromatiques*, échalotes*, épices*.\nTraces éventuelles de lait, oeuf et soja.\n* Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 365.0,
+                "price_per_packaging": 2.75,
+                "price_per_unit": 7.53,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, à conserver au réfrigérateur et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ratatouille-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RATATOUILLE 345G BIO",
+                "desc": "Ratatouille 345G Bio\nRatatouille issue de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-proven_ale.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ratatouille-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 7.2
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "courgettes frites* 25.5%, aubergines frites* 23.5%, oignons* 12.5%, eau, double concentré de tomate* 7.7%, huile de tournesol*, poivrons rouges* 7.3%, pulpe de tomate* au jus 4.1%, sel de mer, huile d'olive vierge extra* extraite à froid, ail*,  jus concentré de citron*, basilic*, échalote* en poudre, thym*, poivre*, piment de cayenne*.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 2.75,
+                "price_per_unit": 7.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffer à feu doux dans une casserole ou au bain-marie.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, conserver au frais et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ravioli-legumes-kilo",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAVIOLI AUX LÉGUMES 1KG BIO",
+                "desc": "Ravioli aux légumes 1Kg Bio\nRavioli végétariennes aux légumes BIO.\nNATURALIA est partenaire de Pro Sain, situé à Bages, au coeur du Roussillon et spécialisé dans l'alimentation biologique. Pro Sain cuisine des recettes traditionnelles aux saveurs authentiques, à déguster en famille.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers du Bio.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908383.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ravioli-legumes-kilo"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Eau, ravioli*21% ( semoule de BLE dur* (GLUTEN)), chapelure de BLE*, oignons*0,68%, carottes*0,55%, aubergines* 0,34%, double concentré de tomate*0,24%, poivrons*0,22%, huile de tournesol*, sel de mer, riz*, ail*, plantes aromatiques*, épices*, double concentré de tomate* 11,5%, carottes* 3,5%, huile de tournesol*, oignons* 1,3%, sucre de canne non raffiné*, sel de mer, ail*, plantes aromatiques*, échalotes*, épices*.\nTraces éventuelles de lait, oeuf et soja.\n* Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.\n\nAnalyse nutritionnelle pour 100g :\nEnergie : 453 kJ / 108 kcal\n________________________________\n  Matières grasses : 3.3g\nDont acides gras saturés : 0.4g\n________________________________\n  Glucides : 15.0g\nDont sucres : 5.6g\n________________________________\n  Protéines : 2.9g\n________________________________\n  Sel : 0.93g",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 5.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffer à feu doux dans une casserole ou au bain-marie.\nA conserver dans un endroit frais et sec.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrégirateur entre 0°C et +4°C et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "aubergines-provencale-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AUBERGINES À LA PROVENÇALE 350G BIO",
+                "desc": "Aubergines à la provençale 350g Bio\nUne succulente recette végétarienne d'aubergines cuisinées à la provençal. Des aubergines françaises, de la pulpe de tomates et des herbes aromatiques, qui accompagneront parfaitement vos plats de pâtes et riz.\nUn format familiale, économique et pratique pour régaler toute la famille.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/aubergines-provencale-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 580
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.61,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Aubergine* 51% (France), purée* et pulpe de tomate* 33,7% (purée* et cube de tomate*, concentré de tomate* , eau), oignon*, huile d'olive* 1,5%, huile de tournesol*, sel de mer, ail*, jus de citron*, herbes aromatiques*, poivre gris*.\n* Ingrédients issus de l'agriculture biologique.\nTraces possibles de soja et de céleri. Les informations en gras et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.35,
+                "price_per_unit": 9.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légumes cuisinés prêts à consommer.\nA réchauffer doucement au bain-marie 5 min ou directement en casserole.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "chili-sin-carne-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHILI SIN CARNE 350G BIO",
+                "desc": "Chili sin carne 350g Bio\nSavourez cette recette d'amérique en version sans viande ! Avec du soja d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036901483.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chili-sin-carne-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 770
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.25
+                    },
+                    "fats": {
+                        "fats": 1.64
+                    },
+                    "proteins": {
+                        "proteins": 5.24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.91,
+                        "of_which_sugars": 3.09,
+                        "dietary_fiber": 3.69
+                    }
+                },
+                "ingredients": "Eau, haricots rouges* 20,8%, purée de tomate* 10%, oignon* 7,8%, carotte*, courgette*, poivron rouge* 5,1%, protéines de soja texturée* 4,9%, double concentré de tomate*, maïs* 3,5%, huile de tournesol*, sel marin, ail*, épices chili*, épices*, poivre blanc*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.35,
+                "price_per_unit": 9.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffé à feu doux dans une casserole, ce plat peut se déguster tel quel ou être accompagné de riz.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours"
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "aubergines-provencale-670g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AUBERGINES À LA PROVENÇALE 670G BIO",
+                "desc": "Aubergines à la provençale 670g Bio\nUne succulente recette végétarienne d'aubergines cuisinées à la provençal. Des aubergines françaises, de la pulpe de tomates et des herbes aromatiques, qui accompagneront parfaitement vos plats de pâtes et riz.\nUn format familiale, économique et pratique pour régaler toute la famille.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/aubergines-provencale-670g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "670G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 580
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.61,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Aubergine* 51% (France), purée* et pulpe de tomate* 33,7% (purée* et cube de tomate*, concentré de tomate* , eau), oignon*, huile d'olive* 1,5%, huile de tournesol*, sel de mer, ail*, jus de citron*, herbes aromatiques*, poivre gris*.\n* Ingrédients issus de l'agriculture biologique.\nTraces possibles de soja et de céleri. Les informations en gras et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 670.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 7.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légumes cuisinés prêts à consommer.\nA réchauffer doucement au bain-marie 5 min ou directement en casserole.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "chili-sin-carne-670g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHILI SIN CARNE 670G BIO",
+                "desc": "Chili sin carne 670g Bio\nSavourez cette recette d'amérique en version sans viande ! Avec du soja d'",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036901483.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chili-sin-carne-670g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:02",
+                "format": "670G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 770
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.25
+                    },
+                    "fats": {
+                        "fats": 1.64
+                    },
+                    "proteins": {
+                        "proteins": 5.24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.91,
+                        "of_which_sugars": 3.09,
+                        "dietary_fiber": 3.69
+                    }
+                },
+                "ingredients": "Eau, haricots rouges* 20,8%, purée de tomate* 10%, oignon* 7,8%, carotte*, courgette*, poivron rouge* 5,1%, protéines de soja texturée* 4,9%, double concentré de tomate*, maïs* 3,5%, huile de tournesol*, sel marin, ail*, épices chili*, épices*, poivre blanc*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 670.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 7.39,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffé à feu doux dans une casserole, ce plat peut se déguster tel quel ou être accompagné de riz.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours"
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "3836689",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOUDOU AUX RAISINS 200G BIO",
+                "desc": "Choudou aux Raisins 200g Bio\nDécouvrez cet salade de chou, de carottes râpées, de raisins secs et de graines de courge issue de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198782054.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choudou-aux-raisins-200g-3836689"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.2,
+                        "of_which_sugars": 4.8,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Chou blanc* 40,5%, carottes* 30%, sauce vinaigrette* (huile de tournesol*, eau, vinaigre d'alcool*, graines de moutarde*, sel), raisins secs* 5,4% (raisins secs*, huile de tournesol*), graines de courge* 1,7%.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelle de gluten, d'oeufs, de poisson, de soja, de lait, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 14.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal comme entrée pour le déjeuner.",
+                "conservation": "A conserver au frais, entre 0° et 4°C."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "carottes-rapees-persil-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAROTTES RÂPÉES PERSILLÉES 200G BIO",
+                "desc": "Carottes râpées persillées 200g Bio\nDécouvrez cette salade de carottes râpées persillées issues de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760198781019.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carottes-rapees-persil-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 8.5
+                    },
+                    "proteins": {
+                        "proteins": 0.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.3,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Carottes râpées* 79%, sauce vinaigrette* 14% (huile de tournesol*, eau, vinaigre d'alcool*, graines de moutarde*, sel), persil* 3,1%, échalote*, huile d'olive vierge extra*, jus de citron*, huile essentielle de citron*.\n*Ingrédient issu de l'agriculture biologique.\nTraces éventuelles de gluten, d'oeufs, de poisson, de soja, de lait, de fruits à coque et de céleri.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Poisson",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 11.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour une pause déjeuner.",
+                "conservation": "A conserver entre 0° et 4°C. A consommer rapidemment après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ratatouille-kilo",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RATATOUILLE 1KG BIO",
+                "desc": "Ratatouille 1Kg Bio\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers du Bio.\nCes partenariats, fondés sur l'expertise et la maîtrise des filières, garantissent la qualité de nos produits dans le respect des exigences les plus rigoureuses de l'Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/a/naturalia_10933-1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ratatouille-kilo"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 7.2
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "courgettes frites* 25.5%, aubergines frites* 23.5%, oignons* 12.5%, eau, double concentré de tomate* 7.7%, huile de tournesol*, poivrons rouges* 7.3%, pulpe de tomate* au jus 4.1%, sel de mer, huile d'olive vierge extra* extraite à froid, ail*,  jus concentré de citron*, basilic*, échalote* en poudre, thym*, poivre*, piment de cayenne*.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 5.5,
+                "price_per_unit": 5.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffer à feu doux dans une casserole ou au bain-marie.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "curry-pois-chiches-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CURRY DE POIS CHICHES 340G BIO",
+                "desc": "Curry de pois chiches 340g Bio\nEquilibre et gourmandise : un repas source de fibres dans une sauce au lait de coco délicatement relevée par les épices curry\nRecette sans additif, élaborée avec les conseils du chef Thierry Marx\nPraticité : associer avec du riz pour un repas complet pour 2 personnes\nLe pois chiche, légumineuse star : un allié santé (riche en protéines, fibres, minéraux, fer et vitamines) et climat (capte l'azote de l'air pour le stocker dans le sol, permettant de favoriser sa croissance et celle des autres plantes à laquelle elle est associée)\nPois chiches du Tarn et Garonne, carottes et patates douces français",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/t/a/tajine_de_lentilles_et_potimarron-380g.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/curry-pois-chiches-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "340G",
+                "availability": true,
+                "ingredients": "Pois chiche (21%)*°, carotte (17%)*°, lait de coco* (noix de coco*, eau), eau, patate douce*°, oignon*°, jus de citron*, farine de riz*°, huile de tournesol*°, ail*, mélange d’épices curry *(1,3%), sel°, coriandre*°.\n* ingrédient issu de l'agriculture biologique. ° origine France.\n \nPeut contenir des traces de : Soja et produits à base de soja, Céréales contenant du gluten et produits à base de céréales contenant du gluten.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 5.7,
+                "price_per_unit": 16.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "On le déguste chaud, accompagné d'un riz et un peu de coriandre, et vous ?",
+                "conservation": "Conserver dans un endroit frais et sec, à température inférieure à 25°C et à l’abri de la lumière.\nSe conserve 2 jours après ouverture au réfrigérateur entre 0 et 4°C."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "flocon-pdt-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE POMMES DE TERRE EN FLOCONS 250G BIO",
+                "desc": "Purée de pommes de terre en flocons 250G Bio\nLes flocons de pommes de terre seront l’astuce idéale pour réaliser de savoureuses et onctueuses purées en quelques minutes.\nUltra simple et rapide. Produit déshydraté. Fine et onctueuse, Savoureux. \nCuisson en 5 minutes.\nCompter environ 125g de flocons pour 4 personnes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329484635001_a1c1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/flocon-pdt-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 7.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.5,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 10.4
+                    }
+                },
+                "ingredients": "Pommes de terre*, antioxydant : extrait de romarin* (<0.1%).",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 13.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Faire chauffer 1/2 litre d'eau. A ébullition, retirer du feu, ajouter 250ml de lait froid, puis verser les flocons jusqu'à ce que le mélange soit homogène. Laisser reposer 1 minute, puis remuer délicatement à l'aide d'une spatule. Assaisonner selon vore goût.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "prepa-falafels-sg-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRÉPARATION POUR 20 FALAFELS SANS GLUTEN 150G BIO",
+                "desc": "Préparation pour 20 Falafels sans gluten Bio\nLes falafels sont traditionnellement des boulettes à base de pois chiches originaires du Moyen‐Orient. En salade, dans un sandwich (wrap ou\npain pita) ou accompagnés d’une sauce pour l’apéro, les falafels ont la côte !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/b/a/banque_images-mvsg_8016_poudre_a_lever.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/prepa-falafels-sg-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 4.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 24,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "Couscous maïs‐riz* (farine de maïs*, farine de riz blanche*, eau), farine de pois chiches* (30%), brisure de pois chiches* (5%), cumin*, oignon*, coriandre*, persil*, sel de Guérande, ail*, poivre noir*.\n* Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 3.19,
+                "price_per_unit": 21.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser la préparation en poudre dans un saladier. Faire bouillir de l’eau. Mélanger l’eau bouillante à la préparation à\nl’aide d’une cuillère, puis laisser reposer 5 min sous un linge propre.\nFormer à la main, avec la pâte obtenue, des boulettes d’environ 3 cm de diamètre (≈ 20 falafels). Pour que vos falafels ne s’effritent pas à la cuisson, former les boulettes en appliquant une légère pression : ceci les\nraffermit et rend leur surface plus lisse.\nFaire frire 6 min (texture moelleuse) ‐ 8 min (texture croustillante) ‐ 9 min (texture extracroustillante)\ndans de l’huile de friture.\nDéguster vos falafels avec des crudités en salade, ou en sandwich dans un wrap ou un pain pita.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "dhal-lentilles-corail-340g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DHAL AUX LENTILLES CORAIL 340G BIO",
+                "desc": "Dhal aux Lentilles Corail 340g Bio\nDécouvrez la recette de Dhal indienne de Voyage de Mamabé. Cette recette ne contient pas de lait de coco ni de crème. Les lentilles sont cuisinées aux épices de tikka masala. \nA réchauffer à feu douc dans une casserole ou miro-onde, s'accompagne de quinoa, blé, riz...\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/a/naturalia_10933-1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dhal-lentilles-corail-340g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "340G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 560
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 5.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Tomate*, lentille corail*, oignon rouge*, jus de citron*, ail*, huile d'olive*, huile de tounesol*, oignon*, gingembre*, sel, vinaigre d'alcool*, épices tikka masala*, aromates*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 340.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 14.68,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nUn brunissement peut apparaître dans le temps, cela n'altère en rien la qualité du produit.\nSe conserve 2 jours après ouverture au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "kalu-pol-butternut-330g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "KALU POL CURRY DE BUTTERNUT 330G BIO",
+                "desc": "Kalu Pol Curry de Butternut 330g Bio\nDécouvrez la recette inspirée du traditionnel Wattakka Kalu Pol, un plat Sri Lankais.\nRecette cuisinée de butternut au lait de coco et aux épices.\nRéchauffer à feu doux dans une casserole ou micro-onde, peut s'accompagner de quinoa, blé, riz...\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/kalu-pol-butternut-330g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "330G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 830
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.6
+                    },
+                    "fats": {
+                        "fats": 4.7
+                    },
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.3,
+                        "of_which_sugars": 2.7,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Butternut*, eau, lait de coco*, oignon*, patate douce*, carotte*, jus de citron vert*, épices en poudre* (curcuma*, coriandre, MOUTARDE NOIRE*), farine de riz*, jus de citron*, ail*, huile de tournesol*, sel, coriandre*.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.\nA conserver dans un endroit frais, sec et à l'abri de la lumière.",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 15.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nUn brunissement peut apparaître dans le temps, cela n'altère en rien la qualité du produit. Se conserve 2 jours après ouverture au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "chili-con-tofu-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHILI VÉGÉTARIEN PIMENT DE CAYENNE 630G BIO",
+                "desc": "Chili Végétarien Piment de Cayenne 630g Bio\nDécouvrez le chili végétarien à base de tofu idéal pour un régime sans gluten et végétarien. Cette recette est source de fibres et riche en protéines. \nA cuisiner avec du riz, des pâtes... \nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/a/naturalia_10933-1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chili-con-tofu-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:03",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 710
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.7
+                    },
+                    "proteins": {
+                        "proteins": 5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.8,
+                        "of_which_sugars": 2,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "Haricots rouges*, eau, tomates cubetées*, tofuù, concentré de tomate*, poivrons verts*, oignons* aubergines*, maïs*, huile de tournesol*, sel, purée d'ail*, amidon de maïs*, coriandre*, cumin*, mélange d'épices Manakara*, poivre blanc*, piment de Cayenne*. \n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 11.03,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer doucement au bain marie pendant 5 minutes ou directement en casserole.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. \nAprès ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 5 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "bento-boulg-pois-chiches-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO BOULGOUR POIS CHICHES ET AUBERGINES 360G BIO",
+                "desc": "Bento boulgour pois chiches et aubergines 360g Bio\nPour ce bento, nous avons préparé de belles aubergines (légume de saison), poêlées et agrémentées d’une crème de sésame, et nous les avons accompagnées de boulgour (céréale) et de pois chiches (légumineuse) – un assortiment qui, par la variété de ses saveurs, évoque les mezze du Moyen-Orient…",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/92d3ef1420f22584d764d2b01ae36138/3/7/3760052239915_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-boulg-pois-chiches-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 670
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 3.91
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14,
+                        "of_which_sugars": 3.7,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "Aubergines* (33%), boulgour* (16%),poivrons rouges*, poivrons verts*, tomates* (orig. France), coulis de tomate *(orig. Provence), oignons*, huile de tournesol première pression à froid* (orig. Sud-Ouest), pois chiches* (2,6%| orig. Sud-Ouest), dattes*,crème de sésame* (1,2%), sel de Guérande garanti Nature & Progrès, ail*, cumin* (0,3%), coriandre*, curcuma*, poivre*.\n*Ingrédient issu de l'Agriculture Biologique.\nContient gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 8.5,
+                "price_per_unit": 28.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À consommer chaud ou froid. À réchauffer au four, micro-onde ou au bain-marie.",
+                "conservation": "A conserver au réfrigérateur entre 0°C et +4°C après ouverture et à consommer dans les 24h."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "wok-tha-doypack-220g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "WOK THAÏ 220G BIO",
+                "desc": "Wok Thaï 220g Bio\n Un délicieux plat complet aux saveurs asiatiques, délicatement relevés de son emblématique sauce sriracha.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4012359144003_japanische_bratfilets_fr_0120.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/wok-tha-doypack-220g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 990
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 5.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Spaghetti* précuits 40% (eau, semoule de blé dur*, blanc d’oeuf* en poudre), eau, carottes jaunes* 5,4%, carottes* 5%, huile de tournesol* désodorisée, protéines de soja texturées*, poivrons verts* 3,2%, oignons* 2,7%, poivrons rouges* 2,3%, oignons frits* 1,8%, amandes* 1,8%, jus de citron* 1,7%, sauce soja* 1,5% (eau, soja*, blé*, sel de mer, alcool*), purée de citron vert confit* 1% (citrons verts*0,86%, sel de mer, vinaigre* d’alcool), coriandre*, sauce sriracha* 0,75% (piment*, ail*, sel, sucre* de canne, vinaigres* d’alcool et de vin rouge, dattes*, oranges*), sel de mer, oignons en poudre*, gingembre en poudre*.\n*Ingrédient issu de l'Agriculture Biologique.\nFabriqué dans un atelier qui utilise céleri, moutarde, lait et sésame.\nLes informations en majuscules et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.9,
+                "price_per_unit": 22.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En 5 min, c'est prêt ! Un repas complet et savoureux.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "teriyaki-doypack-220g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TERIYAKI DOYPACK 220G BIO",
+                "desc": "Teriyaki Doypack 220g Bio\n Un plat cuisiné savoureux, rapide et complet avec cette recette teriyaki inspirée de la cuisine asiatique. Du riz complet cuisiné aux petits légumes et aux notes citronnées de gingembre.\nUne recette riche en fibres, source de protéines et fabriqué en France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/4/8428532192352.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/teriyaki-doypack-220g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "220G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 990
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 5.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 5.9
+                    }
+                },
+                "ingredients": "Eau, riz long complet de Camargue IGP* 24,1%, carottes*10,9%, oignons*10,4%, poivrons rouges*5,9%, protéines de soja texturées* 3,6%, huile de tournesol* désodorisée, sauce soja* 3,3% (eau, soja*, blé*, sel de mer, alcool*), miel* 2,5%, jus de citron* 1,8%, farine de soja déshuilée* 1,5%, gingembre* en poudre, oignons* en poudre, sésame* noir complet , gluten de blé*, ail* en poudre, sel de mer.\n*Ingrédient issu de l'Agriculture Biologique.\nFabriqué dans un atelier qui utilise céleri, fruits à coque, moutarde, œuf, lait.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 220.0,
+                "price_per_packaging": 4.9,
+                "price_per_unit": 22.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un plat complet, prêt rapidement, en 5 min, c'est prêt !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "65",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RATATOUILLES À LA PROVENÇALE 650G BIO",
+                "desc": "Ratatouille à la provençale 650g Bio\nDécouvrez cette délicieuse ratatouille cuisinée à la provençale avec des aubergines et courgettes du Sud de la France. Idéal pour faire en accompagnement ou une base de recette : gratin, tarte...\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685000010.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ratatouille-a-la-provencale-65"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "650G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 580
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.9
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.2,
+                        "of_which_sugars": 3.3
+                    }
+                },
+                "ingredients": "Tomate*28,75 % (tomates*, pulpe au jus*, double concentré *), aubergines* 25,5 %, courgettes* 17,6 % , poivrons* rouges 10,7%, oignons*7,8 %, huile de tournesol* désodorisée, ail*, sel de mer, huile dolive* vierge extra, plantes aromatiques*, miel*, jus concentré de citron*,poivre*.\n\n*Ingrédients issus de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 650.0,
+                "price_per_packaging": 6.1,
+                "price_per_unit": 9.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer à feu doux. \nSe déguste en accompagnement ou peut servir de recette.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, conserver au réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "bento-riz-basmati-carotte-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO RIZ BASMATI ET CAROTTE 350G BIO",
+                "desc": "Bento riz basmati et carotte 350g Bio\nLaissez-vous tenter par cette recette aux saveurs indiennes. Une association gourmande de riz basmati, de lentilles corail et de légumes de saison: carottes et butternut, et la douceur de lait de coco.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/o/pois_casses_jardiniere-380g_1.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-riz-basmati-carotte-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 460
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 4.9
+                    },
+                    "proteins": {
+                        "proteins": 2.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.2,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Eau pure du parc régional du Haut-Languedoc, carottes*(11,5%|orig. France), courge butternut* (11,5%|orig. France), lentille corails*(5,8%|orig. France), riz basmati*(5,8%), lait de coco* (5,8%|extrait de noix de coco*, eau), céleri*, poireaux* (orig. France), chou*, huile de tournesol première pression à froid*(orig. Sud-Ouest), oignons*, jus de citron*, sel de Guérande garanti Nature & Progrès*, baie de goji*, curcuma*, coriandre*.\n*ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 7.55,
+                "price_per_unit": 21.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au four ou au bain-marie.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "bento-quinoa-potimarron-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO QUINOA POTIMARRON 350G BIO",
+                "desc": "Bento quinoa potimarron 350g Bio\nDégustez ce plat préparé type bento cuisiné avec des légumes de saison: le potimarron et le chou. Le quinoa et les lentilles ajoute de la saveur à ce plat riche en texture.\nUne délicieuse recette pour un repas complet, sain et gourmand.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-proven_ale.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-quinoa-potimarron-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 2.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.3,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Eau pure du parc régional du Haut-Languedoc, potimarron* (19%|orig. France),chou*(19%),quinoa*(9%), brocoli*, oignons*, huile de tournesol première pression à froid*(orig. Sud-Ouest), abricots*(1,9%), lentilles vertes* (1,9%|orig. Sud-Ouest), sel de Guérande garanti Nature & Progrès*, ciboulette*(0,4%), curcuma*.\n*ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 7.69,
+                "price_per_unit": 21.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au four ou au bain-marie.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer sous 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "bento-boulgour-poireau-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO BOULGOUR POIREAU 350G BIO",
+                "desc": "Bento boulgour poireau 350g Bio\nUn repas complet type bento aux différents légumes: poireaux, chou et épinards et un accompagnement savoureux de boulgour et de pois cassés. Des saveurs du moyen orient à déguster pour un repas sain et gourmand.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-fines-_pinards-pignons.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-boulgour-poireau-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.8,
+                        "of_which_sugars": 1.1,
+                        "dietary_fiber": 2.4
+                    }
+                },
+                "ingredients": "Eau pure du parc régional du Haut-Languedoc, poireaux*(14,5%|orig. France),boulgour*(3,7%),chou*(7,3%), épinards*(7,3%), pois cassés* (7,3%|orig. France), oignons*, crème de brebis* (2,9%|lait|orig. Sud-Ouest), carottes*(orig. France), huile de tournesol première pression à froid*(orig. Sud-Ouest), sel de Guérande garanti Nature & Progrès*, graines de courge*, origan*(0,1%), herbes de provence*(0,1%), curcuma*, poivre*.\n*ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 7.55,
+                "price_per_unit": 21.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au four ou au bain-marie.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "taboule-au-chanvre-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABOULÉ AU CHANVRE 300G BIO",
+                "desc": "Taboulé au chanvre 300g Bio\nDécouvrez le chanvre et ses bienfaits, grâce à cette délicieuse recette de taboulé. Priméal associe des graines entières toastées, qui apportent du croquant et une note de noisette, et des\ngraines décortiquées, pour une texture tendre et fondante.\nAfin de favoriser l’agriculture locale, Priméal a sélectionné des graines de chanvre issues d’une filière française, située dans le Sud-Ouest. \nUn conditionnement en sachet recyclable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486471201_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/taboule-au-chanvre-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:04",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 4.4
+                    },
+                    "proteins": {
+                        "proteins": 13.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64.1,
+                        "of_which_sugars": 3.2,
+                        "dietary_fiber": 7.1
+                    }
+                },
+                "ingredients": "Semoule de BLE* demi-complète France, graines de chanvre* (entières* et décortiquées*) (8%) , tomate*, sel marin, oignon*, persil*, carotte*, paillettes d’huile essentielle de citron* (agave*, huile essentielle de citron*), menthe*.\n\n*issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 3.89,
+                "price_per_unit": 12.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Verser 1 vol. de taboulé dans un saladier, ajouter 1 vol. d'eau bouillante, couvrir, laisser gonfler 5 min, puis égrener à la fourchette.\nAssaisonner à votre convenance et déguster chaud ou froid.\nPossibilité de rajouter des fruits ou des légumes frais (tomates, concombre, citron, etc.) et d'incorporer leur jus dans la préparation.",
+                "conservation": "A conserver dans un endroit sec, frais et à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "tikka-massala-leg-pchiche-360g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TIKKA MASALA AUX POIS CHICHES ET LÉGUMES 360G BIO",
+                "desc": "Tikka Masala aux pois chiches et légumes 360g Bio\nDécouvrez ces légumes biologiques cuisinés façon tikka masala. Originaire d'Inde, la préparation tikka masala est riche en saveurs, ils s'allient parfaitement à ces pois chiches et courgettes cultivés en France.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/g/a/galettes-courgette-curry-887x1024.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tikka-massala-leg-pchiche-360g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "360G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 220
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.3
+                    },
+                    "fats": {
+                        "fats": 4.2
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.8,
+                        "of_which_sugars": 2.7
+                    }
+                },
+                "ingredients": "Lait de coco* 21%, purée de tomate*, potimarron*, pois chiches* réhydratés 8%, oignons*, courgette* 7%, navet 7%, carotte jaune*, poivron rouge*, huile de tournesol* désodorisée, ail pulpe*, purée de gingembre*, piment rouge*, jus concentré de citron*, sel de mer, épices*, plantes aromatiqes*, eau.\nPeut contenir des traces de gluten et de soja.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 5.2,
+                "price_per_unit": 14.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisinez votre plat avec les ingrédients de votre choix (riz, semoule, viande, poisson, tofu...).",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "bento-epeautre-lentilles-330g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BENTO ÉPEAUTRE LENTILLES ET CAROTTES CARAMÉLISÉES 330G ...",
+                "desc": "Bento Épeautre Lentilles et Carottes caramélisées 330g Bio\nDécouvrez ce bento élaboré autour d’un duo de petit épeautre et de lentilles, que nous avons accompagné de carottes caramélisées. Un assortiment d’été, frais et léger, où les saveurs de l’Amérique du Sud se mêlent à celles de notre terroir…\nAvec le bento quinoa et poivrons, Karine & Jeff associe légumes de saison, légumineuses et céréales pour composer des repas complets originaux et savoureux, 100 % bio, disponibles en édition limitée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/7/8714685000010.1_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bento-epeautre-lentilles-330g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "330G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 990
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2.3
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Eau pure du parc régional du Haut-Languedoc, petit épeautre* (13% / origine Sud-Ouest), carottes* (13% / Origine France), haricots verts* (Origine France), oignons*, chou*, tomates* (Origine France), lentilles vertes* (2% / Origine Sud-Ouest), huile de tournesol première pression à froid* (Origine Sud-Ouest), sel de Guérande garanti Nature & Progrès, raisins secs*, miel*, curcuma*.\n*Ingrédients issus de l'agriculture biologique\nFabriqué dans un atelier utilisant des céréales contenant du gluten, du soja, du céleri, du sésame, de la moutarde, du lait et des fruits à coque.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja",
+                    "Céleri",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 330.0,
+                "price_per_packaging": 9.3,
+                "price_per_unit": 28.18,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour un déjeuner rempli de soleil.",
+                "conservation": "Se conserve dans un endroit frais et sec. \nA consommer rapidemment après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ravioles-emmental-240g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAVIOLES À L'EMMENTAL 240G BIO",
+                "desc": "Ravioles à l'Emmental 240g Bio\nComme toute raviole qui se respecte, la recette de celle-ci se compose d'une pâte à base de farine de blé tendre et d'œufs de poules élevées en plein air. Cette recette bio vous est proposée avec une farce à base d'Emmental, d'œufs frais, de fromage blanc et du persil revenu dans du beurre.\nCes ravioles Bio au fromage sont fabriquées à Roman le pays de la raviole !\nCertifié Agriculture Biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/o/pois_casses_jardiniere-380g_1.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ravioles-emmental-240g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "240G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.5
+                    },
+                    "fats": {
+                        "fats": 13
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29,
+                        "of_which_sugars": 2.1
+                    }
+                },
+                "ingredients": "Pâte* (50%) (farine de BLÉ tendre*, eau, OEUFS*, huile de tournesol*), farce* (50%) (EMMENTAL* 29%, FROMAGE blanc frais*, persil*, sel, OEUFS*, BEURRE*).\n\n*Ingrédients issus de l'agriculture biologique\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 4.59,
+                "price_per_unit": 19.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.59 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour faciliter la manipulation des plaques de ravioles, vous pouvez retirer l'opercule et mettre la barquette au congélateur pendant 10 minutes. Portez 2 litres d'eau à frémissement, avec un filet d'huile d'olive ou un cube de bouillon de volaille.\n\nRetirez les plaques de ravioles de leur papier et plongez-les entières dans l'eau.\n\nRemuez délicatement avec une écumoire afin de détacher les carrés. Ne laissez JAMAIS BOUILLIR les ravioles.\nLaissez frémir 1 MINUTE SEULEMENT et ramassez les ravioles à la surface de l'eau à l'aide de l'écumoire.",
+                "conservation": "A conserver au frais entre 0° et 4°."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ravioles-ap-tomate-mozza-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAVIOLES À POÊLER TOMATES MOZZARELLE 300G BIO",
+                "desc": "Ravioles à poêler Tomates Mozzarelle 300g Bio\nDécouvrez ces ravioles à poêler aux tomates mozzarelle. \nSachet pour 2 personnes. \nCertifié Agriculture Biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908369.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ravioles-ap-tomate-mozza-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.1
+                    },
+                    "fats": {
+                        "fats": 7.6
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 25,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Ravioles à la tomate et à la mozzarelle* (77%) (pâte : farine de blé tendre*, eau, œufs*, huile de tournesol*, farce : fromage blanc frais*, coulis de tomate* (6,2%), flocon de pomme de terre* {antioxydant : extrait de romarin*}, mozzarelle* (3,1%), emmental, concentré de tomate* (1,9%), basilic*, sel, huile d’olive vierge extra*, sucre*), eau, huile de tournesol*, émulsifiant : gomme xanthane (pourcentages exprimés sur l'ensemble du produit.)\n*ingrédient issu de l’agriculture biologique\nPeut contenir des traces de poisson et de crustacés.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.79,
+                "price_per_unit": 19.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cuisson de 5 minutes à la poêle sur feu moyen.",
+                "conservation": "A conserver entre 0° et +4°.\nA consommer dans les 24h après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "ratatouille-a-la-catalane-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RATATOUILLE À LA CATALANE 1KG BIO",
+                "desc": "Ratatouille à la catalane 1kg Bio\nLe soleil du Sud dans un pot ! Un format économique pour régaler toute la famille. Idéal en accompagnement, sur des pâtes, riz ou pour vos recettes de gratins. Un recette traditionnelle façon catalane, fabriquée en France.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/u/n/une_soiree_a_casablanca-350g.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ratatouille-a-la-catalane-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 490
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1
+                    },
+                    "fats": {
+                        "fats": 7.2
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.3,
+                        "of_which_sugars": 5.2
+                    }
+                },
+                "ingredients": "Tomates* 26% (pulpe*, concentré*), aubergines* frites 21%, courgettes* frites 21%, oignons*, eau, huile de tournesol* désodorisée, poivrons* rouges 4%, sel de mer, huile d’olive* vierge extra extraite à froid, jus concentré de citron*, ail*, échalote*, épices*, plantes aromatiques*.\n\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 6.99,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster chaud, faire réchauffer à feu doux.",
+                "conservation": "A conserver dans un endroit frais et sec. Après ouverture, conserver au frais et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    },
+    {
+        "ean": "moussaka-vegan-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Plats cuisinés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MOUSSAKA AUX AUBERGINES ET SOJA 345G BIO",
+                "desc": "Moussaka aux Aubergines et Soja 345g Bio\nDécouvrez cette moussaka aux aubergines et au soja. Dans ce petit pot, vous trouverez un plat complet et équilibré : légumes + protéines végétales\nAubergines et soja 100% France",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/n/a/naturalia_10933-1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/moussaka-vegan-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:05",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 390
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.41
+                    },
+                    "fats": {
+                        "fats": 11.4
+                    },
+                    "proteins": {
+                        "proteins": 3.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.8,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Aubergines* frites 49% (aubergines*, huile de tournesol*), pulpe de tomate*, oignon*, eau, crème de soja* 4% (eau, soja* décortiqué, huile de tournesol* désodorisée, émulsifiant : gomme arabique*, sucre de canne* non raffiné, épaississants : gomme xanthane, carraghénanes), protéines de soja* 3%, carotte*, huile d'olive* vierge extra extraite à froid, crème de riz*, sel de mer, épices*, pulpe d'ail*, origan*.\n*Ingrédients issus de l'agriculture biologique.\nPeut contenir des traces de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 5.55,
+                "price_per_unit": 16.09,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Versez le contenu du bocal dans un plat adapté et réchauffez à votre convenance.",
+                "conservation": "Se conserve dans un endroit sec et à l'abri de la lumière.\nUne fois ouvert, a conserver au frais et à consommer rapidemment"
+            }
+        ],
+        "created_at": "2025-06-15T22:01",
+        "updated_at": "2025-06-15T22:01"
+    }
+]

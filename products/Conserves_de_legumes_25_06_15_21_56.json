@@ -1,0 +1,2038 @@
+[
+    {
+        "ean": "lentilles-hyposodes-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES HYPOSODES 345G BIO",
+                "desc": "Lentilles Hyposodes 345g Bio\n•Lentilles vertes cultivées en France\n•Cuisinées aux petits oignons et carottes, sans sel ajouté\n•Recette cuisinée sans ajout de SEL ni de SUCRE\n•Teneur maximale en sodium : 40 mg / 100 g. La teneur en sel est due exclusivement à la présence naturelle de sodium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489900531_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-hyposodes-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "ingredients": "Lentilles vertes*, eau, légumes* 1,5% minimum (oignon*, poireau*, carotte*), échalote* poudre, ail* poudre, poivre*, thym*.\n*Ingrédients issus de l'agriculture biologique. Peut contenir des traces de gluten.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 4.15,
+                "price_per_unit": 18.04,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces lentilles peuvent se cuisiner, se déguster chaudes en accompagnement ou froides en salade."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "pois-chiches-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CHICHES 345G BIO",
+                "desc": "Pois Chiches 345g Bio\nCuisson maîtrisée pour une texture ferme et fondante.\nSe déguste froid en entrée ou chaud en accompagnement de semoule, de viande ou poisson.\nPois chiches cultivés en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380390203302.1-0000_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-chiches-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 440
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2.4
+                    },
+                    "proteins": {
+                        "proteins": 7.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Pois chiches* réhydratés, eau, sel de mer.\n*Ingrédients issus de l'agriculture biologique.\nPeut contenir des traces de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 2.55,
+                "price_per_unit": 11.09,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces pois chiches peuvent se cuisiner, se déguster chauds en accompagnement ou froids en salade.",
+                "conservation": "Après ouverture, conserver au réfrigirateur et consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "macedoine-de-legumes-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MACÉDOINE DE LÉGUMES 345G BIO",
+                "desc": "Macédoine de légumes 345g Bio\nSavoureux mélange de cinq légumes issus de l'Agriculture Biologique: carottes, navets, petits pois, haricots verts et flageolets.\nLa cuisson maîtrisée garantit la texture tendre des légumes.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900630.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/macedoine-de-legumes-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 710
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.5,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Eau, carottes* (24% des légumes), navets* (20% des légumes), petits pois* (20% des légumes), haricots verts* (20% des légumes), flageolets* réhydratés (14% des légumes), sel de mer.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 3.4,
+                "price_per_unit": 14.78,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces légumes peuvent se déguster chauds en accompagnement, froids en salade, ou peuvent être cuisinés.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "haricots-vert-hyposode-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS VERTS EXTRA-FINS SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Haricots verts extra-fins sans sel ajouté 345g Bio\nHaricots verts extra fins bio cultivés en France, sélectionnés pour leur qualité et leur saveur.\nTeneur maximale en sodium : 40 mg / 100 g. La teneur en sel est due exclusivement à la présence naturelle de sodium.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880004631.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricots-vert-hyposode-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 1.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 0.9
+                    }
+                },
+                "ingredients": "Haricots verts extra fins*, eau.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 23.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces haricots verts peuvent se déguster chauds en accompagnement ou froids en salade.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "petit-pois-hyposodes-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETIT POIS EXTRA-FINS SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Petit Pois extra-fins sans sel ajouté 345g Bio\nPetits pois extra-fins bio et sans sel ajouté sélectionnés pour leur qualité et leur saveur.\nTeneur maximale en sodium : 40mg / 100g. La teneur en sel est due exclusivement à la présence naturelle de sodium.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880005652.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/petit-pois-hyposodes-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17,
+                        "of_which_sugars": 6.8
+                    }
+                },
+                "ingredients": "Petits pois* extra fins, eau, sucre de canne* non raffiné, garniture* 2% (oignon*, carotte*), oignon* poudre, échalote* poudre.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 16.46,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffés à feu doux, ces petits pois peuvent se déguster en accompagnement ou être cuisinés.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "pt-pois-extra-fin-345g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETITS POIS EXTRA FINS 345G BIO",
+                "desc": "Petits Pois Extra Fins 345g Bio\nSélection rigoureuse des petits pois extra-fins pour leur qualité et leur saveur.\nCuisson maîtrisée qui garantit une texture tendre et un goût authentique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880004631.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pt-pois-extra-fin-345g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 790
+                    },
+                    "proteins": {
+                        "proteins": 2.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9,
+                        "of_which_sugars": 4
+                    }
+                },
+                "ingredients": "Petits pois* extra-fins, eau, sucre de canne* non raffiné, garniture* 3% (oignon*, carotte*), sel de mer, oignon* poudre, échalote* poudre.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 2.9,
+                "price_per_unit": 12.08,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffés à feu doux, ces petits pois peuvents se déguster en accompagnement ou être cuisinés.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et à consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "mais-hyposode-388ml",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAÏS DOUX SANS SEL AJOUTÉ 345G BIO",
+                "desc": "Maïs doux sans sel ajouté 345g Bio\nMaïs récolté à maturité, pour la qualité et le goût authentique de ses grains tendres et naturellement doux.\nSans sucres ajoutés, contient des sucres naturellement présents.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489900593_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mais-hyposode-388ml"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "345G",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18,
+                        "of_which_sugars": 3.5
+                    }
+                },
+                "ingredients": "Maïs*, eau.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 345.0,
+                "price_per_packaging": 3.6,
+                "price_per_unit": 10.43,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une fois égoutté, ce maïs se déguste froid en salade ou chaud en accompagnement.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "epinards-en-branche-660g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ÉPINARDS EN BRANCHES 660G BIO",
+                "desc": "Épinards en branches 660g Bio\nFeuilles d'épinards entières et fondantes, au goût authentique issues d'une sélection rigoureuse des légumes pour leur qualité et leur saveur et d'une cuisson maîtrisée qui garantit une texture tendre et un goût authentique.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880005652.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/epinards-en-branche-660g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:53",
+                "format": "660G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 740
+                    },
+                    "proteins": {
+                        "proteins": 3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.9
+                    }
+                },
+                "ingredients": "Épinards*, eau, sel de mer.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 660.0,
+                "price_per_packaging": 7.35,
+                "price_per_unit": 11.14,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une fois égouttés, ces épinards peuvet se consommer nature ou cuisinés (à la crème, en gratins, en tartes...).",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "petits-pois-xfins-prepare-690g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETITS POIS EXTRA-FINS 690G BIO",
+                "desc": "Petits pois extra-fins 690g Bio\nDécouvrez ces petits pois extra-fins, rigoureusement sélectionnés pour leur qualité et leur saveur. Cuisson maîtrisée qui garantit une texture tendre et un goût authentique.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900609.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/petits-pois-xfins-prepare-690g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "690G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 790
+                    },
+                    "proteins": {
+                        "proteins": 2.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9,
+                        "of_which_sugars": 4
+                    }
+                },
+                "ingredients": "Petits pois* extra-fins, eau, sucre de canne* non raffiné, garniture* 3% (oignon*, carotte*), sel de mer, oignon* poudre, échalote* poudre.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 690.0,
+                "price_per_packaging": 5.85,
+                "price_per_unit": 13.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Réchauffés à feu doux, ces petits pois peuvents se déguster en accompagnement ou être cuisinés.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et à consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "lentilles-petits-legumes-660g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LENTILLES VERTES CUISINÉES AUX PETITS LÉGUMES 660G BIO",
+                "desc": "Lentilles vertes cuisinées aux petits légumes 660G Bio\nLentilles vertes cultivées en France cuisinées aux petits oignons et carottes.\nCuisson maîtrisée qui garantit leur texture tendre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900548.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lentilles-petits-legumes-660g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "660G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "Lentilles vertes*, eau, légumes* 1,5% minimum (oignon*, poireau*, carotte*), sel de mer, échalote* poudre, ail* poudre, poivre*, thym*.\nPeut contenir des traces de GLUTEN.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 660.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 6.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces lentilles peuvent se cuisiner, se déguster chaudes en accompagnement ou froides en salade.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "haricots-beurre-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS BEURRE EXTRA-FINS 180G BIO",
+                "desc": "Haricots beurre extra-fins 180g Bio\nDécouvrez ces haricots beurre extra fins, cultivés, cueillis et rangés à la main à Madagascar.\nUn accompagnement sain à vos plats de viandes, poissons, légumineuses...\nCertifié Agriculture Biologique et commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489900531_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricots-beurre-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "180G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 680
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 1.3
+                    }
+                },
+                "ingredients": "Haricots beurre extra-fins*, eau, sel de mer, acidifiant : acide citrique.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 180.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 22.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une fois égouttés, ces haricots beurre se dégustent froids en entrée ou chauds en accompagnement.",
+                "conservation": "Après ouverture, à conserver au réfrigérateur et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "macedoine-de-legumes-660g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MACÉDOINE DE LÉGUMES 660G BIO",
+                "desc": "Macédoine de Légumes 660g Bio\nDécouvrez ce savoureux mélange de cinq légumes : carottes, navets, petits pois, haricots verts et flageolets. Une recette au goût simple et authentique et une cuisson maîtrisée qui garantit la texture tendre des légumes.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477609139.p1-1500j_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/macedoine-de-legumes-660g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "660G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.5,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Eau, carottes* (24% des légumes), navets* (20% des légumes), petits pois* (20% des légumes), haricots verts* (20% des légumes), flageolets* réhydratés (14% des légumes), sel de mer.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 660.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 10.69,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ces légumes peuvent se déguster chauds en accompagnement, froids en salade, ou peuvent être cuisinés.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidemment."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "haricot-vert-x-fin-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS VERTS 400G BIO",
+                "desc": "Haricots verts 400G Bio\nUn retour aux saveurs du sud avec des ingrédients gorgés de soleil avec les produits La Bio Idea !\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec les haricots verts La Bio Idea !\nOrigine: France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908383.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricot-vert-x-fin-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 1.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.3,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 3
+                    }
+                },
+                "ingredients": "Haricots verts *, eau, sel.\n*Ingrédient issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.45,
+                "price_per_unit": 11.14,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Égoutter puis rincer à l'eau froide. Consommer chaud selon votre goût, avec du beurre, une persillade ou un jus de viande en accompagnement de viandes ou volailles. Consommer froid en salade.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, placer au réfrigérateur et consommer dans les deux jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "pt-haricot-blanc-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETITS HARICOTS BLANCS 400G BIO",
+                "desc": "Petits Haricots Blancs 400g Bio\nLe haricot blanc petit se caractérise par sa couleur blanche jaunâtre et sa forme ovale. C’est un haricot très populaire et le plus cultivé en Europe.\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec ces petits haricots blancs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880004655.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pt-haricot-blanc-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 5.9
+                    }
+                },
+                "ingredients": "Petits haricots blancs*, eau, sel de mer.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 8.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Égoutter puis rincer à l'eau froide. Faire chauffer à feu moyen et accommoder selon votre goût.\nLes petits haricots blancs seront également appréciés froids en salades composées.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.\nAprès ouverture, conserver au réfrigérateur et consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "haricots-rouges-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HARICOTS ROUGES KIDNEY 400G BIO",
+                "desc": "Haricots rouges Kidney 400g Bio\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec les haricots rouges La Bio Idea.\nLes haricots rouges kidney apportent des glucides et des fibres alimentaires et sont riches en protéines et en sels minéraux. De plus, ils contiennent très peu de lipides.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489900531_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/haricots-rouges-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.6,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 6.2
+                    }
+                },
+                "ingredients": "Haricots rouges kidney biologiques, eau, sel de mer.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 1.8,
+                "price_per_unit": 7.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Égoutter puis rincer à l'eau froide. Faire chauffer à feu moyen et accommoder selon votre goût.\nLes haricots rouges Kidney seront également appréciés froids en salades composées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "petit-pois-etuvee-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETITS POIS À L'ÉTUVÉE 400G BIO",
+                "desc": "Petits Pois à l'étuvée 400g Bio\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec les petits pois à l’étuvée Luce.\nIdéal pour un repas sain, en accompagnement de vos plats de viande, poisson et légumineuse.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900609.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/petit-pois-etuvee-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 530
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 5.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.4,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 5.2
+                    }
+                },
+                "ingredients": "Petits pois extra fins*, eau, sucre*, sel marin, arôme naturel.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 2.4,
+                "price_per_unit": 8.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer au bain-marie, au micro-ondes (dans un récipient adapté) ou dans une casserole, sans les égoutter.\nLes petits pois se dégustent simplement en accompagnement de viandes ou poissons. Pour plus de saveur, ajouter des aromates (persil, ail...) ou une noix de beurre.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, conserver au réfrigérateur et consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "petits-pois-carottes-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PETITS POIS CAROTTES 400G BIO",
+                "desc": "Petits Pois Carottes 400g Bio\nLuce vous propose l’un des produits classiques de conserves de légumes, qui plaît aux petits comme aux plus grands.\nLes petits pois à la texture ferme et au goût subtilement sucré, s’’associent parfaitement au fondant des carottes, pour un mélange de légumes légers et gourmands.\nLes petits pois carottes se dégustent simplement en accompagnement de viandes ou de poissons.\nPour plus de goût, n’hésitez pas à ajouter épices et aromates (ail, persil, poivre…) ou une noix de beurre.\nSans sucres ajouté, contient des sucres naturellement présents.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3335880006239.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/petits-pois-carottes-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 620
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 1.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.4,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Petits pois* (50% minimum), jeunes carottes* (30% minimum), eau, sel.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 9.62,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A réchauffer simplement au bain marie, au micro ondes (dans un récipient adapté) ou dans une casserole, sans les égoutter.\nLes petits pois carottes se dégustent simplement, en accompagnement de viandes ou poissons. Pour plus de goût n'hésitez pas à ajouter aromates et épices (persil, ail…), ou une noix de beurre.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "pois-chiches-240g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIS CHICHES 240G BIO",
+                "desc": "Pois Chiches 240g Bio\nOriginaire du Proche-Orient, le pois chiche est une graine qui se distingue par sa forme ronde et sa couleur qui se situe entre le beige et le jaune. C’est une graine reconnue pour sa richesse en protéines.\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec ces pois chiches.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/4/3431590002674.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pois-chiches-240g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "240G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 6.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.2,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 4.6
+                    }
+                },
+                "ingredients": "Pois chiches biologiques, eau, sel de mer.",
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 1.85,
+                "price_per_unit": 7.71,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Égoutter puis rincer à l’eau froide. Faire chauffer à feu moyen et accommoder selon votre goût. À conserver dans un endroit frais, sec et à l'abri de la lumière. Après ouverture, conserver au frais dans un récipient en verre ou en plastique max 3-4 jours.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.\nAprès ouverture, conserver au frais dans un récipient en verre ou en plastiue maximum 3-4 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "mais-doux-326g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAÏS DOUX EN GRAINS 326G BIO",
+                "desc": "Maïs Doux en grains 326G Bio\nAlliez plaisir, praticité, rapidité et qualités nutritionnelles avec le maïs doux en grains La Bio Idea.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329489901590_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mais-doux-326g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:54",
+                "format": "326G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.7
+                    },
+                    "proteins": {
+                        "proteins": 2.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17,
+                        "of_which_sugars": 6.3,
+                        "dietary_fiber": 2.5
+                    }
+                },
+                "ingredients": "Maïs doux en grais*, eau, sel.",
+                "on_discount": false,
+                "weight_per_packaging": 326.0,
+                "price_per_packaging": 1.95,
+                "price_per_unit": 5.74,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Consommer froid, mélanger avec des tomates, des morceaux d'avocats, du crabe, des crevettes et du poisson.\nConsommer chaud, réchauffer à feu doux avec une noix de beurre pour accompagner les viandes et les volailles.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière.\nAprès ouverture, conserver au réfrigérateur dans un récipient en verre et consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "cocktail-de-legumes-380g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COCKTAIL DE LÉGUMES LACTO-FERMENTÉS 380G BIO",
+                "desc": "Cocktail De légumes lacto-fermentés 380g Bio\nLa fermentation lactique contribue à garder bien « vivantes » les qualités nutritionnelles d’un aliment. Elle développe les arômes des aliments, crée une richesse en vitamines, en minéraux et en oligo éléments au moins égales à celle qu’ils contiennent quand ils sont frais.\nCes produits sont également réputés pour régénérer la flore intestinale et sont plus facile à digérer.\nLégumes lacto fermentés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03022820420414_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cocktail-de-legumes-380g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "380G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 850
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.2,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Choux blanc*, carottes*, poivrons*, oignons, lacto, eau, sel marin, acide ascorbique.",
+                "on_discount": false,
+                "weight_per_packaging": 380.0,
+                "price_per_packaging": 3.55,
+                "price_per_unit": 10.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer nature, en salade ou réchauffé en accompagnement d'une viande.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "radis-noir-380g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RADIS NOIR LACTO-FERMENTÉ 380G BIO",
+                "desc": "Radis noir lacto-fermenté 380g Bio\nLa lactofermentation tranfore les sucres naturellement présents dans le légume an acide lactique grâce à l'ajout indispensable de sel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/0/3022820420216.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/radis-noir-380g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "380G",
+                "availability": true,
+                "ingredients": "Radis noir* lactofermenté (radis noir*, sel marin), jus (eau, sel marin, acide ascorbique).\n* issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 380.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 18.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Egoutter le légume, puis servir nature, en salade ou réchauffé.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrégirateur entre 0°C et +4°C."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "choucroute-380g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOU BLANC LACTO-FERMENTÉ 380G BIO",
+                "desc": "Chou blanc lacto-fermenté 380g Bio\nAvant les surgelés, avant les conserves, il y avait la fermentation lactique, une méthode de conservation ancestrale qui permettait de consommer, même au coeur de l’hiver, des produits aussi riches en vitamines et minéraux que s’ils étaient frais ! la lacto-fermentation (ou fermentation lactique) permet de garder intactes les qualités nutritionnelles des aliments.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_275_574_411.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choucroute-380g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "380G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 0.0
+                    },
+                    "proteins": {
+                        "proteins": 0.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.7,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Choucroute* (chou*, sel marin), jus : eau, sel marin, acide ascorbique.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 380.0,
+                "price_per_packaging": 3.4,
+                "price_per_unit": 10.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer nature, en salade ou réchauffé en accompagnement d'une viande.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "carotte-lf-44-6cl",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CAROTTE LACTO-FERMENTÉE 380G BIO",
+                "desc": "Carotte Lacto-fermentée 380g Bio\nLa fermentation lactique contribue à garder bien « vivantes » les qualités nutritionnelles d’un aliment. Elle développe les arômes des aliments, crée une richesse en vitamines, en minéraux et en oligo éléments au moins égales à celle qu’ils contiennent quand ils sont frais.\nCes produits sont également réputés pour régénérer la flore intestinale et sont plus facile à digérer.\nLégumes lacto fermentés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/_/3_760_275_574_411.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carotte-lf-44-6cl"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "380G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.05
+                    },
+                    "fats": {
+                        "fats": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 0.05
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.3,
+                        "of_which_sugars": 0.05,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "Carottes lacto-fermentées* (carottes*, sel marin), jus (eau, sel marin, acide ascorbique 0,3 %).\n*Ingrédients issus de l'Agriculture Biologique.\nOrigine: France.",
+                "on_discount": false,
+                "weight_per_packaging": 380.0,
+                "price_per_packaging": 3.5,
+                "price_per_unit": 12.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer nature, ne salade ou réchauffé en accompagnement d'une viande.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "marrons-entiers-320g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MARRONS ENTIERS AU NATUREL 320G BIO",
+                "desc": "Marrons entiers au naturel 320g Bio\nDans le cadre protégé du Moulin d'Andiran, nos cuisiniers préparent des produits Bio pour toute la famille depuis 20 ans.\nCes marrons sont cuits entiers au naturel, sans jus, pour vous garantir un fruit tendre et entier.\nDégustés entiers, concassés ou en purée, ces marrons accompagneront parfaitement vos viandes, volailles et gibiers.\n\nPensez aussi à les intégrer dans vos préparations pour confectionner de savoureux desserts.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900517.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/marrons-entiers-320g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "320G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26.1,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 4
+                    }
+                },
+                "ingredients": "Marron entiers*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 8.95,
+                "price_per_unit": 27.97,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dégustés entiers, concassés ou en purée, ces marrons apporteront une touche festive à tous mets salés et de l'onctuosité à vos desserts les plus chaleureux.",
+                "conservation": "Stockage au sec et à température ambiante positive.\nAprès ouverture : A conserver au réfrigérateur après ouverture et à consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "cepes-20g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CÈPES 20G BIO",
+                "desc": "Cèpes, ramassés à pleine maturité dans la forets de chênes (juin), hêtres(juillet-aout) et pins noirs(sept-octobre), ce que nous avons pu collecter, c'est ce que l'ours n'a pas mangé. La découpe en grosses tranches avant séchage est particulièrement adaptée pour accompagner les pâtes, les risottos et la préparation des sauces. A manger tels quels ou réhydratés directement dans la poêle avec un peu d'huile (ou de beurre) et un peu de bouillon.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5425033150235.p5-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cepes-20g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "20G",
+                "availability": true,
+                "ingredients": "100% champignons bio séchés, sans additif.",
+                "on_discount": false,
+                "weight_per_packaging": 20.0,
+                "price_per_packaging": 6.35,
+                "price_per_unit": 317.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "epinard-branche-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ÉPINARDS EN BRANCHE 720ML BIO",
+                "desc": "Épinards en Branche 720ml Bio\nCes épinards en branches ont été cultivés et conditionnés en France. Naturels, sans additifs.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908383.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/epinard-branche-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:55",
+                "format": "720ML",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 560
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 2.9
+                    }
+                },
+                "ingredients": "Epinards* en branches (cultivés en France), eau, sel marin.",
+                "on_discount": false,
+                "weight_per_packaging": 720.0,
+                "price_per_packaging": 5.95,
+                "price_per_unit": 9.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ils sont idéaux pour accompagner vos plats. Egoutter avant de servir.",
+                "conservation": "Après ouverture, à conserver au frais et à consommer dans les 2 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "3303622",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "DOLMAS AU RIZ 280G BIO",
+                "desc": "Dolmas au riz 280G Bio\nFeuilles de vigne au riz, origine Turquie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900548.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/dolmas-feuilles-vignes-280g-3303622"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:56",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.1
+                    },
+                    "fats": {
+                        "fats": 7.7
+                    },
+                    "proteins": {
+                        "proteins": 2.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 3.9
+                    }
+                },
+                "ingredients": "Riz*, Feuilles de vignes*, Oignons*, Huile d'olive*, Eau, Aneth*, Sel de mer, menthe*, Acide citrique, poivre noir*.\n* Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 4.2,
+                "price_per_unit": 15.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrégirateur entre 0°C et +4°C.",
+                "old_price": 4.99
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "aubergines-provencale-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AUBERGINES À LA PROVENÇALE 350G BIO",
+                "desc": "Aubergines à la provençale 350g Bio\nUne succulente recette végétarienne d'aubergines cuisinées à la provençal. Des aubergines françaises, de la pulpe de tomates et des herbes aromatiques, qui accompagneront parfaitement vos plats de pâtes et riz.\nUn format familiale, économique et pratique pour régaler toute la famille.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/aubergines-provencale-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:56",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 580
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.61,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Aubergine* 51% (France), purée* et pulpe de tomate* 33,7% (purée* et cube de tomate*, concentré de tomate* , eau), oignon*, huile d'olive* 1,5%, huile de tournesol*, sel de mer, ail*, jus de citron*, herbes aromatiques*, poivre gris*.\n* Ingrédients issus de l'agriculture biologique.\nTraces possibles de soja et de céleri. Les informations en gras et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 3.35,
+                "price_per_unit": 9.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légumes cuisinés prêts à consommer.\nA réchauffer doucement au bain-marie 5 min ou directement en casserole.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "aubergines-provencale-670g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AUBERGINES À LA PROVENÇALE 670G BIO",
+                "desc": "Aubergines à la provençale 670g Bio\nUne succulente recette végétarienne d'aubergines cuisinées à la provençal. Des aubergines françaises, de la pulpe de tomates et des herbes aromatiques, qui accompagneront parfaitement vos plats de pâtes et riz.\nUn format familiale, économique et pratique pour régaler toute la famille.\nProduit issu de l'agriculture biologique.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700477663032.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/aubergines-provencale-670g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:56",
+                "format": "670G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 580
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.35
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 1.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.61,
+                        "of_which_sugars": 3.9,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Aubergine* 51% (France), purée* et pulpe de tomate* 33,7% (purée* et cube de tomate*, concentré de tomate* , eau), oignon*, huile d'olive* 1,5%, huile de tournesol*, sel de mer, ail*, jus de citron*, herbes aromatiques*, poivre gris*.\n* Ingrédients issus de l'agriculture biologique.\nTraces possibles de soja et de céleri. Les informations en gras et italique sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Céleri"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 670.0,
+                "price_per_packaging": 4.99,
+                "price_per_unit": 7.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Légumes cuisinés prêts à consommer.\nA réchauffer doucement au bain-marie 5 min ou directement en casserole.",
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer dans les 3 jours."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    },
+    {
+        "ean": "poivrons-farcis-feta-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Conserves de légumes"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "POIVRONS FARCIS À LA FETA BIO",
+                "desc": "Poivrons farcis à la feta Bio\nDécouvrez les Mini-Poivrons farcis à la Feta BIO de la marque IBO!, un vrai délice authentique issu de l’agriculture biologique. Ces mini-poivrons sont soigneusement garnis d’un mélange savoureux de fromage à la crème et de feta AOP, pour une expérience gustative à la fois unique et saine.\nIdéaux pour agrémenter vos apéritifs toute l’année, ces mini-poivrons se dégustent aussi bien tels quels que dans des salades, apportant couleur et saveur. Vous pouvez aussi les utiliser en garniture sur des toasts ou en accompagnement de vos plats principaux, pour enrichir vos repas d’une touche gourmande.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329489900548.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/poivrons-farcis-feta-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T21:56",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.3
+                    },
+                    "fats": {
+                        "fats": 15.3
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.3,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Mini-poivrons* 40%, huile de tournesol*, fromage à la crème* (lait de vache*, sel, culture de bactéries lactiques) 20%, fromage Feta AOP* 4% (lait de brebis*, lait de chèvre*, sel, présure microbienne), amidon de maïs*, vinaigre de vin blanc*, poudre d'ail*, thym séché*, acidifiant : acide lactique.\n\n*issu de l’agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 6.99,
+                "price_per_unit": 34.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prêts à déguster. Ces poivrons seront parfaits pour aggrémenter vos salades et vos apéritifs.",
+                "conservation": "A conserver dans un endroit frais et sec, à température inférieure à +25°C et à l'abri de la lumière. A conserver au réfrigérateur entre 0°C et +4°C et à consommer sous 4 semaines."
+            }
+        ],
+        "created_at": "2025-06-15T21:52",
+        "updated_at": "2025-06-15T21:52"
+    }
+]

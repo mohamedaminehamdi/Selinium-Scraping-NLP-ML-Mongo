@@ -1,0 +1,168 @@
+[
+    {
+        "ean": "000000000000066614",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Vacherin vanille-framboise",
+                "desc": "Entremet glacé composé d'un sorbet à la framboise 36,7%, de crème glacée à la vanille 32,6%, de meringues 18,7% et d'un décor 12%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/vacherin-vanille-framboise-000000000000066614.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 940.0,
+                        "kcal": 223.0
+                    },
+                    "fats": {
+                        "fats": 6.6,
+                        "saturates": 4.6
+                    },
+                    "proteins": {
+                        "proteins": 2.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39.0,
+                        "of_which_sugars": 34.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Purée de framboise 23,4%, sucre, lait entier, crème liquide (lait) [crème (lait), stabilisant : carraghénanes], crème fraîche (lait), blanc d’œuf issu de poule élevée en plein air (liquide, pasteurisé), eau, jaune d’œuf issu de poule élevée en plein air (liquide, pasteurisé), sirop de sucre inverti, sirop de glucose en poudre, glaçage (sucre, eau, sirop de glucose, gélifiant : pectines, acidifiant : acide citrique), framboise 0,7%, grappe de groseille 0,6%, arôme naturel de vanille 0,5%, sucre glace (sucre, antimottant : fécule de pomme de terre), gélifiant : pectines, épaississants (gomme de guar, farine de graines de caroube), poudre de vanille épuisée.",
+                "allergens": [
+                    "œuf",
+                    "lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 21.99,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    },
+    {
+        "ean": "000000000000082109",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 vacherins vanille-framboise",
+                "desc": "Sorbet à la framboise 51%, crème glacée à la vanille 32,9%, meringue décorée 13,4%, décor de framboise 2,7%",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2332f00a/produits/000000000000023105_E[1].jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-vacherins-vanille-framboise-000000000000082109.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 682.0,
+                        "kcal": 161.0
+                    },
+                    "fats": {
+                        "fats": 1.6,
+                        "saturates": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 2.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34.0,
+                        "of_which_sugars": 30.0,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Eau, Purée de framboise 25,5%, sucre, crème fraîche liquide (LAIT) 6,3%, blanc d'OEUF issu de poule élevée en plein air (liquide, pasteurisé), sirop de glucose-fructose, lactose (LAIT) et protéines de LAIT, framboise 2,6%, sirop de glucose en poudre, blanc d'OEUF en poudre issu de poule élevée en plein air, LAIT écrémé en poudre, jus de citron concentré, fécule de pomme de terre, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale, épaississants (gomme guar, gomme xanthane, farine de graines de caroube), protéines de pois hydrolysées, arôme naturel de framboise 0,07%, arôme naturel de vanille 0,07%, gélifiant : pectines, stabilisant : gomme Tara, fraise déshydratée en poudre.",
+                "allergens": [
+                    "lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 5.5,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    },
+    {
+        "ean": "000000000000086429",
+        "business_type": "food",
+        "market": {
+            "name": "picard",
+            "country": "FR",
+            "address": "market Paris Alésia"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Assortiment de 6 mochis glacés",
+                "desc": "2 mochis coeur glacé au fruit de la passion 57,7% enrobés d'une pâte de riz 42,3%. 2 mochis coeur glacé au litchi 57,7% enrobés d'une pâte de riz 42,3%. 2 mochis coeur glacé à la fraise 57,7% enrobés d'une pâte de riz 42,3%.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw91a06b8b/produits/000000000000006245_E2.jpg?sw=300&sh=175&q=30&frz-v=60"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/assortiment-6-mochis-glaces-000000000000086429.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-05-22T02:35",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 886.0,
+                        "kcal": 210.0
+                    },
+                    "fats": {
+                        "fats": 5.3,
+                        "saturates": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 0.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 40.0,
+                        "of_which_sugars": 24.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Mochi glacé au fruit de la passion (52 g) : eau, sirop de glucose, lait de noix de coco, fruit de la passion 14,4%, sucre de canne, amidon transformé de tapioca et farine de riz gluant, huile de son de riz, stabilisants (farine de graines de caroube, gomme guar, carraghénanes, mono- et diglycérides d'acides gras d'origine végétale), maltodextrine , dextrose, sel, acidifiant : acide ascorbique, colorants (caroténoïdes, betterave rouge). Mochi glacé au litchi (52 g) : eau, litchi 18,8%, sirop de glucose, lait de noix de coco, sucre de canne, amidon transformé de tapioca et farine de riz gluant, huile de son de riz, dextrose, maltodextrine, stabilisants (farine de graines de caroube, gomme guar, carraghénanes, mono- et diglycérides d'acides gras d'origine végétale), sel, acidifiant : acide citrique, colorant : betterave rouge. Mochi glacé à la fraise (52g) : lait de noix de coco, eau, sirop de glucose, fraise 12,4%, sucre de canne, amidon transformé de tapioca et farine de riz gluant, huile de son de riz, dextrose , maltodextrine, stabilisants (farine de graines de caroube, gomme guar, carraghénanes, mono- et diglycérides d'acides gras d'origine végétale), acidifiant : acide citrique, colorant : betterave rouge, sel",
+                "allergens": [
+                    "lait"
+                ],
+                "on_discount": false,
+                "price_per_packaging": 5.99,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-05-22T02:34",
+        "updated_at": "2025-05-22T02:34"
+    }
+]

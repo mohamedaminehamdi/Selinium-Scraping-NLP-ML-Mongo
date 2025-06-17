@@ -1,0 +1,145 @@
+[
+    {
+        "ean": "000000000000015822",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plats cuisinés"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauté de porc tomates olives",
+                "desc": "Viande de porc cuisiné 42,8% dans une sauce à base de tomate 47,6% et aux olives vertes 9,5%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=62"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/saute-porc-tomates-olives-000000000000015822.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-01T01:34",
+                "format": "LA BOÎTE DE 420 G",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 516.0,
+                        "kcal": 123.0
+                    },
+                    "fats": {
+                        "fats": 5.3,
+                        "saturates": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.4,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Viande de porc cuite 42,8% (origine : France*), réduction de tomate 15,8%, jus de cuisson de la viande de porc [jus de cuisson de la viande de porc (origine : France*), eau, farine de BLE (GLUTEN), sel], olive verte dénoyautée** 9,5% (olive, eau, sel, acidifiant : acide citrique), bouillon de légumes (eau, CELERI, tomate 0,1%, carotte, champignon de Paris, poireau, baie de genièvre), oignon, fenouil, vin blanc, huile d'olive vierge extra, échalote, CELERI, carotte, concentré de tomates 0,6%, ail, thym, paprika, piment.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 420.0,
+                "price_per_packaging": 6.9,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\nPrêt en 6 min\nDisposez le sachet dans un plat adapté, puis percez le dessus. Faites réchauffer le temps indiqué. Remuez le sachet pour homogénéiser la sauce avant de l'ouvrir. Puissance restituée au four à micro-ondes : 750 watts : 6min30 900 watts : 6 min\n\nAu bain-marie\nPréparation sans décongélationCuisson au bainmarie pendant\n25 min\nPlongez le sachet dans une casserole d'eau bouillante. Laissez réchauffer sans couvrir 25 minutes après la reprise du frémissement (sans bouillir). Remuez le sachet pour homogénéiser la sauce avant de l'ouvrir.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.16,
+            "total_reviews": 56
+        }
+    },
+    {
+        "ean": "000000000000089552",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Types de plats cuisinés"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Curry de légumes et pois chiches, duo de riz",
+                "desc": "Sauce 40,1% à la tomate, lait de coco et curry, légumes 21,1%, riz long, pois chiche et spécialité à base de lentille corail, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=62"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/curry-leg%2Fpois-chiches-fe-000000000000089552.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-01T01:34",
+                "format": "BARQUETTE DE 300 G",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 400.0,
+                        "kcal": 95.0
+                    },
+                    "fats": {
+                        "fats": 2.7,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12.0,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Riz long cuit 21% (eau, riz long 6,3%), pulpe de tomate au jus 14,7% (tomate, jus de tomate), oignon, pois chiche cuit 12% (eau, pois chiche 4,5%), chou-fleur 10%, patate douce 8%, spécialité à base de lentille corail cuite 5,2% (eau, farine de lentille corail 2,3%), pois doux garden peas 3%, lait de coco 2,9% (extrait de coco, eau), LAIT fermenté concentré, huile de colza, ail, eau, gingembre, sel, curry 0,3% [épices, plantes aromatiques (contient MOUTARDE), sel], coriandre, farine de riz, curcuma, coriandre en poudre, cardamome, cannelle, laurier, girofle.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Lait",
+                    "Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 2.0,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n5 min\nDécollez le coin de l'opercule carton et laissez cuire à puissance maximale (900 watts) le temps indiqué sur l'opercule. Laissez reposer quelques instants avant de déguster.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th.6). Retirez l'opercule carton de la barquette et laissez cuire le temps indiqué sur une grille à mi-hauteur. En fin de cuisson, couvrez si nécessaire. Four traditionnel : 40 minutes - Four à chaleur tournante : 35 minutes.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.37,
+            "total_reviews": 35
+        }
+    }
+]

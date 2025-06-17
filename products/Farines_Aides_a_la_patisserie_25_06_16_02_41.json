@@ -1,0 +1,2077 @@
+[
+    {
+        "ean": "farine-t65-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE BLÉ SEMI-COMPLÈTE T65 1KG BIO",
+                "desc": "Farine de blé semi-complète T65 1Kg Bio\nFarine de blé type 65 BIO selectionnée par Markal.\n  Depuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03347430019934_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-t65-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "fats": {
+                        "fats": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Farine de blé*.\n*Ingrédient issu de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 2.7,
+                "price_per_unit": 2.7,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La farine T65 est à utiliser pour tous type de préparations culinaires : pains, gâteaux, pâtes à tartes, sauces...",
+                "conservation": "A conserver dans un endroit sec et frais."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "3777194",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE COMPLÈTE DE PETIT ÉPEAUTRE 500G BIO",
+                "desc": "Farine complète de Petit Épeautre 500g Bio\nLe petit épeautre appartient au même genre botanique que le blé. C’est une céréale très ancienne qui n’a pas subi la sélection moderne. On retrouve le petit épeautre sur des terres pauvres dans des conditions climatiques plutôt rudes. C’est donc une céréale résistante.\nCette farine complète contient l’ensemble des éléments nutritifs du grain de petit-épeautre (équivalent T150). Elle est riche en fibres et source de protéines.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486261208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-pt-epeautre-integr-500g-3777194"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 3.7
+                    },
+                    "proteins": {
+                        "proteins": 11.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 58.4,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 10.1
+                    }
+                },
+                "ingredients": "Farine de petit épeautre*\n*Ingrédients issu de l'agriculture biologique\nTraces possibles de céréales contenant du gluten, soja, fruits à coques (noisettes, amandes, noix de cajou), sésame.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 7.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La force du gluten du petit épeautre est assez faible : utilisez un moule pour la levée et la cuisson de votre pain pour une meilleure tenue de la pâte.\nSi vous souhaitez confectionner un pain bien levé, cette farine de petit épeautre complète peut être mélangée à une farine de blé bise ou de grand épeautre bise par exemple.\nCette farine de petit épeautre remplacera la farine de blé complète traditionnelle. Elle vous permettra de confectionner des préparations rustiques et savoureuses telles que du pain mais aussi des crêpes, des galettes, des gaufres, des biscuits, des pâtes à tarte ou à pizza…",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-de-chia-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE CHIA 400G BIO",
+                "desc": "Farine de chia 400g Bio\nOriginaire du Mexique, les graines de chia (terme qui signifie « force » en maya) sont des oléagineux particulièrement nourrissants.\nElles sont connues pour faire partie des « aliments d’endurance » des Aztèques et tribus natives d’Amérique du Sud.\nLa farine de graines de chia permet d’en diversifier les usages, en l’incorporant dans toutes vos recettes de type crêpes, gaufres, pains, etc.\nFarine sans Gluten Bio, végétarien, cru, bio, sans gluten et sans lactose.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360615.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-de-chia-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 8
+                    },
+                    "proteins": {
+                        "proteins": 30
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9,
+                        "dietary_fiber": 44
+                    }
+                },
+                "ingredients": "100 % farine de chia (Salvia Hispanica) issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 10.85,
+                "price_per_unit": 27.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour des crêpes et galettes moelleuses et fondantes en bouche, incorporez une cuillère à soupe bien pleine de farine de graine de chia dans votre recette favorite.\n1 cuillère à soupe = 2 oeufs environ.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-5-cereales-graines-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE 5 CÉRÉALES ET 3 GRAINES 500G BIO",
+                "desc": "Farine 5 céréales et 3 graines 500g Bio\nLa farine 5 céréales et 3 graines est un mix original alliant : farine de blé, farine de seigle, farine d’orge, farine de riz, farine de grand épeautre intégral, graines de millet décortiqué, avoine décortiqué et graines de sésame.\n\nElle peut être utilisée dans les préparations de pains en machine ou en méthode traditionnelle, en remplacement ou en complément d’autres farines.\n\nCette farine vous apporte tous les bienfaits nutritionnels des farines et graines présentes.\n  Depuis 1936, Markal, développe son activité autour de son produit historique, le boulgour. Aujourd'hui, elle vous propose un large choix de produits en vous permettant d'intégrer le bio à chacun de vos repas : riz, pâtes, farines, aides culinaires, légumineuses et bien d'autres encore.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/a/farine-de-riz-demi-complete-bio-sans-gluten.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-5-cereales-graines-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "3 G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.8
+                    },
+                    "fats": {
+                        "fats": 4.2
+                    },
+                    "proteins": {
+                        "proteins": 12.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.2,
+                        "of_which_sugars": 1.2
+                    }
+                },
+                "ingredients": "Mélange de farines* (blé tendre T65*, seigle*, orge*, riz*, grand épeautre intégrale*), millet décortiqué*, avoine décortiquée*, sésame blond*, flocons d'avoine*, gluten de blé*. \n\n*Ingrédients issus de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 3.0,
+                "price_per_packaging": 2.29,
+                "price_per_unit": 4.58,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Parfaitement adaptée aux recettes en machines à pains ou en méthodes traditionnelles, en complément ou pour remplacer des farines standards.\nLa farine 5 céréales et 3 graines sera parfaite pour la conception de vos pains rustiques.\nElle sera également idéale pour donner un goût authentique à vos différentes recettes : gâteaux, pâtes à tarte ou pizza, biscuits, galettes…",
+                "conservation": "Conserver dans un endroit frais, sec et à l'abri de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-lentilles-vertes-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE LENTILLES VERTES 500G BIO",
+                "desc": "Farine de lentilles vertes 500g Bio\nTrès appréciée depuis la plus haute Antiquité, la lentille verte est la plus riche en fer et en protéines de toutes les légumineuses.\nLa lentille est une plante herbacée annuelle qui pousse en une petite plante touffue, à tiges très fines.\nLa lentille est un aliment très précieux du point de vue nutritionnel : elle est très riche en fibres et, est digeste car elle contient peu de cellulose. Riche en vitamines B1, B2, B6, elle contient 3 fois plus de calcium que les céréales et 7 fois plus de fer que les épinards.\nOrigine matière première : France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360615.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-lentilles-vertes-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 61
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 24
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 50.4,
+                        "of_which_sugars": 1
+                    }
+                },
+                "ingredients": "Lentilles vertes.\nOrigine matière première : France.\nProduit issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.75,
+                "price_per_unit": 11.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Cette farine de lentilles vertes permet de réaliser pains, gâteaux (en complément de la farine de blé) ou est employée comme base ou liant pour des soupes ou potages.",
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-ancien-t110-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE SEMI-COMPLÈTE DE BLÉS ANCIENS T110 1KG BIO",
+                "desc": "Farine semi-complète de blés anciens T110 1Kg Bio\nIl s'agit de blés n'ayant pas subi de sélection productiviste. Ce sont les blés cultivés autrefois par les payans qui ne cherchaient pas à coller aux \"standards\" de l'industrie. \nCelnat a travaillé en partenariat avec l'association bourguignonne Graines de Noé pour mettre en valeur une vingtaine de variétés de blés anciens à travers cette farine notamment.\nCette farine est également semi-complète, ce qui signifie qu'elle contient une bonne partie des éléments nutritifs des grains de blés.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486251124_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-ancien-t110-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:37",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67,
+                        "of_which_sugars": 1.9
+                    }
+                },
+                "ingredients": "Farine semi-complète de blé*.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 4.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Vous pourrez l'utisiliser en panification, pour vos gâteaux, vos crêpes...\nAttention cependant à ne pas trop la travailler car le gluten des blés anciens est plus \"fragile\".",
+                "conservation": "Conserver au frais et au sec après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-ancien-t65-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE BLANCHE DE BLÉS ANCIENS T65 1KG BIO",
+                "desc": "Farine blanche de blés anciens T65 1Kg Bio\nLa Farine blanche de blés anciens T65 est issue d’un tamisage plus poussé que les farines intégrale, complète et demi-complète.\nElle est donc moins riche d’un point de vue nutritif mais sera appréciée pour sa finesse qui vous permettra de réaliser les mets les plus délicats, notamment des pâtisseries.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486251124_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-ancien-t65-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69,
+                        "of_which_sugars": 1.8
+                    }
+                },
+                "ingredients": "Farine de blés anciens*.\n*Ingrédients issus de l’agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 4.65,
+                "price_per_unit": 4.65,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver au frais et au sec après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-de-riz-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE RIZ 500G BIO",
+                "desc": "Farine de riz 500g Bio\nA utiliser en complément de farines traditionnelles, naturellement sans gluten la farine de riz de peut pas lever utilisée seule. Idéale pour élaborer des recettes légères: cake, pâtisseries, gâteaux, crêpes.\nEgalement parfaite en tant que liant ou épaississant pour vos crèmes et sauces.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360615.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-de-riz-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.18
+                    },
+                    "fats": {
+                        "fats": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 5.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Riz* blanc.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.9,
+                "price_per_unit": 5.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour la panification, à utiliser en complément de farines traditionnelles (naturellement sans gluten, la farine de riz blanc ne se lève pas seule).",
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-chataigne-france-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE CHÂTAIGNE FRANCE 500G BIO",
+                "desc": "Farine de Châtaigne France 500g Bio\nLa farine de châtaigne Priméal se caractérise par sa saveur douce et sa couleur claire. Elle s'utilise pure ou en mélange avec de la farine de blé en proportion d'un tiers. Fidèle à ses origine ardéchoises, Priméal s'attache à valoriser la châtaigne française avec toute une gamme élaborée à partir de ce fruit oublié.\nPriméal s'engage pour une Agriculture Bio française.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/primeal-fecule-de-mais.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-chataigne-france-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.2
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 70,
+                        "of_which_sugars": 28.8,
+                        "dietary_fiber": 12.9
+                    }
+                },
+                "ingredients": "Châtaignes*\n*Ingrédient issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 10.8,
+                "price_per_unit": 21.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Elle s’utilise pure ou en mélange avec d'autres farines sans gluten (de maïs ou de riz) pour la pâtisserie en proportion d'un tiers.\nExcellente pour la préparation de crêpes, gauffres, pains...",
+                "conservation": "A conserver dans un endroit sec, tempéré, et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "lev-epeautre-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "LEVURE ÉPEAUTRE POUR PAINS ET PÂTES LEVÉES 200G BIO",
+                "desc": "Levure Épeautre pour Pains et Pâtes Levées 200G Bio\nCe levain est élaboré exclusivement avec des ingrédients issus de l’Agriculture Biologique: épeautre et levure sélectionnée.\nCette levure en synergie avec le levain d’épeautre va développer des parfums très agréables au cours de la fermentation, mais elle nécessite un temps de pousse adaptée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329488931208.1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/lev-epeautre-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 16.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 55.4,
+                        "of_which_sugars": 0.1,
+                        "dietary_fiber": 13.9
+                    }
+                },
+                "ingredients": "Levain d’épeautre (gluten) déshydraté et dévitalisé issu de fermentation naturelle*, levure sélectionnée*.\n*Ingrédients issus de l’Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 7.65,
+                "price_per_unit": 38.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A la main:\nDans un saladier, mélanger la farine (de préférence de la farine claire ou bise bio), le levain (50 g/kg de farine), le sel (20 g/kg de farine) et de l'eau tiède (environ 60 % du poids de farine).\nLaisser reposer quelques instants pour hydrater la farine, puis pétrir en repliant les bords vers le centre pendant une dizaine de minutes pour obtenir une boule de pâte souple et bien lisse qui ne colle plus.\nLaisser reposer 30 minutes dans un saladier couvert à une température de 22 °C environ.\nReprendre le pâton en chassant légèrement l'air qui est entré puis former votre pain.\nLe laisser reposer une nouvelle fois (phase d'apprêt) pendant 60 à 90 minutes pour permettre à la pâte de gagner en volume et en arômes.\nMettre à four chaud (200-230 °C) pendant 45 minutes environ.\nEn machine à pain:\nVerser 320 ml d'eau tiède dans la cuve.\nAjouter du sel, 500 g de farine et 25 g de levain bio de blé Priméal.\nLancer un programme de pain complet (environ 3h à 3h30).",
+                "conservation": "A conserver dans un endroit sec et frais. Après ouverture, bien refermer le sachet et à conserver à l’abri de l’humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-de-riz-complet-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE RIZ COMPLÈTE 500G BIO",
+                "desc": "Farine De Riz Complète 500g Bio\nLa farine de riz complète s'adapte à toutes les préparations.\nSa saveur neutre lui permet de s'associer avec toutes les autres farines.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360684.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-de-riz-complet-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 2.8
+                    },
+                    "proteins": {
+                        "proteins": 7.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.9,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 4.6
+                    }
+                },
+                "ingredients": "riz complet*\n*issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 8.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Peut s'utiliser pure pour épaissir des sauces, des crèmes ou des potages.\nEn mélange avec de la farine de blé ou d'épautre, elle donne une texture plus croustillante à vos pâtes à tarte, à vos biscuits...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-epeautre-comp-igp-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE PETIT ÉPEAUTRE COMPLÈTE 500G BIO",
+                "desc": "Farine de petit épeautre complète 500G Bio\nLe petit épeautre cultivé et décortiqué en Haute-Provence. Mode de culture traditionnel.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360684.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-epeautre-comp-igp-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.5
+                    },
+                    "fats": {
+                        "fats": 3
+                    },
+                    "proteins": {
+                        "proteins": 12.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.3,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 9.2
+                    }
+                },
+                "ingredients": "Farine de petit épeautre de Haute-Provence* complète (GLUTEN).\nFarine obtenue à partir de la mouture du grain entier.\n* Ingrédient issu d'agriculture biologique\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\nOrigine France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.7,
+                "price_per_unit": 9.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.70 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser en remplacement partiel ou total de la farine de blé dans toutes vos recettes de pains, de biscuits ou de pâtisseries.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-t55-patisserie-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE BLÉ PÂTISSIÈRE T55 1KG BIO",
+                "desc": "Farine de blé Pâtissière T55 1Kg Bio\nLa farine T65 (de couleur  blanc crème) est recommandée pour la fabrication de pains, pizzas, fougasses…\nElle peut s’utiliser seule ou en complément d’autres farines.\nElle peut aussi s’utiliser dans les pâtes à tarte, diverses pâtisseries, viennoiseries et sauces.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486281121_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-t55-patisserie-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:38",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1
+                    },
+                    "proteins": {
+                        "proteins": 10.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.2,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Blé tendre* moulu.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.25,
+                "price_per_unit": 3.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La farine T65 permet de réaliser de nombreuses recettes telles que pâtes à tartes ou pizzas, gâteaux, pâtisseries, crêpes…\nCette farine est facile à travailler et permet de réussir de nombreux plats délicats, notamment en pâtisserie.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-t65-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE BLÉ T65 1KG BIO",
+                "desc": "Farine de Blé T65 1Kg Bio\nLa famille Rochefort façonne sa farine à partir des céréales bio qu'elle cultive à Patay (45).\nEnsachée par les petites mains du centre d'aide par le travail d'Artenay, cette farine n'a subi aucun traitement.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486281121_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-t65-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Qualité boulangère.\nFarine de blé blanche (T65).",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.25,
+                "price_per_unit": 3.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-petit-epeautre-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE PETIT EPEAUTRE 1KG BIO",
+                "desc": "Farine de Petit Epeautre 1Kg Bio\nLa famille Rochefort façonne sa farine à partir des céréales bio qu'elle cultive à Patay (45). Ensachée par les petites mains du centre d'aide par le travail d'Artenay, cette farine n'a subi aucun traitement. Qualité boulangère. Conserver au frais et au sec.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760087360615.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-petit-epeautre-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "1KG",
+                "availability": true,
+                "ingredients": "Farine de petit épeautre (t160).",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 7.15,
+                "price_per_unit": 7.15,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "gluten-de-ble-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GLUTEN DE BLÉ 500G BIO",
+                "desc": "Gluten de Blé 500g Bio\nLe gluten de blé sert à la confection d'une préparation culinaire riche en protéines, le seitan (spécialité chinoise).\nIdéal substitut à la viande et à utiliser en alternance avec les produits à base de soja.\nOrigine : Italie",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760274683015.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gluten-de-ble-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.3
+                    },
+                    "fats": {
+                        "fats": 2
+                    },
+                    "proteins": {
+                        "proteins": 77
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.8,
+                        "of_which_sugars": 0.0,
+                        "dietary_fiber": 0.1
+                    }
+                },
+                "ingredients": "Gluten de Blé*.\n*Issues de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.55,
+                "price_per_unit": 15.1,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Conserver au sec et au frais après ouverture.",
+                "conservation": "Conserver au frais et au sec après ouverture."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-pt-epeautre-integ-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE PETIT ÉPEAUTRE INTÉGRALE 500G BIO",
+                "desc": "Farine au Petit Epeautre Intégrale 500G Bio.\nLa farine de petit épeautre intégrale peut être utilisée en complément d'une farine de blé dans toutes vos recettes de pain intégraux, biscuits, pâtisseries, crêpes, pâtes ou sauces.\nS'utilise seule ou en complément de farines traditionnelles. La farine de petit épeautre apportera un goût et une saveur authentique à toutes vos préparations.\nLa farine de petit épeautre donne un pain au goût unique et savoureux.\nPanifications, pâtisseries.\nRiche en fibres, Saveur authentique, Source de protéines, Variante ancienne du blé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390123402_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-pt-epeautre-integ-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fats": {
+                        "fats": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62,
+                        "of_which_sugars": 0.2
+                    }
+                },
+                "ingredients": "Petit épeautre biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 8.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La farine de petit épeautre pourra être utilisée comme une farine de blé standard. Elle sera parfaite pour vos recettes de pains, pâtisseries, pâtes à tarte...",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-grise-t110-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE BLÉ GRISE T110 1KG BIO",
+                "desc": "Farine Blé Grise T110 1Kg Bio\nAvec notre filière Bio Markal s'engage à privilégier une agriculture respectueuse de son environnement et des hommes, permettant d'offrir des produits de qualité aux consommateurs.\nPlus le taux de cendre d'une farine est élevé plus la farine est complète.\nLe taux de cendre (quantité des résidus minéraux) de la farine T110 varie entre 1% et 1.2%.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036907041.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-grise-t110-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.01
+                    },
+                    "fats": {
+                        "fats": 2.1
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68,
+                        "of_which_sugars": 2,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Blé tendre biologique\nTrace possible de LUPIN, SESAME et SOJA.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.05,
+                "price_per_unit": 3.05,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La farine T110 est idéale pour les recettes de pain bis et complets, de pâtisserie ou de sauce. Elle peut être utilisée seule ou en compléments de farines traditionnelles.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-chataigne-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE CHÂTAIGNE 500G BIO",
+                "desc": "Farine de Châtaigne 500g Bio\nAccentuez le goût de toutes vos préparations en remplaçant une partie de la farine standard par de la farine de châtaigne.\nVos recettes de pains, pâtisseries, crêpes… surprendront vos convives par leur originalité.\nIdéale en pâtisserie.\n  Moulue à la Meule de pierre, Riche en fibres, Saveur douce et sucrée.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120022048.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-chataigne-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 5.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 64.8,
+                        "of_which_sugars": 24.9,
+                        "dietary_fiber": 12.6
+                    }
+                },
+                "ingredients": "Châtaigne biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 10.15,
+                "price_per_unit": 20.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser seule ou en complément de farine de blé standards (notamment pour vos recettes de panifications).\nLa farine de châtaigne rehaussera le goût de vos pains, des pâtisseries, pâtes à crèpes, beignets, pâtes à tarte... Elle sera également appréciée pour la confection de sauce (notamment pour accompagner le gibier).\nle goût délicat et sucré de la farine de châtaigne se marie parfaitement avec le chocolat, les amandes, noisettes et le miel.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-seigle-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE SEIGLE 500G BIO",
+                "desc": "Farine Seigle 500G Bio\nLes farines spéciales MARKAL seront idéales pour personnaliser vos recettes et leurs donner un goût et une saveur authentique et originale.\nLe seigle possède d'excellentes qualités nutritionnelles par sa richesse en fibres.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329486511204.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-seigle-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66,
+                        "of_which_sugars": 2
+                    }
+                },
+                "ingredients": "Seigle biologique.\nTrace possible de lupin, sésame et soja.",
+                "allergens": [
+                    "Gluten",
+                    "Soja",
+                    "Sésame",
+                    "Lupin"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 1.8,
+                "price_per_unit": 3.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Il est recommandé d'utiliser la farine de seigle en complément de farine standard afin d'obtenir une pâte plus levée.\nLa farine de seigle sera idéale pour la conception de pains complets, pain noir, pumpernickel, pain d'épices, biscuits, patisseries....Il apportera une saveur légèrement sucrée et un goût prononcé à toutes vos préparations.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-gd-epeautre-integ-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE GRAND ÉPEAUTRE INTÉGRALE 500G BIO",
+                "desc": "Farine de grand épeautre intégrale 500G Bio.\nL’épeautre est l’ancêtre du blé. Il bénéficie de grandes qualités nutritionnelles et est plébiscité par de nombreux consommateurs soucieux de leur alimentation.\nLa farine de grand épeautre intégrale peut être utilisée seule ou en complément de farines plus traditionnelles dans toutes vos recettes de pains  blancs, biscuits, pâtisseries, crêpes, pâtes ou sauces.\nPanifications, pâtisseries.\nRiche en fibres, Source de protéines, Variante ancienne du blé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3273120022048.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-gd-epeautre-integ-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.0
+                    },
+                    "fats": {
+                        "fats": 2.4
+                    },
+                    "proteins": {
+                        "proteins": 11
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 9.2
+                    }
+                },
+                "ingredients": "Grand épeautre biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 2.9,
+                "price_per_unit": 5.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "S’utilise seule ou en complément de farines traditionnelles.\nLa farine de grand épeautre intégrale pourra être utilisée comme une farine de blé standard. Elle sera parfaite pou vos recettes de pains, pâtisseries, pâtes à tarte...",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-gd-epeautre-blanc-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE GRAND ÉPEAUTRE BLANC 500G BIO",
+                "desc": "Farine de grand épeautre blanc 500G Bio.\nL’épeautre est l’ancêtre du blé. Il bénéficie de grandes qualités nutritionnelles et est plébiscité par de nombreux consommateurs soucieux de leur alimentation.\nLa farine de grand épeautre blanche peut être utilisée  seule  ou en complément de farines plus traditionnelles dans toutes vos recettes de pains blancs, biscuits, pâtisseries, crêpes, pâtes ou sauces.\nPanifications, pâtisseries.\nSource de fibres, Variante ancienne du blé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380390123402_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-gd-epeautre-blanc-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:40",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.2
+                    },
+                    "fats": {
+                        "fats": 1.8
+                    },
+                    "proteins": {
+                        "proteins": 9.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71.4,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 4.4
+                    }
+                },
+                "ingredients": "Grand épeautre biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 3.15,
+                "price_per_unit": 6.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "S’utilise seule ou en complément de farines traditionnelles.\nLa farine de grand épeautre blanche pourra être utilisée comme une farine de blé standard. Elle sera parfaite pour vos recettes de pains, pâtisseries, pâtes à tarte…",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-souchet-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE SOUCHET 400G BIO",
+                "desc": "Farine de souchet 400g Bio\nLe souchet, aussi connu sous le nom de \"noix tigrée\", n'est en fait pas une noix mais un tubercule caractérisé par un contenu en fer, potassium et fibres particulièrement élevé.\nFruit de l'herbe Chufa, base de la Horchata de Chufa en Espagne (lait végétal traditionnel), il se consomme également entier, à grignoter comme un fruit sec.\nOn associera idéalement le souchet à la farine de millet riche en silicium aisni qu'à la farine de pépins de raisin riche en anti-oxydants, dans une préparation faite à base de miel et d'huile d'olive (pour en faire une pâte à tartiner ou à manger à la cuillère).\nSource de fer et de potassium. Riche en fibres et sels minéraux. Se consomme généralement cru. Naturellement sans gluten.\nIssu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486261208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-souchet-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:40",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 12.5
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.01
+                    },
+                    "fats": {
+                        "fats": 24.9
+                    },
+                    "proteins": {
+                        "proteins": 4.58
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63.6,
+                        "of_which_sugars": 21.8
+                    }
+                },
+                "ingredients": "Farine de souchet*.\n*Issue de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 9.75,
+                "price_per_unit": 24.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "2 à 3 cuillères à soupe par jour, mélangé aux céréales (son goût caractéristique en fait un excellent ingrédient de muesli), aux yaourts, laits végétaux, fruits écrasés, saupoudrés sur les tartes..\nPeut aussi s'incorporer dans les pâtisseries, fond de tarte, gratins de légumes.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-millet-brun-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE MILLET BRUN 500G BIO",
+                "desc": "Farine de Millet brun 500g Bio\nLe millet brun est une variété spécifique de millet (sans gluten) particulièrement riche en minéraux et surtout en silicium. Dans notre farine complète de millet brun tous les nutriments de cette plante hors du commun sont préservés, car ses grains sont broyés avec leur cosse, qui est parfaitement digeste contrairement à celle du millet commun.\nOn associera idéalement le millet brun à la farine de souchet au délicieux goût d'amande ainsi qu'à la farine de pépins de raisin riche en antioxydants, dans une préparation faite à base de miel et d'huile d'olive (pour en faire une pâte à tartiner ou à manger à la cuillère).\nSe consomme généralement cru.\nNaturellement sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3329486511204.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-millet-brun-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:40",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4.9
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.4
+                    },
+                    "fats": {
+                        "fats": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 12.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 72.5,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 16.1
+                    }
+                },
+                "ingredients": "Farine de millet brun*(Panicum miliaceum).\n*Issue de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.45,
+                "price_per_unit": 14.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "2 cuillères à soupe par jour, mélangé au muesli, fromage blanc, compote... le millet brun s'associe particulièrement bien avec le souchet en poudre dont il bénéficiera du goût naturellement sucré.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "fecule-de-mais-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FÉCULE DE MAÏS 250G BIO",
+                "desc": "Fécule de maïs 250G Bio\nFécule de maïs.\nContribue à la légèreté des textures de gâteaux.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800001268.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/fecule-de-mais-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:40",
+                "format": "250G",
+                "availability": true,
+                "ingredients": "Fécule de maïs* (amidon).\n*Issue de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.19,
+                "price_per_unit": 12.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Remplace la farine en totalité (crème) ou en partie (dans des proportions variables suivant la recette).\nExcellent liant à chaud en veillant à délayer la fécule dans un liquide froid avant cuisson.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-riz-demi-complet-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE RIZ DEMI-COMPLET SANS GLUTEN 500G BIO",
+                "desc": "Farine de riz demi-complet sans gluten 500g Bio\nOrigine: France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03329486261208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-riz-demi-complet-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:40",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 78.4
+                    }
+                },
+                "ingredients": "Farine de riz demi-complet*.\n\n*Ingrédient issu d'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 9.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Farine de saveur assez neutre s’utilisant comme base de nombreuses préparations boulangères ou pâtissières mais aussi de fond de sauces."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "farine-ble-integrale-t150-1kg",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FARINE DE BLÉ INTÉGRALE T150 1KG BIO",
+                "desc": "Farine de blé intégrale T150 1Kg Bio\nLa farine intégrale T150 (de couleur grisâtre à brunâtre) s’utilise pour la fabrication de pains intégraux, de pains au son, de pâtes à tartes ainsi que dans la préparation de sauces et pâtisseries.\nElle peut être utilisée seule ou en complément de farines plus traditionnelles.\nElle donne une pâte plus foncée, qui lève moins vite par rapport à un autre type de farine, et les pains formés seront plus denses.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03347430019934_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/farine-ble-integrale-t150-1kg"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:41",
+                "format": "1KG",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.01
+                    },
+                    "fats": {
+                        "fats": 2.2
+                    },
+                    "proteins": {
+                        "proteins": 10.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 66,
+                        "of_which_sugars": 2.4
+                    }
+                },
+                "ingredients": "Blé tendre biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 1.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 3.45,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La farine T150 est idéale pour les recettes de pains intégraux, de pains au son ou de pâtes à tartes. Elle peut être utilisée seule ou en complément de farine traditionnelles.\nElle donnera une couleur foncée à vos préparations et une texture plus dense.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "bioflan-chocolat-2x1-4l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BIO-FLAN CHOCOLAT 2X1/4L",
+                "desc": "Bio-flan Chocolat 2x1/4L\nPréparation en poudre pour faire soi-même des entremets cacao avec du lait ou du jus végétal comme le jus de soja, jus d'avoine...\nLe BIO-FLAN est garanti sans adjonction de sucre, sans gluten et sans matière d’origine animale. Vous pouvez choisir vous-même la quantité et la qualité du sucre à y ajouter selon votre goût et vos besoins.\nLe sachet double dose permet de faire 4 entremets de 125ml.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800000032.p1-1500_7.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bioflan-chocolat-2x1-4l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:41",
+                "format": "4L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 11
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 19
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19,
+                        "of_which_sugars": 3
+                    }
+                },
+                "ingredients": "Poudre de cacao** (84.5%), gélifiants : carraghénanes, agar-agar*.\n*Ingrédients issus de l'Agriculture Biologique.\n**Ingrédient issu du Commerce équitable. 84,5% du total des ingrédients est issu du Commerce équitable (Origine : République Dominicaine).\nSans gluten, sans oeuf, sans soja, sans lait, ni traces de fruits à coques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 4.0,
+                "price_per_packaging": 1.69,
+                "price_per_unit": 153.64,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Ingrédients à ajouter : 1/4L de lait animal ou jus végétal (pour une dose du sachet)\nTemps de préparation : 2 min \nCuisson : 5 minutes environ\n\nVerser la poudre dans une casserole. Ajouter le sucre en poudre choisi sur la base d’une cuillère à soupe rase par sachet 1/4L. Mélanger et délayer progressivement en ajoutant le lait. Mettre sur le feu et remuer jusqu’à complète ébullition. Poursuivre la cuisson 3 minutes sur feu doux. Verser dans les ramequins et laisser refroidir. Mettre au frais et servir froid.\n\nAstuce : pour un dessert tout végétal, remplacer le lait par une boisson végétale et ajouter à la poudre 1g d'agar-agar pour 2 sachets.",
+                "conservation": "Conservation de la poudre à température ambiante, dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "bioflan-noix-coco-2x1-4l",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BIOFLAN NOIX DE COCO 2X1/4L BIO",
+                "desc": "Bio-flan saveur Noix Coco 2x1/4L Bio\nLe bio flan permet de faire un entremet avec du lait ou du jus de soja.\nNon sucrées, à base d'agar-agar, les recettes de nos entremets s'adaptent pour toutes les personnes, tous les régimes et tous les goûts. Ils permettent d'allier plaisir et bienfaits : une délicieuse façon de contribuer à l'équilibre alimentaire en associant atout santé et gourmandise.\nTous nos entremets sont non sucré ou sans sucres ajoutés. Confectionné à partir de lait de vache, l'Entremets constituera un produit laitier de qualité, vous apportant minéraux (calcium, phosphore) et vitamines.\nL'entremets ne modifie en rien les propriétés nutritionnelles du lait ou du jus végétal avec lequel il est préparé. Il ne fait qu'en changer la texture et l'arôme.\nQuelque soit votre régime alimentaire, choisi ou imposé, que vous soyez végétarien, végétalien, omnivore, diabétique ou bien d'autre encore, l'entremets sans sucre a une place dans votre menu.\nIl est garanti sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3176800033467.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bioflan-noix-coco-2x1-4l"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:41",
+                "format": "4L",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 29
+                    },
+                    "fats": {
+                        "fats": 34
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 6.4
+                    }
+                },
+                "ingredients": "Amidon de maïs*, extrait d'algues marines (carraghénane, agar-agar), noix de coco rapée*.\n*Issus de l’Agriculture Biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 4.0,
+                "price_per_packaging": 1.5,
+                "price_per_unit": 187.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Mettre la poudre dans une casserole. Ajouter le sucre en poudre choisi. Vous pouvez vous même choisir la quantité de sucre à y ajouter selon bos besoins et votre goût. Bien mélanger à sec.\nDélayer progressivement en ajoutant le lait ou le jus de soja. Mettre sur le feu. Remuer jusqu'à ébullition complète. Ajouter l'édulcorant si nécessaire. Verser dans les récipients choisis.\nLaisser refroidir.\nVous pouvez démouler et décorer au moment de servir.",
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    },
+    {
+        "ean": "sucre-vanille-bio-8-sachets",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Farines, Aides à la pâtisserie"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SUCRE VANILLÉ 8 SACHETS BIO",
+                "desc": "Sucre vanillé 8 Sachets Bio\nLa canne à sucre est cultivée de façon traditionnelle sans intrants chimiques . la mélasse est raffinée seulement par des moyens physiques.\nLa vanille est incorporée au sucre de cannes sous forme d'extrait et en poudre.\nIl n'y a aucune adjonction d'autres arômes.\nLe sucre vannillé Plaisance bio est fabriqué artisanalement, à Nantes, dans le même atelier, selon la même recette depuis 80 ans. Ces préparations leur permettent en effet de mieux contrôler la prt des glucides simples dans leur alimentation tout en conservant la saveur des dessert traditionnels. La qualité des matières premières mises en oeuvre permet aux desserts Bioflan et Biocrème de bénéficier de la mention \"produit de l'agriculture biologique\".\n8 Sachets.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040032809_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/sucre-vanille-bio-8-sachets"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:41",
+                "availability": true,
+                "nutrition": {
+                    "carbohydrates": {
+                        "carbohydrates": 96,
+                        "of_which_sugars": 96
+                    }
+                },
+                "ingredients": "Sucre de canne*, extrait naturel de vanille, gousses de vanille.\n*Issus de l’Agriculture Biologique.",
+                "on_discount": false,
+                "price_per_packaging": 8.1,
+                "price_per_unit": 126.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.10 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le sucre vanillé s'emploi pour parfumer yaourts, crèmes, glaces, crêpes, pâtisseries, compotes...\nPour mieux conserver l'intégralité de l'arôme, ajouter le sucre vanillé de préférence après cuisson ou en fin d'ébullition.",
+                "conservation": "A conserver dans un endroit frais et sec, à l’abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:36",
+        "updated_at": "2025-06-16T02:36"
+    }
+]

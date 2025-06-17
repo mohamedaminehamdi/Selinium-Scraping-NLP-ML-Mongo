@@ -1,0 +1,150 @@
+[
+    {
+        "ean": "ail-noir-bio-pot",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Aromates et Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AIL NOIR BIO POT 60G",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346953.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ail-noir-bio-pot"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:20",
+                "format": "60G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:19",
+        "updated_at": "2025-06-16T03:19"
+    },
+    {
+        "ean": "ail-bio-frit-pot",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Aromates et Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AIL BIO FRIT POT 60G",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346977.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ail-bio-frit-pot"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:21",
+                "format": "60G",
+                "availability": true,
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:19",
+        "updated_at": "2025-06-16T03:19"
+    },
+    {
+        "ean": "ail-bio",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Aromates et Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AIL BIO 3 TÊTES",
+                "desc": "Calibre 40-60. Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346960.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/ail-bio"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:21",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:19",
+        "updated_at": "2025-06-16T03:19"
+    },
+    {
+        "ean": "coriandre-bio-botte",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Aromates et Condiments"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CORIANDRE BOTTE PIÈCE BIO",
+                "desc": "Catégorie 2. Photo non contractuelle.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/0/2000000346960.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/coriandre-bio-botte"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T03:22",
+                "availability": true,
+                "on_discount": false,
+                "offers": []
+            }
+        ],
+        "created_at": "2025-06-16T03:19",
+        "updated_at": "2025-06-16T03:19"
+    }
+]

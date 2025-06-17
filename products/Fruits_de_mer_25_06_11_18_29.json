@@ -1,0 +1,2083 @@
+[
+    {
+        "ean": "000000000000048872",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange de moules, crevettes nordiques, Saint-Jacques MSC*",
+                "desc": "Mélange de moules, crevettes nordiques, noix de Saint-Jacques* MSC congelé *Zygochlamys patagonica origine Argentine Moule et crevette cuites, noix de Saint-Jacques crue.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-moules-crevettes-nordiques-st-jacques-msc-000000000000048872.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:25",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 79.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.6,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Ingrédients (pourcentage minimum) : Moule cuite décoquillée MSC (MOLLUSQUES) 41% [Mytilus edulis sauvage pêchée aux dragues en Atlantique Nord-Est (FAO 27), sous-zone Mer du Nord (IV)], noix de Saint-Jacques MSC crue (MOLLUSQUES) 25 % [Zygochlamys patagonica sauvage pêchée aux chaluts en Atlantique Sud-Ouest (FAO 41)], crevette nordique MSC cuite décortiquée (CRUSTACES) 24% [Pandalus borealis sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II)], sel.\n*Pourcentage minimum.",
+                "allergens": [
+                    "Crustacés",
+                    "Fruits à coque",
+                    "Mollusques"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez le mélange sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 7.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 12.52% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 60
+        }
+    },
+    {
+        "ean": "000000000000074672",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes au curry rouge, recette thaï",
+                "desc": "Crevettes ASC 78,9% assaisonnées au curry rouge, surgelées. A cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-curry-rouge-recette-thai-000000000000074672.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 101.0
+                    },
+                    "minerals": {
+                        "salt": 0.5
+                    },
+                    "fats": {
+                        "fats": 3.1,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.4,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette crue décortiquée ASC (CRUSTACES) 78,9% [Penaeus vannamei, élevée en Indonésie (ID*) ou Equateur (EC*)], eau, sauce curry rouge 4,9% [crème de coco, épices (piment, gingembre, racine de galanga, citronnelle, cumin, paprika, coriandre rôti, cardamome, poivre), eau, ail, oignon, huile de tournesol, sirop de sucre, noix de kemiri, amidon de pomme de terre, sel, feuille de citron vert, concentré de citron vert), jus de citron vert 3,1%, huile de tournesol, huile de SESAME, coriandre, miel, zeste de combava 0,4%, sel, farine de riz, assaisonnement à base de citronnelle [farine de riz, épices et plantes aromatiques (dont citronnelle 0,009%), sel, jus de citron déshydraté et extrait de citron], poivre. *Origine : voir les lettres indiquées à la fin du numéro de lot dans le cadre de datage",
+                "allergens": [
+                    "Crustacés",
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.9,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n3 min\nFaites cuire les crevettes dans une poêle adaptée à feu moyen en remuant de temps en temps : - Pour 150 g : 3 à 5 min - Pour 300 g : 5 à 8 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 9.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1,09€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.91% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.15,
+            "total_reviews": 67
+        }
+    },
+    {
+        "ean": "000000000000074673",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cocktail de fruits de mer au pesto rosso bio",
+                "desc": "Mélange de crevette tropicale 28,2%, moule du Pacifique 27%, sauce pesto rosso 24,9%, noix de Saint-Jacques avec corail Argopecten purpuratus élevée au Pérou 19,9% - BIO surgelé.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cocktail-fruit-de-mer-bio-000000000000074673.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 100.0
+                    },
+                    "minerals": {
+                        "salt": 0.58
+                    },
+                    "fats": {
+                        "fats": 3.4,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale*(CRUSTACES) décortiquée 28,2% (Penaeus vannamei élevée en Équateur), moule du Pacifique* (MOLLUSQUES) cuite décoquillée ** 27% (Mytilus chilensis élevée au Chili), noix de Saint-Jacques* (MOLLUSQUES) avec corail 19,9% (Argopecten purpuratus élevée au Pérou), tomate* 8%, eau, huile d’olive vierge extra* 3%, purée de tomate double concentrée* 1,9%, basilic* 1,8%, jus de citron*, ail*, Parmigiano Reggiano* 0,9% (contient LAIT), sel, fibre de pomme*, AMANDE en poudre*, poivre*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Lait",
+                    "Crustacés",
+                    "Fruits à coque",
+                    "Mollusques",
+                    "Traces de Œuf",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.5,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n5 min\nFaites cuire le cocktail de fruits de mer dans une poêle adaptée à feu moyen en remuant régulièrement : Pour 150 g : 5 à 7 min. Pour 300 g : 8 à 12 min.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.91,
+            "total_reviews": 22
+        }
+    },
+    {
+        "ean": "000000000000074490",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes panées, 10 à 12 pièces, élevées Equateur",
+                "desc": "Queues de crevette décortiquées (65%) enrobées d'une panure (35%), pré-frites, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-panees-10-12-pieces-000000000000074490.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "10 à 12 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 213.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 8.6,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Queue de crevette crue décortiquée ASC (CRUSTACÉS) 65% [Penaeus vannamei élevée en Équateur], farine de BLÉ (GLUTEN), huiles végétales (colza, tournesol, en proportion variable), eau, fécule de pomme de terre, GLUTEN de BLÉ, farine de riz, amidon de BLÉ (GLUTEN), sel, levure.",
+                "allergens": [
+                    "Gluten",
+                    "Crustacés"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.89,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n10 - 14 min\nAu four préchauffé à 180 °C (th. 6) : Etalez les crevettes sur une plaque recouverte de papier cuisson. Faites cuire à mi-hauteur en retournant à mi-temps. Four traditionnel : 12 à 14 min Four à chaleur tournante : 10 à 12 min\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 - 12 min\n10 à 12 min dans une poêle chaude à feu moyen avec un peu de matière grasse, en retournant de temps en temps.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n3 - 5 min\n3 à 5 min dans une huile à 170°C\n\nConseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant de servir, déposez les crevettes sur du papier absorbant pour éliminer l’excès de matière grasse (cuisson à la poêle ou à la friteuse).",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 219
+        }
+    },
+    {
+        "ean": "000000000000008431",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "12 escargots moyens",
+                "desc": "12 escargots de Bourgogne préparés, chair d'escargots 50%, farce 50% au beurre, ail et persil, surgelés, à cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93b5eaa2/produits/pains-viennoiseries/edition/000000000000082205_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/12-escargots-moyens-000000000000008431.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "70.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 305.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 28.0,
+                        "saturates": 20.0
+                    },
+                    "proteins": {
+                        "proteins": 9.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.4,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.5
+                    }
+                },
+                "ingredients": "Chair d'escargots de Bourgogne cuite dans un bouillon 50% [Helix pomatia Linné (MOLLUSQUES), eau, sel, épices et plantes aromatiques (contient CÉLERI)], beurre (LAIT) 32,9%, ail 12,6%, persil 3,9%, sel, poivre. OU Chair d'escargots de Bourgogne cuite dans un bouillon 50% [Helix pomatia Linné (MOLLUSQUES), eau, sel, épices, plantes aromatiques (contient CÉLERI)], beurre (LAIT) 36%, ail réhydraté 9,2%, persil 4,4%, sel, poivre.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n10 min\nPréchauffez votre four à 180°C (Th.6) en chaleur tournante. Ne pas mettre le produit dans le four durant la phase de préchauffage et ne pas dépasser 180°C. Sortez l'assiette de son étui carton et retirez le film plastique. Enfournez l'assiette au centre d'une grille à mi-hauteur et laissez cuire 10 à 12 minutes. Sortez les escargots dès que le beurre commence à frémir.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.9,
+            "total_reviews": 178
+        }
+    },
+    {
+        "ean": "000000000000048434",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes à l'huile d'olive (4%) au persil,à l'ail",
+                "desc": "CREVETTES ASC 85,5% A L'HUILE D'OLIVE 4,2%, AU PERSIL ET A L'AIL, SURGELÉES. A CUIRE",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-huile-olive-4-persil-ail-000000000000048434.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 90.0
+                    },
+                    "minerals": {
+                        "salt": 0.52
+                    },
+                    "fats": {
+                        "fats": 2.1,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette crue décortiquée ASC (CRUSTACES) 85,5% [Penaeus vannamei, d'élevage*], eau, huile d'olive vierge extra 4,2%, jus de citron jaune, persil 1,2%, ail 0,7%, sel, farine de riz, poivre. *Origine : voir les lettres indiquées à la fin du numéro de lot dans le cadre de datage",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 9.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n4 min\nFaites cuire les crevettes dans une poêle adaptée à feu moyen en remuant de temps en temps : Pour 150 g : 4 à 6 min. Pour 300 g : 5 à 8 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 119
+        }
+    },
+    {
+        "ean": "000000000000086005",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauce beurre citron",
+                "desc": "Sauce beurre citron surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3f1f7b27/produits/000000000000086003_P.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sauce-beurre-citron-000000000000086005.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 203.0
+                    },
+                    "minerals": {
+                        "salt": 0.49
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 14.0
+                    },
+                    "proteins": {
+                        "proteins": 1.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.9,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau , beurre (lait) 17,8%, crème fraîche épaisse (lait) 17%, vin blanc muscadet (contient : sulfites) 14,3%, échalote 6,3%, jus de citron jaune 4,4%, farine de riz, fumet de poisson [cabillaud (poisson), eau, poireau, échalote, vin blanc réduit, plantes aromatiques], ciboulette 0,9%, farine de blé (gluten), sel, jus concentrés de légumes (carotte, oignon, poireau), poivre.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Poisson",
+                    "Traces de Œuf",
+                    "Traces de Arachide"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nRÉCHAUFFAGE\nNous vous conseillons de faire réchauffer 2 galets de sauce pour accompagner une portion de poisson.\n\nAu micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n40 sec\nVersez la quantité désirée de galets dans un récipient adapté. Laissez réchauffer le temps indiqué en remuant à mi-temps : Puissance restituée du four à micro-ondes 750 W 900 W Pour 1 galet : 50 s 40 s Pour 5 galets (moitié du sachet) : 2 min 30 2 min Pour 10 galets (sachet complet): 3 min 30 3 min\n\nÀ la casserole\nRÉCHAUFFAGECuisson au casserole pendant\n2 min\nVersez la quantité désirée de galets dans une casserole avec un peu d'eau. Laissez réchauffer à feu moyen le temps indiqué en remuant régulièrement. - Pour 1 galet avec 1 cuillère à soupe d'eau : 2 min. - Pour 5 galets avec 2 cuillères à soupe d'eau : 5 min. - Pour 10 galets (sachet complet) avec 3 cuillères à soupe d'eau : 7 min.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.04,
+            "total_reviews": 73
+        }
+    },
+    {
+        "ean": "000000000000018315",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes décortiquées ASC, HND, ECU ou VNM",
+                "desc": "Crevettes tropicales décortiquées cuites ASC surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-decortiquees-asc-honduras-000000000000018315.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 80.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette (crustacés) 99% (Penaeus vannamei), sel.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 8.5,
+                "preparation": "Sans titre\n\nAvant utilisation, passez les crevettes sous l’eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 69
+        }
+    },
+    {
+        "ean": "000000000000018513",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Noix de St Jacques France Pecten avec corail",
+                "desc": "Noix de Saint-Jacques - Surgelées - avec corail - France",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw024439a8/produits/plats-cuisines/edition/000000000000069786_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/noix-st-jacques-pecten-avec-corail-000000000000018513.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:26",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 83.0
+                    },
+                    "minerals": {
+                        "salt": 0.48
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.0
+                    }
+                },
+                "ingredients": "Noix de Saint-Jacques avec corail (MOLLUSQUES), Pecten maximus sauvage, pêchée aux dragues en Atlantique Nord-Est (FAO 27), dans la Manche (VII d et e).",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 23.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les noix de Saint-Jacques sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.81,
+            "total_reviews": 145
+        }
+    },
+    {
+        "ean": "000000000000074015",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes tropicales crues \"Gambas\" 6-8 p. ASC",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crev-crues-10%2F13-600g-asc-000000000000074015.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "on_discount": false,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 22.49,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000074676",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Morceaux de calmar géant huile d'olive basilic pi",
+                "desc": "Morceaux de tentacules de calmar géant cuits, cuisinés à l'huile d'olive 7,8%, au basilic et au piment d'Espelette, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/calmar-geant-cuisine-300g-000000000000074676.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 109.0
+                    },
+                    "minerals": {
+                        "salt": 0.96
+                    },
+                    "fats": {
+                        "fats": 6.0,
+                        "saturates": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Morceau de tentacule de calmar géant cuit 82,4% [calmar géant (MOLLUSQUES) Dosidicus gigas sauvage pêché dans l'Océan Pacifique Sud-Est (FAO 87) 81,6%, sel], eau, huile d'olive vierge extra 7,8%, basilic 0,4%, piment d'Espelette AOP* 0,08%, poivre.\n*A.O.P. : Appellation dOrigine Protégée.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Conseils de préparation\nPréparation chaude\nPOUR UNE CONSOMMATION CHAUDE (sans décongélation) :\n\nÀ la poêle\nPréparation chaudeCuisson au poele pendant\n8 min\n8 min. Déposez les morceaux de calmar géant bien à plat, dans une poêle chaude, avec 1 cuil. à soupe d'huile d'olive. Faites réchauffer, avec 2 cuil. à soupe d’eau, 4 min à feu moyen, puis 4 min à feu vif. Remuez régulièrement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.39,
+            "total_reviews": 36
+        }
+    },
+    {
+        "ean": "000000000000048020",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes tropicales crues \"Gambas\" 16-24 p. ASC",
+                "desc": "Crevettes entières crues, élevées à Madagascar, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-crues-16-24-000000000000048020.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 98.0
+                    },
+                    "minerals": {
+                        "salt": 0.77
+                    },
+                    "fats": {
+                        "fats": 0.4,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale ASC (CRUSTACES) 98,5% (Penaeus monodon élevée à Madagascar), sel, antioxydant : diSULFITE de sodium.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 20.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les crevettes sous l'eau froide et égouttez-les.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n5 min\nPlacez les crevettes dans un panier vapeur. Couvrez et laissez cuire 5 à 6 min environ au-dessus d'un court-bouillon frémissant.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n5 min\nPlongez les crevettes dans un court-bouillon porté à ébullition. Laissez cuire 5 à 6 min environ dès la reprise du frémissement. Egouttez et rafraîchissez tout de suite.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n8 à 12 min\n-préchauffé à 210°C (th. 7) : 8 à 12 min Disposez les crevettes côte à côte dans un plat à four et badigeonnez-les d'huile d'olive. Enfournez à mi-hauteur et laissez cuire le temps indiqué : - Four traditionnel : 9 à 12 min - Four à chaleur tournante : 8 à 10 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n7 min\nFaites saisir les crevettes dans un peu de matière grasse 7 à 8 min à feu moyen, en couvrant. Retournez de temps en temps.\n\nAu barbecue\nCUISSON SANS DÉCONGÉLATIONCuisson au barbecue pendant\n7 min\nFaites cuire les crevettes 7 à 8 min en les retournant à mi-temps.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 29.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.55,
+            "total_reviews": 62
+        }
+    },
+    {
+        "ean": "000000000000048864",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Noix de Saint-Jacques France",
+                "desc": "Noix de Saint-Jacques Pecten maximus France surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/noix-saint-jacques-pecten-sans-corail-000000000000048864.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 83.0
+                    },
+                    "minerals": {
+                        "salt": 0.3
+                    },
+                    "fats": {
+                        "fats": 0.7,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.3
+                    }
+                },
+                "ingredients": "Noix de Saint-Jacques sans corail (MOLLUSQUES), Pecten maximus pêché aux dragues en Atlantique Nord-Est (FAO 27), dans la Manche (VII d et e).",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 17.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les noix de Saint-Jacques sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 20.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-3.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 14.29% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.58,
+            "total_reviews": 81
+        }
+    },
+    {
+        "ean": "000000000000074225",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Calmar pané panure poivre",
+                "desc": "Blancs de calmar découpés et têtes et pattes de calmar (64,8 %), panure au poivre (35,2%), préfrits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw842c84eb/produits/000000000000074490_E[1].jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/calmar-pane-200g-000000000000074225.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 313.0
+                    },
+                    "minerals": {
+                        "salt": 0.72
+                    },
+                    "fats": {
+                        "fats": 20.0,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 19.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Calmar (MOLLUSQUES) 64,8% [sauvage, pêché dans l'océan Indien Est (FAO 57) et l'Océan Pacifique Centre-Ouest (FAO 71)], farine de BLE (GLUTEN), eau, huile de soja, GLUTEN de BLE, amidon de tapioca, ail, poivre noir 0,9%, sel, oignon.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 6.29,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n8 - 10 min\nAu four préchauffé à 180°C (th.6) : Faites cuire les calmars panés, sur une plaque recouverte de papier cuisson, à mi-hauteur, 8 à 10 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6 - 7 min\nFaites cuire les calmars panés dans une poêle chaude avec de la matière grasse, à feu moyen, 6 à 7 min environ en remuant régulièrement.\n\nÀ la friteuse\nCUISSON SANS DÉCONGÉLATIONCuisson au friteuse pendant\n1 min\n1 minute dans une huile à 175°C.\n\nConseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant de servir, déposez les calmars panés sur du papier absorbant pour éliminer l'excès de matière grasse (cuisson à la poêle ou à la friteuse).",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,70€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.01% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.62,
+            "total_reviews": 39
+        }
+    },
+    {
+        "ean": "000000000000048971",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Homard canadien entier cuit MSC,Homarus americanus",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/homard-canadien-entier-cuit-msc-000000000000048971.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "on_discount": false,
+                "weight_per_packaging": 375.0,
+                "price_per_packaging": 14.27,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000048351",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Petites seiches",
+                "desc": "Petites seiches surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/petites-seiches-000000000000048351.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 45.0
+                    },
+                    "minerals": {
+                        "salt": 0.63
+                    },
+                    "fats": {
+                        "fats": 0.7,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 9.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Seiche (MOLLUSQUES) 98,9%, sel. Sepiella inermis, Sepiella japonica, Sepia aculeata, Sepia recurvirostra sauvages pêchées aux chaluts, lignes et hameçons, dans l'océan Pacifique Centre-Ouest (FAO 71) ou l'océan Indien Ouest (FAO 51), zone indiquée dans le cadre de datage.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les petites seiches sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.68,
+            "total_reviews": 28
+        }
+    },
+    {
+        "ean": "000000000000048765",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevette tropicale crue \"Gambas\" 12-16 p. sauvage",
+                "desc": "Crevettes entières sauvages crues surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-crues-12-16-sauvages-000000000000048765.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 102.0
+                    },
+                    "minerals": {
+                        "salt": 0.73
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale sauvage (CRUSTACES) 99,99 % [Penaeus indicus A* ou Metapenaeus monoceros B*, pêchée aux chaluts dans l'Océan Indien Ouest (FAO 51)], antioxydant : diSULFITE de sodium. *Espèce précisée à côté du N° de lot (A ou B).",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 11.99,
+                "preparation": "Conseils de préparation\nRÉCHAUFFAGE\nAvant toute utilisation, passez les crevettes sous l'eau froide et égouttez-les.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.26,
+            "total_reviews": 42
+        }
+    },
+    {
+        "ean": "000000000000064509",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 coquilles aux noix de St-Jacques, à la bretonne",
+                "desc": "4 coquilles aux noix de Saint Jacques* (35%) cuisinées dans une sauce aux oignons (14,3%) et au Muscadet (8,5%), surgelées. *(Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé).",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-coquilles-noix-st-jacques-bretonne-000000000000064509.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:27",
+                "format": "440.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 133.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 8.2,
+                        "saturates": 5.9
+                    },
+                    "proteins": {
+                        "proteins": 8.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.3,
+                        "of_which_sugars": 2.6,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Noix de Saint-Jacques 35% (Zygochlamys patagonica, Argentine et/ou Chlamys opercularis, Iles Féroé ; MOLLUSQUES)**, eau, oignon 14,3%, crème fraîche légère liquide (LAIT) 11,2%, Muscadet 8,5% (SULFITES), beurre (LAIT), échalote, LAIT écrémé en poudre, farine de BLÉ (GLUTEN), amidon de maïs, sel, persil, blanc d’OEUF en poudre issu de poule élevée en plein air, poivre, chapelure (farine de pois, piment doux).\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage, près du numéro de lot. AR : Argentine, FO : Iles Féroé",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 440.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n30 min\nPréchauffez votre four à 210°C (th7). Déposez les coquilles sur une grille recouverte de papier cuisson en les calant sur une feuille de papier d'aluminium froissée. Enfournez à mi-hauteur et laissez cuire le temps indiqué : Four à chaleur tournante : 30 minutes Four traditionnel : 35 minutes",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 235
+        }
+    },
+    {
+        "ean": "000000000000048179",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cocktail de 3 fruits de mer",
+                "desc": "Mélange de moules, anneaux de calmar, crevettes nordiques congelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cocktail-3-fruits-mer-000000000000048179.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 65.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 1.1,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Moule cuite décoquillée (mollusques) 30% [Mytilus edulis sauvage pêchée aux dragues en Atlantique Nord-Est (FAO 27), sous-zones Mer du Nord (IV)], anneaux de calmar* blanchis (mollusques) 30% [Loligo spp. et/ou Uroteuthis spp. sauvages pêchés aux chaluts (A), filets tournants et filets soulevés (B),casiers et pièges (C), dans l'Océan Pacifique Centre-Ouest (FAO 71) ou l’Océan Indien Est (FAO 57) ou l’Océan Indien Ouest (FAO 51)*], crevette nordique cuite décortiquée (crustacés) 30% [Pandalus borealis sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II)], sel 0,9%. * Calmar : espèces (1), engins (2) et zone de pêche (3) précisées dans le cadre ci-contre.>\n*Pourcentage minimum.",
+                "allergens": [
+                    "Crustacés",
+                    "Mollusques"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.5,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez le mélange sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.14,
+            "total_reviews": 43
+        }
+    },
+    {
+        "ean": "000000000000050013",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange à la thaïlandaise",
+                "desc": "Mélange à la thaïlandaise coriandre, basilic thaï, gingembre, citronnelle, piment surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwceb15a09/produits/edition/50307.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-thailandaise-000000000000050013.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 39.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 2.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.0,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 4.7
+                    }
+                },
+                "ingredients": "Coriandre 40,2%, basilic thaï 26,8%, gingembre 16,8%, citronnelle 10,6%, piment jalapeno rouge 5,6%.",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.77,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000018207",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Crevettes nordiques cuites décortiquées MSC",
+                "desc": "Crevettes nordiques cuites décortiquées MSC surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/crevettes-nordiques-cuites-decortiquees-msc-000000000000018207.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 67.0
+                    },
+                    "minerals": {
+                        "salt": 1.5
+                    },
+                    "fats": {
+                        "fats": 0.8,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette nordique (crustacés) 98,5%, sel. Pandalus borealis sauvage pêchée aux chaluts en Atlantique Nord-Est (FAO 27), sous-zones Mer de Barents (I), Mers de Norvège (II).",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 6.6,
+                "preparation": "Conseils de préparation\nDÉCONGÉLATION\npour une utilisation froide (salades, avocats, pamplemousses) ou chaude en intégrant les crevettes en fin de préparation (pâtes, riz).\n\nConseils de préparation\nDÉCONGÉLATION\nAvant toute utilisation, passez les crevettes sous l'eau froide et égouttez-les.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n3 h\n3 heures\n\nAu micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n3 - 5 min\n3 min pour 100 g, 5 min pour 200 g. Laissez reposer avant utilisation.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.39,
+            "total_reviews": 33
+        }
+    },
+    {
+        "ean": "000000000000018737",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Moules du Pacifique cuites décoquillées ASC, Chili",
+                "desc": "Moules du Pacifique ASC élevées au Chili cuites, décoquillées, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/moules-pacifique-cuites-decoquillees-asc-000000000000018737.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 103.0
+                    },
+                    "minerals": {
+                        "salt": 0.7
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 0.7
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.4,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Moule du Pacifique ASC (MOLLUSQUES) cuite décoquillée*, Mytilus chilensis élevée au Chili.",
+                "allergens": [
+                    "Mollusques"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.99,
+                "preparation": "Conseils de préparation\nPréparation\nAvant toute utilisation, passez les moules sous l'eau froide.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.22,
+            "total_reviews": 72
+        }
+    },
+    {
+        "ean": "000000000000048608",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Queues crevettes cuites décortiquées cocktail bio",
+                "desc": "Queues de crevettes cuites décortiquées \"cocktail\" bio surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw5d1ef421/produits/000000000000018207_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/queues-crevettes-cuites-decortiquees-cocktail-bio-000000000000048608.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 88.0
+                    },
+                    "minerals": {
+                        "salt": 0.7
+                    },
+                    "fats": {
+                        "fats": 0.9,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale* (crustacés) 99%, sel *Crevette Penaeus vannamei élevée au Honduras ou Equateur, issue de l'agriculture biologique.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Conseils de préparation\nCUISSON\nAvant toute utilisation, passez les queues de crevettes sous l’eau froide et égouttez-les.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.31,
+            "total_reviews": 83
+        }
+    },
+    {
+        "ean": "000000000000048856",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 crevettes tropicales crues \"Gambas\" Label R. ASC",
+                "desc": "8 crevettes entières crues élevées à Madagascar, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93c0ccc5/produits/legumes/edition/000000000000010298_E.JPG?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-crevette-tropicale-crue-asc-20kg-000000000000048856.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 98.0
+                    },
+                    "minerals": {
+                        "salt": 0.77
+                    },
+                    "fats": {
+                        "fats": 0.4,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale ASC (crustacés) 98,5% (Penaeus monodon élevée à Madagascar), sel, antioxydant : disulfite de sodium.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 17.6,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nAvant toute utilisation, passez les crevettes sous l'eau froide et égouttez-les.\n\nAu panier vapeur\nCUISSON SANS DÉCONGÉLATIONCuisson au paniervapeur pendant\n6 - 7 min\nPlacez les crevettes dans un panier vapeur. Couvrez et laissez cuire 6 à 7 min environ au-dessus d'un court-bouillon frémissant.\n\nAu court-bouillon\nCUISSON SANS DÉCONGÉLATIONCuisson au courtbouillon pendant\n5 - 6 min\nPlongez les crevettes dans un court-bouillon porté à ébullition. Laissez cuire 5 à 6 min environ dès la reprise du frémissement. Egouttez et rafraîchissez tout de suite.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n9 - 14min\n-préchauffé à 210°C (th. 7). Disposez les crevettes côte à côte dans un plat à four et badigeonnez-les d'huile d'olive. Enfournez à mi-hauteur et laissez cuire le temps indiqué : - Four traditionnel : 10 à 14 min - Four à chaleur tournante : 9 à 12 min.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n9 - 12 min\nFaites saisir les crevettes dans un peu de matière grasse 9 à 12 min à feu moyen, en couvrant. Retournez de temps en temps.\n\nSous le gril du four\nCUISSON SANS DÉCONGÉLATIONCuisson au souslegrildufour pendant\n8 - 10 min\nFaites cuire les crevettes 8 à 10 min en les retournant à mi-temps.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.72,
+            "total_reviews": 40
+        }
+    },
+    {
+        "ean": "000000000000048476",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Moules du Pacifique ASC marinière élevées Chili",
+                "desc": "Moules du Paci­fique ASC cuites décoquillées 76,5%, sauce 23,5% au vin blanc, crème fraîche, oignon et persil, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/moules-pacifique-asc-mariniere-000000000000048476.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 110.0
+                    },
+                    "minerals": {
+                        "salt": 0.59
+                    },
+                    "fats": {
+                        "fats": 3.9,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Moule du Pacifique ASC (MOLLUSQUES) 76,5% cuite décoquillée* [Mytilus chilensis, élevée au Chili], eau, vin blanc 2,1%, crème fraîche épaisse 1,9% (LAIT), beurre (LAIT), oignon 1,2%, farine de riz, ail, persil 0,3%, fumet de POISSON (eau, cabillaud (POISSONS), sel, huile de tournesol, vin blanc, fibre d'agrume, oignon en poudre), jus de cuisson de moules concentré (eau, oignon, vin blanc, jus de cuisson de moules (MOLLUSQUES), thym, laurier, piment de Cayenne), poivre.",
+                "allergens": [
+                    "Lait",
+                    "Poisson",
+                    "Mollusques"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 4.5,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nNous vous conseillons un réchauffage à la poêle, sans décongélation.\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n6 min\nFaites réchauffer les moules marinière dans une poêle à feu doux en remuant de temps en temps : - Pour 200 g : 6 min - Pour 400 g : 9 min\n\nAu micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n3 min 30\n(Pour une puissance restituée de 750 watts). Faites réchauffer dans un plat adapté, en remuant à mi temps : - Pour 200 g : 3 min 30 - Pour 400 g : 5 min 30",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.12,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000064963",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 sabayons de langoustines et de Saint-Jacques au Sauternes",
+                "desc": "2 Sabayons, crème mousseuse au Sauternes 70%, aux queues de langoustines et aux noix de Saint-Jacques* surgelés. *(Chlamys opercularis, Ecosse et/ou Iles Féroé et/ou Zygochlamys patagonica, Argentine et/ou Argopecten purpuratus, Pérou).",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93b5eaa2/produits/pains-viennoiseries/edition/000000000000082205_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-sabayons-langoustines-st-jacques-sauternes-000000000000064963.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 96.0
+                    },
+                    "minerals": {
+                        "salt": 0.74
+                    },
+                    "fats": {
+                        "fats": 6.0,
+                        "saturates": 3.9
+                    },
+                    "proteins": {
+                        "proteins": 6.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.5,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, queue de langoustine crue décortiquée 17,1% (CRUSTACÉS, contient SULFITES), noix de Saint-Jacques 12,8% (Chlamys opercularis, Ecosse et/ou Iles Féroé et/ou Zygochlamys patagonica, Argentine et/ou Argopecten purpuratus, Pérou ; MOLLUSQUES)**, crème liquide 9,1% (LAIT), crème fraîche liquide 6,3% (LAIT), oignon, carotte, carotte jaune, Sauternes 4,2% (SULFITES), amidon de maïs, LAIT entier en poudre, amidon de riz, beurre (LAIT), concentré de tomate 0,7%, vinaigre de vin blanc (SULFITES), sel, fumet de POISSONS [fumet de POISSONS (cabillaud, eau), fibre de chicorée, sel, huile de tournesol, oignon en poudre, vin blanc (SULFITES), amidon de maïs], jaune d’OEUF en poudre de poule élevée en plein air, estragon, épaississants (gomme xanthane, gomme guar).\n*Origine des noix de Saint-Jacques : voir lettres indiquées dans le cadre de datage, près du numéro de lot. A : Argentine, D : Pérou, F : Iles Féroé, L : Ecosse",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Crustacés",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 8.7,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n26 à 30 min\nPréchauffez votre four à 180°C (th.6). Sortez les sabayons de leurs emballages. Déposez-les sur une plaque à mi-hauteur et laissez cuire le temps indiqué jusqu'à l'obtention d'une coloration dorée.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.66,
+            "total_reviews": 182
+        }
+    },
+    {
+        "ean": "000000000000018969",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Queues crevettes crue ASC, Honduras ou Vietnam",
+                "desc": "Queues de crevette crues décortiquées, avec carapace à l'extrémité de la queue surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcb81ca03/produits/000000000000068802_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/queue-crev.crue-decor-asc-000000000000018969.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:28",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 78.0
+                    },
+                    "minerals": {
+                        "salt": 0.21
+                    },
+                    "fats": {
+                        "fats": 0.7,
+                        "saturates": 0.2
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Crevette tropicale ASC (crustacés). Penaeus vannamei élevée au Vietnam ou au Honduras.",
+                "allergens": [
+                    "Crustacés"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Conseils de préparation\nRÉCHAUFFAGE\nAvant toute utilisation, passez le produit sous l’eau froide et égouttez-le.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.05,
+            "total_reviews": 42
+        }
+    },
+    {
+        "ean": "000000000000081011",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits de mer"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauce aux champignons",
+                "desc": "Sauce aux champignons, Champignons de Paris et cèpes, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw21349589/produits/000000000000040101_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sauce-champignons-000000000000081011.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:29",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 100.0
+                    },
+                    "minerals": {
+                        "salt": 0.62
+                    },
+                    "fats": {
+                        "fats": 8.0,
+                        "saturates": 5.7
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Champignon de Paris 29,8%, eau, crème fraîche liquide (LAIT) 20%, Porto rouge dénaturé [Porto (contient SULFITES), sel], brisure de cèpe 5%, échalote, beurre (LAIT), amidon de riz, fond de volaille (jus de poulet concentré, eau, sel, jus d'oignon concentré, jus de carotte concentré, extrait d'algue, ail déshydraté, épices, herbes aromatiques), amidon de maïs, cèpe sec 0,6%, sel, ail, jus concentré d'oignon (jus concentré d'oignon, huile de tournesol), poivre blanc.",
+                "allergens": [
+                    "Lait",
+                    "Traces de Gluten",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nPréparation\nNous vous conseillons de faire réchauffer 2 galets de sauce pour accompagner une portion de viande ou de féculent.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.63,
+            "total_reviews": 59
+        }
+    }
+]

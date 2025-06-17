@@ -1,0 +1,2163 @@
+[
+    {
+        "ean": "tapenade-noire-naturalia-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TAPENADE NOIRE NATURALIA 90G BIO",
+                "desc": "Tapenade noire Naturalia 90g Bio \nNaturalia vous propose cette tapenade noire faite avec des olives provenant de nos partenaires mettant en avant le respect de l'agriculture et du bio.\nUne recette savoureuse, idéal pour vos apéritifs !\nPot en verre de 90g.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4022993300284.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tapenade-noire-naturalia-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:14",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4
+                    },
+                    "fats": {
+                        "fats": 28
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.1,
+                        "of_which_sugars": 0.6
+                    }
+                },
+                "ingredients": "Olives noires* (Espagne, Italie) 82% (olives noires dénoyautées*, sel marin), câpres* 7% (câpres, eau, sel marin), huile d'olive vierge extra*, vinaigre de vin*, ail*, thym*, poivre noir*.\n*Ingrédient issu de l'agriculture biologique\nTraces éventuelles d'oeufs, de poissons, de lait, de moutarde et de graines de sésame.\nPrésence possible de morceaux de noyaux d'olives.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 3.2,
+                "price_per_unit": 35.56,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.20 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tartiner sur des toasts, idéal en apértitif.",
+                "conservation": "A conserver dans un endroit sec, à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "houmous-naturalia-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "HOUMOUS NATURALIA 90G BIO",
+                "desc": "Houmous Naturalia 90g Bio \nNaturalia vous propose ce Houmous, une préparation à base de pois chiche cuits et de pâte de sésame issue de l'agriculture biologique.\nAvec ce houmous, vous serrez sûr d'être paré pour l'apéro.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/s/c/schnitzer_gf_schnitte_grainy_packshot_v001-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/houmous-naturalia-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:14",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 740
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 5.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16,
+                        "of_which_sugars": 2.8
+                    }
+                },
+                "ingredients": "Pois chiches réhydratés* 58,7% (pois chiches*(France), eau), huile de tournesol*, crème de sésame 3,5%, huile d'olive vierge extra*, cumin*, jus de citron concentré*, sel, poivre noir*.\n*Ingrédients issu de l'agriculture biologique\nTraces éventuelles d'oeufs, de poissons, de lait, de moutarde.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Lait",
+                    "Œuf",
+                    "Moutarde",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 33.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tartiner sur du bon pain. Bien mélanger et rajouter de l'huile d'olive si besoin.\nServir frais.",
+                "conservation": "A conserver dans un endroit sec, à température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crackers-epeautre-fromage-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOASTS CROUSTILLANTS ÉPEAUTRE, FROMAGE ET GRAINES 200G ...",
+                "desc": "Toasts croustillants épeautre, fromage et graines 200G Bio.\nBiscuits croustillants à l'épeautre, au fromage et aux graines issus de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340976090.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crackers-epeautre-fromage-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:14",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.5
+                    },
+                    "fats": {
+                        "fats": 20
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 49,
+                        "of_which_sugars": 1.5,
+                        "dietary_fiber": 8.3
+                    }
+                },
+                "ingredients": "Farine complète de blé d'épeautre* 64g**, graines de tournesol* 14g**, emmental râpé* 13g**, farine de blé d'épeautre* 7g**, flocons d'avoine*, huile d'olive vierge extra*, graines de lin* 3g**, sel de mer, graines de sésame* 2g**, levure, extrait de malt d'orge*.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 19.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière.\nBien refermer le sachet après usage."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crackers-epeautre-graines-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TOASTS CROUSTILLANTS ÉPEAUTRE 3 GRAINES 200G BIO",
+                "desc": "Toasts croustillants épeautre 3 graines 200G Bio\nBiscuits croustillants à l'épeautre, aux graines de tournesol, de sésame et de lin issus de l'agriculture biologique.\nIdéal pour un encas salé sain et craquant. Vous pouvez ajouter un tartinable pour plus de gourmandises : houmous, tapenade, fromage à tartiner.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340976090.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crackers-epeautre-graines-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:14",
+                "format": "3 G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.5
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 15
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Farine complète de blé d'épeautre* 63g**, graines de tournesol* 18g**, farine de blé d'épeautre* 7g**, graines de sésame* 7g**,  flocons d'avoine*, huile de tournesol*, graines de lin* 3g**, sel de mer, levure, extrait de malt d'orge.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 3.0,
+                "price_per_packaging": 3.45,
+                "price_per_unit": 17.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière.\nBien refermer le sachet après usage."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "faux-gras-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FAUX GRAS® 125G BIO",
+                "desc": "Faux gras® 125G Bio\nDécouvrez le Faux gras de Gaia : une véritable alternative au foie gras, 100% végétale ! \n\nDélicieux nature, sur des toasts, avec ou sans confit d’oignon, il peut également faire l’objet de recettes originales, salées ou sucrées ! Le Faux Gras est encore meilleur s’il est placé quelques heures au réfrigérateur avant ouverture.\nVéritable alternative au foie gras, idéal sur des toasts ou dans de nombreuses recettes et sans huile de palme.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760049281057.p1-1500.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/faux-gras-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:14",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1400
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 18.2
+                    },
+                    "fats": {
+                        "fats": 22
+                    },
+                    "proteins": {
+                        "proteins": 4.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 3.4
+                    }
+                },
+                "ingredients": "Levure alimentaire*, eau, huile de coco* , amidon de pomme de terre*, pulpe de tomates*, Champagne* (2 %), huile de tournesol*, sel marin, truffe* (1 %), épices* (0,18 %: coriandre*, canelle*, clous de girofle*).",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 31.92,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Le Faux Gras est ferme s'il est tenu au frais et crémeux à température ambiante. Il peut être étalé mais il est conseillé de le servir en tranches.\nOuvrir la boîte préalablement mise au frais, par le haut et le bas, et sortir le bloc de Faux Gras en le poussant légèrement. Autre possibilité : extraire le bloc à l'aide d'un emporte-pièce. Découper en tranches et servir à température ambiante.",
+                "conservation": "A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-classic-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRUSTY CLASSIC 200G BIO",
+                "desc": "Crusty Classic 200g Bio\nLes Crusty de Pural sont indispensables à tous les apéritifs. les Crusty répondent à tous les goûts, le succès est garanti.\nFabrication du Crusty : Notre Crusty croustillant est déjà tranché à la cuisson.\nLa pâte trés ferme, d'une consistance identique à celle du pain, est mélangée aux graines.\nCes derniéres sont également saupoudrées et pressées dans la pâte pour une parfaite adhérence et la saveur ainsi obtenue est un véritable délice.\nLa préparation est alors coupée en tranches avant de reposer pour l'étape de fermentation durant laquelle se développent les levures et l'arôme qui lui donne cette saveur délicieuse.\nPuis vient le processus de cuisson respectueux des produits et la phase de refroidissement effectuée sans soufflerie ni tunnel.\nEnfin le processus final où les petits défauts de fabrication comme les tranches difformes ou trop colorées sont mises de côté.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03380380096495_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-classic-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3
+                    },
+                    "fats": {
+                        "fats": 20.7
+                    },
+                    "proteins": {
+                        "proteins": 14.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51.4,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 8.3
+                    }
+                },
+                "ingredients": "Farine de blé complète, graines de tournesol(11%), sésame*(10%), graines de lin*(6%), flocons d'avoine*, sel marin, levure, extrait de malt d'orge*.\n*Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 3.85,
+                "price_per_unit": 19.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-chia-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRUSTY CHIA 200G BIO",
+                "desc": "Crusty Chia 200g Bio\nLa gamme des tartines croustillantes de Pural, riches en goût grâce à leur méthode de cuisson artisanale, s’enrichit d’un nouveau produit : le Crusty Chia !\nCes nouvelles tranches croustillantes bio à la farine de blé complète, aux graines de chia et à l’huile d’olive extra vierge sont adaptées à une alimentation végétalienne. \nLe poids des graines de chia augmentent 12 fois au contact de l'eau. Elles donnent un sentiment de satiété et fournissent de l'énergie à l'organisme. Leur teneur en fibres contribue au bon fonctionnement du système digestif.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-chia-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.7
+                    },
+                    "fats": {
+                        "fats": 18.3
+                    },
+                    "proteins": {
+                        "proteins": 14.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 51,
+                        "of_which_sugars": 2.7
+                    }
+                },
+                "ingredients": "Farine de blé complete* 59%, flocons d'avoine* 8%, graine de lin* 7%, graine de tournesol* 7%, huile d'olive extra vierge* 5%, chia*5%, sel marin, sésame*, levure, extrait de malt d'orge*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 22.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-fromage-courge-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRUSTY FROMAGE & GRAINES DE COURGE 200G BIO",
+                "desc": "Crusty fromage & graines de courge 200G Bio\nTranches croustillantes au fromage et à la graine de courge.\nLes Crusty de Pural sont indispensables à tous les apéritifs. Ils répondent à tous les goûts, le succès est garanti.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380096471.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-fromage-courge-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.5
+                    },
+                    "fats": {
+                        "fats": 20.9
+                    },
+                    "proteins": {
+                        "proteins": 19.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 41.1,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 12.4
+                    }
+                },
+                "ingredients": "Farine de blé complète*, fromage*(10%), graines de courge*(8%), flocons d'avoine*, graines de tournesol*(3%), graines de lin*(3%), sel marin, sésame*(2%), levure, extrait de malt d'orge*.\n*Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 20.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster au moment de l'apéritif.\nLéger et bon, même nature."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-epeautre-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRUSTY ÉPEAUTRE 200G BIO",
+                "desc": "Crusty Épeautre 200g Bio\nFabrication du Crusty : Notre Crusty croustillant est déjà tranché à la cuisson.\nLa pâte trés ferme, d'une consistance identique à celle du pain, est mélangée aux graines.\nCes dernières sont également saupoudrées et pressées dans la pâte pour une parfaite adhérence et la saveur ainsi obtenue est un véritable délice.\nLa préparation est alors coupée en tranches avant de reposer pour l'étape de fermentation durant laquelle se développent les levures et l'arôme qui lui donne cette saveur délicieuse.\nPuis vient le processus de cuisson respectueux des produits et la phase de refroidissement effectuée sans soufflerie ni tunnel.\nEnfin le processus final où les petits défauts de fabrication comme les tranches difformes ou trop colorées sont mises de côté.\nTranches croustillantes gourmet 'épeautre' à la farine d'épeautre complète, aux graines de tournesol, au sésame et aux graines de lin.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340161373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-epeautre-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1900
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 21
+                    },
+                    "proteins": {
+                        "proteins": 15
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "Farine d'épeautre complète* 55%, graines de tournesol* 17%, sésame* 8%, farine d'épeautre* 5%, flocons d'avoine*, graines de lin* 3%, sel marin, levure, extrait de malt d'orge.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 22.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-epeau-from-tourn-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PAIN CROUSTILLANT CRUSTY ÉPEAUTRE & FROMAGE 200G BI...",
+                "desc": "Pain croustillant Crusty Épeautre & Fromage 200g Bio\nTranches croustillantes gourmet, fromage, graines de tournesol - à la farine d'épeautre complète, aux graines de tournesol, au sésame et aux graines de lin.\nLes Crusty de Pural sont indispensables à tous les apéritifs. les Crusty répondent à tous les goûts, le succès est garanti.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340161373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-epeau-from-tourn-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.3
+                    },
+                    "fats": {
+                        "fats": 19.4
+                    },
+                    "proteins": {
+                        "proteins": 18.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46.9,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 9.8
+                    }
+                },
+                "ingredients": "Farine d'épeautre complète*(55%), emmental*(11%), graines de tournesol*(11%), farine d'épeautre*(5%), flocons d'avoine*, graines de lin*(3%), sel marin, sésame*(2%), levure, extrait de malt d'orge*\n*Issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes allergiques ou intolérantes.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.4,
+                "price_per_unit": 22.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "crusty-muesli-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRUSTY MUESLI 200G BIO",
+                "desc": "Crusty Muesli 200g Bio\nTranches croustillantes gourmet bio à la farine d'épeautre complète, aux flocons d'avoine et au miel.\nFabrication artisanale - Avec de l'huile solive vierge extra.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/crusty-muesli-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:15",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 830
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.5
+                    },
+                    "fats": {
+                        "fats": 11.9
+                    },
+                    "proteins": {
+                        "proteins": 12.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 57.2,
+                        "of_which_sugars": 7.7,
+                        "dietary_fiber": 8.8
+                    }
+                },
+                "ingredients": "Farine d'épeautre complète* 50%, flocons d'avoine* 11%, graines de lin* 6%, graines de tournesol*, sultanins*, farine d'épeautre*, sucre de canne brut*, miel* 3%, sésame*, sel marin, levure, extrait de malt d'orge*.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.05,
+                "price_per_unit": 20.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "croustilles-sesame-pavot-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CROUSTILLES CHÈVRE SÉSAME & PAVOT 100G BIO",
+                "desc": "Croustilles chèvre sésame & pavot 100G Bio\nIdéal pour un apéritif gourmand et convivial. Les croustilles sont pur beurre et sans huile de palme.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061086.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/croustilles-sesame-pavot-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 22.1
+                    },
+                    "fats": {
+                        "fats": 36.8
+                    },
+                    "proteins": {
+                        "proteins": 10.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44.9,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 1.7
+                    }
+                },
+                "ingredients": "Farine de blé*, beurre* 30%, graines de sésame* 8%, fromage de chèvre végétarien* 3%, sel marin, graines de pavot* 2%, poudre d'oeufs entiers*.\n* Ingrédients issus de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 46.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "cracker-parmesan-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRACKERS AU PARMESAN 100G BIO",
+                "desc": "Crackers au Parmesan 100g Bio\nLes Crackers au Parmesan Sans Gluten sont parfaits comme encas à tout moment de la journée, ils sont très fins et croustillants, ce qui les rend absolument irrésistibles !\nAlors, bonne dégustation !\nContenu : Sachet de 100 g",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061024.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cracker-parmesan-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1630
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 9
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 68.4,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.7
+                    }
+                },
+                "ingredients": "Fécule de pomme de terre*, parmesan* 15%, farine de riz*, flocons de pomme de terre* (avec extrait de romarin*), huile de colza*, sel marin, sucre de canne non raffiné*, émulsifiant : lécithine de soja*",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 48.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au frais et au sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "chips-lentils-original-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS LENTILLES ORIGINAL 90G BIO",
+                "desc": "Chips lentilles original 90g Bio\nGoûtez aux Chips aux Lentilles Original de Lima ! \nLes lentilles sont une source de protéines végétales, elles sont présentes depuis toujours dans l'alimentation quotidienne à travers le monde.\nAujourd'hui nous avons revisité les lentilles sous une forme unique et croustillante en préservant le goût naturel et les qualités nutritives de cette précieuse légumineuse à la fois source de fibres et de protéines.\nComme en cas ou à l'apéritif, profitez de ce snack lentilles, cuit au four !\nConvient à l’alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-lentils-original-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.7
+                    },
+                    "fats": {
+                        "fats": 5.3
+                    },
+                    "proteins": {
+                        "proteins": 15.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 67.5,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 4.8
+                    }
+                },
+                "ingredients": "Farine de lentilles* 48%, fécule de pomme de terre*, amidon de pomme de terre*, huile de tournesol*, sel marin, poudre de curcuma*.\n*Ingrédients issus de l’agriculture biologique.\nPeut contenir des traces de gluten, soja et lait.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 2.99,
+                "price_per_unit": 33.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une version original comme en-cas dans la journée ou à l’apéritif, les Lentil Chips, cuites au four se consomment sans modération.",
+                "conservation": "A conserver dans un endroit sec et tempéré.\nBien refermer le sachet après ouverture."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "original-tortilla-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS TORTILLA ORIGINAL 90G BIO",
+                "desc": "Chips tortilla original 90G Bio\nLes Tortillas, toujours là pour donner une touche de Tex-mex à vos repas, combler un petit creux ou lors d'un apéritif entre amis.\nDélicieuses et croustillantes, elles sont réalisées avec de l'huile de tournesol comme unique matière grasse et un maïs entier naturellement séché au soleil et moulu sur une meule de pierre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061024.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/original-tortilla-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.7
+                    },
+                    "fats": {
+                        "fats": 30
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 53,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Maïs*, huile de tournesol* 25%, sel marin.\n*Issu de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 22.11,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Croquantes, pimentées ou parfumées, les Tortillas Chips se consomment aussi bien : à l’apéritif accompagnées de leur sauce dip, en entrée pour enrichir un plat de crudités ou comme snack. Innovez, conseillez les Tortillas associés aux Tartinables comme bouchées apéritives !"
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "chili-tortilla-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS TORTILLA CHILI 90G BIO",
+                "desc": "Chips Tortilla Chili 90G Bio\nLes Tortillas, toujours là pour donner une touche Tex-Mex à vos repas, combler un petit creux ou lors d'un apéritif entre amis.\nDélicieuses et croustillantes, elles sont réalisées avec de l'huile de tournesol comme unique matière grasse et un maïs entier naturellement séché au soleil et moulu sur meule de pierre.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061024.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chili-tortilla-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.6
+                    },
+                    "fats": {
+                        "fats": 30.1
+                    },
+                    "proteins": {
+                        "proteins": 6.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52.8,
+                        "of_which_sugars": 1,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "Maïs*, huile de tournesol* 25%, sel marin, paprika*, ail*. oignon*, sucre de canne*, coriander*, livèche*, chili*\n* issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 2.65,
+                "price_per_unit": 29.44,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour l'apértif.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "chips-mais-chili-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS DE MAÏS AU CHILI 125G BIO",
+                "desc": "Chips de maïs au chili 125G Bio\nNature ou accompagnées d'une sauce, ces chips sont un vrai régal à déguster au moment de l'apéritif.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061079.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-mais-chili-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:16",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 21.5
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62.8,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Farine de maïs*, huile de palme*, mélange au chili* 4% (sel, poivron*, ail*, oignon*, sucre*, coriandre*, chili*, fenugrec*, livèche*).\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 20.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "mais-rolls-tomate-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MAÏS ROLLS À LA TOMATE 125G BIO",
+                "desc": "Maïs rolls à la tomate 125G Bio\nNature ou accompagnées d'une sauce, ces rolls sont un vrai régal à déguster au moment de l'apéritif.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061093.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mais-rolls-tomate-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.4
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 61,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Farine de maïs*, huile végétale*, légumes deshydratés* (tomates*, ail*), sel, sucre*, extrait de levure, épices* (piment doux*, poivre noir*, piment fort*), concentré de tomate*, extrait de paprika*.\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.65,
+                "price_per_unit": 21.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.65 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "chips-mais-nature-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS DE MAÏS NATURE 125G BIO",
+                "desc": "Chips de maïs nature 125G Bio\nChips nature Bio, spécialité salée à base de mais, sans huile de palme !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/5/4/5411788046374.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-mais-nature-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 21.5
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62.8,
+                        "of_which_sugars": 1.5
+                    }
+                },
+                "ingredients": "Farine de maïs*, huile de tournesol*, sel marin.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.35,
+                "price_per_unit": 18.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "chips-mais-paprika-125g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHIPS DE MAÏS AU PAPRIKA 125G BIO",
+                "desc": "Chips de maïs au paprika 125G Bio\nNature ou accompagnées d'une sauce, ces chips sont un vrai régal à déguster au moment de l'apéritif.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061093.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chips-mais-paprika-125g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.2
+                    },
+                    "fats": {
+                        "fats": 21.5
+                    },
+                    "proteins": {
+                        "proteins": 6.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 62.8,
+                        "of_which_sugars": 15
+                    }
+                },
+                "ingredients": "Farine de maïs*, huile de tournesol*, assaisonnement au paprika* 5% (amidon de riz*, sel marin, sirop de glucose* déshydraté, paprika*, oignon*, extrait de paprika*, extrait de levure*, ail*).\n*Issu de l’Agriculture Biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 20.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "À conserver à l’abri de l’humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "gressin-classique-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRESSIN CLASSIQUE À L'HUILE D'OLIVE VIERGE EX...",
+                "desc": "Gressin classique à l'huile d'olive vierge extra 150G Bio\nGressins artisanaux biologiques à l'huile d'olive extra vierge.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061024.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gressin-classique-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 9.4
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Farine de blé*, huile d'olive extra vierge* 8%, levure de boulanger, sel marin, farine de froment maltée*.\n*Issu de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 13.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Conserver dans un endroit frais et sec, à l'abri de la lumière et sources de chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "gressins-sg-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRESSINS À L'HUILE D'OLIVE SANS GLUTEN 100G B...",
+                "desc": "Gressins à l'huile d'olive sans gluten 100G Bio\nRetrouvez les saveurs de l'Italie à l'apéritif avec nos gressins Bio sans gluten !\nA la fois croustillants et dorés, ils sont délicatement parfumés à l'huile d'olive vierge.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8000781007238.p1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gressins-sg-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 2000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.3
+                    },
+                    "fats": {
+                        "fats": 14
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 77,
+                        "of_which_sugars": 7.6
+                    }
+                },
+                "ingredients": "Fécule de pomme de terre*, farine de riz blanche*, farine de sarrasin*, huile d’olive (7%)*, sucre de canne*, levure de boulanger, épaississants : gomme de xanthane et gomme de guar*, sel.\nSans huile de palme, sans conservateur, sans colorant.\n*Ingrédients issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 45.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A consommer tel quel en apéritif ou pour accompagner une salade en guise de pain.\nSuggestion : tremper les gressins dans différentes sauces : tapenade, aïoli, guacamole...",
+                "conservation": "A conserver dans un endroit sec et tempéré."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "gressin-romarin-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRESSINS AU ROMARIN 150G BIO",
+                "desc": "Gressins au romarin 150G Bio\nGressins artisanaux biologiques avec de l'huile d'olive extra vierge et au romarin.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380102479.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gressin-romarin-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:17",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1800
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.4
+                    },
+                    "fats": {
+                        "fats": 9.4
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 71,
+                        "of_which_sugars": 1.9,
+                        "dietary_fiber": 3.1
+                    }
+                },
+                "ingredients": "Farine de blé*, huile d'olive extra vierge*, levure de boulanger, sel marin, romarin*, farine de froment maltée*.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 13.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec, à l'abri de la lumière et sources de chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "gressin-integrale-lin-150g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "GRESSINS AUX GRAINES DE LIN 150G BIO",
+                "desc": "Gressins aux graines de lin 150G Bio\nGressins artisanaux biologiques avec de l'huile d'olive extra vierge et aux graines de lin.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8000781007276.p1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/gressin-integrale-lin-150g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:18",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 1700
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.7
+                    },
+                    "fats": {
+                        "fats": 12
+                    },
+                    "proteins": {
+                        "proteins": 13
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 59,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 9.8
+                    }
+                },
+                "ingredients": "Farine de blé T80*, huile d'olive extra vierge*, graines de lin*, levure de boulanger, sel marin.\n*Ingrédients issus de l'Agriculture Biologique.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 2.05,
+                "price_per_unit": 13.67,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ]
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "soya-party-70g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "SOYA PARTY 70G BIO",
+                "desc": "Soya Party 70G Bio\nGraines de soja toastées finement salées.\n-52% de matières grasses.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8000781007238.p1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/soya-party-70g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:18",
+                "format": "70G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.3
+                    },
+                    "fats": {
+                        "fats": 24
+                    },
+                    "proteins": {
+                        "proteins": 40
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 5.5,
+                        "dietary_fiber": 15
+                    }
+                },
+                "ingredients": "Soja* entier, huile de tournesol* non désorisée, sel.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 70.0,
+                "price_per_packaging": 2.6,
+                "price_per_unit": 37.14,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un edroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "bretzels-quinoa-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BRETZELS QUINOA 200G BIO",
+                "desc": "Bretzels Quinoa 200G Bio\nBiscuits salés à déguster à l'apéritif. Recette traditionnelle alsacienne revue avec un brin d'exotisme !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3380380102479.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/bretzels-quinoa-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:18",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3000
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.6
+                    },
+                    "fats": {
+                        "fats": 7.3
+                    },
+                    "proteins": {
+                        "proteins": 11.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 74.1,
+                        "of_which_sugars": 2.3,
+                        "dietary_fiber": 10.6
+                    }
+                },
+                "ingredients": "Farine de blé* T65, farine de quinoa° (25%), sésame complet*, huile d'olive vierge extra(2.6%)*, sel marin, levure, correcteur d'acidité : hydroxyde de sodium.\n*Issu de l'agriculture biologique.\n**Issu du commerce équitable de Bolivie.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 22.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "mini-galette-mais-romarin-50g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MINI GALETTE MAIS ROMARIN 50G BIO",
+                "desc": "Mini Galette Mais Romarin 50g Bio\nPriméal propose désormais une nouvelle gamme de biscuits apéritifs bio délicieusement croquants qui accompagneront tous vos apéritifs...\nCraquez pour ces mini galettes de maïs au romarin à déguster à l'apéritif, tartinées de tapenade ou en snack et qui raviront, sans aucun doute, tous vos invités.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340061086.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mini-galette-mais-romarin-50g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:18",
+                "format": "50G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 930
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 1.9
+                    },
+                    "fats": {
+                        "fats": 16.7
+                    },
+                    "proteins": {
+                        "proteins": 6.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 73.1,
+                        "of_which_sugars": 0.3,
+                        "dietary_fiber": 2.1
+                    }
+                },
+                "ingredients": "Maïs* (75%), huile de germe de maïs* (15%), amidon de maïs* (8%), sel, romarin* (0,6%), herbes aromatiques*, épices*.\n*Issus de l’agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 50.0,
+                "price_per_packaging": 1.99,
+                "price_per_unit": 39.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 1.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A conserver dans un endroit sec et frais, à l'abri de la lumière.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "olives-vertes-persillades-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "OLIVES VERTES ENTIÈRES À LA PERSILLADE 250G BIO",
+                "desc": "Olives vertes entières à la persillade 250G Bio\nToute la saveur du Sud dans ce délicieux mélange d'olives vertes entières, aromatisées à l’ail et au persil !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8000781007238.p1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/olives-vertes-persillades-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:19",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 4380
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.2
+                    },
+                    "fats": {
+                        "fats": 22.2
+                    },
+                    "proteins": {
+                        "proteins": 1.39
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.08,
+                        "of_which_sugars": 0.423,
+                        "dietary_fiber": 5.1
+                    }
+                },
+                "ingredients": "Olives vertes bio*.\n*Produit issu de l’agriculture biologique certifié par Ecocert SAS F32600.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.75,
+                "price_per_unit": 19.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "olives-vertes-entieres-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "OLIVES VERTES ENTIÈRES 250G BIO",
+                "desc": "Olives vertes entières 250G Bio.\nBio et idéal à l’apéritif !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/1/3184340161373.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/olives-vertes-entieres-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:19",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 5500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.9
+                    },
+                    "fats": {
+                        "fats": 18
+                    },
+                    "proteins": {
+                        "proteins": 1.1
+                    }
+                },
+                "ingredients": "Olives vertes bio*.\n*Produit issu de l’agriculture biologique certifié par Ecocert SAS F32600.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 19.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "Après ouverture, conserver au réfrigérateur et consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    },
+    {
+        "ean": "olives-noires-entieres-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Apéritifs, Pâtés"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "OLIVES NOIRES ENTIÈRES 250G BIO",
+                "desc": "Olives noires entières 250G Bio\nLes olives noires bio entières Biorgane proviennent de la région d’Essaouira au Maroc où les oliviers y poussent de façon sauvage et naturelle. Les fruits sont ensuite récoltés manuellement entre le mois d’octobre (pour les vertes) jusqu’à fin décembre pour les olives les plus mûres (noires).\nAprès triage à la main et rinçage, les olives noires bio entières sont mises dans de grandes cuves. Afin de les désamériser, elles sont mélangées à du gros sel et remuées régulièrement pendant plusieurs mois.\nLe procédé de désamérisation est donc entièrement naturel. Il n’y a aucun autre ajout. Le conditionnement des olives noires bio entières sous vide ou en bocal (sans saumure) se fait en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8000781007238.p1-0002.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/olives-noires-entieres-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:19",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.7
+                    },
+                    "fats": {
+                        "fats": 35.2
+                    },
+                    "proteins": {
+                        "proteins": 1.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.1,
+                        "of_which_sugars": 1.1
+                    }
+                },
+                "ingredients": "Olives noires issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.19,
+                "price_per_unit": 20.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les olives noires bio entières peuvent être utilisées dans les salades, les plats en sauce, sur les pizzas…",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:13",
+        "updated_at": "2025-06-15T22:13"
+    }
+]

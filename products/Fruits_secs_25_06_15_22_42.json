@@ -1,0 +1,1884 @@
+[
+    {
+        "ean": "noisette-decort-fair-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOISETTES DÉCORTIQUÉS 250G BIO",
+                "desc": "Noisettes Décortiqués 250g Bio\nD'un point de vue botanique, les noisetiers (Corylus avellana) font partie de la famille des Betulaceae. L'arbuste, pouvant atteindre près de cinq mètres de hauteur, est très prisé depuis des siècles pour ses noisettes riches en huile et protéines. Les noisettes Levantine proviennent du littoral de la mer Noire participant au projet Turquie de Rapunzel.\nLes fruits murissent entre août et septembre. Les noisettes tombent de l'arbre après l'avoir secoué et sont ramassées manuellement sur le sol. Après cinq à sept jours de séchage au soleil, elles perdent leur enveloppe verte. Pour conserver la fraîcheur le plus longtemps possible, les noisettes sont \"cassées\" juste avant l‘expédition vers Allemagne.\nLes noisettes sont riches en protéines, vitamines du groupe B et vitamines E ainsi qu'en minéraux, magnésium, calcium, potassium, phosphore et fer.\nLes noisettes levantines, particulièrement goûteuses, proviennent du bord de la mer Noire, principale région productrice des noisettes en Turquie, un des pays plus grand producteur de noisette.\n  A partir de mi-aout, les noisetiers sont secoués, les noisettes arrivées à maturité sont ramassées à la main puis mises à sécher. La coque est  séparée de la graine avec un moulin. L'opération de décorticage a lieu\navant le transport vers l'Allemagne pour conserver leur fraîcheur.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395120.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noisette-decort-fair-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:38",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.5
+                    },
+                    "fats": {
+                        "fats": 60.8
+                    },
+                    "proteins": {
+                        "proteins": 15
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 4.34,
+                        "dietary_fiber": 9.7
+                    }
+                },
+                "ingredients": "Noisettes*\n*issu de l'agriculture biologique",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.9,
+                "price_per_unit": 23.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal en en-cas ou après une activité sportive",
+                "conservation": "A conserver dans un endroit sec et à température ambiante",
+                "old_price": 6.95
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "cocktail-noix-graines-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "COCKTAIL NOIX & GRAINES 250G BIO",
+                "desc": "Cocktail Noix et Graines 250g Bio\nDécouvrez ce mélange cocktail sans sel ajouté. Idéal lors d'un en-cas ou à saupoudrer dans vos salades.\nConditionné en France, dans un sachet en papier recyclable.\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040031260_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cocktail-noix-graines-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:38",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.9
+                    },
+                    "fats": {
+                        "fats": 54.7
+                    },
+                    "proteins": {
+                        "proteins": 19.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.3,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 6.5
+                    }
+                },
+                "ingredients": "NOISETTES*40%, graines de tournesol*, graines de courges*, NOIX DE CAJOU*.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 19.4,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour un encas sain ou pour saupoudrer sur vos salades composées.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.75
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "noix-de-cajou-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOIX DE CAJOU 100G BIO",
+                "desc": "Noix de cajou 100g Bio\nCes noix de cajou sont un produit Main dans la Main : agriculture biologique et commerce équitable.\nOrigine: Inde.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395120.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noix-de-cajou-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:38",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Noix de cajou*.\n*Issues de l'agriculture biologique et du commerce équitable.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.39,
+                "price_per_unit": 33.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 3.99
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "arachides-coque-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ARACHIDES COQUE 500G BIO",
+                "desc": "Arachides Coque 500g Bio\nLes arachides coques proviennent d’Egypte.\nL’arachide fait partie de la famille des oléagineux qui sont des graines à partir desquelles on peut obtenir de l’huile.\nL’arachide est très nourrissante et riche en protéines.\nCultivé sans engrais chimique ni pesticides, ne sont ni gazés ni souffrés et ne contiennent pas de conservateurs chimiques.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908857.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/arachides-coque-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "proteins": {
+                        "proteins": 30.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.4
+                    }
+                },
+                "ingredients": "Arachides bio d'Egypte.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.4,
+                "price_per_unit": 10.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-16%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A conserver dans un endroit sec et frais.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 6.4
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "6760919",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAISINS SULTANINES 200G BIO",
+                "desc": "Raisins sultanines 200g Bio\nDécouvrez nos raisins secs bio, une collation 100 % naturelle, riche en saveurs et en bienfaits pour votre santé. Issus de l'agriculture biologique, ces raisins sont séchés au soleil pour préserver tous leurs nutriments et leur goût sucré authentique.\nBienfaits :\n- Source naturelle d’énergie : Parfait pour les sportifs et les encas sains.\n- Riche en fibres : Favorise une digestion optimale.\n- Sans sucres ajoutés, sans conservateurs : Un plaisir naturel et sain.\n- Riche en antioxydants et en minéraux : Idéal pour un mode de vie équilibré.\nAjoutez-les à vos céréales, yaourts, salades ou pâtisseries, ou savourez-les simplement en encas sain.\nNos raisins secs bio sont cultivés de manière responsable, sans pesticides ni produits chimiques, pour préserver votre santé et l’environnement.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760149995199.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/raisins-sultanines-200g-6760919"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79,
+                        "of_which_sugars": 59,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Raisins* secs sultanines (Ouzbékistan), huile de tournesol*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 12.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les raisins secs se prêtent à de nombreuses façons gourmandes de les déguster. Ils peuvent être savourés tels quels, en simple en-cas, offrant une douceur naturelle et une bonne dose d’énergie. Mélangés à un bol de muesli ou de granola, ils apportent une touche sucrée qui se marie parfaitement avec le croquant des céréales et la douceur d’un yaourt. En pâtisserie, ils trouvent leur place dans des cakes, des muffins ou encore des cookies, où ils viennent enrichir la texture et les saveurs.\nMais leur utilisation ne se limite pas au sucré. Dans des plats salés, ils ajoutent une touche subtile et sucrée aux tajines, aux currys ou aux salades composées. Ils se glissent aussi dans un plat de riz ou de couscous, équilibrant les épices par leur douceur. Pour une saveur encore plus intense, on peut les faire infuser dans du rhum ou du thé, ce qui les rend parfaits pour des desserts gourmands.\nIls s’intègrent aussi dans des préparations plus énergétiques, comme des barres maison à base de flocons d’avoine et de fruits secs. Dans un fromage blanc, ils apportent une note sucrée qui contraste agréablement avec l’acidité du produit laitier, et associés à un fromage affiné comme le roquefort ou le chèvre, ils créent une alliance audacieuse et raffinée. Enfin, pour les amateurs de gourmandises, rien de tel que des raisins secs trempés dans du chocolat fondu, un petit plaisir simple et irrésistible.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "6760918",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "RAISINS SULTANINES 500G BIO",
+                "desc": "Raisins sultanines 500g Bio\nLes raisins sultanines sont de petites pépites dorées, naturellement sucrées et pleines de saveurs ensoleillées. Riches en fibres et en antioxydants, ils apportent une touche gourmande à vos céréales, vos pâtisseries ou même vos salades. Chaque poignée est une explosion de douceur qui saura satisfaire vos envies de sucré.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395090.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/raisins-sultanines-500g-6760918"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 79.2,
+                        "of_which_sugars": 59.2,
+                        "dietary_fiber": 3.7
+                    }
+                },
+                "ingredients": "Raisin Sultanine biologique 99.5% (Ouzbékistan), huile de tournesol biologique 0.5%.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.9,
+                "price_per_unit": 9.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster en en-cas, pour l'apéritif, à cuisiner...",
+                "conservation": "Conserver dans un endroit sec et frais à l’abri de la lumière et d’odeurs étrangères."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "cerneaux-de-noix-fr-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CERNEAUX DE NOIX 200G BIO",
+                "desc": "Cerneaux de noix 200g Bio\nDes cerneaux de noix françaises, à déguster à tout moment de la journée pour un encas sain.\nLaissez libre cours à votre imagination pour intégrer ces noix à vos recettes de salades composées, de tartes salées et pour accompagner vos plateaux de fromages.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395120.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cerneaux-de-noix-fr-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.5
+                    },
+                    "fats": {
+                        "fats": 67
+                    },
+                    "proteins": {
+                        "proteins": 15.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 6.7
+                    }
+                },
+                "ingredients": "Cerneaux de NOIX* (France).\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 29.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans vos salades d'endives, vos tartes salées ou pour accompagner vos fromages, ces cerneaux de noix viendront sublimer vos plats.\nVous pouvez également les déguster tout au long de la journée pour un encas sain.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "500",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRUNEAUX D'AGEN GROS DÉNOYAUTÉS 500G BIO",
+                "desc": "Pruneaux d'Agen gros dénoyautés 500g Bio\nDes pruneaux d'Agen entiers très gros (44 à 55 fruits par 500g) pasteurisés Bio et sans noyaux. Moelleux et riches en fibres, ces pruneaux sont gourmands et délicieux à consommer à tout moment de la journée ou pour la réalisation de vos pâtisseries.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395090.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pruneaux-agen-denoy-44-55-500"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52,
+                        "of_which_sugars": 37,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "PRUNEAUX* d'Agen dénoyautés.\nHumidité : 35% maximum.\nPeut contenir des traces de FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 19.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée, en promenade, au bureau ou à la salle de sport pour un encas fruité.\nVous pouvez le consommer tel quel ou l'infuser.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, à conserver au réfrigérateur entre +0°C et +4°C et à consommer sous 10 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "pruneaux-agen-denoy-44-55-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRUNEAUX D'AGEN GROS DÉNOYAUTÉS 250G BIO",
+                "desc": "Pruneaux d'Agen gros dénoyautés 250g Bio\nDes pruneaux d'Agen entiers très gros (44 à 55 fruits par 500g) pasteurisés Bio et sans noyaux. Moelleux et riches en fibres, ces pruneaux sont gourmands et délicieux à consommer à tout moment de la journée ou pour la réalisation de vos pâtisseries.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036908857.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pruneaux-agen-denoy-44-55-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 1.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 52,
+                        "of_which_sugars": 37,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "PRUNEAUX* d'Agen dénoyautés.\nHumidité : 35% maximum.\nPeut contenir des traces de FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.15,
+                "price_per_unit": 20.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée, en promenade, au bureau ou à la salle de sport pour un encas fruité.\nVous pouvez le consommer tel quel ou l'infuser.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture, à conserver au réfrigérateur entre +0°C et +4°C et à consommer sous 10 jours."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "pruneaux-avec-noyaux-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRUNEAUX D'AGEN GROS AVEC NOYAUX 250G BIO",
+                "desc": "Pruneaux d'Agen gros avec noyaux 250g Bio\nDes pruneaux d'Agen entiers très gros (44 à 55 fruits par 500g) pasteurisés Bio. Moelleux et riches en fibres, ces pruneaux sont gourmands et délicieux à consommer à tout moment de la journée.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760149995182.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pruneaux-avec-noyaux-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 35,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "PRUNEAUX* d'Agen.\nHumidité : 35% maximum.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 3.49,
+                "price_per_unit": 13.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée, en promenade, au bureau ou à la salle de sport pour un encas fruité.\nNe convient pas aux enfants de moins de 36mois.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "amandes-decortiquees-naturalia",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AMANDES DÉCORTIQUÉES 250G BIO - NATURALIA",
+                "desc": "Amandes décortiquées 250G Bio\nAmandes décortiquées issues de l'agriculture biologique.\nIdéal pour un encas sain ou pour vos recettes de pâtisseries.\nOrigine Espagne.\n\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.\n  Naturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8002352302148.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amandes-decortiquees-naturalia"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.2
+                    },
+                    "fats": {
+                        "fats": 53
+                    },
+                    "proteins": {
+                        "proteins": 25
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 10
+                    }
+                },
+                "ingredients": "Amandes décortiquées* (Espagne).\nTraces éventuelles d'autres de soja et d'autres fruits à coque.\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.29,
+                "price_per_unit": 21.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos encas sains et gourmands mais également dans vos recettes de confiseries.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "amandes-decortiquees-400g-naturalia",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AMANDES 400G BIO",
+                "desc": "Amandes 400g Bio\nAmandes décortiquées issues de l'agriculture biologique. Les amandes sont idéales pour un encas sain à déguster à tout moment de la journée.\nOrigine Espagne.\n\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040071501_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amandes-decortiquees-400g-naturalia"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.2
+                    },
+                    "fats": {
+                        "fats": 53
+                    },
+                    "proteins": {
+                        "proteins": 25
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.9,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 10
+                    }
+                },
+                "ingredients": "Amandes décortiquées* (Espagne).\nTraces éventuelles d'autres de soja et d'autres fruits à coque.\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 7.99,
+                "price_per_unit": 19.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée pour un encas sain et croquant.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "pruneaux-bio-avec-noyaux-500gr",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PRUNEAUX D'AGEN AVEC NOYAUX 500G BIO",
+                "desc": "Pruneaux d'Agen avec noyaux 500G Bio.\nPruneaux d'Agen entiers très gros (44 à 55 fruits par 500G) pasteurisés, issus de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040070153_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pruneaux-bio-avec-noyaux-500gr"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:39",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "proteins": {
+                        "proteins": 2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 35,
+                        "dietary_fiber": 7
+                    }
+                },
+                "ingredients": "Pruneaux* d'Agen.\n*Issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 11.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec.\nNe convient pas aux enfants de moins de 36 mois."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "3549555",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOIX DE CAJOU SANS SEL AJOUTÉ 250G BIO",
+                "desc": "Noix de cajou sans sel ajouté 250G Bio\nNoix de cajou issues de l'agriculture biologique.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3543267105448.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noix-de-cajou-250g-3549555"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5
+                    },
+                    "fats": {
+                        "fats": 55
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 4.7,
+                        "dietary_fiber": 8.3
+                    }
+                },
+                "ingredients": "Noix de cajou* (Vietnam).\n*Issues de l'agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.99,
+                "price_per_unit": 23.96,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec.\nBien refermer le sachet après usage."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "melange-coque-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE DE FRUITS À COQUE 250G BIO",
+                "desc": "Mélange de fruits à coque 250G Bio\nMélange de fruits à coque issus de l'agriculture biologique.\nNoisettes, amandes, noix de cajou, noix d'Amazonie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040031260_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melange-coque-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.8
+                    },
+                    "fats": {
+                        "fats": 57
+                    },
+                    "proteins": {
+                        "proteins": 17
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 12,
+                        "of_which_sugars": 4.4,
+                        "dietary_fiber": 7.8
+                    }
+                },
+                "ingredients": "Noisettes* (Turquie) 35%, amandes* (Espagne) 30%, noix de cajou* (Vietnam) 20%, noix d'Amazonie* (Bolivie) 15%.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.55,
+                "price_per_unit": 26.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour vos encas sains, au goûter ou pendant vos promenades.",
+                "conservation": "A conserver dans un endroit frais et sec.\nBien refermer le sachet après usage."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "3512259",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "FIGUES SÉCHÉES 500G BIO",
+                "desc": "Figues séchées 500G Bio.\nFigues séchées issues de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3543267105332.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/figues-naturelles-500g-3512259"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 200
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 43,
+                        "dietary_fiber": 13
+                    }
+                },
+                "ingredients": "Figues* séchées (Turquie).\nTraces éventuelles de fruits à coques.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.\n*Issues de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.95,
+                "price_per_unit": 19.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "noisettes-decortiquees-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOISETTES DÉCORTIQUÉES NATURALIA 250G BIO",
+                "desc": "Noisettes décortiquées naturalia 250G Bio\nNoisettes décortiquées issues de l'agriculture biologique.\n\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040031260_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noisettes-decortiquees-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.5
+                    },
+                    "fats": {
+                        "fats": 63
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.7,
+                        "of_which_sugars": 4.3
+                    }
+                },
+                "ingredients": "Noisettes décortiquées* (Turquie).\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.79,
+                "price_per_unit": 27.16,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "melange-fruits-secs-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE DE FRUITS SECS 250G BIO",
+                "desc": "Mélange de fruits secs 250G Bio\nMélange de fruits secs et à coque issus de l'agriculture biologique.\nContient : raisins secs, amandes, noisettes et noix de cajou.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/2/2/22947-0w345h345_dattes_deglet_nour_ravier_bio_250g.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melange-fruits-secs-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.8
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39,
+                        "of_which_sugars": 31,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Raisins secs Sultanines* 50% (raisins secs Sultanines*, huile de tournesol*), amandes* décortiquées (Espagne) 20%, noisettes* décortiquées (Turquie) 15%, noix de cajou* (Vietnam) 15%.\nTraces éventuelles d'autres de soja et d'autres fruits à coque.\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 5.15,
+                "price_per_unit": 20.6,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "melange-fruits-secs-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE DE FRUITS SECS 400G BIO",
+                "desc": "Mélange de fruits secs 400g Bio\nNaturalia est partenaire d'Agrosourcing, situé à Fuveau dans les Bouches du Rhône et spécialisé dans la sélection de fruits secs biologiques.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3543267105332.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melange-fruits-secs-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:40",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 2.8
+                    },
+                    "fats": {
+                        "fats": 27
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 39,
+                        "of_which_sugars": 31,
+                        "dietary_fiber": 5.8
+                    }
+                },
+                "ingredients": "Raisins secs sultanines*50% (raisins secs sultanines*, huile de tournesol*), amandes* décortiquées (Espagne) 20%, noisettes* décortiquées (Turquie) 15%, noix de cajou* (Vietnam) 15%.\n*Ingrédients issus de l'Agriculture Biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 8.15,
+                "price_per_unit": 20.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.15 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.40 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit sec et température ambiante."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "abricots-secs-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "ABRICOTS SECS 500G BIO",
+                "desc": "Abricots secs 500g Bio\nAbricots secs dénoyautés issus de l'agriculture biologique et produits par Isik.\nNaturalia est partenaire d'Isik situé à Izmir en Turquie. Les abricots secs Naturalia sont cultivés par 100 agriculteurs sur des terres localisées dans la région turque de Malatya, au centre de la Turquie.\nAbricots secs dénoyautés.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040071501_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/abricots-secs-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:41",
+                "format": "500G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fats": {
+                        "fats": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 3.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 63,
+                        "of_which_sugars": 53,
+                        "dietary_fiber": 7.3
+                    }
+                },
+                "ingredients": "Abricots* secs dénoyautés (Turquie).",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 12.9,
+                "price_per_unit": 25.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "noisettes-400g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOISETTES 400G BIO",
+                "desc": "Noisettes 400G Bio\nNoisettes décortiquées BIO, sélectionnées par Isik.\nOrigine Turquie.\nDepuis sa création en 1973, NATURALIA entretient des relations durables avec les producteurs pionniers de la BIO.\nCes partenariats garantissent la qualité de nos produits.\nNaturalia s'engage pour le Planet Score, découvrez toutes les explications, en cliquant ici.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040033257_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/noisettes-400g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:41",
+                "format": "400G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 40
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.5
+                    },
+                    "fats": {
+                        "fats": 63
+                    },
+                    "proteins": {
+                        "proteins": 14
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.7,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 9
+                    }
+                },
+                "ingredients": "Noisettes décortiquées* (Turquie).\n*Ingrédient issu de l'agriculture biologique.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 10.69,
+                "price_per_unit": 26.72,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "6690005",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MANGUES SÉCHÉES 125G BIO",
+                "desc": "Mangues séchées 125g Bio\nSi nos mangues séchées du Burkina Faso sont si moelleuses c’est qu’elles ont été ramassées mûres entre mai et juin dans la province des Cascades au Sud-Ouest du Burkina Faso. Elles ont bénéficié d’un séchage doux, dans un four à chaleur tournante de dernière génération permettant de préserver leur parfum. Nos mangues séchées sont certifiées équitables depuis 2005. Cet engagement permet de soutenir l’agriculture locale et favorise le développement de productions complémentaires comme le gingembre, l’hibiscus ou l’arachide et ainsi diversifier les revenus des producteurs.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395090.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/mangues-cote-d-ivoire-125g-6690005"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:41",
+                "format": "125G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 70
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 0.1
+                    },
+                    "fats": {
+                        "fats": 2.5
+                    },
+                    "proteins": {
+                        "proteins": 3.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 69,
+                        "of_which_sugars": 67,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Mangue séchée Bio.",
+                "on_discount": false,
+                "weight_per_packaging": 125.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 34.32,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un encas sain et délicieux à déguster tout au long de la journée.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "melange-etudiant-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "MÉLANGE FRUITS SECS ÉTUDIANT 250G BIO",
+                "desc": "Mélange fruits secs étudiant 250g Bio\nDécouvrez cette sélection de fruits secs idéale pour les étudiants. Riche en magnésium et sans sucre ajouté, adoptez le, il sera votre allié et un encat parfait entre deux examens !\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760149995182.1-0001.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/melange-etudiant-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:41",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.4
+                    },
+                    "fats": {
+                        "fats": 32.4
+                    },
+                    "proteins": {
+                        "proteins": 9.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47,
+                        "of_which_sugars": 30.4,
+                        "dietary_fiber": 6.7
+                    }
+                },
+                "ingredients": "Raisins secs*, amandes*, noisettes*, noix de cajou*.\n* Ingrédients issus de l'Agriculture Biologique",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.55,
+                "price_per_unit": 26.2,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "cerneaux-noix-conversion-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CERNEAUX DE NOIX EN CONVERSION 100G",
+                "desc": "Cerneaux de Noix en conversion 100g\nOriginaire du Sud-Ouest de la France, les cerneaux de noix proposés par PourDemain présentent un délicat parfum boisé et une texture qui évoque la richesse de cette région. En transition vers l'agriculture biologique, ces noix contribuent à une juste rémunération de leur producteur qui s'engage dans la voie du bio !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/4/04006040033257_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cerneaux-noix-conversion-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:41",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6
+                    },
+                    "fats": {
+                        "fats": 63.8
+                    },
+                    "proteins": {
+                        "proteins": 14.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.5,
+                        "of_which_sugars": 3.4,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "Cerneaux de noix 100%",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 39.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A emporter partout : bureau, école, salle de sport, promenades.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    },
+    {
+        "ean": "cacah-choco-lait-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Fruits secs"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CACAHUÈTES CHOCOLAT AU LAIT 100G BIO",
+                "desc": "Cacahuètes Chocolat au Lait 100g Bio\nDécouvrez les délicieuses cacahuètes enrobées de chocolat au lait et dragéifiées. Idéal pour une pause gourmande.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/6/1/6194000395090.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/cacah-choco-lait-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-15T22:42",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 13
+                    },
+                    "fats": {
+                        "fats": 29
+                    },
+                    "proteins": {
+                        "proteins": 8.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 51,
+                        "dietary_fiber": 3.9
+                    }
+                },
+                "ingredients": "Sucre de canne*, CACAHUETES grillées*, beurre de cacao*, LAIT entier en poudre*, masse de cacao*, amidon de riz*, épaississant : gomme arabique*, extraits de fruits et de plantes colorants, agent d'enrobage : cire de canauba*, vanille* en poudre.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 42.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver au sec et à l'abri de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-15T22:38",
+        "updated_at": "2025-06-15T22:38"
+    }
+]

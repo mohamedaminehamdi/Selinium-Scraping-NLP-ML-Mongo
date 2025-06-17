@@ -1,0 +1,2211 @@
+[
+    {
+        "ean": "choc-noir-agrumes-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR AGRUMES 80G BIO",
+                "desc": "Chocolat noir agrumes 80g Bio\n Un chocolat noir intense 70% associé au goût fruité et acidulé des agrumes. \nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choc-noir-agrumes-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:24",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*, extrait de vanille*, poudre d'agave tequilana*, huiles essentielles de mandarine*, citron*,  bergamote* et orange*. \n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choc-noir-gingembre-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR GINGEMBRE 80G BIO",
+                "desc": "Chocolat noir gingembre 80g Bio\n Du chocolat noir 70% associé au gingembre pour une recette épicée et acidulée. Un chocolat de dégustation qui saura séduire les amateurs de chocolat noir.\nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770008500105_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choc-noir-gingembre-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:24",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-menthe-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR MENTHE 80G BIO",
+                "desc": "Chocolat noir menthe 80g Bio\n Un incontournable pour les amateurs de chocolat noir. Une recette avec 70% de cacao minimum (République Dominicaine et Pérou) associé à la fraîcheur de la menthe pour un moment intense et réconfortant.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024185-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-menthe-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beure de cacao*, extrait de vanille*, poudre d'agave tequilana*, huile essentielle de menthe poivrée*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-verveine-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR VERVEINE 80G BIO",
+                "desc": "Chocolat noir verveine 80g Bio\n Une tablette de chocolat noir 70% de cacao, associé à la verveine pour une recette originale qui saura séduire vos papilles.\nCacao de République Dominicaine et Pérou.\nFabriqué en France. Une recette sans lécithine.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-verveine-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 40.5
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.4,
+                        "of_which_sugars": 28.7,
+                        "dietary_fiber": 9.4
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*, extrait de vanille*, poudre d'agave tequilana*, huile essentielle de verveine*, feuille de verveine*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.3,
+                "price_per_unit": 53.75,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-20%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et fin chocolat de dégustation, à consommer à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 5.39
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-71-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR 71% DE CACAO 100G BIO",
+                "desc": "Chocolat Noir 71% de Cacao 100g Bio\nDécouvrez cette tablette de chocolat noir. Un plaisir pour les gourmets et les amateurs de chocolat noir fin. Le Fine Dark de Vivanie avec 71% de cacao de la République Dominicaine est également une belle expérience pour les débutants en chocolat noir.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024185-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-71-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 28.3
+                    },
+                    "fats": {
+                        "fats": 44.9
+                    },
+                    "proteins": {
+                        "proteins": 7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 32.5,
+                        "of_which_sugars": 27
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne brut*, beurre de cacao*.\n*Issu de l'agriculture biologique.\nCacao : 71% minimum\nPeut contenir des traces d'autres fruits à coque, de lait et de gluten.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "price_per_unit": 25.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à n'importe quel moment de la journée. Peut également servir pour la préparation de vos desserts chocolatés.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 2.95
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-100-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR 100% PÉROU 90G BIO",
+                "desc": "Chocolat noir 100% Pérou 90g Bio\nDécouvrez l’intensité pure du cacao avec notre tablette de chocolat noir bio 100%, élaborée à partir des meilleures fèves de cacao du Pérou, cultivées selon les principes du commerce équitable. Sans sucre ajouté, cette tablette est une explosion de saveurs authentiques : des notes profondes de cacao torréfié, une légère touche boisée et une amertume raffinée qui séduira les amateurs de chocolat pur.\nBienfaits : Riche en antioxydants, magnésium et nutriments essentiels, idéal pour une pause gourmande saine.\nSavourez un chocolat d’exception, intense et éthique, parfait pour les puristes du cacao ou pour sublimer vos recettes chocolatées. Laissez-vous transporter par l’authenticité du chocolat noir 100% bio !",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-100-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 3
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 33.5
+                    },
+                    "fats": {
+                        "fats": 53
+                    },
+                    "proteins": {
+                        "proteins": 11.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 24
+                    }
+                },
+                "ingredients": "masse de cacao* (origine : Pérou)\nCacao minimum : 100%\n*  ingrédients issus de l’agriculture biologique, certifié par ECOCERT\nCacao : le bilan de masse est utilisé pour correspondre au volume acheté aux conditions Fairtrade/Max Havelaar : 100% du poids total. \nwww.maxhavelaarfrance.org",
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.79,
+                "price_per_unit": 53.22,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Brisez un carré de cette tablette d’ébène intense et laissez-le fondre lentement sur votre langue. D’abord brut, presque sauvage, il libère des notes profondes de cacao torréfié, une pointe de terre humide, puis une légère amertume envoûtante.\nCroquez doucement, sentez la texture veloutée se mêler à une richesse presque boisée. Fermez les yeux… Laissez la puissance du chocolat vous envahir, révéler des accents de café noir, une touche de fruits secs, une caresse subtile de réglisse.\nChaque éclat est une danse de saveurs, un frisson gourmand réservé aux vrais amateurs de cacao pur.",
+                "conservation": "Stocker dans un endroit sec (humidité relative max. 60%) entre 12 et 18°C, sans odeurs."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choc-noir-fleur-sel-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR FLEUR DE SEL 100G BIO",
+                "desc": "Chocolat noir fleur de sel 100g Bio\n Un chocolat noir de dégustation et sa touche de fleur de sel de Guérande, pour un moment intense et gourmand. A déguster à tout moment de la journée.\n Depuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036905764.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choc-noir-fleur-sel-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 500
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 26
+                    },
+                    "fats": {
+                        "fats": 41
+                    },
+                    "proteins": {
+                        "proteins": 7.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 34,
+                        "of_which_sugars": 29,
+                        "dietary_fiber": 12
+                    }
+                },
+                "ingredients": "Pâte de cacao* (Amérique Latine), sucre de canne roux*, beurre de cacao*, poudre de cacao* (Amérique Latine), fleur de sel de Guérande (0.3%).\nCacao: 70% minimum.\nTraces éventuelles de GLUTEN OEUFS ARACHIDES SOJA LAIT et autres FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.09,
+                "price_per_unit": 40.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En fin de repas ou pour accompagner votre boisson chaude, ce chocolat noir de dégustation saura ravir vos papilles à tout moment de la journée.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-au-lait-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT AU LAIT 100G BIO",
+                "desc": "Chocolat au lait 100G Bio\nChocolat supérieur au lait 39% de cacao minimum, issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024512-min_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-au-lait-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:25",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 170
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 24
+                    },
+                    "fats": {
+                        "fats": 40
+                    },
+                    "proteins": {
+                        "proteins": 6.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 48,
+                        "of_which_sugars": 47,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Sucre de canne roux* (Uruguay, Paraguay), beurre de cacao* (Tanzanie, Saint Domingue, Pérou), poudre de lait entier* (UE), pâte de cacao* (Tanzanie, Saint Domingue, Pérou).\nCacao : 39% minimum.\nTraces éventuelles de gluten, oeufs, arachides, soja et fruits à coque.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.99,
+                "price_per_unit": 39.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec entre 12°C et 18°C."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "3404122",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR DÉGUSTATION 71% 100G BIO",
+                "desc": "Chocolat noir 71% 100G Bio\nChocolat noir dégustation à 71% de cacao.\nChocolat noir issu du commerce équitable.\nDepuis sa création en 1973, Naturalia entretient des relations durables avec les producteurs pionniers de la Bio. Ces partenariats fondés sur l'expertise et la maîtrise des filières garantissent la qualité de nos produits dans le respect des règles les plus rigoureuses de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3396410024154-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-71-100g-3404122"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 26
+                    },
+                    "fats": {
+                        "fats": 43
+                    },
+                    "proteins": {
+                        "proteins": 8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29,
+                        "of_which_sugars": 26,
+                        "dietary_fiber": 13
+                    }
+                },
+                "ingredients": "Pâte de cacao* (Tanzanie, Saint-Domingue, Pérou), sucre de canne roux* (Uruguay, Paraguay), beurre de cacao* (Tanzanie, Saint-Domingue, Pérou).\nCacao : 71% minimum.\nTraces éventuelles de gluten, d'œuf, de soja, d'arachides, de lait et de fruits à coque.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.95,
+                "price_per_unit": 29.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-sel-74-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR 74% FLEUR DE SEL 100G BIO",
+                "desc": "Chocolat noir 74% fleur de sel 100g Bio\nUne tablette de grande qualité avec un cacao aux notes végétales gourmandes, relevé par une pointe de sel de Guérande.\nCacao et sucre équitables BIOPARTENAIRE.\nCacao de Saint-Domingue.\nEmballage éco conçu : sans colle, ni plastique, ni aluminium.\nProduit issu du commerce équitable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/e/feine_bitter_71_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-sel-74-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 790
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 28
+                    },
+                    "fats": {
+                        "fats": 43
+                    },
+                    "proteins": {
+                        "proteins": 7.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30,
+                        "of_which_sugars": 26,
+                        "dietary_fiber": 13
+                    }
+                },
+                "ingredients": "Chocolat noir* (pâte de cacao*1, sucre de canne blond*1, beurre de cacao*1, poudre de cacao*1,vanille*1), fleur de sel (0,6%).\n*Ingrédient issu de l'agriculture biologique.\n1 Issu du commerce équitable.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.95,
+                "price_per_unit": 39.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un chocolat de haute qualité, à déguster à tout moment de la journée. Idéal pour accompagner un café ou un thé.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-lait-fourre-pra-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT AU LAIT PRALINÉ 100G BIO",
+                "desc": "Chocolat au lait praliné 100g Bio\nSavourez ce chocolat au lait des gourmets. Fondant, avec un fourrage praliné extrafin. Le chocolat Rapunzel est synonyme de grande qualité dans le respect de la fabrication traditionnelle suisse associée à de précieux ingrédients issus de l'agriculture biologique et du commerce équitable. Avec les matières premières de qualité, le conchage intensif est le véritable secret de ce délicieux chocolat.\nGrâce au conchage, les riches arômes cacaotés se libèrent petit à petit jusqu'à leur plein épanouissement. Et toute la subtilité et le fondant incomparable du chocolat se dévoilent.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/r/praline_vollmilch_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-lait-fourre-pra-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 17
+                    },
+                    "fats": {
+                        "fats": 38
+                    },
+                    "proteins": {
+                        "proteins": 8.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 47,
+                        "of_which_sugars": 44
+                    }
+                },
+                "ingredients": "Sucres* (sucre de canne complet**, sucre de canne**), noisettes* 18%, beurre de cacao**, lait entier en poudre* 17%, pâte de cacao**, émulsifiant : lécithine de tournesol*, vanille Bourbon*.Cacao : 36% minimum dans le chocolat au lait.\n*Issu de l'agriculture biologique.\n**Issu de l'agriculture biologique et du commerce équitable.\n\nAllergènes : Lait et produits à base de lait (y compris de lactose),Fruits à coques (amandes, noisettes, noix, …)\nTraces de : Autres fruits à coque, soja.",
+                "allergens": [
+                    "Lait",
+                    "Soja",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 3.69,
+                "price_per_unit": 36.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un chocolat gourmand, idéal pour terminer le repas par une touche sucrée ou pour accompagner vos boissons chaudes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-blond-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT BLOND 80G BIO",
+                "desc": "Chocolat blond 80g Bio\nDouceur & Gourmandise Naturelle\nOffrez-vous un moment de pur réconfort avec notre tablette de chocolat blond bio, une création irrésistible pour les amoureux de douceur et de naturalité. Élaborée à partir d’ingrédients soigneusement sélectionnés, cette tablette marie la tendresse du chocolat blanc caramélisé à une légère note biscuitée, pour une expérience gustative aussi saine que gourmande.\n-100 % bio : sans additifs, sans huile de palme, uniquement le meilleur de la nature.\n- Texture fondante & goût délicatement caramélisé, qui rappelle les saveurs de la confiserie d’antan.\n- Riche en plaisir, pauvre en culpabilité : idéale pour une pause douceur équilibrée.\n- Fabriqué en France, avec passion et savoir-faire artisanal.\nÀ déguster seul(e), à partager, ou à intégrer dans vos recettes healthy pour une touche de magie gourmande ! Produit selon le savoir-faire d’un maître chocolatier suisse, il est issu du commerce équitable et certifié Max Havelaar.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4044889004571.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-blond-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 290
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 27
+                    },
+                    "fats": {
+                        "fats": 44
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46,
+                        "of_which_sugars": 46
+                    }
+                },
+                "ingredients": "Beurre de cacao*, sucre de canne*, lait* entier en poudre, caramel* 13% (sucre de canne*, lait* entier en poudre, beurre* (lait), sirop de glucose*), matière grasse laitière* (lait), arôme naturel de caramel*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.49,
+                "price_per_unit": 56.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.49 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster avec votre boisson chaude préférée, pour une pause détente ou un moment de partage.",
+                "conservation": "Avant ouverture : A conserver entre +16°C et +18°C à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-blanc-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT BLANC NOTES VANILLÉES 80G BIO",
+                "desc": "Chocolat blanc notes vanillées 80g Bio\nDouceur Exquise & Plaisir Gourmand\nOffrez-vous un moment de pur plaisir avec notre tablette de chocolat blanc bio aux délicates notes vanillées. Élaborée à partir d'ingrédients soigneusement sélectionnés, cette gourmandise fondante allie onctuosité, douceur et authenticité pour éveiller vos papilles tout en respectant votre bien-être.\n- 100 % bio & responsable\nNotre chocolat est issu de l’agriculture biologique, sans additifs ni arômes artificiels. La vanille naturelle révèle tout son arôme dans une texture soyeuse qui fond lentement en bouche.\n- Un instant cocooning à chaque carré\nParfaite pour accompagner une pause détente, une tisane ou un moment de partage, cette tablette séduira les amateurs de douceurs raffinées comme les palais les plus exigeants.\n- Plaisir et santé réunis\nFaible en sucres raffinés, riche en saveurs naturelles : un chocolat blanc pensé pour les gourmands soucieux de leur équilibre.\nÀ savourer sans modération... ou presque !\nEmballé dans un film compostable à la maison, à 90% issu du végétal.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4044889004571.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-blanc-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 230
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 24
+                    },
+                    "fats": {
+                        "fats": 39
+                    },
+                    "proteins": {
+                        "proteins": 6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 53,
+                        "of_which_sugars": 53,
+                        "dietary_fiber": 0.0
+                    }
+                },
+                "ingredients": "Sucre de canne*, beurre de cacao*, lait* entier en poudre, vanille moulue*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.25,
+                "price_per_unit": 53.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster avec votre boisson chaude préférée, pour une pause détente ou un moment de partage.",
+                "conservation": "Avant ouverture : A conserver entre +16°C et +18°C à l'abri de la chaleur et de l'humidité."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "tablette-choco-lait-crispy-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT AU LAIT CRISPY 80G BIO",
+                "desc": "Tablette de chocolat au lait Crispy 80g Bio\nLes 1ères tablettes spécialement conçues pour le goûter des enfants ! \nUne délicieuse tablette de chocolat au lait avec des inclusions croustillantes. Un délicieux et gourmand chocolat à déguster à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/e/feine_vollmilch_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tablette-choco-lait-crispy-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 22
+                    },
+                    "fats": {
+                        "fats": 35
+                    },
+                    "proteins": {
+                        "proteins": 6.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 54,
+                        "of_which_sugars": 44,
+                        "dietary_fiber": 2.6
+                    }
+                },
+                "ingredients": "Chocolat au lait* (sucre de canne blond*1, beurre de cacao*1, lait entier en poudre*, pâte de cacao*1, vanille*1), maïs soufflé* au miel* (maïs* (0,6%), sucre de canne blanc non raffiné*, miel*).\n*Ingrédient issu de l'agriculture biologique.\n1 Issu du commerce équitable.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 3.09,
+                "price_per_unit": 38.62,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.09 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et gourmand chocolat à déguster à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver à l’abri de la chaleur et de l’humidité. Les écarts de température peuvent modifier l'aspect du chocolat mais n'altèrent en aucun cas ses qualités nutritives."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "tablette-coeur-lacte-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT AU LAIT CŒUR LACTÉ 80G BIO",
+                "desc": "Tablette de chocolat au lait cœur lacté 80g Bio\nLes 1ères tablettes spécialement conçues pour le goûter des enfants ! \nUne délicieuse tablette de chocolat au lait au coeur lacté fondant.\n* ingrédients issus de l'agriculture biologique",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760077181640.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tablette-coeur-lacte-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 230
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 25
+                    },
+                    "fats": {
+                        "fats": 44
+                    },
+                    "proteins": {
+                        "proteins": 7.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 44,
+                        "of_which_sugars": 44,
+                        "dietary_fiber": 1.8
+                    }
+                },
+                "ingredients": "Chocolat au lait* (67%) (sucre de canne blond*1, beurre de cacao*1, lait entier en poudre*, pâte de cacao*1, vanille*1, chocolat blanc*(beurre de cacao*1, sucre de canne blond*1, lait entier en poudre*), huile de tournesol*, lait écrémé en poudre* (6%)\n*Ingrédient issu de l'agriculture biologique.\n1 Issu du commerce équitable.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 3.05,
+                "price_per_unit": 38.12,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 3.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A conserver à labri de la chaleur et de lhumidité. Les écarts de température peuvent modifier l'aspect du chocolat mais n'altèrent en aucun cas ses qualités nutritives.",
+                "conservation": "A conserver à l’abri de la chaleur et de l’humidité. Les écarts de température peuvent modifier l'aspect du chocolat mais n'altèrent en aucun cas ses qualités nutritives."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "tablette-noir-88-sucre-coco",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT NOIR 88% SUCRE COCO 100G BIO",
+                "desc": "Tablette de chocolat noir 88% sucre coco 100g Bio\nUn cacao gourmet au sucre de fleur de coco. Alliance toute en contraste entre la force du cacao 88% au goût floral et fruité et de la douceur du sucre de fleur de coco qui amène des notes caramélisées et un indice glycémique bas.\n\nCacao et sucre équitables BIOPARTENAIRE.\nUn emballage éco conçu : sans colle, ni plastique, ni aluminium.\nLe film intérieur de la tablette est en fibre de cellulose sans impression, donc adapté au compostage domestique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/v/o/vollmilch_nuss_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tablette-noir-88-sucre-coco"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:26",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 33
+                    },
+                    "fats": {
+                        "fats": 53
+                    },
+                    "proteins": {
+                        "proteins": 9.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17,
+                        "of_which_sugars": 12,
+                        "dietary_fiber": 18
+                    }
+                },
+                "ingredients": "Chocolat noir* (pâte de cacao*1, beurre de cacao*1, sucre de coco*1).\n* ingrédients issus de l'agriculture biologique\n1 Issu du commerce équitable",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 4.29,
+                "price_per_unit": 42.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.29 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un délicieux et gourmand chocolat à déguster à tout moment de la journée, seul ou pour accompagner votre boisson chaude préférée.",
+                "conservation": "A conserver à l’abri de la chaleur et de l’humidité. Les écarts de température peuvent modifier l'aspect du chocolat mais n'altèrent en aucun cas ses qualités nutritives."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "6717897",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÉPITES DE CHOCOLAT NOIR 150G BIO",
+                "desc": "Pépites de chocolat noir 150g Bio\nAvec ces délicieuses pépites réalisées avec des ingrédients issus de l'agriculture biologique, vous allez créer de nombreuses recettes de dessert. Les pépites de chocolat s'intègrent dans des recettes de cake, de tarte, de cupcake, de cookie ou encore de muffin.\nConditionné en France, une recette avec 55% de cacao et du sucre rapadura.\nOn apprécie son sachet zip refermable et recyclable.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3700036905764.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pepites-choc-noir-150g-6717897"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "150G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 21
+                    },
+                    "fats": {
+                        "fats": 37
+                    },
+                    "proteins": {
+                        "proteins": 9.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46.5,
+                        "of_which_sugars": 41
+                    }
+                },
+                "ingredients": "Masse de cacao*°, sucre de canne complet rapadura°°*, sucre de canne blond*°°, beurre de cacao*°.\nContient lait. \n22% des ingrédients d'origine agricole sont issus du commerce équitable contrôlé selon le référentiel fair for life.\n*issu de l’agriculture biologique",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 150.0,
+                "price_per_packaging": 4.69,
+                "price_per_unit": 31.27,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les pépites de chocolat noir sont parfaites pour vos recettes de cookies, les rendant encore plus gourmands.\nVous pouvez les ajouter dans des pancakes ou des muffins pour une touche chocolatée fondante.\nElles se marient également bien dans des mélanges de fruits secs et de noix pour un snack rapide et énergisant.",
+                "conservation": "A conserver dans un lieu sec et frais (16 à 18°C) hors du réfrigérateur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choco-patissserie-80-180g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT 80% PÂTISSERIE 80G BIO",
+                "desc": "Chocolat 80% pâtisserie 80g Bio\nDégustez ce chocolat noir Pâtisserie dans toutes vos recettes sucrées ! Fabriqué à partir de fèves de cacao 100% Pérou soigneusement sélectionnées pour garantir une qualité constante. Sa recette a été élaborée par un Maître Chocolatier suisse, sans lécithines, pour vous offrir un chocolat intense (80% de cacao) et onctueux idéal pour réaliser vos meilleures pâtisseries maisons.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/7/3760077180407.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choco-patissserie-80-180g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "80G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 27
+                    },
+                    "fats": {
+                        "fats": 44
+                    },
+                    "proteins": {
+                        "proteins": 10
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 22,
+                        "of_which_sugars": 18,
+                        "dietary_fiber": 14
+                    }
+                },
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*\nCacao : 80% minimum dans le chocolat",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 6.95,
+                "price_per_unit": 38.61,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un chocolat idéal pour toutes vos recettes de pâtisseries, à faire fondre au bain-marie ou simplement en morceaux.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choco-100-gimgembre-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT 100% GINGEMBRE CONFIT 90G BIO",
+                "desc": "Chocolat 100% gingembre confit 90g Bio\nUne tablette de dégustation Noir 100% Cacao & Gingembre qui réunit l’intensité d’un cacao de qualité et une pointe de gingembre confit. Issue du commerce équitable, cette tablette a été élaborée par un Maître Chocolatier suisse, sans lécithines, pour vous offrir un cacao aux notes relevées.\nOn apprécie son film compostable à la maison à 90% issu du végétal.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/h/chocolat-noir-70-cacao-180g_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choco-100-gimgembre-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 32
+                    },
+                    "fats": {
+                        "fats": 52
+                    },
+                    "proteins": {
+                        "proteins": 9.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13,
+                        "of_which_sugars": 9.3,
+                        "dietary_fiber": 13
+                    }
+                },
+                "ingredients": "Pâte de cacao*, beurre de cacao*, gingembre confit* 12% (gingembre*, sucre de canne*). Peut contenir des traces de lait et d'autres fruits à coque.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 53.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un chocolat de dégustation à savourer à tout moment de la journée pour une pause gourmande et épicée.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choco-100-amandes-90g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT 100% ÉCLATS D'AMANDE 90G BIO",
+                "desc": "Chocolat 100% éclats d'amande 90g Bio\nUn chocolat de dégustation noir 100% cacao & Éclats d’Amandes pour les grands amateurs de chocolat.\nFabriqué avec des fèves de cacao en provenance de République Dominicaine, d’Équateur, du Pérou, Costa Rica et du Panama. Issue du commerce équitable, cette tablette a été élaborée par un Maître Chocolatier suisse, sans lécithines.\nOn apprécie son film compostable à la maison à 90% issu du végétal.\nCe produit est issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/e/feine_bitter_71_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choco-100-amandes-90g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "90G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 0.0
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 33
+                    },
+                    "fats": {
+                        "fats": 46
+                    },
+                    "proteins": {
+                        "proteins": 12
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 46,
+                        "of_which_sugars": 0.6,
+                        "dietary_fiber": 14
+                    }
+                },
+                "ingredients": "Pâte de cacao*, beurre de cacao*, amandes* (10%). Peut contenir des traces de lait et d'autres fruits à coque.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 90.0,
+                "price_per_packaging": 4.85,
+                "price_per_unit": 53.89,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.85 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Un chocolat de dégustation à savourer à tout moment de la journée pour une pause gourmande et intense.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "choco-fourre-cara-sel-85g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR CARAMEL BEURRE SALÉ 85G BIO",
+                "desc": "Chocolat noir caramel beurre salé 85g Bio\nUne délicieuse tablette de chocolat Noir au Caramel Beurre Salé pour réuinir l’intensité d’un chocolat noir de qualité et l’onctuosité du caramel au beurre salé relevé par une pointe de sel de Guérande. Une recette avec un fourrage généreux.\nCette tablette est labélisée Fairtrade / Max Havelaar et sa recette a été élaborée par un Maître Chocolatier suisse, sans lécithines.\nEmballé dans un film compostable à la maison à 90% issu de végétal.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770008500105_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/choco-fourre-cara-sel-85g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "85G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 180
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 24
+                    },
+                    "fats": {
+                        "fats": 39
+                    },
+                    "proteins": {
+                        "proteins": 4.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 45,
+                        "of_which_sugars": 43
+                    }
+                },
+                "ingredients": "Sucre de canne*, pâte de cacao*, beurre de cacao*, sirop de caramel* 7,5% (sucre de canne*, eau, jus de citron concentré*), crème entière* (lait), beurre* (lait), poudre de lait entier*, sucre inverti*, poudre de lait écrémé*, sel de Guérande, vanille moulue*.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 85.0,
+                "price_per_packaging": 4.8,
+                "price_per_unit": 56.47,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.80 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tout moment de la journée pour un vrai moment de gourmandise.",
+                "conservation": "A conserver dans un endroit frais, sec et à l'abri de la lumière."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "tab-lait-56-perou-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE CHOCOLAT AU LAIT PÉROU 56% 100G BIO",
+                "desc": "Tablette chocolat au lait Pérou 56% 100g Bio\nUn chocolat Grand Cru Cusco avec 56% de cacao et du lait équitable français.Le lait de cette tablette provient du groupement de producteurs BIOLAIT. Leurs fermes bio à taille humaine sont situées dans le nord de la France. Le prix équitable leur assure une juste rémunération.\nUne tablette engagée et gourmande qui plaira aux petits et aux grands.\n\nFabriqué dans une chocolaterie située dans le Gers.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4006040150558.1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/tab-lait-56-perou-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 150
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 28
+                    },
+                    "fats": {
+                        "fats": 47
+                    },
+                    "proteins": {
+                        "proteins": 9.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 33,
+                        "of_which_sugars": 30,
+                        "dietary_fiber": 8.1
+                    }
+                },
+                "ingredients": "Pâte de cacao* du Pérou 35,7%, sucre de canne*, beurre de cacao*, lait entier en poudre* de France, extrait de vanille*.\nCacao : 56% minimum dans le chocolat",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 52.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "En fin de repas ou pour accompagner votre café, ce chocolat vous apportera réconfort et gourmandise.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-cramb-70-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT NOIR CRANBERRIES ET BAIES 100G BIO",
+                "desc": "Tablette de Chocolat Noir Cranberries et baies 100g Bio\nLa dégustation de cette tablette vous apportera le parfait équilibre entre un délicieux chocolat noir 70% de cacao et des fruits acidulés.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347437001383.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-cramb-70-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:27",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Chocolat noir* (pâte de cacao*, sucre de canne*, beurre de cacao*), physalis* : 12%, cranberries* : 3%, baies de goji* : 3%, sucre de canne*, huile de tournesol*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 52.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-am-nois-70-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CHOCOLAT NOIR 70% AMANDES, NOISETTES ET RAISINS 100G BI...",
+                "desc": "Tablette de Chocolat Noir 70% Amandes, Noisettes et Raisins 100g Bio\nPartez à la découverte d’une alliance fruitée au travers de cette tablette de chocolat noir 70% de cacao parsemée de noisettes, amandes et raisins.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3347437001383.p3-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-am-nois-70-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:28",
+                "format": "100G",
+                "availability": true,
+                "ingredients": "Chocolat noir* (pâte de cacao*, sucre de canne*, beurre de cacao*), AMANDES entières torréfiées* : 9%, NOISETTES entières torréfiées* : 6%, raisins secs* : 5%, huile de tournesol*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 5.25,
+                "price_per_unit": 52.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.25 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "carres-fourres-pralines-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "18 CARRÉS FOURRÉS PRALINÉ ENROBÉS DE CHOCOLAT NOIR 80G ...",
+                "desc": "18 Carrés fourrés praliné enrobés de chocolat noir 80g Bio\nLaissez vous tenter par la recette traditionnelle et authentique d’un gourmand praliné noisette, enrobé d’un délicat chocolat noir 70% de cacao.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03770008500105_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carres-fourres-pralines-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:28",
+                "format": "80G",
+                "availability": true,
+                "ingredients": "Chocolat noir* 70% cacao minimum : 59% (pâte de cacao*, sucre de canne*, beurre de cacao*), praliné NOISETTE* : 35% (NOISETTES* : 17.5%, sucre de canne*), chocolat au LAIT* (sucre de canne*, beurre de cacao*, poudre de LAIT entier*, pâte de cacao*).\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 56.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une pause réconfortante et gourmande en dégustant un carré de ce chocolat, à tout moment de la journée.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "carres-fourres-mangue-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "18 CARRÉS FOURRÉS MANGUE-PASSION ENROBÉS DE CHOCOLAT NO...",
+                "desc": "18 Carrés fourrés mangue-passion enrobés de chocolat noir 80g Bio\nDécouvrez l’exotisme d’une savoureuse ganache fruitée et ensoleillée à la mangue et au fruit de la passion, enrobée d’un fin chocolat noir 70% de cacao.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carres-fourres-mangue-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:28",
+                "availability": true,
+                "ingredients": "Chocolat noir* 70% cacao minimum : 57% (pâte de cacao*, sucre de canne*, beurre de cacao*), sucre de canne*, crème de LAIT*, pâte de cacao*, sirop de blé*, beurre de cacao*, jus de fruit de la passion* : 3.4%, poudre de LAIT entier*, purée de mangue* : 0.4%.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.5,
+                "price_per_unit": 56.25,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tout moment de la journée pour une pause fruitée et réconfortante.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "carres-fourres-caramel-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "18 CARRÉS FOURRÉS CARAMEL ENROBÉS DE CHOCOLAT NOIR 80G ...",
+                "desc": "18 Carrés fourrés caramel enrobés de chocolat noir 80g Bio\nFondez de plaisir en dégustant ces carrés de chocolat noir 70% de cacao au caramel artisanal à la fleur de sel de l’île de Noirmoutier, exclusivement cueillie à la surface de l’eau.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/3/03396410024208_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/carres-fourres-caramel-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:28",
+                "format": "80G",
+                "availability": true,
+                "ingredients": "Chocolat noir* 70% cacao minimum : 57% (pâte de cacao*, sucre de canne*, beurre de cacao*), sucre de canne*, crème de LAIT*, beurre de cacao*, poudre de LAIT entier*, sirop de blé*, pâte de cacao*, fleur de sel : 0.3%.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.6,
+                "price_per_unit": 57.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Les amateurs de caramel vont se régaler, à déguster à tout moment de la journée.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-100-perou-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CACAO 100% ORIGINE PÉROU 80G BIO",
+                "desc": "Tablette de cacao 100% Origine Pérou 80g Bio\nLa dégustation du cacao du Pérou est marquée par une allonge cacaotée et délicatement fleurie. Cette tablette sans sucre, séduira les amateurs de cacao naturellement intense.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/e/feine_bitter_71_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-100-perou-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:29",
+                "format": "80G",
+                "availability": true,
+                "ingredients": "Pâte de cacao* : 100%.\n*Ingrédients issus de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 56.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster à tout moment de la journée pour les plus grands amateurs de cacao.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-85-mada-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT NOIR 85% ORIGINE MADAGASCAR 80G BI...",
+                "desc": "Tablette de chocolat noir 85% Origine Madagascar 80g Bio\nDécouvrez ce chocolat 85% de cacao « Bean-to-bar » d’origine Madagascar aux notes d’agrumes, caractérisé par son équilibre entre saveurs acidulées et fruitées.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/c/h/chocolat-noir-70-cacao-180g_1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-85-mada-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:29",
+                "format": "80G",
+                "availability": true,
+                "ingredients": "pâte de cacao*, sucre de canne*, beurre de cacao*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.55,
+                "price_per_unit": 56.88,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Régalez-vous à tout moment de la journée avec ce délicieux chocolat intense.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    },
+    {
+        "ean": "chocolat-noir-70-perou-80g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Chocolats"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "TABLETTE DE CHOCOLAT NOIR 70% ORIGINE PÉROU 80G BIO",
+                "desc": "Tablette de chocolat noir 70% Origine Pérou 80g Bio\nVoyagez au cœur du Pérou grâce à cette tablette de chocolat 70% de cacao, réputé pour son agréable douceur et des arômes délicatement fleuris.\nFabriqué en France.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/f/e/feine_bitter_71_mu_04_20.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/chocolat-noir-70-perou-80g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T02:29",
+                "format": "80G",
+                "availability": true,
+                "ingredients": "Pâte de cacao*, sucre de canne*, beurre de cacao*.\n*Ingrédients issus de l'agriculture biologique.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 80.0,
+                "price_per_packaging": 4.19,
+                "price_per_unit": 52.38,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 2.50 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster partout et à tout moment de la journée pour une pause chocolatée et réconfortante.",
+                "conservation": "A conserver à l'abri de l'humidité et de la chaleur."
+            }
+        ],
+        "created_at": "2025-06-16T02:24",
+        "updated_at": "2025-06-16T02:24"
+    }
+]

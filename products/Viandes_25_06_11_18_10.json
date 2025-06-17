@@ -1,0 +1,2057 @@
+[
+    {
+        "ean": "000000000000088024",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 moelleux hachés",
+                "desc": "Préparation à 80% de viande bovine hachée et de protéines végétales, à consommer cuit à coeur, surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwcd612a83/produits/000000000000060933_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-moelleux-haches-800g-000000000000088024.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:06",
+                "format": "800.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 200.0
+                    },
+                    "minerals": {
+                        "salt": 0.46
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 6.4
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Viande bovine (origine : France*) 80%, eau, protéines de SOJA réhydratées 5,3%, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 800.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n10 min\nDans une poêle chaude ou sur un gril légèrement huilé, faites saisir les hachés à feu vif 1 min de chaque côté en débutant sur le côté strié. Laissez cuire à feu doux 8 minutes en les retournant régulièrement jusqu’à cuisson à cœur.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ]
+    },
+    {
+        "ean": "000000000000088264",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Magret de canard tranché mariné aux cèpes",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/magret-canard-marine-cepe-000000000000088264.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 13.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000086520",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauce carbonara",
+                "desc": "Sauce à la crème et aux lardons fumés cuits, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw21349589/produits/000000000000040101_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sauce-carbonara-500g-000000000000086520.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 177.0
+                    },
+                    "minerals": {
+                        "salt": 0.8
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 8.5
+                    },
+                    "proteins": {
+                        "proteins": 7.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.2,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Eau, crème fraîche liquide (LAIT) 25%, fromage à pâte dure (contient LAIT), LAIT demi-écrémé, lardon fumé cuit 10% [poitrine de porc (origine : France*), sel, arômes naturels (contient naturellement des polyphénols), antioxydant : acide ascorbique], oignon préfrit (oignon, huile de tournesol), farine de riz, jaune d'ŒUF de poule élevée en plein air (liquide, pasteurisé), farine de BLÉ (GLUTEN), sel, poivre, muscade 0,02%.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.8,
+                "preparation": "Sans titre\n\nNous vous conseillons de faire réchauffer 7 galets de sauce pour accompagner une portion de féculent.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 1.33,
+            "total_reviews": 9
+        }
+    },
+    {
+        "ean": "000000000000088420",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Hauts de cuisses de poulet,panure multi-grains",
+                "desc": "Morceaux de hauts de cuisses de poulet traités en salaison 72,5%, enrobés d'une panure 27,5% aux graines, frits, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haut-de-cuisse-poulet-multigrains-000000000000088420.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 225.0
+                    },
+                    "minerals": {
+                        "salt": 0.89
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Morceau de haut de cuisse de poulet traité en salaison [morceau de haut de cuisse de poulet 62,5% (origine : France*), eau, sel, fibre de pois, arôme naturel, protéine de pois, poivre, oignon en poudre, ail en poudre], chapelure [farine de BLÉ (GLUTEN), levure, sel], huile de tournesol, eau, farine de BLÉ (GLUTEN), graine de millet 1,8%, graine de citrouille 0,8%, graine de lin 0,8%, graine d'oignon 0,3%, GLUTEN de BLÉ, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.2,
+                "preparation": "Sans titre\n\nNe pas cuire au four à micro-ondes – Respecter le mode d’emploi indiqué\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n18 min\nVersez la quantité désirée dans une poêle chaude avec un peu de matière grasse. Faites cuire le temps indiqué en les retournant à mi-cuisson.\n\nAu four\nCUISSONCuisson au four pendant\n24 min\nPréchauffez le four à 180°C (th.6). Déposez les morceaux sur une plaque recouverte de papier cuisson et faites cuire le temps indiqué en les retournant à mi-cuisson. - Au four à chaleur tournante : 24 minutes - Au four traditionnel : 30 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.04,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000060248",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Carpaccio de boeuf et sa sauce au pistou, 2 parts",
+                "desc": "Fines tranches de viande bovine crue marinée 82% et 2 dosettes de sauce 18% à base de basilic et d'ail, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/carpaccio-boeuf-sa-marinade-pistou-000000000000060248.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 112.0
+                    },
+                    "minerals": {
+                        "salt": 0.16
+                    },
+                    "fats": {
+                        "fats": 1.8,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Carpaccio de bœuf mariné 82% : viande bovine (origine : France*) 78%, marinade 4% (eau, huiles de tournesol et d'olive, jus de citron, sel). Dosettes de sauce au pistou 18% : huile de colza, eau, basilic 3%, huile d'olive vierge extra 2.5 %, tomate, ail 0.6%, jus de citron, sel, arôme (contient LAIT), poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 4.89,
+                "preparation": "Au réfrigérateur\nPréparationCuisson au refrigerateur pendant\n3 h\nSortez le sachet de l'étui. Ouvrez le sachet, puis enlevez la première feuille de papier et déposez le carpaccio côté viande dans une assiette. Décollez délicatement la deuxième feuille de papier. Filmez l'assiette et laissez-la décongeler 3 h au réfrigérateur.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.34,
+            "total_reviews": 82
+        }
+    },
+    {
+        "ean": "000000000000015219",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chipolatas, 8 à 10 pièces",
+                "desc": "CHIPOLATAS CRUES SURGELEES",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93b5eaa2/produits/pains-viennoiseries/edition/000000000000082205_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chipolatas-000000000000015219.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "8 à 10 pièces",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 239.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 19.0,
+                        "saturates": 7.1
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de porc 98,3% (origine : France*), sel, poivre, extrait de romarin, boyau naturel de mouton.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 6.29,
+                "preparation": "Conseils de préparation\nCUISSON\nATTENTION, PIQUEZ TOUJOURS LES SAUCISSES AVANT DE LES FAIRE CUIRE. A consommer cuites à cœur",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,70€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.01% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.6,
+            "total_reviews": 45
+        }
+    },
+    {
+        "ean": "000000000000060948",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 souris d'agneau jarret, Nouvelle Zélande",
+                "desc": "2 souris d'agneau congelées, à mijoter",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa776b0f6/produits/000000000000060371_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-souris-d-agneau-le-kg-000000000000060948.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 172.0
+                    },
+                    "minerals": {
+                        "salt": 0.16
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 5.0
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.6
+                    }
+                },
+                "ingredients": "Jarret arrière d'agneau (origine : Nouvelle-Zélande*)\n*Issue d'animaux nés, élevés, abattus et transformés en Nouvelle-Zélande",
+                "on_discount": false,
+                "price_per_packaging": 28.6,
+                "preparation": "Sans titre\n\nCe produit doit être cuit avant consommation\n\nAu four\nCUISSONCuisson au four pendant\n1 h 10\n-préchauffé à 180°C (th.6) : 1 h 10 Retirez l'emballage et déposez les souris dans un plat à four avec un peu de matière grasse. Salez, poivrez et laissez cuire 1 h 10 à mi-hauteur. A mi-temps, retournez et ajoutez 1 verre d'eau. Couvrez avec une feuille de papier aluminium et arrosez régulièrement avec le jus de cuisson.\n\nÀ la cocotte\nCUISSONCuisson au cocotte pendant\n1 h 20\nRetirez l'emballage et faites saisir les souris 5 min à feu doux avec 2 cuillères à soupe d'huile d'olive en les retournant régulièrement. Ajoutez 1 verre de vin blanc, 200 g de tomates en cubes*, 1 cuillère à soupe d'ail et de thym coupés* et 1 cuillère à soupe de cumin. Salez, poivrez et poursuivez la cuisson 1 h 15 à feu doux, à couvert. *Produit Picard",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.0,
+            "total_reviews": 21
+        }
+    },
+    {
+        "ean": "000000000000006757",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Merguez (8 à 10 pièces)",
+                "desc": "Merguez, crues surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw93b5eaa2/produits/pains-viennoiseries/edition/000000000000082205_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/merguez-000000000000006757.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "8 à 10 pièces",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 302.0
+                    },
+                    "minerals": {
+                        "salt": 1.4
+                    },
+                    "fats": {
+                        "fats": 27.0,
+                        "saturates": 13.0
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.2,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "Viande bovine 68,7% (origine : France*), viande de mouton 17,1% (origine : Australie**), eau, épices (paprika, ail, poivre, cumin, oignon, fenouil, tomate, coriandre, carvi, piment, anis, muscade), sel, boyau naturel de mouton.\n*Issue d'animaux nés, élevés et abattus en Australie\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATION\nFaites décongeler le temps indiqué en retournant à mi-temps puis laissez reposer 10 min avant cuisson : - Pour 5 merguez : 6 min - Pour 10 merguez : 11 min\n\nAu réfrigérateur\nDÉCONGÉLATION\n5 heures sur une assiette hors du sachet.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.62,
+            "total_reviews": 42
+        }
+    },
+    {
+        "ean": "000000000000088250",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Ribs à la mexicaine",
+                "desc": "Côtes de carré de porc marinées aux épices, crues, à cuire, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw225617c6/produits/000000000000015219_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/ribs-a-la-mexicaine-500g-000000000000088250.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 205.0
+                    },
+                    "minerals": {
+                        "salt": 0.81
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 5.3
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Côte de carré de porc 83,5% (origine : France*), eau, huile de colza, amidon de maïs, épices 1,3% (cumin, paprika, paprika fumé, coriandre, poivre, piment), tomate, sel, oignon, poivron, origan, ail.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n55 min\nPréchauffez votre four à 180°C (th.6). Sortez les ribs de leur emballage plastique. Déposez-les dans un plat adapté et laissez les cuire à mi-hauteur 55 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.29,
+            "total_reviews": 7
+        }
+    },
+    {
+        "ean": "000000000000060210",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes à l'italienne viande de bœuf et de veau",
+                "desc": "Boulettes 57,1% à base de viande de bœuf et viande de veau assaisonnées cuites, sauce 42,9% à base de tomate, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw88f5a0de/produits/000000000000060875_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-a-l-italienne-000000000000060210.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:07",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 197.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 5.0
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.0,
+                        "of_which_sugars": 2.4,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Boulette à base de viande de bœuf et viande de veau assaisonnée cuite 57,1% [viande de bœuf 14,8% (origine : France*), viande de veau 14,2% (origine : France*), eau, chapelure (farine de BLÉ (GLUTEN), eau, levure), oignon réhydraté, protéine de pois, sel, oignon, persil, poivre], pulpe de tomate au jus 24,8% (tomate, jus de tomate), purée de tomate double concentrée 7,3%, huile d'olive vierge extra 2,8%, eau, oignon préfrit (oignon, huile de tournesol), ail, basilic 1,2%, thym, poivre.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au micro-ondes\nCUISSONCuisson au microondes pendant\n5 min\nVersez la quantité désirée dans un plat adapté et faites réchauffer à couvert en remuant délicatement à mi-temps : - Pour 175g soit environ 5 boulettes : 5 minutes - Pour 350g soit environ 10 boulettes : 9 minutes\n\nAu four\nCUISSONCuisson au four pendant\n23 min\nPréchauffez votre four à 180°C (th.6). Versez le contenu du sachet dans un plat adapté avec 5 cl d'eau et faites réchauffer le temps indiqué. Remuez à mi-temps et rajoutez 5 cl d'eau. - Four à chaleur tournante : 23 minutes - Four traditionnel : 25 minutes",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.83,
+            "total_reviews": 41
+        }
+    },
+    {
+        "ean": "000000000000060933",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "4 biftecks hachés bio (100g) pur boeuf",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-biftecks-haches-bio-100g-pur-boeuf-000000000000060933.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.29,
+                "original_price": 8.99,
+                "requires_loyalty_card": true
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ]
+    },
+    {
+        "ean": "000000000000060371",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes de viande kefta, cuites,boeuf et agneau",
+                "desc": "Préparation surgelée à base de viandes hachées de boeuf et d'agneau, oignons et épices.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-viande-kefta-cuites-boeuf-agneau-000000000000060371.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 223.0
+                    },
+                    "minerals": {
+                        "salt": 0.81
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 5.3
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.4,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Viande bovine 41,1% (origine : France*), viande d'agneau 17,6% (origine : Nouvelle-Zélande, ou origine : UE **), eau, chapelure [farine de BLÉ (GLUTEN), eau, sel, levure], oignon 5,9%, préparation à base d'OEUF liquide pasteurisée (blanc d'OEUF liquide, OEUF entier liquide, sel), amidon de pomme de terre, boulgour de BLÉ (GLUTEN), concentré de tomate, flocon de tomate, huile d'olive vierge extra, menthe 0,3%, sel, gingembre 0,1%, cumin 0,1%, paprika en poudre 0,1%, poivre, persil.\n*Issue d'animaux nés, élevés et abattus en et transformé en Nouvelle-Zélande ou UE\n*Issue d'animaux nés, élevés et abattus en France",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n2 min 30\nPlacez la quantité désirée de boulettes dans un plat adapté et réchauffez le temps indiqué : Puissance restituée du four : 750W 900W Pour 175 g (environ 12 boulettes) 3 min 2 min 30 Pour 350 g (environ 25 boulettes) 5 min 30 4 min 30\n\nÀ la poêle\nPréparation sans décongélationCuisson au poele pendant\n11 min\nPlacez les boulettes dans une poêle à couvert, sans ajouter de matière grasse. Laissez réchauffer pendant 11 min à feu moyen en remuant régulièrement.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th. 6). Placez les boulettes de viande dans un plat adapté et faites réchauffer à mi-hauteur le temps indiqué. Four à chaleur tournante : 15 min Four traditionnel : 20 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 177
+        }
+    },
+    {
+        "ean": "000000000000000289",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 steaks hachés, 15% M.G maximum",
+                "desc": "10 steaks hachés pur bœuf, à consommer cuit à coeur, moins de 15 % de matière grasse, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-steaks-haches-15-m_g-maximum-000000000000000289.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 208.0
+                    },
+                    "minerals": {
+                        "salt": 0.17
+                    },
+                    "fats": {
+                        "fats": 15.0,
+                        "saturates": 6.2
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pure viande bovine (Origine : France)*.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE\n*Pourcentage de matières grasses inférieur à 15%\n*Rapport collagène sur protéines de viande inférieur à 15%",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 12.99,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nA CONSOMMER CUIT A COEUR\n\nÀ la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n8 min\nDans une poêle chaude ou sur un gril légèrement huilé, faites saisir les steaks à feu vif 2 min de chaque côté. Poursuivez la cuisson à feu moyen 4 min, en les retournant à mi-temps pour atteindre la cuisson à coeur.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.38,
+            "total_reviews": 96
+        }
+    },
+    {
+        "ean": "000000000000060214",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes de viande recette suédoise",
+                "desc": "Préparation surgelée à base de viandes hachées cuites de boeuf et de porc",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-viande-recette-suedoise-000000000000060214.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 243.0
+                    },
+                    "minerals": {
+                        "salt": 1.3
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 6.7
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.7,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 0.2
+                    }
+                },
+                "ingredients": "Viande bovine (origine : France*) 33,2%, viande de porc (origine: Allemagne**) 30,5%, eau, chapelure [farine de blé (gluten), sel, levure], oignon, préparation à base d'oeuf liquide pasteurisée (blanc d'oeuf liquide, oeuf entier liquide, sel), gras de porc, amidon de pomme de terre, sel, poivre, extrait de poivre.\n*Issue d'animaux nés, élevés et abattus en *France",
+                "allergens": [
+                    "Gluten",
+                    "Œuf"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 4.8,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n2 min 30\nPlacez la quantité désirée de boulettes dans un plat adapté et réchauffez le temps indiqué : Puissance restituée du four : 750W 900W Pour 175 g (environ 12 boulettes) : 3 min 2 min 30 Pour 350 g (environ 25 boulettes) : 5 min 30 4 min 30\n\nÀ la poêle\nPréparation sans décongélationCuisson au poele pendant\n11 min\nPlacez les boulettes dans une poêle à couvert, sans ajouter de matière grasse. Laissez réchauffer pendant 11 min à feu moyen en remuant régulièrement.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n15 min\nPréchauffez votre four à 180°C (th.6). Placez les boulettes de viande dans un plat adapté et faites réchauffer à mi-hauteur le temps indiqué : Four à chaleur tournante : 15 min Four traditionnel : 20 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.62,
+            "total_reviews": 255
+        }
+    },
+    {
+        "ean": "000000000000014608",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Gigot d'agneau",
+                "desc": "Gigot d'agneau de Nouvelle-Zélande, congelé, à rôtir",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/gigot-agneau-avec-selle-raccourci-sans-selle-000000000000014608.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "8000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.18
+                    },
+                    "fats": {
+                        "fats": 6.3,
+                        "saturates": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Gigot entier ou raccourci d'agneau* (origine : Nouvelle-Zélande*).\n*Issue d'animaux nés, élevés, abattus et transformés en Nouvelle-Zélande",
+                "on_discount": false,
+                "weight_per_packaging": 8000.0,
+                "price_per_packaging": 29.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n24 h\n24 heures",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.3,
+            "total_reviews": 63
+        }
+    },
+    {
+        "ean": "000000000000060800",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 brochettes boeuf aux 3 poivres",
+                "desc": "2 Brochettes de morceaux de coeur de rumsteck de boeuf marinés aux 3 poivres 64,3%, tomates cerises, poivrons, à cuire, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-brochettes-boeuf-3-poivres-000000000000060800.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "250.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 94.0
+                    },
+                    "minerals": {
+                        "salt": 0.35
+                    },
+                    "fats": {
+                        "fats": 2.6,
+                        "saturates": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Morceau de cœur de rumsteck de boeuf 60,2% (origine : France*), tomate cerise 21%, poivron vert 4,9%, poivron rouge 4,9%, poivron jaune 4,9%, eau, assaisonnement [mélange 3 poivres 0,4%, oignon, ail, farine de riz, sel, poivron, huile de tournesol, extraits d'épices (poivre, paprika)], fécule de pomme de terre, sel, fibre de blé.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nRetirez l'étui et le sachet. Déposez les brochettes dans un plat adapté et faites-les décongeler 6 min en les retournant à mi- temps. Laissez reposer 15 min environ avant cuisson.\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n9 h\n9 heures sur une assiette, hors de l'étui et du sachet, recouvertes de film alimentaire étirable.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 7.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1.0€ avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 12.52% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.13,
+            "total_reviews": 24
+        }
+    },
+    {
+        "ean": "000000000000060247",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BBQ ribs, à cuire, 2 pièces",
+                "desc": "Côtes de carré de porc marinées dans une sauce barbecue, crues, surgelées.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwa9089a4b/produits/000000000000088254_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bbq-ribs-a-cuire-000000000000060247.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 202.0
+                    },
+                    "minerals": {
+                        "salt": 0.96
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 4.8
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.6,
+                        "of_which_sugars": 3.6,
+                        "dietary_fiber": 0.9
+                    }
+                },
+                "ingredients": "Côte de carré de porc 86,9% (origine : France*), marinade barbecue 12,1% [sucre, eau, huile de tournesol, vinaigre d'alcool, sel, légumes (tomate, poivron), épices et plantes aromatiques, huile de tournesol fumée, vinaigre de Xerès, sel fumé, amidon de maïs, caramel aromatique (sirop de glucose, sucre)], eau.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 8.99,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n55 min\nPréchauffez votre four à 180°C (th.6). Sortez les ribs de leur emballage plastique. Déposez-les dans un plat adapté et laissez les cuire à mi-hauteur 55 minutes.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.56,
+            "total_reviews": 80
+        }
+    },
+    {
+        "ean": "000000000000060389",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 effeuillés de Charolais",
+                "desc": "4 EFFEUILLÉS DE CHAROLAIS VIANDE BOVINE DE RACE CHAROLAISE TRANCHÉE EN FEUILLES ULTRA FINES ASSEMBLÉES PAR SIMPLE PRESSION, SURGELÉS",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-effeuilles-charolais-000000000000060389.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:08",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.12
+                    },
+                    "fats": {
+                        "fats": 4.2,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 22.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.7,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pure viande bovine (Origine : France)* de race Charolaise. Pourcentage de matières grasses inférieur à 5%. Rapport collagène sur protéines de viande inférieur à 8%.\n*Issue d'animaux nés, élevés et abattus en France",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 12.89,
+                "preparation": "Sans titre\n\nÀ CONSOMMER CUIT À COEUR",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.74,
+            "total_reviews": 105
+        }
+    },
+    {
+        "ean": "000000000000014187",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Carpaccio de bœuf et sa marinade à l'huile d'olive 5 % et au basilic",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/carpaccio-boeuf-marinade-huile-olive-basilic-000000000000014187.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "on_discount": false,
+                "weight_per_packaging": 190.0,
+                "price_per_packaging": 6.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000014137",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "10 steaks hachés, 5% M.G maximum",
+                "desc": "10 steaks hachés pur boeuf, moins de 5% de matière grasse, surgelés, à consommer cuit à coeur",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-steaks-haches-5-m_g-maximum-origine-000000000000014137.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 130.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 4.6,
+                        "saturates": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 22.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pure viande bovine (Origine : France)*.\n*Rapport collagène sur protéines de viande inférieur à 12%\n*Pourcentage de matières grasses inférieur à 5%\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 17.99,
+                "preparation": "Sans titre\n\nA CONSOMMER CUIT A COEUR\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n8 min\nDans une poêle chaude ou sur un gril légèrement huilé, faites saisir les steaks à feu vif 2 min de chaque côté. Poursuivez la cuisson à feu moyen 4 min, en les retournant à mi-temps",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.33,
+            "total_reviews": 115
+        }
+    },
+    {
+        "ean": "000000000000015706",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 côtes de porc désossées marinées au thym,romarin",
+                "desc": "4 côtes de porc crues désossées 84,2%, marinade au thym et au romarin 15,8%, à cuire, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-cotes-porc-desossees-marinees-thym-romarin-000000000000015706.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "520.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 128.0
+                    },
+                    "minerals": {
+                        "salt": 0.45
+                    },
+                    "fats": {
+                        "fats": 4.0,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Côte de porc crue désossée (origine : France*) 84,2%, eau, marinade [huile de colza, sel, plantes aromatiques (persil, thym 0,01%, romarin 0,01%), extrait de vinaigre, extraits d'épices (paprika, thym, poivre)], huile de colza, thym 0,4%, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 520.0,
+                "price_per_packaging": 7.99,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n3 min*\nSortez les côtes de porc de leur sachet plastique, déposez-les sur un plat adapté et laissez-les décongeler en position décongélation le temps indiqué : - Pour 1 côte : 3 min - Pour 2 côtes : 6 min\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n5 h\nSortez les côtes de porc de leur sachet plastique, déposez-les sur une assiette et filmez l’assiette. Laissez-les décongeler 5 heures au réfrigérateur.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.63,
+            "total_reviews": 172
+        }
+    },
+    {
+        "ean": "000000000000050013",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Mélange à la thaïlandaise",
+                "desc": "Mélange à la thaïlandaise coriandre, basilic thaï, gingembre, citronnelle, piment surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwceb15a09/produits/edition/50307.png?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/melange-thailandaise-000000000000050013.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "60.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 39.0
+                    },
+                    "minerals": {
+                        "salt": 0.03
+                    },
+                    "fats": {
+                        "fats": 0.5,
+                        "saturates": 0.1
+                    },
+                    "proteins": {
+                        "proteins": 2.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.0,
+                        "of_which_sugars": 1.8,
+                        "dietary_fiber": 4.7
+                    }
+                },
+                "ingredients": "Coriandre 40,2%, basilic thaï 26,8%, gingembre 16,8%, citronnelle 10,6%, piment jalapeno rouge 5,6%.",
+                "on_discount": false,
+                "weight_per_packaging": 60.0,
+                "price_per_packaging": 2.0,
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.77,
+            "total_reviews": 52
+        }
+    },
+    {
+        "ean": "000000000000015822",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauté de porc tomates olives",
+                "desc": "Viande de porc cuisiné 42,8% dans une sauce à base de tomate 47,6% et aux olives vertes 9,5%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/saute-porc-tomates-olives-000000000000015822.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "420.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 123.0
+                    },
+                    "minerals": {
+                        "salt": 0.71
+                    },
+                    "fats": {
+                        "fats": 5.3,
+                        "saturates": 1.6
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.4,
+                        "of_which_sugars": 2.2,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Viande de porc cuite 42,8% (origine : France*), réduction de tomate 15,8%, jus de cuisson de la viande de porc [jus de cuisson de la viande de porc (origine : France*), eau, farine de BLE (GLUTEN), sel], olive verte dénoyautée** 9,5% (olive, eau, sel, acidifiant : acide citrique), bouillon de légumes (eau, CELERI, tomate 0,1%, carotte, champignon de Paris, poireau, baie de genièvre), oignon, fenouil, vin blanc, huile d'olive vierge extra, échalote, CELERI, carotte, concentré de tomates 0,6%, ail, thym, paprika, piment.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 420.0,
+                "price_per_packaging": 6.9,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\nPrêt en 6 min\nDisposez le sachet dans un plat adapté, puis percez le dessus. Faites réchauffer le temps indiqué. Remuez le sachet pour homogénéiser la sauce avant de l'ouvrir. Puissance restituée au four à micro-ondes : 750 watts : 6min30 900 watts : 6 min\n\nAu bain-marie\nPréparation sans décongélationCuisson au bainmarie pendant\n25 min\nPlongez le sachet dans une casserole d'eau bouillante. Laissez réchauffer sans couvrir 25 minutes après la reprise du frémissement (sans bouillir). Remuez le sachet pour homogénéiser la sauce avant de l'ouvrir.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.16,
+            "total_reviews": 56
+        }
+    },
+    {
+        "ean": "000000000000060875",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes au boeuf bio (18 boulettes environ)",
+                "desc": "Préparation à base de viande bovine hachée assaisonnée, frite, cuite et surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-au-boeuf-bio-000000000000060875.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 200.0
+                    },
+                    "minerals": {
+                        "salt": 0.79
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 4.5
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.7,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande bovine hachée* 78,7% (origine : France**), oignon*, amidon de pomme de terre*, pomme de terre*, sel, poivre*. Huile de friture: huile de colza*.\n*ISSU DE L'AGRICULTURE BIOLOGIQUE.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n2 min*\nPlacez la quantité désirée de boulettes dans un plat adapté et réchauffez le temps indiqué : Puissance restituée du four : 750W 900W Pour 150 g (environ 9 boulettes) : 2 min 30 2 min Pour 300 g : 5 min 4 min\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n11 min\nPlacez les boulettes dans une poêle à couvert, sans ajouter de matière grasse. Laissez réchauffer pendant 11 min à feu moyen en remuant régulièrement.\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n14 min\nPréchauffez votre four à 180°C (th.6). Placez les boulettes dans un plat adapté et faites réchauffer à mi-hauteur le temps indiqué : Four à chaleur tournante : 14 min Four traditionnel : 16 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.53,
+            "total_reviews": 62
+        }
+    },
+    {
+        "ean": "000000000000060831",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 biftecks hachés Label Rouge",
+                "desc": "6 biftecks hachés race charolaise pur boeuf - surgelés - 12% MG",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-biftecks-haches-label-rouge-000000000000060831.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "720.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 181.0
+                    },
+                    "minerals": {
+                        "salt": 0.16
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 5.3
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.6,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pure viande bovine (Origine : France)* de race Charolaise Label Rouge\n*Pourcentage de matières grasses inférieur à 12%\n*Rapport collagène sur protéines de viande inférieur à 15%\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 720.0,
+                "price_per_packaging": 14.65,
+                "preparation": "Conseils de préparation\nCUISSON\nA consommer cuit à coeur",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.25,
+            "total_reviews": 92
+        }
+    },
+    {
+        "ean": "000000000000014997",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes au boeuf crues",
+                "desc": "Préparation surgelée composée de 51% de viande bovine hachée et de protéines végétales",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-boeuf-crues-000000000000014997.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:09",
+                "format": "900.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 173.0
+                    },
+                    "minerals": {
+                        "salt": 0.84
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 5.5
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.9
+                    }
+                },
+                "ingredients": "Viande bovine hachée (origine : France*) 51%, protéines végétales de SOJA réhydratées 26%, eau, chapelure [farine de BLE (GLUTEN), sel], sel.\n*Pourcentage de matières grasses inférieur à 15%\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 900.0,
+                "price_per_packaging": 8.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n20 min\nFaites saisir les boulettes dans une poêle chaude avec un peu de matière grasse et laissez cuire 20 min à feu moyen en remuant régulièrement pour atteindre la cuisson à cœur.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n30 min à 210°C\nFaites préchauffer votre four à 210°C (th.7). Déposez les boulettes dans un plat adapté avec 5 cuillères à soupe d'eau, enfournez à mi-hauteur et laissez cuire le temps indiqué pour atteindre la cuisson à cœur. - four à chaleur tournante : 30 min - four traditionnel : 35 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.69,
+            "total_reviews": 87
+        }
+    },
+    {
+        "ean": "000000000000015681",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 mini-saucisses de veau à l'italienne",
+                "desc": "Préparation de viande de veau assaisonnée aux tomates, à la roquette et aux pignons de pin, à cuire, surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw667adc97/produits/000000000000010272_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-mini-saucisses-veau-italienne-000000000000015681.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:10",
+                "format": "240.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 259.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 23.0,
+                        "saturates": 8.4
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.8,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 1.2
+                    }
+                },
+                "ingredients": "[FR] Viande de veau 68,9% (origine : France*), tomate 6,6%, oignon, huile d'olive vierge extra, eau, roquette 3%, Parmigiano Reggiano râpé (contient LAIT), pignon de pin 1,8%, sel, basilic, boyau naturel de mouton.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 240.0,
+                "price_per_packaging": 6.29,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 6.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,70€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 10.01% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.51,
+            "total_reviews": 84
+        }
+    },
+    {
+        "ean": "000000000000060199",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Boulettes au boeuf et aux oignons, 30 pièces environ",
+                "desc": "Préparation surgelée composée de 51% de viande bovine hachée, de protéines végétales et d'oignons",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/boulettes-boeuf-oignons-000000000000060199.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:10",
+                "format": "900.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 190.0
+                    },
+                    "minerals": {
+                        "salt": 0.94
+                    },
+                    "fats": {
+                        "fats": 13.0,
+                        "saturates": 6.3
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.3,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Viande bovine hachée (origine : France)* 51%, protéines végétales de SOJA réhydratées 26%, eau, chapelure [farine de BLE (GLUTEN), sel], oignon frit 1.8% (oignon déshydraté 1.6%, huile de tournesol), sel, oignon en poudre 0,4%\n*Pourcentage de matières grasses inférieur à 15%\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 900.0,
+                "price_per_packaging": 8.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n20 min\nFaites saisir les boulettes dans une poêle chaude avec un peu de matière grasse et laissez cuire 20 min à feu moyen en remuant régulièrement pour atteindre la cuisson à coeur.\n\nAu four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n30 min\nFaites préchauffer votre four à 210°C (th.7). Déposez les boulettes dans un plat adapté avec 5 cuillères à soupe d'eau, enfournez à mi-hauteur et laissez cuire le temps indiqué pour atteindre la cuisson à coeur. - four à chaleur tournante : 30 min - four traditionnel : 35 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.69,
+            "total_reviews": 64
+        }
+    },
+    {
+        "ean": "000000000000081011",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Viandes "
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauce aux champignons",
+                "desc": "Sauce aux champignons, Champignons de Paris et cèpes, surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw21349589/produits/000000000000040101_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/sauce-champignons-000000000000081011.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:10",
+                "format": "200.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 100.0
+                    },
+                    "minerals": {
+                        "salt": 0.62
+                    },
+                    "fats": {
+                        "fats": 8.0,
+                        "saturates": 5.7
+                    },
+                    "proteins": {
+                        "proteins": 1.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 4.7,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Champignon de Paris 29,8%, eau, crème fraîche liquide (LAIT) 20%, Porto rouge dénaturé [Porto (contient SULFITES), sel], brisure de cèpe 5%, échalote, beurre (LAIT), amidon de riz, fond de volaille (jus de poulet concentré, eau, sel, jus d'oignon concentré, jus de carotte concentré, extrait d'algue, ail déshydraté, épices, herbes aromatiques), amidon de maïs, cèpe sec 0,6%, sel, ail, jus concentré d'oignon (jus concentré d'oignon, huile de tournesol), poivre blanc.",
+                "allergens": [
+                    "Lait",
+                    "Traces de Gluten",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Conseils de préparation\nPréparation\nNous vous conseillons de faire réchauffer 2 galets de sauce pour accompagner une portion de viande ou de féculent.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.63,
+            "total_reviews": 59
+        }
+    }
+]

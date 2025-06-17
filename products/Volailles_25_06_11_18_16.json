@@ -1,0 +1,2929 @@
+[
+    {
+        "ean": "000000000000033994",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Nuggets de poulet",
+                "desc": "Viande de poulet traitée en salaison (66%), panée (34%), cuite, frite et surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwb0fab244/produits/00000000000000000289_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/nuggets-poulet-000000000000033994.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 173.0
+                    },
+                    "minerals": {
+                        "salt": 0.57
+                    },
+                    "fats": {
+                        "fats": 6.4,
+                        "saturates": 0.9
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de poulet traitée en salaison [filet de poulet 62,2% (origine France*), eau, sel], enrobage 34% [farine de BLÉ (GLUTEN), huile de tournesol et de colza, eau, farine de maïs, GLUTEN de BLÉ , sel, amidon de BLÉ (GLUTEN), poivre, poudre à lever (carbonates de sodium), poudre de citron]\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au four\nPréparation sans décongélationCuisson au four pendant\n15 min\nPréchauffez le four à 180°C (th.6). Déposez les nuggets dans un plat sans ajouter de matière grasse et laissez réchauffer à mi- hauteur, en retournant à mi-temps. - Four traditionnel : 18 min - Four à chaleur tournante : 15 min",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.53,
+            "total_reviews": 137
+        }
+    },
+    {
+        "ean": "000000000000016432",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bouchées de poulet tikka marinées, cuites",
+                "desc": "Hauts de cuisse de poulet marinés, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bouchees-poulet-tikka-marinees-cuites-000000000000016432.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 180.0
+                    },
+                    "minerals": {
+                        "salt": 0.87
+                    },
+                    "fats": {
+                        "fats": 9.1,
+                        "saturates": 2.6
+                    },
+                    "proteins": {
+                        "proteins": 22.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.9,
+                        "of_which_sugars": 1.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Morceau de haut de cuisse de poulet désossé 76,4% (origine : France*), marinade tikka 11,7% [eau, vinaigre d'alcool, LAIT fermenté en poudre, concentré de tomate, LAIT écrémé en poudre, sel, épices, crème en poudre (LAIT), amidon de manioc et de maïs, ail en poudre, purée d'oignon, extrait de malt d’ORGE (GLUTEN), jus de citron concentré, herbes aromatiques, extraits d'épices], eau, coriandre, amidon de pomme de terre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n12 min\nDéposez les bouchées dans une poêle chaude avec un peu de matière grasse. Laissez-les réchauffer 12 min à feu doux en remuant régulièrement.\n\nAu four\nPréparationCuisson au four pendant\n15 min\nFaites préchauffer le four à 180°C (th. 6). Déposez les bouchées dans un plat sans ajouter de matière grasse et enfournez à mi- hauteur. Laissez réchauffer le temps indiqué : - Four traditionnel : 20 min - Four à chaleur tournante : 15 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n3 min\nDéposez les bouchées dans un plat adapté. Laissez réchauffer le temps indiqué. Puissance restituée du four 750 watts 900 watts Pour 200 g 3 min 30 3 min Pour 400 g 6 min 5 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 146
+        }
+    },
+    {
+        "ean": "000000000000016739",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Manchons de poulet rôtis cuits",
+                "desc": "Manchons de poulet traités en salaison, rôtis, cuits surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/manchons-poulet-rotis-cuits-000000000000016739.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "450.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 203.0
+                    },
+                    "minerals": {
+                        "salt": 0.95
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 3.5
+                    },
+                    "proteins": {
+                        "proteins": 22.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Manchon de poulet (origine : France*) 80%, eau, sirop de glucose en poudre, protéines de soja, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Soja",
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 450.0,
+                "price_per_packaging": 5.04,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n15 min\nFaites préchauffer le four à 180°C (th.6). Déposez les manchons dans un plat sans ajouter de matière grasse et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué : - Four traditionnel : 20 min - Four à chaleur tournante : 15 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 7.2,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-30% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.38,
+            "total_reviews": 100
+        }
+    },
+    {
+        "ean": "000000000000005437",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Escalopes de dinde, 9 à 11 pièces",
+                "desc": "Tranches de filets de dinde sans peau surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/escalopes-dinde-000000000000005437.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "9 à 11 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 105.0
+                    },
+                    "minerals": {
+                        "salt": 0.12
+                    },
+                    "fats": {
+                        "fats": 1.0,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    }
+                },
+                "ingredients": "Filet de dinde sans peau (origine : France*)\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 17.9,
+                "preparation": "À la poêle\nCUISSONCuisson au poele pendant\n8 à 10 min\nFaites revenir les escalopes à feu moyen dans un peu de matière grasse en retournant à mi-temps.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.23,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000088171",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de poulet rôtis",
+                "desc": "Filets de poulet rôtis - traités en salaison - cuits - surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-poulet-rotis-cuits-5-7-filets-000000000000088171.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "390.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 120.0
+                    },
+                    "minerals": {
+                        "salt": 0.83
+                    },
+                    "fats": {
+                        "fats": 2.2,
+                        "saturates": 0.6
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet 85% (origine : France*), eau, amidon de pomme de terre, sel.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 390.0,
+                "price_per_packaging": 8.65,
+                "preparation": "Au micro-ondes\nPréparation froideCuisson au microondes pendant\n9 min\nDéposez les filets de poulet dans un plat adapté et laissez-les décongeler le temps indiqué. pour 3 pièces 9 min pour 6 pièces 12 min Laissez reposer 20 minutes au réfrigérateur avant la dégustation.\n\nAu réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n4h\nEtalez les filets de poulet dans un plat adapté. Recouvrez-les d'un film étirable et laissez- les décongeler 4 h au réfrigérateur.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.78,
+            "total_reviews": 27
+        }
+    },
+    {
+        "ean": "000000000000000727",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Cuisses de poulet, 5 à 7 pièces",
+                "desc": "cuisses de poulet, classe A, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/cuisses-poulet-5-7-pieces-000000000000000727.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "5 à 7 pièces",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 200.0
+                    },
+                    "minerals": {
+                        "salt": 0.21
+                    },
+                    "fats": {
+                        "fats": 14.0,
+                        "saturates": 4.2
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Cuisse de poulet (origine : France*).\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 5000.0,
+                "price_per_packaging": 11.99,
+                "preparation": "À la cocotte\nCUISSONCuisson au cocotte pendant\n40 min\nFaites revenir les cuisses dans un peu de matière grasse 5 min en retournant à mi-temps. Ajoutez des oignons, des tomates et mouillez à mi-hauteur avec du vin blanc. Laissez cuire 35 à 40 min à feu moyen.\n\nAu four\nCUISSONCuisson au four pendant\n45 min\n-préchauffé à 210°C (th.7) : Déposez les cuisses dans un plat à four, sur la grille, à mi-hauteur et laissez cuire le temps indiqué: - Four à chaleur tournante : 45 min - Four traditionnel : 55 min\n\nConseils de préparation\nCUISSON",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.92,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000088379",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "6 cordons bleus de poulet",
+                "desc": "Viande de filet de poulet traitée en salaison 52,8%, bacon de dinde fumé et emmental fondu, panés, frits, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/6-cordons-bleus-poulet-000000000000088379.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "600.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 226.0
+                    },
+                    "minerals": {
+                        "salt": 1.2
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 3.1
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.3,
+                        "dietary_fiber": 1.6
+                    }
+                },
+                "ingredients": "Filets de poulet traité en salaison [filet de poulet 42,5% (origine : France*), eau, protéines de blé (gluten), sel, fibre de blé], panure 24% [chapelure (farine de blé (gluten), levure, sel, épices (paprika, curcuma)), eau, farine de blé (gluten), semoule de blé dur (gluten), gluten de blé, amidon de blé (gluten), sel], bacon de dinde fumé 11,5% [viande de dinde (origine : France*), sel, dextrose, arôme de fumée, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium, ferments, fumée naturelle], emmental fondu 11,5% [emmental (contient : lait), fromages (contient : lait), beurre (lait), protéines de lait, eau, épaississants : gomme de caroube et gomme xanthane, lait écrémé en poudre], huile de tournesol.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 600.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nRÉCHAUFFAGECuisson au poele pendant\n16min\nDéposez les cordons bleus dans une poêle chaude avec un peu de matière grasse. Faites-les réchauffer 16 min, à feu moyen, en les retournant régulièrement. Avant de servir, déposez-les sur du papier absorbant afin d'éliminer l'excès de matière grasse.\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th 6). Déposez les cordons bleus dans un plat adapté et laissez réchauffer à mi-hauteur le temps indiqué en les retournant à mi-temps. - Four traditionnel : 30 min - Four à chaleur tournante : 25 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.43,
+            "total_reviews": 213
+        }
+    },
+    {
+        "ean": "000000000000020270",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes de poulet marinées au citron",
+                "desc": "Aiguillettes de poulet saveur citron marinées Cuites-Surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/aiguillettes-poulet-marinees-citron-000000000000020270.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:12",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 108.0
+                    },
+                    "minerals": {
+                        "salt": 0.74
+                    },
+                    "fats": {
+                        "fats": 1.3,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 21.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.9,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Aiguillettes de poulet (origine : France*) 84%, eau, fécule de pomme de terre, marinade en poudre [chapelure (farine de BLÉ (GLUTEN), sel, levure), sel, épices et aromates, tomate en poudre, arôme naturel d'olive, huile d'olive, arôme naturel de citron 0,01%], farine de BLÉ (GLUTEN), huile d'olive vierge extra, sel, protéine de pois, spécialité à base de jus de citron concentré 0,1% (eau, jus concentré de citron 0,03% et d'orange, pulpe de citron 0,02%, acidifiant : acide citrique, extrait de citron).\n*Issue d'animaux nés, élevés, abattus et transformés en France",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 6.99,
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.27,
+            "total_reviews": 212
+        }
+    },
+    {
+        "ean": "000000000000000545",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de poulet, 5 à 10 pièces",
+                "desc": "Filets de poulet, classe A, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-poulet-7-10-pieces-000000000000000545.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "5 à 10 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 109.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet (origine : France*).\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": true,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 18.79,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATION\nFaites cuire les filets 10 à 12 min à feu moyen avec un peu de matière grasse en les retournant à mi-temps",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Meilleures ventes"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.76,
+            "total_reviews": 113
+        }
+    },
+    {
+        "ean": "000000000000020379",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 cuisses de canard du Sud-Ouest confites",
+                "desc": "2 cuisses de canard du Sud-Ouest confites, surgelées, à réchauffer",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-cuisses-canard-sud-ouest-confites-000000000000020379.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "360.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 244.0
+                    },
+                    "minerals": {
+                        "salt": 1.6
+                    },
+                    "fats": {
+                        "fats": 16.0,
+                        "saturates": 5.0
+                    },
+                    "proteins": {
+                        "proteins": 26.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Cuisses de canard du Sud-Ouest 80% minimum (origine : France*), graisse de canard, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 10.5,
+                "preparation": "Au micro-ondes\nRÉCHAUFFAGECuisson au microondes pendant\n3 min 30\nDéposez les cuisses dans un plat adapté dans leur sachet préalablement percé et laissez réchauffer le temps indiqué : 750 watts 900 watts Pour 1 cuisse 5 min 3 min 30 Pour 2 cuisses 7 min 30 6 min 30\n\nAu four\nRÉCHAUFFAGECuisson au four pendant\n30 min\n-préchauffé à 210°C (th.7). Sortez les cuisses de leur sachet et déposez-les avec leur graisse, côté peau sur le dessus, dans un plat à four. Laissez réchauffer à mi-hauteur le temps indiqué : - Four traditionnel : 35 min - Four à chaleur tournante : 30 min\n\nAu bain-marie\nRÉCHAUFFAGECuisson au bainmarie pendant\n20 min\nPlongez les sachets contenant les cuisses de canard dans une casserole d'eau frémissante et laissez réchauffer 20 minutes après la reprise de l'ébullition. Ouvrez le sachet et égouttez.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.49,
+            "total_reviews": 146
+        }
+    },
+    {
+        "ean": "000000000000088264",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Magret de canard tranché mariné aux cèpes",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/magret-canard-marine-cepe-000000000000088264.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 13.99,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000088420",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Hauts de cuisses de poulet,panure multi-grains",
+                "desc": "Morceaux de hauts de cuisses de poulet traités en salaison 72,5%, enrobés d'une panure 27,5% aux graines, frits, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/haut-de-cuisse-poulet-multigrains-000000000000088420.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 225.0
+                    },
+                    "minerals": {
+                        "salt": 0.89
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 2.0
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Morceau de haut de cuisse de poulet traité en salaison [morceau de haut de cuisse de poulet 62,5% (origine : France*), eau, sel, fibre de pois, arôme naturel, protéine de pois, poivre, oignon en poudre, ail en poudre], chapelure [farine de BLÉ (GLUTEN), levure, sel], huile de tournesol, eau, farine de BLÉ (GLUTEN), graine de millet 1,8%, graine de citrouille 0,8%, graine de lin 0,8%, graine d'oignon 0,3%, GLUTEN de BLÉ, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 6.2,
+                "preparation": "Sans titre\n\nNe pas cuire au four à micro-ondes – Respecter le mode d’emploi indiqué\n\nÀ la poêle\nCUISSONCuisson au poele pendant\n18 min\nVersez la quantité désirée dans une poêle chaude avec un peu de matière grasse. Faites cuire le temps indiqué en les retournant à mi-cuisson.\n\nAu four\nCUISSONCuisson au four pendant\n24 min\nPréchauffez le four à 180°C (th.6). Déposez les morceaux sur une plaque recouverte de papier cuisson et faites cuire le temps indiqué en les retournant à mi-cuisson. - Au four à chaleur tournante : 24 minutes - Au four traditionnel : 30 minutes",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.04,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000060245",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Saucisses de volaille aux herbes, 10 pièces",
+                "desc": "Saucisses de volaille aux herbes, crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw43ae4e7a/produits/000000000000069588_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/10-saucisses-de-volaille-000000000000060245.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 277.0
+                    },
+                    "minerals": {
+                        "salt": 0.95
+                    },
+                    "fats": {
+                        "fats": 24.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de dinde 68,3% (origine : France*), gras de veau, eau, sel, herbes aromatiques 0,6% (persil, thym, romarin, ciboulette), poivre blanc, boyau naturel de mouton.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.1,
+                "preparation": "Conseils de préparation\nCUISSON SANS DÉCONGÉLATION\nA consommer cuit à cœur",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.56,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000088189",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 cordons bleus de poulet au comté A.O.P.",
+                "desc": "Produit pané et cuit surgelé, à base de filets de poulet reconstitués traités en salaison 60%, de bacon de dinde cuit aromatisé et de Comté AOP",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-cordons-bleus-poulet-comte-aop-000000000000088189.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 206.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 11.0,
+                        "saturates": 3.4
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.9,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 1.0
+                    }
+                },
+                "ingredients": "Filets de poulet reconstitués traités en salaison [filet de poulet (origine : France*) 52,2%, eau, sel], panure 20% [chapelure 8,4% (farine de BLÉ (GLUTEN), levure, sel), farine de BLÉ (GLUTEN), sel], bacon de dinde cuit aromatisé 10% [viande de dinde (origine : France*), eau, sel, arômes naturels, bouillon (blette, carotte), ferment], Comté AOP** 10% (contient LAIT), huile de tournesol.\n*A.O.P. : Appellation dOrigine Protégée.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.79,
+                "preparation": "Au four\nRÉCHAUFFAGECuisson au four pendant\n35 min\nPréchauffez votre four à 180°C (th. 6). Déposez les cordons bleus dans un plat adapté et laissez réchauffer à mi-hauteur le temps indiqué en les retournant à mi-temps. - Four traditionnel : 40 min - Four à chaleur tournante : 35 min\n\nÀ la poêle\nRÉCHAUFFAGECuisson au poele pendant\n25 min\nDans une poêle chaude, faites réchauffer les cordons bleus pendant 25 min à feu moyen, en les retournant régulièrement. Avant de servir, déposez-les sur du papier absorbant afin d'éliminer l'excès de matière grasse.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.99,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-20% avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.32,
+            "total_reviews": 121
+        }
+    },
+    {
+        "ean": "000000000000020246",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bâtonnets de poulet préparation à base de poulet",
+                "desc": "Viande de poulet traitée en salaison 64,1%, panée 32%, frite, cuite surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/batonnets-poulet-preparation-base-poulet-000000000000020246.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 235.0
+                    },
+                    "minerals": {
+                        "salt": 0.89
+                    },
+                    "fats": {
+                        "fats": 10.0,
+                        "saturates": 1.5
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23.0,
+                        "of_which_sugars": 0.9,
+                        "dietary_fiber": 1.1
+                    }
+                },
+                "ingredients": "Viande de poulet traitée en salaison [filet de poulet (origine : France*) 40,8%, viande de poulet (origine : France*) 10,2%, eau, fécule de pomme de terre, farine de BLÉ (GLUTEN), sel, huile de tournesol], chapelure 16,4% [(farine de BLÉ (GLUTEN), levure, sel, épices (curcuma, paprika)], eau, huile de tournesol, farine de BLÉ (GLUTEN), semoule de BLÉ dur (GLUTEN), amidon de BLÉ (GLUTEN), GLUTEN de BLÉ, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 5.2,
+                "preparation": "Au four\nPréparation après décongélationCuisson au four pendant\n15 min\nPréchauffez le four à 180°C (th.6). Déposez les bâtonnets dans un plat. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué en les retournant à mi-temps. - Four traditionnel : 18 min - Four à chaleur tournante : 15 min\n\nÀ la poêle\nPréparation après décongélationCuisson au poele pendant\n5 min\nDéposez les bâtonnets dans une poêle chaude avec un peu de matière grasse. Laissez-les réchauffer 5 min à feu moyen en les retournant régulièrement. Avant de les servir, déposez les bâtonnets sur du papier absorbant pour éliminer l'excès de matière grasse.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Ce produit est offert pour 300 points Picard&Nous"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.65,
+            "total_reviews": 124
+        }
+    },
+    {
+        "ean": "000000000000088430",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Émincés de poulet rôtis, cuits",
+                "desc": "Viande de cuisse de poulet traitée en salaison, rôtie, cuite, émincée et surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe89e177c/produits/000000000000086033_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/eminces-poulet-rotis-300g-000000000000088430.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:13",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 154.0
+                    },
+                    "minerals": {
+                        "salt": 0.82
+                    },
+                    "fats": {
+                        "fats": 6.8,
+                        "saturates": 1.9
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.6,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de cuisse de poulet 85,8% (origine : France*), eau, amidon de pomme de terre, fond de volaille [viande de volaille (origine : France*), graisse de volaille (origine : France*) et jus de cuisson de viande de volaille (origine : France*), oignon et jus de cuisson d'oignon, carotte et jus de cuisson de carotte, sel], sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": true,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 4.6,
+                "preparation": "Au réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n5h\nDécongélation lente : étalez le contenu du sachet en une seule couche dans une assiette recouverte de film alimentaire et laissez décongeler au réfrigérateur le temps indiqué.\n\nSans titre\n\nDécongélation rapide : versez la quantité désirée dans un plat adapté et laissez décongeler le temps indiqué, puis laissez reposer 5 min au réfrigérateur. - Pour 150g : 7 min - Pour 300g : 10 min",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 5.2,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-0,60€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 11.54% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 2.95,
+            "total_reviews": 19
+        }
+    },
+    {
+        "ean": "000000000000060959",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 brochettes de poulet marinées Tex-Mex",
+                "desc": "4 brochettes de morceaux de filets de poulet marinés aux épices 83%, poivron jaune, tomate cerise, à cuire, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwc670e9d4/produits/larg0923_82206_balme_ferme.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-brochettes-poulet-marinees-tex-mex-000000000000060959.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "560.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 97.0
+                    },
+                    "minerals": {
+                        "salt": 0.62
+                    },
+                    "fats": {
+                        "fats": 1.8,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.5,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Morceau de filet de poulet 67,6% (origine : France*), eau, poivron jaune 9,8%, tomate cerise 7%, fécule de pomme de terre, huile de tournesol, sel, épices 0,5% (paprika, piment fumé), plantes aromatiques (marjolaine, origan, oignon, ail), extraits d’épices, extrait de vinaigre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 560.0,
+                "price_per_packaging": 11.2,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nRetirez l'étui et le sachet. Déposez les brochettes dans un plat adapté et faites-les décongeler 6 min en les retournant à mi-temps. Laissez reposer 15 min environ avant cuisson\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 h\n8 heures sur une assiette, hors de l'étui et du sachet, recouvertes de film alimentaire étirable",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "original_price": 12.7,
+                "requires_loyalty_card": true,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "-1,50€ avec la carte"
+                    }
+                },
+                "requiredProductQuantity": 1
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Réduction de 11.81% sur le prix initial avec la carte fidélité"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.43,
+            "total_reviews": 23
+        }
+    },
+    {
+        "ean": "000000000000016812",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 escalopes de dinde à la viennoise",
+                "desc": "Viande de dinde traitée en salaison 73,7%, panée 26,2%, frite, cuite - surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-escalopes-dinde-viennoise-000000000000016812.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 216.0
+                    },
+                    "minerals": {
+                        "salt": 0.85
+                    },
+                    "fats": {
+                        "fats": 9.2,
+                        "saturates": 1.1
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Escalope de dinde traitée en salaison [escalope de dinde (origine : France*) 60,2%, eau, sel, fécule de pomme de terre, fond de volaille (jus, viande et graisse de poulet*, peau de poulet*, plantes aromatiques, sel, miel), fibre de BLE], panure [chapelure (farine de BLE (GLUTEN), levure, sel), eau, farine de BLE (GLUTEN), amidon de BLE (GLUTEN),sel], huile de tournesol.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.6,
+                "preparation": "Au four\nPréparation sans décongélationCuisson au four pendant\n18 min\nPréchauffez votre four à 180°C (th 6). Déposez les escalopes dans un plat. Enfournez à mi-hauteur et laissez réchauffer le temps indiqué : - Four traditionnel : 23 min - Four à chaleur tournante : 18 min\n\nÀ la poêle\nPréparation sans décongélationCuisson au poele pendant\n8 min\nFaites réchauffer les escalopes dans une poêle chaude avec un peu de matière grasse, à feu vif pendant 2 minutes, puis à feu moyen pendant 6 minutes en les retournant à mi-temps.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.22,
+            "total_reviews": 174
+        }
+    },
+    {
+        "ean": "000000000000020288",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Magret de canard du Sud-Ouest",
+                "desc": "Magret de canard du sud-ouest, cru, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw32f13f5c/produits/000000000000081029_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/magret-canard-sud-ouest-000000000000020288.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "370.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 354.0
+                    },
+                    "minerals": {
+                        "salt": 0.04
+                    },
+                    "fats": {
+                        "fats": 32.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.5,
+                        "of_which_sugars": 0.6
+                    }
+                },
+                "ingredients": "Magret de canard du Sud-Ouest cru",
+                "on_discount": false,
+                "weight_per_packaging": 370.0,
+                "price_per_packaging": 9.99,
+                "preparation": "À la poêle\nCUISSONCuisson au poele pendant\n15 min\n(après décongélation) : 15 min Faites cuire le magret dans une poêle chaude côté peau, à feu moyen 5 min. Retirer la graisse au fur et à mesure que celle-ci fond. Retournez le magret et laissez cuire 5 min. Remettez ensuite sur le côté peau et poursuivez la cuisson le temps indiqué selon le degré de cuisson souhaité : Saignant : 5 min - À point : 7 min.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.0,
+            "total_reviews": 13
+        }
+    },
+    {
+        "ean": "000000000000088254",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {},
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de poulet croustillants",
+                "desc": "Filets de poulet marinés (89,8%) enrobés d'une panure (10,2%), préfrits, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-poulet-croustillants-000000000000088254.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 206.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 8.4,
+                        "saturates": 1.4
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 16.0,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet (Thaïlande)* 87,8%, farine de BLÉ (GLUTEN), amidon transformé de tapioca, amidon de pomme de terre et tapioca, amidon transformé de maïs, protéines de SOJA hydrolysées, sel, farine de riz, ail, poudre à lever (diphosphates, carbonates de sodium), sucre, GLUTEN de BLE , stabilisant : triphosphates, oignon, poivre, arôme naturel d'ail et d'oignon, arôme naturel de poivre, émulsifiant : mono- et diglycérides d'acides gras d'origine végétale. Huile de soja utilisée pour la friture.\n*Issue d'animaux nés, élevés, abattus et transformés en Thaïlande",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.7,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n20 min\nPréchauffez votre four à 210°C (th.7). Sortez les filets de poulet de la boîte carton puis de leur emballage plastique. Disposez-les sur une plaque recouverte de papier sulfurisé et laissez-les réchauffer en position haute le temps indiqué : - Four traditionnel : 22 minutes - Four à chaleur tournante : 20 minutes",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.13,
+            "total_reviews": 89
+        }
+    },
+    {
+        "ean": "000000000000016083",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "lang_desc": {
+            "fr": {
+                "title": "Dogador chien, viandes pour animaux",
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/dogador-chien-viandes-pour-animaux-000000000000016083.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 4.45,
+                "requires_loyalty_card": false
+            }
+        ]
+    },
+    {
+        "ean": "000000000000088296",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Poulet pané croustillant",
+                "desc": "Filet de poulet reconstitué traité en salaison 63,2%, enrobé d’une panure 36,7%, cuit, frit, surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/poulet-pane-croustillant-000000000000088296.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 201.0
+                    },
+                    "minerals": {
+                        "salt": 0.92
+                    },
+                    "fats": {
+                        "fats": 9.7,
+                        "saturates": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 14.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 14.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet traité en salaison [filet de poulet 56% (origine : France*), eau, amidon pomme de terre, sel], enrobage 36,7% [farine de BLÉ (GLUTEN), eau, chapelure (farine de BLÉ (GLUTEN), levure, sel), GLUTEN de BLÉ, semoule de BLÉ (GLUTEN), farine de riz, amidon de maïs, sel, poivre, poudre à lever (carbonates de sodium), ail et oignon en poudre, raifort en poudre, sauge, huile de tournesol], huile de tournesol et de colza.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.25,
+                "preparation": "Au four\nPréparationCuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th 6). Déposez les pièces de poulet pané sur la plaque du four avec du papier cuisson et laissez réchauffer à mi-hauteur le temps indiqué en les retournant à mi-temps : - Four traditionnel : 30 min - Four à chaleur tournante : 25 min.\n\nÀ la poêle\nPréparationCuisson au poele pendant\n16 min\nDéposez les poulets panés dans une poêle chaude avec un peu de matière grasse et cuire à feu moyen pendant 16min, en les retournant régulièrement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.5,
+            "total_reviews": 78
+        }
+    },
+    {
+        "ean": "000000000000088050",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Escalopes de poulet, 4 à 6 pièces",
+                "desc": "Filets de poulet traités en salaison 70,4%, panés, frits, cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw518a2f05/produits/00000000000000010123_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/escalope-poulet-pane-550g-000000000000088050.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "4 à 6 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 167.0
+                    },
+                    "minerals": {
+                        "salt": 0.6
+                    },
+                    "fats": {
+                        "fats": 5.9,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.0,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet traité en salaison [filet de poulet 67% (origine : UE), eau, amidon de pomme de terre, sel], enrobage 29,5% [farine de BLÉ (GLUTEN), huiles végétales (tournesol, colza), GLUTEN de BLÉ, sel, poivre, poudre à lever (carbonates de sodium), citron en poudre]",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 550.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nPréparation sans décongélationCuisson au poele pendant\n15 min\nFaites réchauffer les escalopes dans une poêle chaude avec un peu de matière grasse, à feu vif pendant 2 minutes, puis à feu moyen pendant 13 minutes en les retournant à mi-temps.\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n25 min\nPréchauffez votre four à 180°C (th.6). Déposez les escalopes sur la plaque du four avec du papier cuisson. Enfournez à mi- hauteur et laissez réchauffer le temps indiqué : Four traditionnel : 30 min Four à chaleur tournante : 25 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.45,
+            "total_reviews": 47
+        }
+    },
+    {
+        "ean": "000000000000058797",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "8 nuggets de poulet",
+                "desc": "Beignets de poulet cuits, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw3af4a6ec/produits/86668.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/8-nuggets-poulet-special-micro-ondes-000000000000058797.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "160.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 207.0
+                    },
+                    "minerals": {
+                        "salt": 0.76
+                    },
+                    "fats": {
+                        "fats": 9.6,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 15.0,
+                        "of_which_sugars": 1.0,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Viande de poulet traitée en salaison 65,3% [filet de poulet 57,7% (origine : France*), eau, amidon de pomme de terre, sel], enrobage 34,6% [farines de BLÉ (GLUTEN) et de riz, huile de tournesol et de colza, amidon de pomme de terre, GLUTEN de BLÉ , sel]\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 2.99,
+                "preparation": "Au micro-ondes\nPréparation sans décongélationCuisson au microondes pendant\n3 min\nOuvrez l'étui carton grâce à l'ouverture facile. Abaissez le couvercle et placez l'étui directement dans le four à micro-ondes. Laissez reposer quelques minutes avant de sortir l'étui du four car il peut être chaud. Vous pouvez déguster vos nuggets de poulet directement dans leur étui. Laissez réchauffer le temps indiqué selon la puissance du four à micro-ondes: 750 watts 900 watts 8 nuggets 4 min 3 min\n\nAu four\nPréparation sans décongélationCuisson au four pendant\n14 min\nPréchauffez votre four à 210°C (th.7). Sortez les nuggets de l'étui carton et déposez-les dans un plat sans matière grasse. Laissez-les réchauffer sur une grille à mi-hauteur en les retournant à mi-temps : - Four traditionnel : 18 min - Four à chaleur tournante : 14 min\n\nÀ la poêle\nPréparation sans décongélation\nNON SPECIFIE SUR L'EMBALLAGE Faites réchauffer les nuggets dans un peu de matière grasse chaude 1 minute à feu vif de chaque côté, puis 7 minutes à feu moyen en retournant régulièrement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.28,
+            "total_reviews": 81
+        }
+    },
+    {
+        "ean": "000000000000016888",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Foie gras cru de canard du Sud-Ouest qualité extra",
+                "desc": "Foie gras de canard cru surgelé",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw4f91aab6/produits/000000000000089378_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/foie-gras-cru-canard-sud-ouest-000000000000016888.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:14",
+                "format": "400.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 607.0
+                    },
+                    "minerals": {
+                        "salt": 0.09
+                    },
+                    "fats": {
+                        "fats": 64.0,
+                        "saturates": 29.0
+                    },
+                    "proteins": {
+                        "proteins": 5.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.1,
+                        "of_which_sugars": 1.7
+                    }
+                },
+                "ingredients": "Foie gras cru de canard du Sud-Ouest (origine : France*)\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 400.0,
+                "price_per_packaging": 39.99,
+                "preparation": "Sans titre\n\nCe foie gras cru est constitué des lobes du foie issus d'un même canard. Il a été soigneusement éveiné à la main pour faciliter sa préparation et a été sélectionné pour son moelleux et la finesse de son goût. A préparer au minimum 36 h à l'avance.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.47,
+            "total_reviews": 97
+        }
+    },
+    {
+        "ean": "000000000000016872",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 escalopes de foie gras cru de canard du Sud-Ouest",
+                "desc": "4 Escalopes de foie gras de canard du Sud-Ouest, crues, surgelées, à poêler",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw780f2600/produits/legumes/000000000000010321_E1.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-escalopes-foie-gras-cru-canard-sud-ouest-000000000000016872.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "140.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 575.0
+                    },
+                    "minerals": {
+                        "salt": 0.1
+                    },
+                    "fats": {
+                        "fats": 60.0,
+                        "saturates": 26.0
+                    },
+                    "proteins": {
+                        "proteins": 5.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.8,
+                        "of_which_sugars": 1.7,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Foie gras cru de canard du Sud-Ouest (Origine : France*)\n*Issue d'animaux nés, élevés et abattus en France",
+                "on_discount": false,
+                "weight_per_packaging": 140.0,
+                "price_per_packaging": 13.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATIONCuisson au poele pendant\n5 min\nAfin de limiter la fonte des escalopes, nous vous recommandons de sortir les escalopes du congélateur juste avant leur mise en œuvre. Enlevez les escalopes de foie gras de leur emballage et déposez-les sans attendre dans une poêle très chaude, sans matière grasse. Faites-les saisir 30 secondes sur chaque face, puis terminez la cuisson 2 minutes à feu doux sur chaque face.",
+                "conservation": "Au congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures dans un réfrigérateur.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.41,
+            "total_reviews": 64
+        }
+    },
+    {
+        "ean": "000000000000088139",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes de poulet, 7 à 11 pièces",
+                "desc": "aiguillettes de poulet surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/aiguillettes-poulet-000000000000088139.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "7 à 11 pièces",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 109.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 1.2,
+                        "saturates": 0.3
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Aiguillettes de poulet (origine : France*).\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 360.0,
+                "price_per_packaging": 7.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATION\nFaites cuire les aiguillettes 10 à 12 min à feu moyen avec un peu de matière grasse en les retournant à mi-temps",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.85,
+            "total_reviews": 59
+        }
+    },
+    {
+        "ean": "000000000000020361",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes poulet marinées aux épices tandoori",
+                "desc": "Aiguillettes de poulet marinées aux épices tandoori Cuites - Surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/aiguillettes-poulet-marinees-epices-tandoori-000000000000020361.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "350.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 121.0
+                    },
+                    "minerals": {
+                        "salt": 0.85
+                    },
+                    "fats": {
+                        "fats": 2.5,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 2.2,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Aiguillette de poulet 80% (origine : France*), eau, marinade tandoori 5,5% (farine de riz, épices et extrait d'épices 0,3%, ail en poudre, sel, tomate en poudre, oignon en poudre, LAIT fermenté en poudre, persil, extrait de citron), sel.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 6.99,
+                "preparation": "À la poêle\nPréparationCuisson au poele pendant\n10 min\nDéposez les aiguillettes dans une poêle chaude avec un peu de matière grasse. Laissez-les réchauffer 12 min à feu doux en remuant régulièrement.\n\nAu four\nPréparationCuisson au four pendant\n20 min\nFaites préchauffer le four à 180°C (th.6). Déposez les aiguillettes dans un plat sans ajouter de matière grasse et enfournez à mi-hauteur. Laissez réchauffer le temps indiqué : - Four traditionnel : 25 min - Four à chaleur tournante : 20 min\n\nAu micro-ondes\nPréparationCuisson au microondes pendant\n2 min 30\nDéposez les aiguillettes dans un plat adapté et couvrez. Laissez réchauffer le temps indiqué, en remuant à mi-temps. Puissance restituée du four 750 watts 900 watts Pour 175 g (4 à 5 aiguillettes) 3 min 30 2 min 30 Pour 350 g 6 min 5 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.42,
+            "total_reviews": 161
+        }
+    },
+    {
+        "ean": "000000000000020189",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes de poulet rôties et coupées",
+                "desc": "Aiguillettes de poulet traitées en salaison rôties, coupées et surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/aiguillettes-poulet-roties-coupees-000000000000020189.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 118.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 1.6,
+                        "saturates": 0.5
+                    },
+                    "proteins": {
+                        "proteins": 26.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Aiguillette de poulet 87,6% (Origine : France*), eau, amidon de pomme de terre, fond de volaille (viande de volaille, graisse de volaille et jus de cuisson de volaille, oignon et jus de cuisson d'oignon, carotte et jus de cuisson de carotte, sel), sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nPréparation froideCuisson au microondes pendant\n4 min\nDéposez les morceaux d'aiguillettes de poulet dans un plat adapté et laissez- les décongeler le temps indiqué en remuant à mi- temps. Pour 150 g : 4 min Pour 300 g : 9 min Laissez reposer 10 minutes au réfrigérateur avant la dégustation.\n\nAu réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n3 h\nÉtalez les morceaux d'aiguillettes de poulet dans un plat. Recouvrez-les d'un film étirable et laissez- les décongeler 3h au réfrigérateur.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.38,
+            "total_reviews": 128
+        }
+    },
+    {
+        "ean": "000000000000088436",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Filets de poulet découpés, origine France",
+                "desc": "Filets de poulet découpés classe A surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/filets-poulet-decoupes-origine-000000000000088436.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "500.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 107.0
+                    },
+                    "minerals": {
+                        "salt": 0.11
+                    },
+                    "fats": {
+                        "fats": 1.5,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 23.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet (origine : France*) issu d'animaux nourris sans OGM < 0.9%.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 9.99,
+                "preparation": "À la poêle\nCUISSON SANS DÉCONGÉLATION\nFaites cuire les morceaux de filet 10 à 12 min à feu moyen avec un peu de matière grasse en remuant régulièrement.",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.24,
+            "total_reviews": 25
+        }
+    },
+    {
+        "ean": "000000000000060941",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 brochettes de poulet mariné au citron et au basilic",
+                "desc": "4 brochettes de morceaux de filets de poulet marinés au citron et basilic 77%, tomate cerise et citron, à cuire, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-brochettes-poulet-marine-citron-basilic-000000000000060941.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "560.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 97.0
+                    },
+                    "minerals": {
+                        "salt": 0.53
+                    },
+                    "fats": {
+                        "fats": 1.7,
+                        "saturates": 0.4
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.1,
+                        "of_which_sugars": 0.7,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Morceau de filet de poulet 63% (origine : France*), tomate cerise 13,1%, citron jaune 9,8%, eau, fécule de pomme de terre, huile d'olive vierge extra, sel, jus de citron à base de concentré 0,4%, basilic 0,2%, ail, thym, curcuma.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Traces de Gluten",
+                    "Traces de Lait",
+                    "Traces de Œuf",
+                    "Traces de Soja",
+                    "Traces de Moutarde"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 560.0,
+                "price_per_packaging": 12.7,
+                "preparation": "Au micro-ondes\nDÉCONGÉLATIONCuisson au microondes pendant\n6 min\nRetirez l'étui et le sachet. Déposez les brochettes dans un plat adapté et faites-les décongeler 6 min en les retournant à mi-temps. Laissez reposer 15 min environ avant cuisson\n\nAu réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n8 h\n8 heures sur une assiette, hors de l'étui et du sachet, recouvertes de film alimentaire étirable",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.67,
+            "total_reviews": 33
+        }
+    },
+    {
+        "ean": "000000000000020147",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 suprêmes de pintade, farcis girolles et porto",
+                "desc": "2 suprêmes de pintade semi-désossés 80%, farce 20% aux girolles et au porto, surgelés, à cuire",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwe5234ca5/produits/000000000000087030_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-supremes-pintade-farcis-girolles-porto-000000000000020147.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:15",
+                "format": "440.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 190.0
+                    },
+                    "minerals": {
+                        "salt": 0.56
+                    },
+                    "fats": {
+                        "fats": 12.0,
+                        "saturates": 4.1
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Suprême de pintade semi-désossé (origine : France*) 80%, viande de dinde (origine : France*) 12,2%, gras de porc, girolle 1,7%, Porto rouge dénaturé 0,6% (Porto rouge, sel, arôme naturel de poivre), chapelure (farine de BLE (GLUTEN), sel), arômes naturels, sel, persil déshydraté, épices.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 440.0,
+                "price_per_packaging": 11.8,
+                "preparation": "Sans titre\n\nA CONSOMMER CUIT A COEUR",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.7,
+            "total_reviews": 108
+        }
+    },
+    {
+        "ean": "000000000000086473",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Aiguillettes de poulet, sauce au citron",
+                "desc": "Aiguillette de poulet émincée traitée en salaison cuite rôtie 69,9%, sauce 30,1% au citron, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dwdc573f0c/produits/000000000000081722_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/aiguillettes-poulet-mix-miam-000000000000086473.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "100.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 113.0
+                    },
+                    "minerals": {
+                        "salt": 0.69
+                    },
+                    "fats": {
+                        "fats": 2.9,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.8,
+                        "of_which_sugars": 0.5,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Aiguillette de poulet émincée traitée en salaison cuite rôtie (origine : France*) 69,9% [aiguillette de poulet 60%, eau, fécule de pomme de terre, sel], crème fraîche liquide (LAIT) 10,4%, eau, bouillon de poulet [eau, os de poulet, viande de poulet (origine : France*)], jus de citron 3%, oignon, huile d'olive vierge extra, farine de riz, persil, zeste de citron 0,4%, sel, poivre, curcuma.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 2.5,
+                "preparation": "Au micro-ondes\nCUISSON SANS DÉCONGÉLATIONCuisson au microondes pendant\n2 min*\n- Pour 1 sachet : versez le contenu du sachet dans un bol adapté et laissez cuire pendant 2 min à 900W - Dans le cas d’une utilisation simultanée avec 2 autres sachets de la gamme : versez le contenu des 3 sachets les uns à côté des autres dans un bol adapté, et laissez cuire 6 min à 6min30 à 900W. Ce produit doit être cuit avant consommation",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "Mix & Miam"
+                    }
+                },
+                "requiredProductQuantity": 1
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.3,
+            "total_reviews": 44
+        }
+    },
+    {
+        "ean": "000000000000007037",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Sauté de dinde, sans os, sans peau",
+                "desc": "Sauté de dinde, morceaux de cuisse de dinde sans os, sans peau, surgelés classe A",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/saute-dinde-sans-os-sans-peau-000000000000007037.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 112.0
+                    },
+                    "minerals": {
+                        "salt": 0.2
+                    },
+                    "fats": {
+                        "fats": 3.3,
+                        "saturates": 1.0
+                    },
+                    "proteins": {
+                        "proteins": 20.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.5,
+                        "of_which_sugars": 0.5
+                    }
+                },
+                "ingredients": "Cuisse de dinde sans os sans peau (origine : France)*\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 11.5,
+                "preparation": "À la cocotte\nCUISSONCuisson au cocotte pendant\n30 min\nFaites dorer les morceaux de sauté dans de l'huile chaude. Ajoutez des oignons émincés*, des carottes en rondelles*, des cubes de tomates à l'italienne*, du basilic* puis 1 cuillère à soupe de farine. Mouillez avec un verre de vin blanc. Couvrez et laissez cuire 30 à 40 min. * Produit Picard\n\nÀ l'autocuiseur\nCUISSONCuisson au autocuiseur pendant\n20 min\n20 min avec la même recette.\n\nConseils de préparation\nCUISSON",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.84,
+            "total_reviews": 73
+        }
+    },
+    {
+        "ean": "000000000000088494",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Chicken fries",
+                "desc": "Préparation à base de filet de poulet traité en salaison 59,2% reconstitué, enrobée d'une panure 40,7%, frite, cuite et surgelée.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/chicken-fries-495g-000000000000088494.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "495.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 210.0
+                    },
+                    "minerals": {
+                        "salt": 0.87
+                    },
+                    "fats": {
+                        "fats": 9.3,
+                        "saturates": 1.2
+                    },
+                    "proteins": {
+                        "proteins": 13.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 18.0,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 1.3
+                    }
+                },
+                "ingredients": "Filet de poulet traité en salaison [filet de poulet 53,3% (origine : France*), eau, amidon de pomme de terre, sel], enrobage 40,7% [farine de maïs et de BLÉ (GLUTEN), huile de tournesol et de colza, eau, amidons (maïs, tapioca, pomme de terre, BLÉ (GLUTEN)), chapelure (farine de BLÉ (GLUTEN), sel, levure), pétale de maïs (maïs, sucre, sel, extrait de malt d'ORGE (GLUTEN)), épices (paprika, curcuma, poivre blanc, poivre noir), sel, plantes aromatiques (romarin, origan, thym), poudre à lever : carbonates de sodium, GLUTEN de BLÉ, arôme naturel de citron, oignon en poudre, ail en poudre, semoule de BLÉ (GLUTEN), extrait de paprika, piment].\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 495.0,
+                "price_per_packaging": 6.5,
+                "preparation": "Au four\nCUISSON SANS DÉCONGÉLATIONCuisson au four pendant\n10 min\nPréchauffez votre four à 180°C (th 6). Déposez les frites de poulet sur la plaque du four avec du papier cuisson et laissez réchauffer à mi-hauteur le temps indiqué en les retournant à mi-temps : - Four traditionnel : 12 min - Four à chaleur tournante : 10 min.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.13,
+            "total_reviews": 45
+        }
+    },
+    {
+        "ean": "000000000000020858",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Rôti de pintade farci, farce aux cèpes et aux raisins",
+                "desc": "Pintade semi-désossée saumurée (74%) farcie (26%) à la viande de poulet et de dinde, aux cèpes et aux raisins, surgelée",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw91a06b8b/produits/000000000000006245_E2.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/roti-pintade-farci-farce-cepes-raisins-000000000000020858.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "1000.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 224.0
+                    },
+                    "minerals": {
+                        "salt": 0.78
+                    },
+                    "fats": {
+                        "fats": 17.0,
+                        "saturates": 5.7
+                    },
+                    "proteins": {
+                        "proteins": 16.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.2,
+                        "of_which_sugars": 1.2,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Pintade semi-désossée saumurée [ pintade (origine France*) 70,6%, eau, sirop de glucose, sel], gras de porc (origine France*), viande de poulet (origine France*) 6,6%, viande de dinde (origine France*) 4,5%, Muscat de Rivesaltes (contient sulfites), eau, cèpe 1,1%, bolet, raisin sec 0,8% (raisin, huile de coton), sel, champignon noir réhydraté, poivre.\n*ISSUE D'ANIMAUX NÉS, ÉLEVÉS ET ABATTUS EN FRANCE",
+                "on_discount": false,
+                "weight_per_packaging": 1000.0,
+                "price_per_packaging": 25.6,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n12 h\nSortez le rôti de son étui carton et laissez-le décongeler 12h au réfrigérateur dans son film plastique.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté, hors de son emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.89,
+            "total_reviews": 46
+        }
+    },
+    {
+        "ean": "000000000000088013",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Émincés de poulet au miel et au citron",
+                "desc": "Morceaux de filet de poulet cru 80% et sauce 20% à base d’huile d’olive vierge extra (4%), jus de citron jaune et miel, à cuire, surgelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/emince-poulet-miel-citron-000000000000088013.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "A",
+                "nutrition": {
+                    "energies": {
+                        "kj": 126.0
+                    },
+                    "minerals": {
+                        "salt": 0.54
+                    },
+                    "fats": {
+                        "fats": 4.1,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 18.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.0,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 2.0
+                    }
+                },
+                "ingredients": "Morceau de filet de poulet 80% (origine France*), huile d'olive vierge extra 4%, jus de citron jaune 4%, eau, miel 3,5%, échalote, basilic, ail, farine de riz, sel, poivre.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 5.4,
+                "preparation": "À la poêle\nCUISSONCuisson au poele pendant\n10 min\nPlacez les émincés dans une poêle chaude, sans ajout de matière grasse. Laissez-les cuire 10 à 13 min à feu moyen en remuant régulièrement.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.67,
+            "total_reviews": 21
+        }
+    },
+    {
+        "ean": "000000000000016599",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 cailles farcies au bloc de foie gras de canard",
+                "desc": "2 Cailles farcies farce au bloc de foie gras de canard congelés",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw52767fa2/produits/000000000000016739_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-cailles-farcies-bloc-foie-gras-canard-000000000000016599.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 266.0
+                    },
+                    "minerals": {
+                        "salt": 0.3
+                    },
+                    "fats": {
+                        "fats": 21.0,
+                        "saturates": 6.4
+                    },
+                    "proteins": {
+                        "proteins": 17.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 1.0,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Caille semi-désossée (origine : France)* 86,7%, bloc de foie gras de canard 13,3% [foie gras de canard (origine : France)*, eau, sel, porto modifié (sel) , poivre, armagnac modifié (sel) , sucre, antioxydant : ascorbate de sodium, conservateur : nitrite de sodium].\n*Issue d'animaux nés, élevés et abattus en France et transformés en France",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 10.99,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n40 min\nPréchauffez votre four à 180°C. Déposez les cailles dans un plat adapté avec de la matière grasse et 1/2 verre d'eau. Enfournez à mi-hauteur et laissez cuire le temps indiqué. Arrosez-les régulièrement avec le jus de cuisson. Four traditionnel : 45 à 50min Four à chaleur tournante: 40 à 45 min\n\nÀ la cocotte\nCUISSONCuisson au cocotte pendant\n35 min\nMettez les cailles dans une cocotte chaude avec de la matière grasse et faites-les revenir 10 min sur toutes les faces à feu doux. Dégraissez la cocotte, ajoutez 1/2 verre d'eau et poursuivez la cuisson 25 min à feu moyen, cocotte fermée.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.96,
+            "total_reviews": 85
+        }
+    },
+    {
+        "ean": "000000000000088037",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Magret de canard laqué France",
+                "desc": "Magret de canard origine France 92,4%, marinade à base de sauce soja et épices 7%; à cuire, surgelés.",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/magret-canard-laque-fr-000000000000088037.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "320.0 g",
+                "availability": true,
+                "nutriscore": "D",
+                "nutrition": {
+                    "energies": {
+                        "kj": 349.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 30.0,
+                        "saturates": 11.0
+                    },
+                    "proteins": {
+                        "proteins": 15.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.5,
+                        "of_which_sugars": 2.1,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Magret de canard gras 92,4% (origine : France*) , marinade 7% [sauce SOJA 2,6% (eau, SOJA, BLE (GLUTEN), sel), sucre, maltodextrine, sirop de sucre caramélisé, épices 0,3% (SESAME 0,3%, gingembre, piment), amidon transformé de manioc, arômes naturels, vinaigre d'alcool, extrait de cumin, extrait de coriandre], sel, conservateur: nitrite de sodium.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 320.0,
+                "price_per_packaging": 8.65,
+                "preparation": "Au four\nCUISSONCuisson au four pendant\n45 min\nSortez le magret de son étui carton et de son emballage plastique. Déposez-le dans un plat adapté, peau sur le dessus. Faites cuire à mi-hauteur le temps indiqué à 180°C. A mi-cuisson, retirer l'excédent de gras et arroser avec 4 cuillères à soupe d'eau. Four chaleur tournante: 45 min Four traditionnel: 50 min",
+                "conservation": "24 heures au réfrigérateur, dans un plat adapté.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.59,
+            "total_reviews": 39
+        }
+    },
+    {
+        "ean": "000000000000088288",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Volailles"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "Bouchées de filet de poulet curry coco",
+                "desc": "Bouchées de filet de poulet curry-coco marinées, cuites, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2605003a/produits/larg0924_88379_balme.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/bouchees-filet-poulet-curry-coco-000000000000088288.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-11T18:16",
+                "format": "300.0 g",
+                "availability": true,
+                "nutriscore": "B",
+                "nutrition": {
+                    "energies": {
+                        "kj": 140.0
+                    },
+                    "minerals": {
+                        "salt": 1.0
+                    },
+                    "fats": {
+                        "fats": 4.5,
+                        "saturates": 1.3
+                    },
+                    "proteins": {
+                        "proteins": 24.0
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.9,
+                        "of_which_sugars": 0.8,
+                        "dietary_fiber": 0.5
+                    }
+                },
+                "ingredients": "Filet de poulet 83% (origine : France *), eau, préparation pour marinade curry-coco 4,1% (eau, huile de colza, épices et plantes aromatiques (dont curry 0,2%), crème en poudre (LAIT), noix de coco râpée 0,2%, sel, poivron, graine de pavot bleu), amidon de pomme de terre, sel.\n*Issue d'animaux nés, élevés, abattus et transformés en France.",
+                "allergens": [
+                    "Lait",
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 6.99,
+                "preparation": "Au micro-ondes\nPréparation froideCuisson au microondes pendant\n5 min\nDéposez les bouchées de poulet dans un plat adapté et laissez- les décongeler le temps indiqué en remuant à mi-temps. Pour 150 g : 5 min Pour 300 g : 9 min\n\nAu réfrigérateur\nPréparation froideCuisson au refrigerateur pendant\n3h\nEtalez les bouchées de poulet dans un plat. Recouvrez-les d'un film étirable et laissez- les décongeler 3 h au réfrigérateur.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.\n24 heures au réfrigérateur, dans un plat adapté.",
+                "requires_loyalty_card": false,
+                "unit_of_measure": "g"
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.18,
+            "total_reviews": 39
+        }
+    }
+]

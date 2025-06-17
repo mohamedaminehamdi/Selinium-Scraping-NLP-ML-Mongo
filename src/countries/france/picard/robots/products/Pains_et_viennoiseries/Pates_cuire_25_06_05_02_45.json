@@ -1,0 +1,156 @@
+[
+    {
+        "ean": "000000000000007920",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "FR"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes feuilletées pur beurre",
+                "desc": "2 pâtes feuilletées Pur Beurre crues, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-feuilletees-pur-beurre-000000000000007920.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-05T02:45",
+                "format": "LE SACHET DE 500 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN) 45,7%, beurre (LAIT) 33%, eau, sel.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 5.1,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n10 heures\nSortez un bloc de pâte feuilletée de son emballage et placez-le dans son film plastique 10 heures au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.6,
+            "total_reviews": 48
+        }
+    },
+    {
+        "ean": "000000000000036561",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pâtes à cuire"
+            }
+        ],
+        "origin": {
+            "explicit": "BE"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "2 pâtes brisées pur beurre pré-étalées",
+                "desc": "2 pâtes brisées pur beurre pré-étalées, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw2e3ee330/produits/000000000000006542_E.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/2-pates-brisees-pur-beurre-pre-etalees-000000000000036561.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-05T02:45",
+                "format": "LA BOÎTE DE 500 G",
+                "availability": true,
+                "nutriscore": "",
+                "ingredients": "Farine de BLÉ (GLUTEN), beurre (LAIT) 22,2%, eau, sucre, sel, agent de traitement de la farine : L-cystéine.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 4.99,
+                "preparation": "Au réfrigérateur\nDÉCONGÉLATIONCuisson au refrigerateur pendant\n4 h 30\nSortez un rouleau de pâte brisée de son étui et placez-le dans son film plastique 4 heures 30 au réfrigérateur. Laissez reposer quelques minutes à température ambiante (20°C) avant cuisson.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n10,20 €/kg\nprix soldé\n5,10 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n4,23 €/kg\nprix soldé\n1,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 3.59,
+            "total_reviews": 59
+        }
+    }
+]

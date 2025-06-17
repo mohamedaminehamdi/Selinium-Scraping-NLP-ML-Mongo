@@ -1,0 +1,1888 @@
+[
+    {
+        "ean": "puree-de-sesame-tahin-630g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE SÉSAME TAHIN 630G BIO",
+                "desc": "Purée de sésame tahin 630g Bio\nUne purée de sésame broyé sur meule de pierre, à froid, afin de conserver toutes les qualités nutritionnelles des graines.\nIdéal en cuisine, en remplacement de la crème fraîche, pour la réalisation de votre hummus maison ou à délayer pour vos recettes sucrées (gâteaux, yaourts...)\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390006360.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-de-sesame-tahin-630g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:33",
+                "format": "630G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 130
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.4
+                    },
+                    "fats": {
+                        "fats": 57.2
+                    },
+                    "proteins": {
+                        "proteins": 26.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.4,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 11.8
+                    }
+                },
+                "ingredients": "100% SESAME bio dépelliculé.\nTraces éventuelles d’autres fruits à coques.",
+                "on_discount": false,
+                "weight_per_packaging": 630.0,
+                "price_per_packaging": 12.3,
+                "price_per_unit": 19.52,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 12.30 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour toutes vos recettes salées mais également sucrées : houmous, risotto, purées, gâteaux...",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 13.7
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-crue-pistache-100g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE CRUE DE PISTACHE 100G BIO",
+                "desc": "Purée crue de pistache 100g Bio\n Une purée de pistache sans sucres ajoutés. Cette purée est obtenue en broyant la pistache crue avec la peau.\nFabriqué en France.\nConvient au régime végétalien et sans gluten.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000061.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-crue-pistache-100g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:33",
+                "format": "100G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.6
+                    },
+                    "fats": {
+                        "fats": 51.6
+                    },
+                    "proteins": {
+                        "proteins": 20.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11.6,
+                        "of_which_sugars": 5.7,
+                        "dietary_fiber": 10.6
+                    }
+                },
+                "ingredients": "PISTACHES*.\nTraces éventuelles de FRUITS A COQUES, ARACHIDES, SESAME.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 100.0,
+                "price_per_packaging": 9.89,
+                "price_per_unit": 98.9,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A incorporer dans toutes vos recettes de pâtisseries (muffins, moelleux...) mais également pour des recettes salées comme par exemple du pesto de pistache pour accompagner vos plats de pâtes.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 10.99
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-de-noisette-toastee-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE NOISETTES TOASTÉES 280G BIO",
+                "desc": "Purée de Noisette Toastée 280g Bio\nDélicieuse recette bio et vegan, notre purée 100% noisette toastée révèle le goût sucré de la noisette tout en vous apportant l’ensemble de ses qualités nutritionnelles : acides gras insaturés, vitamines E et B9, mais aussi magnésium, potassium et phosphore. Autant de minéraux et vitamines essentiels à votre bien-être et votre équilibre !\nNaturellement sans gluten.\nConvient à l'alimentation vegan.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000306.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-de-noisette-toastee-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:33",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 25
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.2
+                    },
+                    "fats": {
+                        "fats": 62
+                    },
+                    "proteins": {
+                        "proteins": 15.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.7,
+                        "of_which_sugars": 4.3,
+                        "dietary_fiber": 9.3
+                    }
+                },
+                "ingredients": "100% Noisette toastée*.\n*Ingrédients issus de l'agriculture biologique.\n\nTraces éventuelles d’autres fruits à coques, de sésame et d'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 9.89,
+                "price_per_unit": 35.32,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.89 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "S'utilise comme une pâte à tartiner classique.\nPeut servir d'ingrédient dans vos préparations de desserts.",
+                "conservation": "A conserver dans un endroit sec et à l'abri de la chaleur.",
+                "old_price": 10.99
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-amandes-blanchies-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE CRUE D'AMANDES BLANCHES 300G BIO",
+                "desc": "Purée crue d'Amandes blanches 300g Bio\nCette délicieuse purée crue 100% amande blanche bio vous apporte toute la finesse et la douceur de l’amande blanche, dans une recette riche en acides gras insaturés, en vitamines E et B2, mais aussi en fer, magnésium, phosphore et potassium. Idéale pour un moment de plaisir sain et équilibré !\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/4/0/4006040008507-min_1_.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amandes-blanchies-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:34",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5
+                    },
+                    "fats": {
+                        "fats": 61
+                    },
+                    "proteins": {
+                        "proteins": 22.9
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.7,
+                        "of_which_sugars": 5.7,
+                        "dietary_fiber": 7.6
+                    }
+                },
+                "ingredients": "100% Amande* émondées.\n*Ingrédients issus de l'agriculture biologique.\nTraces éventuelles d’autres fruits à coques, de sésame et d'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 10.6,
+                "price_per_unit": 35.33,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-10%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se déguste nature sur une tartine ou s'utilise en cuisine pour remplacer les matières grasses animales. Une couche superficielle d'huile d'amande, riche en acide gras insaturés, vitamines et minéraux se forme, mélanger avant de consommer !",
+                "conservation": "A conserver entre 15° et 25°, et à l'abri de l'humidité.",
+                "old_price": 11.8
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "amandino-grillee-275g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "AMANDINO GRILLÉE 275G BIO",
+                "desc": "Amandino Grillée 275G Bio\nPurée d'amandes complètes grillées bio de Sicile.\nOrigine Italie.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000092.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/amandino-grillee-275g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:34",
+                "format": "275G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5
+                    },
+                    "fats": {
+                        "fats": 56.5
+                    },
+                    "proteins": {
+                        "proteins": 19.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 19,
+                        "of_which_sugars": 3.3,
+                        "dietary_fiber": 10.1
+                    }
+                },
+                "ingredients": "100% amandes grillées bio.\nOrigine Italie.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "on_discount": false,
+                "weight_per_packaging": 275.0,
+                "price_per_packaging": 7.45,
+                "price_per_unit": 27.09,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "old_price": 8.79
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "nocciola-275g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "NOCCIOLA 275G BIO",
+                "desc": "Nocciola 275G Bio\nSpécialiste de fruits secs bio en Sicile, La famille Damiano utilise des fruits secs récoltés à la main, séchés au soleil.\nIls sont dûment sélectionnés, triés, broyés, grillés pour mettre en oeuvre cette Purée de Noisettes bio!",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390003284.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/nocciola-275g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:34",
+                "format": "275G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 5.9
+                    },
+                    "fats": {
+                        "fats": 66.9
+                    },
+                    "proteins": {
+                        "proteins": 17.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 5.2,
+                        "of_which_sugars": 3.5,
+                        "dietary_fiber": 6.4
+                    }
+                },
+                "ingredients": "NOISETTES* complètes grillées et broyées à la meule à basse température.\nPeut contenir des traces d'autres FRUITS A COQUE.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 275.0,
+                "price_per_packaging": 8.45,
+                "price_per_unit": 30.73,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "-15%"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Pour vos crèmes pâtissières et anglaises, entremets, crêpes et clafoutis, glaces...\nDans des sauces blanches ou béchamel.\nLait de noisettes : secouez énergiquement un demi-litre d'eau tiède avec cuillères à soupe de purée de noisettes dans un shaker.",
+                "conservation": "A conserver dans un endroit frais et sec.",
+                "old_price": 9.95
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "6768221",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDE BLANCHE 300G BIO",
+                "desc": "Purée d'amande blanche 300g Bio\nDécouvrez notre purée d’amandes blanches bio, un délice 100 % naturel et sans additifs. Fabriquée à partir d’amandes soigneusement sélectionnées et finement broyées, elle offre une texture crémeuse et un goût doux et raffiné.\n- Ingrédients : 100 % amandes blanches biologiques\n- Sans sucre ajouté, sans huile de palme, sans conservateurs\n- Source naturelle de protéines, fibres, magnésium et vitamine E\n- Idéale pour les tartines, pâtisseries, smoothies et plats salés\nRégalez-vous tout en prenant soin de votre santé avec cette alternative saine et gourmande aux pâtes à tartiner classiques. Convient aux régimes vegan, sans gluten et sans lactose.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3267110002646.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-blanche-300g-6768221"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:34",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 52.5
+                    },
+                    "proteins": {
+                        "proteins": 25.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.8,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 9.9
+                    }
+                },
+                "ingredients": "AMANDES émondées issues de l'agriculture biologique.\nLes informations en gras et italique sont destinées aux personnes intolérantes ou allergiques\nTraces éventuelles d'arachides, de sésame, soja et d'autres fruits à coque",
+                "allergens": [
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.75,
+                "price_per_unit": 29.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Petit-déjeuner & en-cas\nSur des tartines – Étale-la sur du pain complet, un pancake ou une crêpe, nature ou avec du miel.\nDans un yaourt ou un fromage blanc – Mélange-la avec un peu de miel et des fruits pour un dessert gourmand.\nDans un smoothie – Ajoute une cuillère à soupe pour un goût plus doux et une texture onctueuse.\nAvec des flocons d’avoine – Incorpore-la à un porridge chaud pour un petit-déj ultra crémeux.\n\nPlats salés\nDans une sauce – Mélange-la avec du citron et du tamari pour une sauce façon tahini.\nEn vinaigrette – Une cuillère diluée avec de l’huile d’olive et du vinaigre pour une salade originale.\nAvec des légumes rôtis – Ajoute-la sur des légumes grillés comme des patates douces ou des carottes.\nDans un velouté – Ajoute une touche en fin de cuisson pour une soupe plus onctueuse.\n\nPâtisserie & desserts\nDans des energy balls – Mélange avec des dattes et des graines pour des encas healthy.\nEn pâte à gâteau – Remplace une partie du beurre par de la purée d’amandes dans tes recettes.\nEn fondue – À tremper avec des fruits comme les pommes ou les bananes.\nSur un carré de chocolat noir – Un mélange délicieux et ultra gourmand.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-amande-cplt-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDES COMPLÈTES 300G BIO",
+                "desc": "Purée d'amandes complètes 300g Bio\nDécouvrez notre purée d’amandes complètes bio, un véritable concentré de saveurs et de bienfaits pour une alimentation saine et gourmande. Élaborée à partir d’amandes 100 % naturelles, non émondées et finement broyées, elle conserve tous ses nutriments essentiels : protéines végétales, fibres, vitamines E et minéraux.\nPourquoi choisir notre purée d’amandes ?\n- 100 % amandes complètes – Sans additifs, ni sucre ajouté\n- Source naturelle d’énergie – Idéale pour les sportifs et les végétariens\n- Texture onctueuse & goût intense – Parfaite à tartiner, en pâtisserie ou dans vos smoothies\n- Fabriquée en France – Respect des traditions et qualité artisanale\n Utilisation polyvalente : Sublimez vos recettes sucrées et salées avec cette purée d’amandes riche en goût et en bienfaits !\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/2/3267110002646.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-cplt-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:34",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.1
+                    },
+                    "fats": {
+                        "fats": 51.3
+                    },
+                    "proteins": {
+                        "proteins": 22.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 9.5,
+                        "of_which_sugars": 4.2,
+                        "dietary_fiber": 12.5
+                    }
+                },
+                "ingredients": "AMANDES issues de l'agriculture biologique.\nLes informations en gras et italique sont destinées aux personnes intolérantes ou allergiques\nTraces éventuelles d'arachides, de sésame, soja et d'autres fruits à coque",
+                "allergens": [
+                    "Soja",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 8.55,
+                "price_per_unit": 28.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.55 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "La purée d’amande complète est un véritable trésor culinaire, aussi bien pour les amateurs de saveurs douces que pour ceux qui recherchent une touche d’originalité dans leurs plats. Au petit-déjeuner, elle se déguste simplement tartinée sur du pain complet, des crêpes ou des pancakes, apportant une texture crémeuse et un goût subtil d’amande grillée. Mélangée à un porridge chaud ou incorporée dans un smoothie avec une banane et un peu de cacao, elle offre une onctuosité irrésistible et une dose d’énergie pour bien commencer la journée.\nEn collation, elle accompagne parfaitement des fruits frais comme la pomme, la poire ou la banane, se glisse dans un yaourt nature avec une touche de miel ou encore s’intègre à un granola maison pour une note gourmande et nutritive. En pâtisserie, elle peut remplacer le beurre dans les gâteaux et biscuits, rendant leur texture plus fondante et leur saveur plus riche. Elle s’incorpore aussi dans une pâte à tarte, apportant un parfum subtil et une texture légèrement sablée.\nMais la purée d’amande ne se limite pas aux recettes sucrées. Elle s’invite dans les plats salés en apportant une touche originale et savoureuse. Transformée en sauce pour salade avec un filet de citron et du tamari, elle devient une alternative saine aux vinaigrettes classiques. Dans une soupe, elle joue le rôle d’épaississant naturel et ajoute une belle onctuosité. Mélangée avec un peu de lait et du parmesan, elle se transforme en une sauce gourmande pour napper des pâtes. Enfin, elle peut être travaillée en tartinade salée avec des épices et un peu d’huile d’olive pour accompagner des crudités ou du pain grillé.\nPolyvalente et délicieuse, la purée d’amande complète est donc un ingrédient à toujours avoir sous la main, que ce soit pour une pause sucrée réconfortante ou pour relever des plats du quotidien.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-cacahuetes-coques-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE CACAHUÈTES ET FRUITS À COQUES 300G BIO",
+                "desc": "Purée de Cacahuètes et Fruits à Coques 300g Bio\nDécouvrez cette purée par Naturalia de cacahuètes, amandes complètes, noix de cajou et noisettes toastées issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000153.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-cacahuetes-coques-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 550
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.4
+                    },
+                    "fats": {
+                        "fats": 52
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 17,
+                        "of_which_sugars": 8,
+                        "dietary_fiber": 5.6
+                    }
+                },
+                "ingredients": "ARACHIDES* (Egypte) 55%, AMANDES complètes* (Espagne) 15%, NOIX DE CAJOU* (Vietnam) 15%, NOISETTES toastées* (Turquie) 15%.\n\n*Ingrédient issu de l'agriculture biologique\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 6.9,
+                "price_per_unit": 23.0,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.90 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Une couche d'huile peut apparaître naturellement.\nBien remuer avant chaque utilisation.",
+                "conservation": "A conserver dans un endroit frais et sec.\nAprès ouverture à consommer sous un mois."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "pecatonka-350g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE DE NOIX DE PÉCAN FÈVE TONKA 350G BIO",
+                "desc": "Pâte de noix de pécan fève tonka 350g Bio\nDélicieuse pâte de noix de pécan et de fève tonka, à tartiner sur du pain au petit déjeuner ou à incorporer dans les pâtisseries.\nTenir à l'abri de la lumière et de l'humidité.\nRemuer à chaque utilisation.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pat_bio_400g_-_naturalia.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pecatonka-350g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "350G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.9
+                    },
+                    "fats": {
+                        "fats": 54.2
+                    },
+                    "proteins": {
+                        "proteins": 13.3
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 23,
+                        "of_which_sugars": 14.7,
+                        "dietary_fiber": 5.5
+                    }
+                },
+                "ingredients": "Noix de pécan 50 %*, noix de cajou 40%*, sucre de canne roux*°, fève tonka*°.\n*issu de l'agriculture biologique\n°issu du commerce équitable",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 350.0,
+                "price_per_packaging": 13.75,
+                "price_per_unit": 39.29,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 13.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-de-cacahuetes-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE CACAHUÈTES 250G BIO",
+                "desc": "Purée de cacahuètes 250g Bio \nRapunzel dispose d'un savoir-faire de presque 50 ans pour l'élaboration des purées de fruits à coque. Tout l'arôme des cacahuètes est libéré grâce à une torréfaction douce à air chaud. Elles sont ensuite moulues grossièrement avec le sucre de fleur de cocotier et les épices. Une production soignée vous garantit ce goût unique.\nRetrouvez la saveur des cacahuètes caramélisées en dégustant notre pâte à tartiner aux délicieux éclats croustillants de cacahuètes. Plus de 80 % de cacahuètes fraîchement grillées savamment associées à la note caramélisée du sucre de fleur de cocotier et agrémentées de vanille Bourbon pour un plaisir gourmand au goût de l’enfance.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/p/a/pat_bio_400g_-_naturalia.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-de-cacahuetes-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 600
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8
+                    },
+                    "fats": {
+                        "fats": 42
+                    },
+                    "proteins": {
+                        "proteins": 22
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 26,
+                        "of_which_sugars": 20,
+                        "dietary_fiber": 5.9
+                    }
+                },
+                "ingredients": "Arachides*(81,00%), sucre de fleurs de cocotier*(18,00%), sel de mer, vanille Bourbon*.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 4.95,
+                "price_per_unit": 19.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 4.95 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À tartiner, dans le muesli, le porridge, pour les entremets, desserts, gâteaux, pâtisseries et pour garnir les glaces.",
+                "conservation": "Conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-am-grillees-coco-250g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDES GRILLÉES 250G BIO",
+                "desc": "Purée d'amandes grillées 250g Bio\nRapunzel dispose d'un savoir-faire de plus de 40 ans pour l'élaboration des purées de fruits à coque. Tout l'arôme des amandes est libéré grâce à une torréfaction douce à l'air chaud produit par des énergies renouvelables. Elles sont ensuite moulues grossièrement avec le sucre de fleur de cocotier et les épices. Une production soignée vous garantit ce goût unique. \nCette gourmandise aux délicieux éclats d'amandes croustillants va vous enchanter.À tartiner, dans le muesli, pour les entremets, desserts, gâteaux, pâtisseries et pour garnir les glaces.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000092.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-am-grillees-coco-250g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 482
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.5
+                    },
+                    "fats": {
+                        "fats": 45.6
+                    },
+                    "proteins": {
+                        "proteins": 18.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 21.4,
+                        "of_which_sugars": 17.1,
+                        "dietary_fiber": 11.5
+                    }
+                },
+                "ingredients": "Amandes*(81,00%), sucre de fleurs de cocotier*(18,00%), sel de mer,vanille Bourbon*, cannelle*.\n*issu de la production biologique contrôlée",
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 8.45,
+                "price_per_unit": 33.8,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 8.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "À tartiner, dans le muesli, pour les entremets, desserts, gâteaux, pâtisseries et pour garnir les glaces.",
+                "conservation": "Conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "6194586",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PÂTE À TARTINER PISTACHE 40% 130G BIO",
+                "desc": "Pâte à tartiner pistache 40% 130g Bio\nUne délicieuse et onctueuse pâte à tartiner avec 40% de pistaches, à tartiner sur vos tranches de pain ou à intégrer dans vos recettes de pâtisseries.\nUne recette riche en pistaches pour un moment gourmand et intense.\nProduit issu de l'agriculture biologique.\nConvient au régime sans gluten.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390003284.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/pat-tartiner-pistache-40-130g-6194586"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "130G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 300
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.8
+                    },
+                    "fats": {
+                        "fats": 41.3
+                    },
+                    "proteins": {
+                        "proteins": 11.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 36.1,
+                        "of_which_sugars": 29
+                    }
+                },
+                "ingredients": "Pâte de pistaches grillées* 40%, sucre de canne*, huile de tournesol*, écrémé poudre de lait*, farine d'avoine (sans gluten)*, inuline d'agave*, lécithine de tournesol*.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 130.0,
+                "price_per_packaging": 6.35,
+                "price_per_unit": 48.85,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.35 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal à tartiner sur vos tranches de pain ou à intégrer dans vos recettes de pâtisseries (cookies, gâteaux, madeleines).",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "beurre-cacahuete-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BEURRE DE CACAHUÈTE 280G BIO",
+                "desc": "Beurre de cacahuète 280g Bio\nVous connaissez sans doute le mythique Peanut Butter américain, mais avez-vous enten\u0002du parler du beurre de cacahuète Perl’Amande ? \nSemblable à l’authentique peanut butter, mais avec seulement 2 ingrédients : une matière première de qualité, la cacahuète toastée et une pointe de sel marin venant du pourtour méditerranéen. Sa texture est crunchy grâce à une granulométrie précise , de par les petits morceaux présents de cacahuète, avec un léger goût salé.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/8/0/8052575090322-min.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/beurre-cacahuete-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:35",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 140
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.9
+                    },
+                    "fats": {
+                        "fats": 49
+                    },
+                    "proteins": {
+                        "proteins": 27
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 11,
+                        "of_which_sugars": 2.5,
+                        "dietary_fiber": 8.7
+                    }
+                },
+                "ingredients": "Cacahuètes* émon\u0002dées toastée (Egypte) 99.85%, Sel marin 0.15%.\n Naturelllement sans gluten, ni lactose.\n*Issu de l’agriculture biologique.",
+                "allergens": [
+                    "Gluten",
+                    "Lait"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 5.75,
+                "price_per_unit": 20.54,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 5.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tartiner ou incorporer dans vos préparations (pâtisseries, milkshakes).",
+                "conservation": "A conserver à l’abri de la chaleur et de l’humidité."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-3-fruits-secs-250g-gonuts",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE 3 FRUITS SECS 250G BIO",
+                "desc": "Purée de 3 fruits secs 250g Bio\nUne association inédite de 3 fruits secs: amandes, noix de cajou et noix d'Amazonie.\nUne texture onctueuse et légèrement crunchy, délicieuse sur vos tartines ou dans toutes vos recettes sucrées (cookies, smoothies bowls...)\nFabriquée en France, à Lyon.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000078.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-3-fruits-secs-250g-gonuts"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "250G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 20
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 9.4
+                    },
+                    "fats": {
+                        "fats": 55.1
+                    },
+                    "proteins": {
+                        "proteins": 19.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 13.2,
+                        "of_which_sugars": 3.8,
+                        "dietary_fiber": 7.2
+                    }
+                },
+                "ingredients": "Amandes* (33,3 %), noix de Cajou* (33,3 %), noix d'Amazonie* (33,3 %).\n*Produits issus de l'agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 250.0,
+                "price_per_packaging": 7.69,
+                "price_per_unit": 30.76,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.69 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    },
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A déguster sur vos tartines de pain Bio ou à intégrer dans vos recettes de cookies, moelleux et smoothies pour plus de gourmandise.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-noix-dauphine-200g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE NOIX DU DAUPHINÉ 200G BIO",
+                "desc": "Purée de noix du dauphiné 200g Bio\nDécouvrez cette purée 100% de noix de France, pour toutes vos recettes sucrées et salées. \nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/8/08002352575771_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-noix-dauphine-200g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "200G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.5
+                    },
+                    "fats": {
+                        "fats": 67
+                    },
+                    "proteins": {
+                        "proteins": 16
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 6.9,
+                        "of_which_sugars": 3,
+                        "dietary_fiber": 6.7
+                    }
+                },
+                "ingredients": "Purée de noix*.\n*Issu de l'agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 200.0,
+                "price_per_packaging": 9.39,
+                "price_per_unit": 46.95,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.39 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Dans vos pâtisseries, vos milkshakes, sur vos tartines ou pour accompagner originalement vos plateaux de fromages, cette purée crue de noix de France est idéale et gourmande.",
+                "conservation": "Avant ouverture: Conserver à l'abri de la chaleur et de l'humidité. Température de stockage conseillée entre 15°C et 20°C.\nAprès ouverture: A conserver au frais."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "creme-de-sesame-noir-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE SÉSAME NOIR 300G BIO",
+                "desc": "Crème de sésame noir 300g Bio\nDécouvrez la crème de sésame noir, préparée avec des graines de sésame noir finement broyées à froid sur meule de pierre afin d'éviter tout échauffement. \nLa richesse nutritionnelle des graines est ainsi conservée.\nC'est une recette idéale pour toutes vos préparations : houmous, vinaigrette, sauces.. mais également pour vos préparations sucrées (gâteau, glace, tartiner avec du miel).\nFabriqué en France.\nConvient au régime végétalien.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390001730.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-de-sesame-noir-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 100
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 6.8
+                    },
+                    "fats": {
+                        "fats": 50.4
+                    },
+                    "proteins": {
+                        "proteins": 11.7
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 10.2,
+                        "of_which_sugars": 0.2,
+                        "dietary_fiber": 11.6
+                    }
+                },
+                "ingredients": "SESAME noir* 85%, SESAME dépelliculé* 15%.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 6.79,
+                "price_per_unit": 22.63,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.79 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour toutes vos préparations : houmous, vinaigrette, sauces.. mais également pour vos préparations sucrées (gâteau, glace, tartiner avec du miel).",
+                "conservation": "Après ouverture, à conserver au réfrigérateur entre +4°C et +6°C et à consommer rapidement."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "creme-de-courge-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "CRÈME DE COURGE 300G BIO",
+                "desc": "Crème de courge 300g Bio\nUne crème obtenue à partir de graines de courges broyées à froid sur une meule de pierre. Ce procédé à froid, permet de conserver les qualités nutritionnelles des graines. Les graines sont préalablement toastées pour accentuer leur goût.\nUn joli vert intense qui apportera couleur à tous vos plats: cakes, plats de pâtes, tartines salées...\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000078.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/creme-de-courge-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7
+                    },
+                    "fats": {
+                        "fats": 42
+                    },
+                    "proteins": {
+                        "proteins": 35.5
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 3.2,
+                        "of_which_sugars": 2.8,
+                        "dietary_fiber": 8.6
+                    }
+                },
+                "ingredients": "100% Graines de courges*.\n*ingrédients issus de l’agriculture biologique.\nTraces possibles de sésame et fruit à coques.",
+                "allergens": [
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 11.19,
+                "price_per_unit": 37.3,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.19 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A utiliser dans vos recettes salées mais également sucrées: vinaigrettes, cakes, tartines...",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "4203306",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE NOIX DE CAJOU 300G BIO",
+                "desc": "Purée de noix de cajou 300g Bio\nUne savoureuse purée de noix de cajou, idéal pour toutes vos recettes veggie mais également vos sauces et autres préparations sucrées. \nIssu du commerce équitable.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000078.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-noix-de-cajou-300g-4203306"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 30
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 7.8
+                    },
+                    "fats": {
+                        "fats": 43.8
+                    },
+                    "proteins": {
+                        "proteins": 18.2
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 30.2,
+                        "of_which_sugars": 5.9,
+                        "dietary_fiber": 3.3
+                    }
+                },
+                "ingredients": "NOIX DE CAJOU*.\nPeut contenir des traces de CACAHUETE, SESAME, FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "allergens": [
+                    "Fruits à coque"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 11.45,
+                "price_per_unit": 38.17,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Seule ou à incorporer dans vos préparations, elle peut se diluer avec de l'eau pour toutes vos recettes.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-de-noisette-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE NOISETTE 300G BIO",
+                "desc": "Purée de noisette 300g Bio\nUne purée 100% noisettes, gourmande et généreuse, à incorporer dans vos recettes de pâtisseries (crêpes, cookies, brownies...) sur des fruits frais.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000153.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-de-noisette-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 51.7
+                    },
+                    "proteins": {
+                        "proteins": 12.1
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 29.5,
+                        "of_which_sugars": 2.9,
+                        "dietary_fiber": 10.7
+                    }
+                },
+                "ingredients": "NOISETTES TOASTEES* 100%.\nPeut contenir des traces de CACAHUETES, SESAME, FRUTIS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 11.05,
+                "price_per_unit": 36.83,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 11.05 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Idéal pour la réalisation de vos recettes sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-amande-compl-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDES COMPLÈTES VARIÉTÉ GUARA 300G BIO",
+                "desc": "Purée d'amandes complètes 300g Bio\nUne savoureuse et onctueuse purée d'amandes complète, de la variété Guara. Elle est idéale pour toutes vos préparations salées et sucrées. Elle peut également se consommer sur des fruits, type pommes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000115.p1-1500.png"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-compl-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:36",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 4.19
+                    },
+                    "fats": {
+                        "fats": 53.4
+                    },
+                    "proteins": {
+                        "proteins": 25.4
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 7.85,
+                        "of_which_sugars": 4.4
+                    }
+                },
+                "ingredients": "AMANDES*.\nPeut contenir des traces de CACAHUETES, SESAME, FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 9.45,
+                "price_per_unit": 31.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.45 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prête à l'emploi, cette purée d'amandes blanche se consomme dans vos recettes salées et sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-amande-blanche-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE D'AMANDES BLANCHES 300G BIO",
+                "desc": "Purée d'Amandes Blanches 300g Bio\nUne savoureuse et onctueuse purée d'amandes blanches, de la variété Guara. Elle est idéale pour toutes vos préparations salées et sucrées. Elle peut également se consommer sur des fruits, type pommes.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390000108.p1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-amande-blanche-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:37",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 10
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 3.9
+                    },
+                    "fats": {
+                        "fats": 52.5
+                    },
+                    "proteins": {
+                        "proteins": 25.8
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 8.8,
+                        "of_which_sugars": 4.6,
+                        "dietary_fiber": 9.9
+                    }
+                },
+                "ingredients": "AMANDES*.\nPeut contenir des traces de CACAHUETES, SESAME, FRUITS A COQUES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 9.75,
+                "price_per_unit": 32.5,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 9.75 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Prête à l'emploi, cette purée d'amandes blanche se consomme dans vos recettes salées et sucrées.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-de-sesame-tahin-280g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE DE SÉSAME TAHIN 280G BIO",
+                "desc": "Purée de sésame tahin 280g Bio\nDécouvrez cette purée de sésame Bio. Idéal pour toutes vos recettes de cuisine.\nBroyage à froid sur meule de pierre sans chauffage : qualités gustatives et nutritionnelles des graines de sésame préservées.\nEquilibre et vitalité : riche en acides gras insaturés, vitamine B1, magnésium, phosphore, calcium et fer, essentiels à votre équilibre, cette purée est également source de vitamine B2, de potassium et protéines végétales.\nProduit issu de l'agriculture biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/3/3390390006360.1-0000.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-de-sesame-tahin-280g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:37",
+                "format": "280G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 130
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 8.4
+                    },
+                    "fats": {
+                        "fats": 57.2
+                    },
+                    "proteins": {
+                        "proteins": 26.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 0.4,
+                        "of_which_sugars": 0.4,
+                        "dietary_fiber": 11.8
+                    }
+                },
+                "ingredients": "SESAME dépelliculé ou Tahin*\nTraces éventuelles de FRUITS A COQUES, ARACHIDES.\nLes informations en majuscules sont destinées aux personnes intolérantes ou allergiques.\n*Ingrédient issu de l'agriculture biologique.",
+                "on_discount": false,
+                "weight_per_packaging": 280.0,
+                "price_per_packaging": 6.6,
+                "price_per_unit": 23.57,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 6.60 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se déguste nature sur une tartine ou s'utilise en cuisine pour remplacer les matières grasses animales. Une couche superficielles d'huile de sésame, riche en acides gras insaturés, vitamines et minéraux se forme, mélangez avant de consommer !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "puree-noix-de-cajou-300g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "PURÉE CRUE DE NOIX DE CAJOU 300G BIO",
+                "desc": "Purée crue de Noix de Cajou 300g Bio\nOn peut être un inconditionnel de l’amande et aimer le changement ! Retrouvez la délicate saveur de la noix de cajou dans notre purée crue 100 % noix de cajou bio. Une délicieuse recette riche en acides gras insaturés, vitamine B1, magnésium, phosphore et fer, pour un plaisir sain, équilibré… et renouvelé !\nCertifié Agriculture Biologique.",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/0/8/08002352575771_a1c1.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/puree-noix-de-cajou-300g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:37",
+                "format": "300G",
+                "availability": true,
+                "nutrition": {
+                    "minerals": {
+                        "salt": 50
+                    },
+                    "fatty_acids": {
+                        "saturated_fatty_acids": 10.7
+                    },
+                    "fats": {
+                        "fats": 48.9
+                    },
+                    "proteins": {
+                        "proteins": 18.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 20.5,
+                        "of_which_sugars": 6.3,
+                        "dietary_fiber": 3.5
+                    }
+                },
+                "ingredients": "100% Noix de cajou*.\n*Ingrédients issus de l'agriculture biologique.\nTraces éventuelles d’autres fruits à coques, de sésame et d'arachide.\nLes informations en gras sont destinées aux personnes intolérantes ou allergiques.",
+                "allergens": [
+                    "Arachide",
+                    "Fruits à coque",
+                    "Sésame"
+                ],
+                "on_discount": false,
+                "weight_per_packaging": 300.0,
+                "price_per_packaging": 10.99,
+                "price_per_unit": 36.63,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 10.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "Se déguste nature sur une tartine ou s'utilise en cuisine pour remplacer les matières grasses animales. Une couche superficielle d'huile d'amande, riche en acide gras insaturés, vitamines et minéraux se forme, mélanger avant de consommer !",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    },
+    {
+        "ean": "beurre-cacahuetes-500g",
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Purées d'oléagineux"
+            }
+        ],
+        "market": {
+            "name": "Naturalia",
+            "country": "FR",
+            "address": "Paris"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "BEURRE DE CACAHUÈTES 500G BIO",
+                "desc": "Beurre de cacahuètes 500G Bio\nLe beurre de cacahuètes Go Nuts est 100 % naturel. Les arachides sont grillées pour ajouter une belle couleur caramélisée et de la saveur avant d'être transformées en beurre. Le beurre de cacahuètes est un aliment plaisir qui est également valorisé par ses apports nutritionnels.\nLes + produit :\n- 100% cacahuètes\n- Source de protéines végétales et bons lipides\n- Vegan\n- Sans gluten\n- Sans lactose\n- Sans sucres ajoutés\n- Fabriqué en France",
+                "images": [
+                    "https://media.naturalia.fr/media/catalog/product/cache/c97961dbe2ef8ae9072b778469b58f9a/3/5/3565840401204.p1-1500j.jpg"
+                ],
+                "links": {
+                    "links_self": "https://www.naturalia.fr/produit/beurre-cacahuetes-500g"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-16T01:37",
+                "format": "500G",
+                "availability": true,
+                "ingredients": "Cacahuètes biologiques (100%).",
+                "on_discount": false,
+                "weight_per_packaging": 500.0,
+                "price_per_packaging": 7.99,
+                "price_per_unit": 15.98,
+                "offers": [
+                    {
+                        "description": {
+                            "fr": {
+                                "desc": "Prix Spécial 7.99 €"
+                            }
+                        },
+                        "requiredProductQuantity": 1
+                    }
+                ],
+                "mode_d_emploi": "A tartiner ou incorporer dans vos préparations.",
+                "conservation": "A conserver dans un endroit frais et sec."
+            }
+        ],
+        "created_at": "2025-06-16T01:32",
+        "updated_at": "2025-06-16T01:32"
+    }
+]

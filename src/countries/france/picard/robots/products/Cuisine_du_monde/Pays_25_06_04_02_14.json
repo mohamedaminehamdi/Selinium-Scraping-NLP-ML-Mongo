@@ -1,0 +1,135 @@
+[
+    {
+        "ean": "000000000000086267",
+        "brand": {
+            "name": "Picard"
+        },
+        "business_type": "food",
+        "categories": [
+            {
+                "label": "Pays"
+            }
+        ],
+        "origin": {
+            "explicit": "EU"
+        },
+        "market": {
+            "name": "picard",
+            "country": "FR"
+        },
+        "lang_desc": {
+            "fr": {
+                "title": "4 baozis aux légumes",
+                "desc": "Bouchées cuites à la vapeur composées de pâte 60% et d'une garniture aux légumes cuisinés 40%, surgelées",
+                "images": [
+                    "https://www.picard.fr/dw/image/v2/AAHV_PRD/on/demandware.static/-/Sites-catalog-picard/default/dw1efe301d/produits/000000000000017382.jpg?sw=300&sh=175&q=30&frz-v=67"
+                ],
+                "links": {
+                    "links_self": "https://www.picard.fr/produits/4-baozis-legumes-000000000000086267.html"
+                }
+            }
+        },
+        "evolutions": [
+            {
+                "parsing_date": "2025-06-04T02:14",
+                "format": "LA BOÎTE DE 160 G",
+                "availability": true,
+                "nutriscore": "C",
+                "nutrition": {
+                    "energies": {
+                        "kj": 806.0,
+                        "kcal": 191.0
+                    },
+                    "minerals": {
+                        "salt": 1.1
+                    },
+                    "fats": {
+                        "fats": 3.8,
+                        "saturates": 0.8
+                    },
+                    "proteins": {
+                        "proteins": 3.6
+                    },
+                    "carbohydrates": {
+                        "carbohydrates": 35.0,
+                        "of_which_sugars": 6.9,
+                        "dietary_fiber": 2.2
+                    }
+                },
+                "ingredients": "Pâte à brioche 60% [farine de blé (gluten), eau, sucre de canne, huile de son de riz, levure, sel], chou 11,1%, carotte 8,9%, sauce soja [eau, sel, soja, blé (gluten), riz, alcool], oignon 3,3%, pousse de bambou 3%, champignon noir 2,5%, ciboule, champignon shiitaké 2%, amidon de maïs, huile de sésame, huile de son de riz, ail ,vinaigre de riz, sucre de canne, gingembre en poudre, ail en poudre, sel, poivre, piment 0,04%.\n*Convient aux végétariens (régime lacto-ovo-végétarien).",
+                "allergens": [
+                    "Gluten",
+                    "Soja"
+                ],
+                "on_discount": true,
+                "weight_per_packaging": 160.0,
+                "price_per_packaging": 4.2,
+                "preparation": "Au panier vapeur\nCuisson au paniervapeur pendant\n8 min\nSortez les bouchées et déposez-les avec leur papier cuisson dans un panier vapeur (ou un panier en bambou) préalablement huilé. Laissez réchauffer le panier au-dessus d’une casserole d’eau bouillante pendant 8 min environ.\n\nAu micro-ondes\nCuisson au microondes pendant\n2 min\nSortez les bouchées et déposez-les avec leur papier cuisson sur une assiette en les espaçant. Placez un petit verre d'eau froide au centre de l'assiette. Réchauffez à 750 watts pendant 2 min.",
+                "conservation": "24 heures dans un réfrigérateur.\n3 jours dans le compartiment à glace du réfrigérateur.\nAu congélateur à -18°C jusqu'à la date indiquée sur l'emballage.\nNe jamais recongeler un produit décongelé.",
+                "requires_loyalty_card": false
+            }
+        ],
+        "offers": [
+            {
+                "description": {
+                    "fr": {
+                        "desc": "promotions"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n30,00 €/kg\nprix soldé\n1,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n15,42 €/kg\nprix soldé\n5,40 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n21,36 €/kg\nprix soldé\n4,70 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n41,58 €/kg\nprix soldé\n4,99 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n32,00 €/kg\nprix soldé\n4,80 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n31,03 €/kg\nprix soldé\n4,50 €"
+                    }
+                }
+            },
+            {
+                "description": {
+                    "fr": {
+                        "desc": "prix au kilo\n7,98 €/kg\nprix soldé\n3,99 €"
+                    }
+                }
+            }
+        ],
+        "customer_reviews": {
+            "average_rating": 4.39,
+            "total_reviews": 113
+        }
+    }
+]
